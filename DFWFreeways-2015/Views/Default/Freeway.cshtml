@@ -1,0 +1,217 @@
+﻿@{
+
+    ViewBag.Title = "Freeway";
+    @model DFWFreeways.Models.FreewayHome
+}
+
+
+
+@section headerSection{
+
+    @Styles.Render("~/Content/css-freeway")
+
+}
+
+
+
+
+
+<div class="container">
+
+    @*<div class="header">
+        <div><img src="@Url.Content(Model.IconShield)" /> </div>
+        <div class="title">
+            @Model.Title
+            <br />
+            @Model.Subtitle
+        </div>
+
+        <div>
+            <nobr><a href="@Url.Action("index")">Site Home</a></nobr>
+        </div>
+    </div>
+    <div id="last-update">Page last updated or reviewed: <span>@Model.LastUpdated</span></div>*@
+    @Html.Partial("_PageHeader", Model.PageHeader)
+    @*<div class="row">
+
+        <div class="col-xs-12 col-sm-9">
+
+            <div><img src="@Model.IconShield" /></div>
+
+            <div>@Model.Title</div>
+
+        </div>
+
+        <div class="col-xs-12 col-md-3"></div>
+
+    </div>*@
+
+
+
+    @*<div class="row">
+
+        <div class="col-xs-12 col-sm-6">
+
+            <img src="@Model.Map" alt="map" />
+
+        </div>
+
+        <div class="col-xs-12 col-sm-6">
+
+            <img src="@Model." alt="Typical view" />
+
+        </div>
+
+    </div>*@
+
+
+
+    <div class="row">
+
+        <div class="col-xs-12 text">
+
+            @Html.Raw(Model.Text)
+
+        </div>
+
+    </div>
+    <div class="row">
+        @foreach (DFWFreeways.Models.Feature feature in @Model.Features)
+        {
+
+            <div class="col-xs-12 col-sm-6 @((feature.FeatureType.ToLower() == "book") ? "col-md-8" : "col-md-4")">
+                <table id="main">
+                    <tr>
+                        <td class="icon">
+                            <img src="@Url.Content("~/images/icon_" + feature.FeatureType.ToLower() + (feature.FeatureProperties.Count==0 ? "_gray" : "") + ".png")" alt="@feature.FeatureType">
+                            <div>@feature.IconText</div>
+                        <td>
+                            @if (feature.FeatureType.ToLower() == "book")
+                            {
+                                <table id="book">
+                                    @foreach (DFWFreeways.Models.FeatureProperty featureProperty in feature.FeatureProperties)
+                                    {
+                                        <tr>
+                                            <td>@featureProperty.BookText</td>
+                                            <td>
+                                                @* Prevent urlencoding*@
+
+
+
+                                                @*<a href="@Url.Action("book", new  { item = featureProperty.QuickView })">Quickview</a>*@
+                                                @*<a href="@Html.Raw(Url.Action(featureProperty.QuickView.ToString() , "book"))">Quickview</a>*@
+                                                <a href="@HttpUtility.UrlDecode(Url.Action(featureProperty.QuickView.ToString() , "book"))">Quickview</a>
+                                                @if (!String.IsNullOrEmpty(@featureProperty.Pdf))
+                                                {
+                                                    <text>&nbsp;</text><a href="@featureProperty.Pdf">PDF</a>
+                                                }
+                                            </td>
+
+                                        </tr>
+                                    }
+                                </table>
+
+                            }
+
+                            else
+                            {
+                                if (feature.FeatureProperties.Count > 0)
+                                {
+                                    foreach (DFWFreeways.Models.FeatureProperty featureProperty in feature.FeatureProperties)
+                                    {
+                                        if (feature.FeatureType.ToLower() == "aerial")
+                                        {
+                                            <div><a href="@Url.Action("aerial", new RouteValueDictionary { {"id", Model.HighwayRouting} , {"detail",featureProperty.AnchorUrl} })">@featureProperty.AnchorText</a> </div>
+
+                                        }
+                                        else
+                                        {
+                                            <div><a href="@Url.Action("freeway", new { id= Model.HighwayRouting , detail=featureProperty.AnchorUrl})">@featureProperty.AnchorText</a> </div>
+                                        }
+                                    }
+                                }
+                                else
+                                {
+                                    <div>No items for this category</div>
+                                }
+
+                            }
+
+                        </td>
+
+                    </tr>
+                </table>
+            </div>
+
+        }
+    </div>
+    @*<div class="row">
+
+            <div class="col-xs-12 col-sm-6 col-md-4">
+
+                <div><img src="~/images/83x83.png" /></div>
+
+                <table>
+                    <tbody>
+                        <tr><td>Limit 1 to Limit 2</td></tr>
+                        <tr><td>Limit 2 to Limit 3</td></tr>
+                        <tr><td>Limit 3 to Limit 4</td></tr>
+                    </tbody>
+                </table>
+                another item below
+                <div class="visible-sm">visible-sm</div>
+                <div class="visible-sm-block">visible-sm-block</div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4">
+
+                <div><img src="~/images/83x83.png" /></div>
+
+                <div>
+
+                    <div>Item 1 to Limit 2</div>
+
+                    <div>Item 2 to Limit 3</div>
+
+                    <div>Item 3 to Limit 4</div>
+
+                </div>
+            </div>
+            <div class="clearfix visible-sm-block"></div>
+
+
+            <div class="col-xs-12 col-sm-6 col-md-4">
+
+                <div><img src="~/images/83x83.png" /></div>
+
+
+                <table>
+                    <tbody>
+                        <tr><td>Limit 1 to Limit 2</td></tr>
+                        <tr><td>Limit 2 to Limit 3</td></tr>
+                        <tr><td>Limit 3 to Limit 4</td></tr>
+                    </tbody>
+                </table>
+
+            </div>
+
+        </div>
+
+        <div class="row">
+
+            <div class="col-xs-12 col-sm-6 col-md-4"></div>
+
+            <div class="col-xs-12 col-sm-6 col-md-4"></div>
+
+            <div class="col-xs-12 col-sm-6 col-md-4"></div>
+
+        </div>
+
+        <div class="row">
+
+            <div class="col-xs-12 col-sm-6 col-md-4"></div>
+
+
+
+        </div>*@
+
+</div>

@@ -1,0 +1,76 @@
+﻿{
+    "folderPath": "roadside/",
+    "pageHeader" :
+    {
+        "title": "Roadside Views in North of Dallas",
+        "urlParentText": "I-35E North",
+        "lastUpdated": "April 12, 2015"
+    },
+    "map": "35en_roadside_north_400.gif",
+    "text": "This section of I-35 is being expanded with managed and regular lanes in the 2014-2017 period.",
+    "images":
+        [
+            {
+                "file": "IMG_5870_35e_looking_s_from_luna_950_20070426.jpg",
+                "highResolution": "IMG_5870_35e_looking_s_from_luna_2556_20070426.jpg",
+                "caption": "Looking southbound at Luna Road. North of I-635, I-35E has 6 main lanes and 2 HOV lanes. Frontage roads are continuous.",
+                "imageDate": "25-April-2007",
+                "imageStatus" : { "statusDate": "2015", "status": "Partially obsolete", "note":  "Two managed lanes are being added in the center"}
+            },
+            {
+                "file": "IMG_5860_35e_at_190_interchange_950_20070426.jpg",
+                "highResolution": "IMG_5860_35e_at_190_interchange_2048_20070426.jpg",
+                "caption": "Looking southbound along the frontage road at the Bush Turnpike Interchange.",
+                "imageDate": "25-April-2007"
+            },
+            {
+                "file": "IMG_5864_35e_sb_feeder_at_190_950_20070426.jpg",
+                "highResolution": "IMG_5864_35e_sb_feeder_at_190_2048_20070426.jpg",
+                "caption": "Looking east from the west side of the  Bush Turnpike Interchange.",
+                "imageDate": "25-April-2007"
+            },
+            {
+                "file": "IMG_5863_35e_at_190_interchange_950_20070426.jpg",
+                "caption": "Ramps at the Bush Turnpike Interchange",
+                "imageDate": "25-April-2007"
+            },
+            {
+                "file": "IMG_5858_35e_looking_sb_feeder_at_190_950_20070426.jpg",
+                "highResolution": "IMG_5858_35e_looking_sb_feeder_at_190_2048_20070426.jpg",
+                "caption": "Looking southbound along the frontage road, with the Bush Turnpike Interchange ahead.",
+                "imageDate": "25-April-2007"
+            },
+            {
+                "file": "IMG_5857_35e_looking_s_at_frankford_950_20070426.jpg",
+                "highResolution": "IMG_5857_35e_looking_s_at_frankford_2838_20070426.jpg",
+                "caption": "Looking southbound at Frankford with a zoomed-in view, showing the Bush Turnpike interchange in the distance.",
+                "imageDate": "25-April-2007",
+                "imageStatus" : { "statusDate": "2015", "status": "Obsolete", "note":  "Freeway is being widened, completion 2017"}
+            },
+            {
+                "file": "IMG_5855_35e_looking_s_at_frankford_wide_950_20070426.jpg",
+                "highResolution": "IMG_5855_35e_looking_s_at_frankford_wide_3072_20070426.jpg",
+                "caption": "A wider-angle view at Frankford",
+                "imageDate": "25-April-2007",
+                "imageStatus" : { "statusDate": "2015", "status": "Obsolete", "note":  "Freeway is being widened, completion 2017"}
+
+            },
+            {
+                "file": "35e_20070804_IMG_8371_at_121.jpg",
+                "highResolution": "35e_20070804_IMG_8371_at_121_hires.jpg",
+                "caption": "Looking northbound at TX 121",
+                "imageDate": "4-Aug-2007",
+                "imageStatus" : { "statusDate": "2015", "status": "Partially obsolete", "note":  "I-35E main lanes are being reconfigured for managed, completion 2017"}
+
+            },
+            {
+                "file": "35e_20070804_IMG_8372_at_121.jpg",
+                "highResolution": "35e_20070804_IMG_8372_at_121_hires.jpg",
+                "caption": "Also at TX 121, a zoomed-in view",
+                "imageDate": "4-Aug-2007",
+                "imageStatus" : { "statusDate": "2015", "status": "Partially obsolete", "note":  "I-35E main lanes are being reconfigured for managed, completion 2017"}
+
+            }
+        ]
+
+}

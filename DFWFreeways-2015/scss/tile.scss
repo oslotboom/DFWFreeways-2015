@@ -1,0 +1,83 @@
+﻿@import "shared.scss";
+@import "mixins.scss";
+
+@include header;
+body {
+    padding: 0 20px 0 30px;
+}
+
+.tile-item { 
+    border:1px solid #f00;
+    font-size: 13px;
+    display: table;
+
+    overflow:scroll;
+    float: left;
+    vertical-align: bottom;
+    margin: 3px 5px;
+    div:nth-child(1) {
+        display: table-row; 
+        height: 100% !important;
+        table {
+            width: 100%;
+            height: 100%;
+        }
+         td {
+            height: 100%;
+            width: 100%;
+            background-size:contain;
+            background-repeat: no-repeat;
+            background-position-y: bottom;
+            &:hover { cursor: pointer;}
+        }
+    }
+    div:nth-child(2) {
+        display: table-cell; 
+        width: 1px;
+    }
+    img {
+        max-height: 100%;
+        max-width: 100%;
+        display: table-cell;
+        }
+    &-small {
+        height: 130px;
+        width: 130px;
+    }
+    &-medium {
+        height: 180px;
+        width: 180px;
+    }
+    &-large {
+        height: 230px;
+        width: 230px;
+    }    
+    &-extralarge {
+        height: 280px;
+        width: 280px;
+    }
+}
+
+.button-list {
+    margin: 8px 0;
+    span { margin:0 8px;}
+    span:first-child {font-weight: bold; font-size: 16px;}
+}
+
+
+.tile-expanded {
+    /*max-width: 90%;*/
+    clear: both;
+    /*margin: 0 auto;*/
+    img {
+        max-height:100%;
+        max-width: 100%;
+    }
+}
+
+.expanded img:hover {cursor: pointer;}
+
+.long-caption { padding-bottom: 14px; 
+                div:nth-child(2) span {color: red;}
+                a {padding: 0 6px;}
+}

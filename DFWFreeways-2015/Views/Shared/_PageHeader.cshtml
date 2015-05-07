@@ -1,0 +1,21 @@
+﻿@model DFWFreeways.Models.PageHeader
+
+<div class="header">
+    <div><img src="@Url.Content(Model.Shield)" /> </div>
+    <div @(!String.IsNullOrEmpty(Model.Subtitle) ? "class=title" : "")>
+        @Model.Title
+        @if (!String.IsNullOrEmpty(Model.Subtitle)) {
+        <br />
+        @Model.Subtitle
+        }
+
+    </div>
+    <div>
+        @if (!String.IsNullOrEmpty(Model.UrlParent)) { 
+        <a href="@Url.Action("Freeway", new { id = @Model.UrlParent, detail="" })"><nobr>@Model.UrlParentText Home</nobr></a><br />
+        }
+
+        <nobr><a href="@Url.Action("index")">Site Home</a></nobr>
+    </div>
+</div>
+<div id="last-update">Page last updated or reviewed: <span>@Model.LastUpdated</span></div>

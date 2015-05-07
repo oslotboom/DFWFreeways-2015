@@ -1,0 +1,168 @@
+﻿
+@import "shared.scss";
+
+
+
+//elements
+$header-title-width: 520px;
+
+//colors
+$light-gray: #eee;
+
+body { padding-top: 0; margin-top: 0; margin-left: 0; }
+
+.clearfix:after { content: "."; visibility: hidden; display: block; height: 0; clear: both; }
+
+#content { margin: 0 auto 0 auto; }
+#header-title { margin: 10px 0; float: left; width: $header-title-width;
+    span { font-weight: bold; font-family: 'Segoe UI Semibold','Segoe UI', sans-serif; }
+}
+#header-container { margin: 10px 0; float: left; font-variant: small-caps; color: rgb(18,18,128); font-weight: bold; font-size: 18px;
+    a div { float: left; text-align: center; margin-right: 12px;  height: 124px; width: 180px;}
+    /*a { text-decoration: none; border: none; }
+    a:hover {text-decoration: underline; color: red;}*/
+}
+.header-old-highway-maps  { background: { image: url("../images/old-road-maps-background.jpg"); repeat: no-repeat; position: 0 24px;}}
+.header-aerial { background: { image: url("../images/gallery-icon-180x100.jpg"); repeat: no-repeat; position: 0 24px;}}
+
+#right-pane { display: table;
+    font: {
+    family: Verdana,sans-serif;
+    size: 80%;
+    }
+    > div { float: left; }
+}
+
+#map { clear: left; position: relative;
+    &-inset  { position: absolute; top: 10px; left: 10px; 
+        a { text-decoration: none; display: block; float: left; margin: 0 5px; }
+        > div { float: left; }
+    }        
+}
+.map-inset { width: 100px; height: 100px; font-weight: bold; font-size: 13px; color: #FF0; text-align: center; display: table-cell; vertical-align: bottom; 
+             div { margin-bottom: 6px;}
+}
+#high-five { background-image: url("../images/high-five-thumbnail-100x100.png"); }
+#margaret-hunt-hill { background-image: url("../images/margaret-hunt-hill-thumbnail-100x100.png"); }  
+#downtown-dallas { background-image: url("../images/downtown-dallas-thumbnail-100x100.png"); } 
+#legend { border: 2px solid red; background-color: rgb(255,255,0); width: 220px; padding: 2px 4px 4px 4px; font-size: .75em;}
+
+#book-area { width: 696px;   //Override in media rule
+             background-color: rgb(242, 246, 254); margin: 10px 0; 
+    .heading {  font-size: 1.7em; color: rgb(18,18,128); font-variant: small-caps; width: 100%; text-align: center; font-weight: bold; letter-spacing:1px; }
+    .sub-heading { width: 100%; text-align: center; color:dodgerblue; font: {style: italic; weight: bold; size: 1.2em; }}
+    > table {
+        > tbody > tr > td:first-child { padding: 0 12px 0 0;}
+        > tbody > tr > td:nth-child(2) { padding: 0 12px 0 0;}
+    }
+    td { vertical-align: top;  }
+
+}
+
+#book-download, #complete-book-download {
+    background-color: #FFF; border:1px solid rgb(18,18,128);
+    > tbody > tr:nth-child(2n+1) > td { padding: 6px 2px 3px 6px; border-top:1px solid rgb(18,18,128); border-right:1px solid rgb(18,18,128);border-left:1px solid rgb(18,18,128); }
+    > tbody > tr:nth-child(2n+2) > td { padding: 3px 2px 6px 6px; border-bottom:1px solid rgb(18,18,128);  border-right:1px solid rgb(18,18,128);border-left:1px solid rgb(18,18,128);}
+}
+#chapter-name, #complete-book {
+    td:first-child{font-weight: bold; font-size: 1.6em; padding: 0 6px 0 0;}
+    td:nth-child(2) {font-weight: bold; font-size: 14px; padding: 0 6px 0 0; color: rgb(18,18,128); vertical-align: middle;}
+}
+
+#book-excerpt { background-color: #FFF; }
+.excerpt-group {padding: 6px 2px 4px 6px; border-bottom:2px solid rgb(18,18,128); 
+                font: { weight: bold; size: 15px;}
+}
+.excerpt-description { font-weight: bold; padding: 2px 6px 0 6px;  border-right:2px solid rgb(18,18,128);border-left:2px solid rgb(18,18,128); }
+.excerpt-download { padding: 0 2px 4px 6px; border-bottom:2px solid rgb(18,18,128);  border-right:2px solid rgb(18,18,128);border-left:2px solid rgb(18,18,128);}
+
+
+.download-info { font-size: 13px; width: 100%;}
+
+
+.book-info  { margin-bottom: 10px;
+    > div { clear: right; }
+}
+
+.book-list { width: 255px; }
+.book-back { display: none; }
+.book-front, .book-back { float: left; }
+.book-front { margin-right: 12px; }
+
+.list-heading { font-weight: bold; font-size: 1.2em; width: 100%; text-align: center; padding: 6px 0; }
+
+.link-group { > div:first-child{ padding: 10px 0 4px 0; font: {weight: bold; size: 15px;}}
+    div { padding: 2px 0;} 
+    a {font-weight: bold;}
+}
+
+/* MEDIA STYLES */
+@media (max-width: $small - 1) {
+    #content { width: 710px; }
+    #header-container { width: 180px; 
+        a:first-child div { margin-top: 30px; }
+        a div { margin-top: 15px; height: auto; }
+    }
+    .header-old-highway-maps, .header-aerial { background:none; }
+    #right-pane { width: 700px; background-color: #fee0e0; 
+        > div:first-child { width: 250px; }
+        > div { width: 220px; } 
+    }
+    .book-info-narrow { div:first-child { width: auto !important;
+        &:after { content: none; }
+    } 
+        div:nth-child(2) { clear: left; margin-left: 20px; width: 150px; }
+    }
+}
+@media (min-width: $small) and (max-width: $medium - 1) {
+    #content { width: 980px; }
+    #header-container { width: 420px; }
+    #right-pane { float: right; width: 270px; position: relative; top: -500px;
+        p { padding: 20px 0px; }
+        > div { width: 230px; }
+    }
+}
+@media (max-width: $medium - 1) {
+    #book-info-container { width: 180px; }
+    .book-info div.one-line {
+        div:first-child { width: 96px; overflow: hidden; white-space: nowrap; 
+            &:after { content: "  .................................................................................." }
+        }
+        div { float: left; }
+        div:nth-child(2) { overflow: hidden;}
+    }
+    .line-break-narrow div:nth-child(2) {clear: left; margin-left: 20px; width: 150px;}
+    #book-download, #book-excerpt, #complete-book-download { width: 246px; }
+}
+
+
+@media (min-width: $medium) {
+    #header-container  { width: 720px; }
+    #book-area { width: 1280px; position: relative; top: -500px; display: table; }
+
+    #book-info-container { width: 400px; }
+    .book-info div {
+        div:first-child { width: 170px; overflow: hidden; white-space: nowrap; 
+            &:after { content: "  .................................................................................." }
+        }
+        div { float: left; }
+        div:nth-child(2) { overflow: hidden;}
+    }
+
+    #book-download, #book-excerpt,#complete-book-download { width: 400px; }
+    .book-back { display: block; }
+    
+    #right-pane { float: right; height: 500px; position: relative; top: -500px;
+        > div { width: 260px; }
+    }
+}
+
+@media (min-width: $medium) and (max-width: $large - 1) {
+    #content { width: 1280px; }
+    #right-pane { width: 560px; }
+}
+
+@media (min-width: $large)  {
+    #content { width: 1550px; }
+    #right-pane { width: 840px; }
+}

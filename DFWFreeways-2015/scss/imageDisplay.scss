@@ -1,0 +1,71 @@
+﻿$small-thumbnail: 150px;
+$medium-thumbnail: 250px;
+
+@import "mixins.scss";
+@import "button.scss";
+
+@include anchor;
+
+@include basic-settings;
+
+@include header;
+
+body { padding-top: 0; margin-top: 0; margin-left: 0; }
+
+#page-container { width: 90%; margin: 0 auto; padding-bottom: 30px;}
+
+
+
+#last-update { padding: 0 0 8px 0; font-style: italic;
+    span {font-weight: bold; font-style: normal; }
+}
+
+#text { padding-bottom: 8px;}
+
+.caption-block {
+    max-width: 1000px;
+    span { color: red;}
+    display: none;
+}
+
+#image-container .image {
+    img {max-width: 100%;}
+    display: inline-block;
+    &:hover { cursor: pointer;}
+}
+
+.small-thumbnail {
+    .image { display: inline-block; width: $small-thumbnail; max-height: $small-thumbnail; }
+    /*img {max-width: 100%;}
+    .caption-block { display: none;}*/
+}
+
+
+.medium-thumbnail {
+    .image { display: inline-block; width: $medium-thumbnail; max-height: $medium-thumbnail; }
+    /*img {max-width: 100%;}
+    .caption-block { display: none;}*/
+}
+
+//This is for showing all images at full size
+.full {
+    .image { width: auto; max-height: none; display: block !important; padding-bottom: 20px; }
+    .caption-block { display: block !important;}
+
+}
+
+//This is for showing an individual image while the rest remain in thumbnail mode
+.expanded {
+    /*.image { display: block; max-height: none; width: 100%; }*/
+       display: block !important;
+    max-height: none !important;
+    /*clear: both;*/
+     width: 100% !important; 
+    .caption-block { display: block !important;}
+    padding: 15px 0; 
+}
+
+.button-list { padding: 10px 0 18px 0;
+               div { padding-top: 4px;}
+               span { display: inline-block; padding: 0 12px 0 0;}
+}

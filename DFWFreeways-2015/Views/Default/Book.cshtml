@@ -1,0 +1,101 @@
+﻿
+@{
+    ViewBag.Title = "Book";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    @model DFWFreeways.Models.QuickViewPage
+}
+
+@*@{
+    //imageString is a comma-separated list of all the images to be displayed. This string is used by the client script
+    string imageString = "";
+    foreach (DFWFreeways.Models.QuickViewItem quickViewPage in Model.Pages)
+    {
+        imageString += "'" + Url.Content("~/" + Model.ImagePath + quickViewPage.FilePath) + "',";
+    }
+    imageString = imageString.Substring(0, imageString.Length - 1);
+
+}*@
+
+@section headerSection{
+
+    @Styles.Render("~/Content/css-book")
+    @Scripts.Render("~/bundles/jquery")
+
+}
+
+<script type="text/javascript" language="javascript">
+    var imgAddresses = [@Html.Raw(Model.ImageString)];
+
+    $(document).ready(function () {
+        $("#btn-single-facing").click(function () {
+            if ($("#btn-single-facing").text() == "View as Single Pages") {
+                $("#btn-single-facing").text("View as Facing Pages");
+                $(".odd").addClass("singleColumn");
+            }
+            else {
+                $("#btn-single-facing").text("View as Single Pages");
+                $(".odd").removeClass("singleColumn");
+            }
+        });
+        LoadImage(0);
+    });
+
+    function LoadImage(counter) {
+        //Break out if no more images
+        if (counter == imgAddresses.length) { return; }
+
+        //Grab an image obj
+        var I = document.getElementById("img" + counter);
+
+        //Monitor load or error events, moving on to next image in either case
+        I.onload = I.onerror = function () { LoadImage(counter + 1); }
+
+        //Change source (then wait for event)
+        I.src = imgAddresses[counter];
+    }
+
+</script>
+
+<div id="header" >
+
+    <div id="header-left">
+        @*<div class="gradientbuttons"><div>View as Single Pages</div></div>*@
+        <div id="btn-single-facing" class="btn btn-default">
+            View as Single Pages
+        </div>
+        <div >
+            <a class="home" href="@Url.Action("index")">Home</a>
+        </div>
+    </div>
+
+    <div id="header-right">
+        <div class="title">@Model.Title</div>
+        @if (!String.IsNullOrEmpty(Model.PdfFile))
+        {
+            <div class="text">For better quality view the <a target="_blank" href="@(Model.PdfPath + Model.PdfFile)">PDF, @Model.PdfSize</a></div>
+        }
+    </div>
+</div>
+
+<div class="imageContainer">
+
+    @if (Model.Pages.Count == 0)
+    {
+        <div style="font-size: 2em; font-family: Sans-Serif; padding: 150px 0 0 100px;">
+            <div style="padding-bottom: 12px;">Sorry, the images for the quick view are not available.</div>
+            <div>Try the <a target="_blank" href="@(Model.PdfPath + Model.PdfFile)">PDF, @Model.PdfSize</a></div>
+        </div>
+    }
+    else
+    {
+        int i = 0;
+        foreach (DFWFreeways.Models.QuickViewItem quickViewPage in Model.Pages)
+        {
+            <div class="@(quickViewPage.odd ? "odd" : "even")"><img id="@("img"+ i++.ToString())" src="" /> </div>
+        }
+    }
+
+
+
+</div>
+

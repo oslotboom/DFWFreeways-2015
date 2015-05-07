@@ -1,0 +1,40 @@
+﻿@import "button.scss";
+@import "mixins.scss";
+@include anchor;
+body {
+    background-color: #D4DADE;
+    padding-top: 0;
+    margin-top: 0;
+    margin-left: 0;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+#header {
+    padding: 20px 30px;
+    background-color: rgb(32,60,105);
+    > div { display: table-cell;}
+
+
+}
+#header-left {
+    div:first-child { font-weight: bold;}
+    div:last-child { width: 100%; text-align: center; padding-top: 6px; 
+        a { font-weight: bold; font-size: 1.2em; color: #FFF !important; }
+    }
+}
+
+#header-right {
+    color: #FFF;
+    padding-left: 20px;
+    vertical-align: middle;
+    a { color: #FFF; }
+}
+
+.title { font-size: 1.5em;}
+
+.imageContainer { 
+    img { margin: 16px 0 4px 20px; } }
+
+.even { float: left; clear: left; }
+.odd { float: left; }
+.singleColumn { clear: left; }

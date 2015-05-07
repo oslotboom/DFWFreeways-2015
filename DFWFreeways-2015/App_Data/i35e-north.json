@@ -1,0 +1,64 @@
+﻿{
+
+    "pageHeader" :
+    {
+        "title": "Interstate 35E North",
+        "subTitle": "Stemmons Freeway",
+        "lastUpdated": "April 12, 2015"
+    },
+    "Map": "i35e-north.png",
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "A $1.4 billion expansion of Stemmons Freeway between Interstate 635 and Denton is in progress from 2014 to 2017. Other expansions in the corridor are planned but not scheduled as of 2015.",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties": [ { "AnchorText": "Dallas", "AnchorUrl": "roadside-dallas" }, { "AnchorText": "North of I-635", "AnchorUrl": "roadside-north" } ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "Stemmons Freeway", "Quickview": "ExStemmonsFreeway?startOdd=True", "Pdf": "" },
+                { "BookText": "Chapter 6: Dallas Freeways", "Quickview": "ChDallasFreeways?startOdd=False&pdfSize=40+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-06-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-06-20140803.pdf" },
+                { "BookText": "Chapter 5: Stemmons Freeway and the John F. Kennedy Assassination", "Quickview": "ChStemmonsJFK?startOdd=True&pdfSize=6+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-05-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-05-20140803.pdf" },
+                { "BookText": "JFK Assassination: freeway views", "Quickview": "ExStemmonsJFKFreeway?startOdd=False", "Pdf": "" },
+                { "BookText": "JFK Assassination: freeway signs in Dealey Plaza", "Quickview": "ExStemmonsJFKSigns?startOdd=True", "Pdf": "" },
+                { "BookText": "JFK Assassination: Zapruder film", "Quickview": "ExStemmonsJFKZapruder?startOdd=False", "Pdf": "" }
+
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties":
+            [
+                { "AnchorText": "Lake Lewisville bridge, November 2014", "AnchorUrl": "construction-2014-nov" },
+                { "AnchorText": "Belt Line, January 2014", "AnchorUrl": "construction-2015-jan" }
+            ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "All I-35E aerials", "AnchorUrl": "all" },
+                { "AnchorText": "Dallas Market Center", "AnchorUrl": "market-center" },
+                { "AnchorText": "American Airlines Center", "AnchorUrl": "american-airlines-center" },
+                { "AnchorText": "Interstate 635 Interchange", "AnchorUrl": "i35e-i635" },
+                { "AnchorText": "Bush Turnpike Interchange", "AnchorUrl": "i35e-bush" },
+                { "AnchorText": "Sam Rayburn Turnpike Interchange", "AnchorUrl": "i35e-121" }
+            ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties": [ { "AnchorText": "Images", "AnchorUrl": "historical" } ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [ ]
+        }
+    ]
+}
