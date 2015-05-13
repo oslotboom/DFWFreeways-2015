@@ -56,4 +56,9 @@
   background-color: #ffffff;
   border-color: #cccccc; }
 
+.btn-selected {
+  border: 1.5px solid black;
+  font-weight: bold;
+  color: black; }
+
 /*# sourceMappingURL=button.css.map */

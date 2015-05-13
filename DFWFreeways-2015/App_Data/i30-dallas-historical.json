@@ -1,0 +1,26 @@
+﻿{
+    "folderPath": "",
+    "pageHeader" :
+    {
+        "title": "Historical Images",
+        "urlParentText": "I-30 Dallas",
+        "lastUpdated": "June 1, 2015 (review only)"
+    },
+    "map": "",
+    "text": "",
+    "images":
+    [
+        {
+            "file": "IMG_2772_196107_i30_opening_950.jpg",
+            "highResolution": "IMG_2772_196107_i30_opening.jpg",
+
+            "caption": "The four-lane divided highway from US 80 in east Dallas to Rockwall was dedicated in a large ceremony on July 26, 1951. This article is from the August 1951 issue of Dallas magazine."
+        },
+        {
+            "file": "IMG_2774_196108_i30_aerial.jpg",
+            "caption": "This advertisement in the August 1951 issue of Dallas magazine features an aerial view on the newly completed highway."
+        }
+
+    ]
+
+}

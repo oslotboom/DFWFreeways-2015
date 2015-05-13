@@ -1,0 +1,61 @@
+﻿{
+    "folderPath": "",
+    "pageHeader" :
+    {
+        "title": "I-35E Horseshoe Project, 2014 and 2015",
+        "urlParentText": "I-35E South",
+        "lastUpdated": "May 12, 2015"
+    },
+"map": "",
+"text": "The I-35E Trinity River bridges are being replaced during the Horseshoe Project from 2014 to 2017.",
+"images":
+[
+    {
+        "file": "20140720_0060-1050.jpg",
+        "caption": "Piers for the new northbound bridges.",
+        "imageDate": "20-July-2014"
+    },
+    {
+        "file": "20140720_0061-1050.jpg",
+        "caption": "The existing northbound bridge is on the left, new bridges on the right.",
+        "imageDate": "20-July-2014"
+    },
+    {
+        "file": "20140720_0064-1050.jpg",
+        "caption": "New northbound bridges.",
+        "imageDate": "20-July-2014"
+    },
+    {
+        "file": "20140720_0072-1050.jpg",
+        "caption": "Beam segments were positioned with open gaps.",
+        "imageDate": "20-July-2014"
+    },
+    {
+        "file": "20140720_0097-1050.jpg",
+        "caption": "Here is a short beam section positioned next to a longer section with an open gap.",
+        "imageDate": "20-July-2014"
+    },
+    {
+        "file": "20140720_0095-1050.jpg",
+        "caption": "The open gaps where then filled in.",
+        "imageDate": "20-July-2014"
+    },	
+    {
+        "file": "20140720_0091-1050.jpg",
+        "caption": "Another filled-in gap.",
+        "imageDate": "20-July-2014"
+    },		
+    {
+        "file": "20140720_0117-1050.jpg",
+        "caption": "Piers for the new southbound bridge.",
+        "imageDate": "20-July-2014"
+    },
+	{
+        "file": "20150328-0044-1050.jpg",
+        "caption": "Looking northbound on the existing bridge, with piers for new bridges on both sides.",
+        "imageDate": "28-March-2015"
+    }	
+		
+		]
+
+}

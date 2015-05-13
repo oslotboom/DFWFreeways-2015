@@ -1,0 +1,55 @@
+﻿{
+
+    "pageHeader" :
+    {
+        "title": "Interstate 20 in Dallas",
+        "lastUpdated": "May 10, 2015"
+    },
+
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties": [ { "AnchorText": "South Dallas west to Arlington", "AnchorUrl": "roadside-dallas" }, { "AnchorText": "East of Dallas, to Terrell", "AnchorUrl": "roadside-terrell" } ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "Chapter 6: Dallas Freeways", "Quickview": "ChDallasFreeways?startOdd=False&pdfSize=40+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-06-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-06-20140803.pdf" }
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties":
+            [ ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "All I-20 aerials", "AnchorUrl": "all" },
+                { "AnchorText": "Spur 408 Interchange", "AnchorUrl": "i20-spur408" },
+                { "AnchorText": "US 67 Interchange", "AnchorUrl": "i20-us67" },
+                { "AnchorText": "I-35E Interchange", "AnchorUrl": "i20-i35e" },
+                { "AnchorText": "I-45 Interchange", "AnchorUrl": "i20-i45" },
+                { "AnchorText": "US 175 Interchange", "AnchorUrl": "i20-us175" },
+                { "AnchorText": "I-635 Interchange", "AnchorUrl": "i20-i635" }
+            ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [ ]
+        }
+    ]
+}

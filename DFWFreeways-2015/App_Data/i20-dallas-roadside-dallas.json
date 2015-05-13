@@ -1,0 +1,131 @@
+﻿{
+    "folderPath": "roadside/",
+    "pageHeader" :
+    {
+        "title": "Roadside Views between I-45 and SH 360",
+        "urlParentText": "I-20 Dallas",
+        "lastUpdated": "May 12, 2015"
+    },
+    "map": "20_map_roadside_east_central_750.gif",
+    "text": "",
+    "images":
+        [
+
+                            {
+                                "file": "20_20070415_shield_IMG_5249.jpg",
+                                "caption": "",
+                                "imageDate": "1-April-2007"
+                            },
+                            {
+                                "file": "IMG_4761_20_at_45_wide_950_20070401.jpg",
+                                "highResolution": "IMG_4761_20_at_45_wide_2592_20070401.jpg",
+                                "caption": "Looking east at Interstate 45",
+                                "imageDate": "1-April-2007"
+                            },
+                            {
+                                "file": "IMG_4760_20_45_bluebonnet_embankment_950_20070401.jpg",
+                                "highResolution": "IMG_4760_20_45_bluebonnet_embankment_2592_20070401.jpg",
+                                "caption": "Looking east at Interstate 45, showing an embankment covered with bluebonnets. 2007 was an outstanding year \r\n\t\t\t\t\tfor bluebonnets along Interstate 20.",
+                                "imageDate": "1-April-2007"
+                            },
+                            {
+                                "file": "IMG_4764_20_at_bonnie_view_950_20070401.jpg",
+                                "highResolution": "IMG_4764_20_at_bonnie_view_2048_20070401.jpg",
+                                "caption": "Looking east at Bonnie View",
+                                "imageDate": "1-April-2007"
+                            },
+                            {
+                                "file": "IMG_4766_20_at_342_lancaster_950_20070401.jpg",
+                                "highResolution": "IMG_4766_20_at_342_lancaster_2412_20070401.jpg",
+                                "caption": "Looking east at Lancaster Road, route 342.",
+                                "imageDate": "1-April-2007"
+                            },
+                            {
+                                "file": "IMG_4770_20_at_35_950_20070401.jpg",
+                                "highResolution": "IMG_4770_20_at_35_2655_20070401.jpg",
+                                "caption": "Looking east at the Interstate 35E interchange.",
+                                "imageDate": "1-April-2007"
+                            },
+                            {
+                                "file": "IMG_4771_20_at_67_950_20070401.jpg",
+                                "highResolution": "IMG_4771_20_at_67_2853_20070401.jpg",
+                                "caption": "Looking east at the US 67 (Marvin Love Freeway) interchange",
+                                "imageDate": "1-April-2007"
+                            },
+                            {
+                                "file": "IMG_4772_20_at_67_950_20070401.jpg",
+                                "highResolution": "IMG_4772_20_at_67_2412_20070401.jpg",
+                                "caption": "Looking east at the US 67 interchange",
+                                "imageDate": "1-April-2007"
+                            },
+                            {
+                                "file": "IMG_4774_20_at_duncanville_950_20070401.jpg",
+                                "highResolution": "IMG_4774_20_at_duncanville_2048_20070401.jpg",
+                                "caption": "An embankment carpeted with bluebonnets in Duncanville near the Cockrell Hill road overpass.",
+                                "imageDate": "1-April-2007"
+                            },
+                            {
+                                "file": "IMG_4776_20_at_duncanville_950_20070401.jpg",
+                                "highResolution": "IMG_4776_20_at_duncanville_2048_20070401.jpg",
+                                "caption": "At Duncanville",
+                                "imageDate": "1-April-2007"
+                            },
+                            {
+                                "file": "IMG_4777_20_at_cedar_ridge_950_20070401.jpg",
+                                "highResolution": "IMG_4777_20_at_cedar_ridge_2856_20070401.jpg",
+                                "caption": "At Cedar Ridge road",
+                                "imageDate": "1-April-2007"
+                            },
+                            {
+                                "file": "IMG_4778_20_at_cedar_ridge_950_20070401.jpg",
+                                "highResolution": "IMG_4778_20_at_cedar_ridge_3072_20070401.jpg",
+                                "caption": "Looking east along the main lanes at Cedar Ridge",
+                                "imageDate": "1-April-2007"
+                            },
+                            {
+                                "file": "IMG_4783_20_at_cedar_ridge_950_20070401.jpg",
+                                "highResolution": "IMG_4783_20_at_cedar_ridge_2048_20070401.jpg",
+                                "caption": "Bluebonnets along the freeway right-of-way near Cedar Ridge Road",
+                                "imageDate": "1-April-2007"
+                            },
+                            {
+                                "file": "20_20070415_ground_looking_e_at_408_950_IMG_5242.jpg",
+                                "highResolution": "20_20070415_ground_looking_e_at_408_2592_IMG_5242.jpg",
+                                "caption": "Looking east at Spur 408",
+                                "imageDate": "15-April-2007"
+                            },
+                            {
+                                "file": "20_20070415_ground_looking_e_at_408_950_IMG_5246.jpg",
+                                "highResolution": "20_20070415_ground_looking_e_at_408_2730IMG_5246.jpg",
+                                "caption": "Interchange at Spur 408",
+                                "imageDate": "15-April-2007"
+                            },
+                            {
+                                "file": "20_20070415_ground_looking_e_at_mountain_creek_950_IMG_5250.jpg",
+                                "highResolution": "20_20070415_ground_looking_e_at_mountain_creek_2229_IMG_5250.jpg",
+                                "caption": "The main lanes split with a large hill in the median between Spur 408 and Mountain Creek Parkway",
+                                "imageDate": "15-April-2007"
+                            },
+                            {
+                                "file": "20_20070415_ground_looking_e_at_mountain_creek_950_IMG_5251.jpg",
+                                "caption": "The eastbound lanes at the split",
+                                "imageDate": "15-April-2007"
+                            },
+                            {
+                                "file": "20_20070415_ground_at_161_950_IMG_5252.jpg",
+                                "highResolution": "20_20070415_ground_at_161_2592_IMG_5252.jpg",
+                                "caption": "Construction of the SH 161 frontage roads at Interstate 20.",
+                                "imageDate": "15-April-2007",
+                                "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Ramps to connect to the Bush Turnpike have been built." }
+
+                            },
+                            {
+                                "file": "20_20070415_looking_e_from_ny_street_at_360_950_IMG_5265.jpg",
+                                "highResolution": "20_20070415_looking_e_from_ny_street_at_360_2048_IMG_5265.jpg",
+                                "caption": "Looking east at SH 360",
+                                "imageDate": "15-April-2007"
+                            }
+
+        ]
+
+}

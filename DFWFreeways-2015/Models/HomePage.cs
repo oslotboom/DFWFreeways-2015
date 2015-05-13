@@ -154,7 +154,7 @@ namespace DFWFreeways.Models
                 new KeyValuePair<string, List<Link>> ("Dallas", 
                 new List<Link>{
                     new Link("I-20", "LBJ Freeway","i20-dallas"),
-                    new Link("I-30", "R.L. Thornton Freeway East","i30-east"),
+                    new Link("I-30", "R.L. Thornton Freeway East","i30-dallas"),
                     new Link("I-35E North", "Stemmons Freeway","i35e-north"),
                     new Link("I-35E South", "R.L. Thornton Freeway South","i35e-south"),
                     new Link("I-45", "Schepps Freeway","i45"),

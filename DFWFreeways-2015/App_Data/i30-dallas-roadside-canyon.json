@@ -1,0 +1,58 @@
+﻿{
+    "folderPath": "roadside/",
+    "pageHeader" :
+    {
+        "title": "Roadside Views of the Downtown Canyon",
+        "urlParentText": "I-30 Dallas",
+        "lastUpdated": "June 1, 2015"
+    },
+    "map": "30d_downtown.gif",
+    "text": "This downtown section of freeway was opened in November 1965 (collector lanes, Akard to Harwood) and April 28, 1966 (main lanes). Changes have been minimal since the original opening, and the photos below are still accurate as of 2015. There are long-term plans to rebuild and modernize the freeway as part of Project Pegasus, but work is not scheduled as of 2015.",
+    "images":
+        [
+
+            {
+                "file": "30d_IMG_4245_20070310_looking_e_at_i45_950.jpg",
+                "highResolution": "30d_IMG_4245_20070310_looking_e_at_i45_2048.jpg",
+                "caption": "Looking east toward the Interstate 45 interchange.",
+                "imageDate": "10-March-2007"
+            },
+            {
+                "file": "30d_IMG_4253_20070310_looking_e_from_harwood_950.jpg",
+                "highResolution": "30d_IMG_4253_20070310_looking_e_from_harwood_2048.jpg",
+                "caption": "Looking east from the Harwood overpass, with the Central Expressway interchange ahead.",
+                "imageDate": "10-March-2007"
+            },
+            {
+                "file": "30d_IMG_4252_20070310_looking_e_from_harwood_950.jpg",
+                "caption": "Looking east from the Harwood overpass, with the Central Expressway interchange ahead.",
+                "imageDate": "10-March-2007"
+            },
+            {
+                "file": "30d_IMG_4251_20070310_looking_e_from_akard_950.jpg",
+                "highResolution": "30d_IMG_4251_20070310_looking_e_from_akard_2662.jpg",
+                "caption": "Looking east from the Akard overpass.",
+                "imageDate": "10-March-2007"
+            },
+            {
+                "file": "30d_IMG_4249_20070310_looking_e_at_cadiz_950.jpg",
+                "highResolution": "30d_IMG_4249_20070310_looking_e_at_cadiz_2592.jpg",
+                "caption": "Looking east from the Cadiz overpass",
+                "imageDate": "10-March-2007"
+            },
+            {
+                "file": "30d_IMG_4248_20070310_looking_e_at_lamar_950.jpg",
+                "highResolution": "30d_IMG_4248_20070310_looking_e_at_lamar_2048.jpg",
+                "caption": "Looking east from the Lamar overpass",
+                "imageDate": "10-March-2007"
+            },
+            {
+                "file": "30d_20071027_IMG_9440_at_i35_950.jpg",
+                "highResolution": "30d_20071027_IMG_9440_at_i35_2973.jpg",
+                "caption": "Looking west from the Houston Street overpass. I-30 and I-35E multiplex (use the same freeway corridor) for a short distance at this location.\r\n\t\t\t\t\tJust ahead I-30 branches to the left for the Trinity River crossing. In the days of the Dallas-Fort Worth Turnpike, the Trinity bridge was the start\r\n\t\t\t\t\tof the turnpike.\r\n\t\t\t\t\t",
+                "imageDate": "27-October-2007"
+            }
+
+        ]
+
+}

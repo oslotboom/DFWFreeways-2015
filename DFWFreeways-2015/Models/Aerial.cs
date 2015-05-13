@@ -112,13 +112,40 @@ namespace DFWFreeways.Models
             string[] info = new string[4];
             //fields are title, subtitle, return Url test, last updated
             switch (page) {
-                case "i35e_north_all": info = new string[] { "I-35E All Aerials", "", "I-35E North", "June 1, 2015" }; break;
+                case "i35e_north_all": info = new string[] { "I-35E North All Aerials", "", "I-35E North", "June 1, 2015" }; break;
                 case "i35e_north_i35e_i635": info = new string[] { "I-35E at I-635", "", "I-35E North", "June 1, 2015" }; break;
                 case "i35e_north_american_airlines_center": info = new string[] { "American Airlines Center", "", "I-35E North", "June 1, 2015" }; break;
                 case "i35e_north_market_center": info = new string[] { "I-35E at Dallas Market Center", "", "I-35E North", "June 1, 2015" }; break;
                 case "i35e_north_i35e_sh121": info = new string[] { "I-35E at SH 121/Sam Rayburn Turnpike", "", "I-35E North", "June 1, 2015" }; break;
                 case "i35e_north_i35e_bush": info = new string[] { "I-35E at Bush Turnpike", "", "I-35E North", "June 1, 2015" }; break;
                 case "bush_bush_i35e": info = new string[] { "Bush Turnpike at I-35E", "", "Bush Turnpike", "June 1, 2015" }; break;
+                case "i20_dallas_all": info = new string[] { "I-20 All Aerials", "", "I-20 Dallas", "June 1, 2015" }; break;
+                case "i20_dallas_i20_i35e": info = new string[] { "I-20 at I-35E", "", "I-20 Dallas", "June 1, 2015" }; break;
+                case "i20_dallas_i20_us67": info = new string[] { "I-20 at US 67", "", "I-20 Dallas", "June 1, 2015" }; break;
+                case "i20_dallas_i20_i45": info = new string[] { "I-20 at I-45", "", "I-20 Dallas", "June 1, 2015" }; break;
+                case "i20_dallas_i20_us175": info = new string[] { "I-20 at US 175", "", "I-20 Dallas", "June 1, 2015" }; break;
+                case "i20_dallas_i20_spur408": info = new string[] { "I-20 at Spur 408", "", "I-20 Dallas", "June 1, 2015" }; break;
+                case "i20_dallas_i20_i635": info = new string[] { "I-20 at I-635", "", "I-20 Dallas", "June 1, 2015" }; break;
+                case "i30_dallas_downtown": info = new string[] { "I-30 at I-45 and the Downtown Canyon", "", "I-30 Dallas", "June 1, 2015" }; break;
+                case "i30_dallas_us80": info = new string[] { "I-30 at US 80", "", "I-30 Dallas", "June 1, 2015" }; break;
+                case "i30_dallas_i635": info = new string[] { "I-30 at I-635", "", "I-30 Dallas", "June 1, 2015" }; break;
+                case "i30_dallas_east_dallas": info = new string[] { "I-30 in East Dallas", "", "I-30 Dallas", "June 1, 2015" }; break;
+                case "i45_all": info = new string[] { "All I-45 Aerials", "", "I-45", "June 1, 2015" }; break;
+                case "i45_dallas": info = new string[] { "I-45 in Dallas", "", "I-45", "June 1, 2015" }; break;
+                case "i45_i30": info = new string[] { "I-45 at I-30", "", "I-45", "June 1, 2015" }; break;
+                case "i45_i20": info = new string[] { "I-45 at I-20", "", "I-45", "June 1, 2015" }; break;
+                case "i35e_south_all": info = new string[] { "I-35E South All Aerials", "", "I-35E South", "June 1, 2015" }; break;
+                case "i35e_south_i20": info = new string[] { "I-35E at I-20", "", "I-35E South", "June 1, 2015" }; break;
+                case "i35e_south_downtown": info = new string[] { "I-35E at the Trinity River, Downtown", "", "I-35E South", "June 1, 2015" }; break;
+                case "i635_us75": info = new string[] { "I-635 at US 75", "The High Five Interchange", "I-635", "June 1, 2015" }; break;
+                case "i635_bush": info = new string[] { "I-635 at Bush Turnpike", "", "I-635", "June 1, 2015" }; break;
+                case "i635_i35e": info = new string[] { "I-635 at I-35E Stemmons Freeway", "", "I-635", "June 1, 2015" }; break;
+                case "i635_dnt": info = new string[] { "I-635 at the Dallas North Tollway", "Photos obsolete, for historical reference", "I-635", "June 1, 2015" }; break;
+                case "i635_i30": info = new string[] { "I-635 at I-30", "", "I-635", "June 1, 2015" }; break;
+                case "i635_us80": info = new string[] { "I-635 at US 80", "", "I-635", "June 1, 2015" }; break;
+                case "i635_i20": info = new string[] { "I-635 at I-20", "", "I-635", "June 1, 2015" }; break;
+                case "i635_farmers_branch": info = new string[] { "I-635 Farmers Branch", "Photos obsolete, for historical reference", "I-635", "June 1, 2015" }; break;
+                case "i635_garland": info = new string[] { "I-635 in Garland", "", "I-635", "June 1, 2015" }; break;
 
                     }
             return info;

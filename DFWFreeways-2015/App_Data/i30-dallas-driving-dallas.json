@@ -1,0 +1,140 @@
+﻿{
+    "folderPath": "driving/",
+    "pageHeader" :
+    {
+        "title": "Drivers Views, westbound from Rockwall to Dallas",
+        "urlParentText": "I-30 Dallas",
+        "lastUpdated": "June, 2015 (content reviewed)"
+    },
+    "map": "30d_driving.gif",
+    "text": "2015 status: The corridor is the same as shown in these photos except for the addition of the interchange with the Bush Turnpike in 2011, as noted on the affected image. ",
+    "images":
+        [
+
+            {
+                "file": "IMG_4940_dirvers_wb_rockwall_950_20070415.jpg",
+                "caption": "Westbound in Rockwall",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4943_30_dirvers_wb_approaching_hubbard_950_20070415.jpg",
+                "caption": "Lake Ray Hubbard is just ahead",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4954_30_drivers_hubbard_crossing_950_20070415.jpg",
+                "highResolution": "IMG_4954_30_drivers_hubbard_crossing_2048_20070415.jpg",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4955_30_drivers_hubbard_crossing_950_20070415.jpg",
+                "highResolution": "IMG_4955_30_drivers_hubbard_crossing_2048_20070415.jpg",
+                "caption": "I-30 is almost entirely on an earthfill embankment as it crosses Lake Ray Hubbard.",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4956_30_hubbard_crossing_950_20070415.jpg",
+                "caption": "Typical view on the lake crossing",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4957_30_drivers_hubbard_crossing_950_20070415.jpg",
+                "caption": "",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4967_30_drivers_approaching_zion_950_20070415.jpg",
+                "caption": "On the west side of Lake Ray Hubbard",
+                "imageDate": "15-April-2007",
+                "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The interchange to the Bush Turnpike opened in this area in December 2011." }
+
+            },
+            {
+                "file": "IMG_4972_30_drivers_approaching_rose_hill_20070415.jpg",
+                "caption": "The freeway is now four lanes each way.",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4976_30_drivers_at_northwest_dr_950_20070415.jpg",
+                "caption": "Approaching Northwest Drive",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4994_30_approaching_635_950_20070415.jpg",
+                "caption": "Interstate 635 is just ahead",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4984_30_drivers_feeder_at_635_950_20070415.jpg",
+                "caption": "On the frontage road approaching the Interstate 635 interchange. The frontage roads penetrate through the interchange. ",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4995_30_at_635_950_20070415.jpg",
+                "caption": "",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4997_30_drivers_635_950_20070415.jpg",
+                "caption": "At Interstate 635. This interchange opened in 1970 in conjunction with the completion of Interstate 635.",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4998_30_drivers_motley_950_20070415.jpg",
+                "caption": "At Motley Drive",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_5002_30_drivers_at_buckner_950_20070415.jpg",
+                "caption": "At Buckner/Loop 12. US 80 traffic merges in at the right.",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_5008_30_drivers_samuell_20070415.jpg",
+                "caption": "Approaching Samuell Road",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_5009_30_drivers_950_20070415.jpg",
+                "highResolution": "IMG_5009_30_drivers_2048_20070415.jpg",
+                "caption": "Approaching Ferguson Road, which is home of the neighborhood called the \"Ferguson Road Initiative\".",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_5012_30_drivers_950_20070415.jpg",
+                "highResolution": "IMG_5012_30_drivers_2048_20070415.jpg",
+                "caption": "At the Fair Park exit.",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_5013_30_drivers_950_20070415.jpg",
+                "caption": "",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_5016_30_drivers_carroll_950_20070415.jpg",
+                "highResolution": "IMG_5016_30_drivers_carroll_2048_20070415.jpg",
+                "caption": "",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_5018_30_drivers_950_20070415.jpg",
+                "caption": "",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_5019_30_drivers_950_20070415.jpg",
+                "highResolution": "IMG_5019_30_drivers_2048_20070415.jpg",
+                "caption": "",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_5020_30_drivers_950_20070415.jpg",
+                "highResolution": "IMG_5020_30_drivers_2048_20070415.jpg",
+                "caption": "Interstate 45 is just ahead.",
+                "imageDate": "15-April-2007"
+            }
+
+        ]
+
+}

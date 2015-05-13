@@ -90,3 +90,8 @@ fieldset[disabled] .btn-default.active {
   border-color: #cccccc;
 }
 
+.btn-selected {
+    border: 1.5px solid black;
+    font-weight: bold;
+    color: black;
+}

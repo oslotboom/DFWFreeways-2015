@@ -1,0 +1,98 @@
+﻿{
+    "folderPath": "roadside/",
+    "pageHeader" :
+    {
+        "title": "Roadside Views between Rockwall and East Dallas",
+        "urlParentText": "I-30 Dallas",
+        "lastUpdated": "May 12, 2015"
+    },
+    "map": "30e.gif",
+    "text": "June 2015 photo status: There have been no improvements to I-30 since the photos below were taken in 2007, so these photos are still accurate.",
+    "images":
+        [
+            {
+                "file": "IMG_4949_30_hubbard_crossing_950_20070415.jpg",
+                "highResolution": "IMG_4949_30_hubbard_crossing_2048_20070415.jpg",
+                "caption": "Looking west from Horizon Street, with lake Ray Hubbard ahead",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4960_30_at_dalrock_950_20070415.jpg",
+                "highResolution": "IMG_4960_30_at_dalrock_2048_20070415.jpg",
+                "caption": "Looking west from the DalRock road overpass, which is on a peninsula in Lake Ray Hubbard.",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4964_30_at_bass_pro_950_20070415.jpg",
+                "highResolution": "IMG_4964_30_at_bass_pro_2048_20070415.jpg",
+                "caption": "At Bass Pro Road, looking west.",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4970 _30_zion_950_20070415.jpg",
+                "highResolution": "IMG_4970 _30_zion_2048_20070415.jpg",
+                "caption": "Looking west from the Zion Road overpass",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4974_30_rose_hill_950_20070415.jpg",
+                "highResolution": "IMG_4974_30_rose_hill_2048_20070415.jpg",
+                "caption": "Looking west at Rose Hill road",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4978_30_at_northwest_drive_950_20070415.jpg",
+                "highResolution": "IMG_4978_30_at_northwest_drive_2048_20070415.jpg",
+                "caption": "Looking west at Northwest Drive",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4991_30_at_635_950_20070415.jpg",
+                "highResolution": "IMG_4991_635_at_30_3072_20070415.jpg",
+                "caption": "The interchange at Interstate 635 (LBJ Freeway)",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_4985_30_at_gus_thomasson_950_20070415.jpg",
+                "caption": "Looking west at Gus Thomasson (west of Interstate 635)",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_5000_30_at_big_town_950_20070415.jpg",
+                "caption": "Looking west at Big Town",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "30e_IMG_3869_20070225_looking_e_at_buckner_950.jpg",
+                "highResolution": "30e_IMG_3869_20070225_looking_e_at_buckner_2739.jpg",
+                "caption": "Looking east at Buckner Blvd (Loop 12), with the split with US 80 just ahead.",
+                "imageDate": "25-Feb-2007"
+            },
+            {
+                "file": "IMG_5003_30_st_francis_950_20070415.jpg",
+                "highResolution": "IMG_5003_30_st_francis_3072_20070415.jpg",
+                "caption": "Looking west at St. Francis",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_5004_30_at_st_francis_950_20070415.jpg",
+                "highResolution": "IMG_5004_30_at_st_francis_3072_20070415.jpg",
+                "caption": "Looking west at St. Francis",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "30e_IMG_3876_20070225_looking_e_at_jim_miller_950.jpg",
+                "highResolution": "30e_IMG_3876_20070225_looking_e_at_jim_miller_2048.jpg",
+                "caption": "Looking east from the Jim Miller Road overpass.",
+                "imageDate": "25-Feb-2007"
+            },
+            {
+                "file": "30e_IMG_3878_20070225_looking_w_at_dolphin_950.jpg",
+                "highResolution": "30e_IMG_3878_20070225_looking_w_at_dolphin_2048.jpg",
+                "caption": "Looking east at Dolphin Road",
+                "imageDate": "25-Feb-2007"
+            }
+
+        ]
+
+}

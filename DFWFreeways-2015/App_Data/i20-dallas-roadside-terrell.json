@@ -1,0 +1,52 @@
+﻿{
+    "folderPath": "roadside/",
+    "pageHeader" :
+    {
+        "title": "Roadside Views between Southeast Dallas and Terrell",
+        "urlParentText": "I-20 Dallas",
+        "lastUpdated": "May 12, 2015"
+    },
+    "map": "20_map_roadside_east_600.gif",
+    "text": "This was the last section of Interstate highway to be built in North Texas, opening in January 1989.",
+    "images":
+        [
+
+            {
+                "file": "IMG_5068_20_at_belt_line_bluebonnets_950_20070415.jpg",
+                "highResolution": "IMG_5068_20_at_belt_line_bluebonnets_2048_20070415.jpg",
+                "caption": "Bluebonnets at Belt Line. 2007 was an outstanding year for bluebonnets along I-20.",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_5072_20_at_belt_line_950_20070415.jpg",
+                "caption": "Looking west at Belt Line",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_5073_20_lawson_950_20070415.jpg",
+                "highResolution": "IMG_5073_20_lawson_2048_20070415.jpg",
+                "caption": "Near Lawson Road",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_5074_20_at_fm_740_950_20070415.jpg",
+                "highResolution": "IMG_5074_20_at_fm_740_2592_20070415.jpg",
+                "caption": "Near FM 740",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_5079_20_at_741_950_20070415.jpg",
+                "highResolution" : "IMG_5079_20_at_741_2048_20070415.jpg",
+                "caption": "At FM 741. The main lanes are reduced to 2 each way in this area.",
+                "imageDate": "15-April-2007"
+            },
+            {
+                "file": "IMG_5082_20_2932_950_20070415.jpg",
+                "highResolution": "IMG_5082_20_2932_2048_20070415.jpg",
+                "caption": "At FM 2932",
+                "imageDate": "15-April-2007"
+            }
+
+        ]
+
+}

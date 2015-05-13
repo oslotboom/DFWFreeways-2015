@@ -42,7 +42,7 @@ namespace DFWFreeways.Controllers
             AerialGalleryList aerialGalleryList = 
 
                 new AerialGalleryList(ConfigurationManager.AppSettings["AzureFileStorage"], "aerial",
-                    new PageHeader(info[0], info[1], GetShieldPath("i35e"), id, info[2], info[3])
+                    new PageHeader(info[0], info[1], GetShieldPath(id.Split('-').FirstOrDefault()), id, info[2], info[3])
                 );
             //AerialGalleryList aerialGalleryList = (AerialGalleryList)instance.GetType().GetMethod(id.Replace('-', '_') + "_" + detail.Replace('-', '_')).Invoke(null, new string[] { ConfigurationManager.AppSettings["AzureFileStorage"], "aerial" });
             aerialGalleryList.ItemList = (List<AerialGalleryItem>)aerialGalleryList.GetType().GetMethod(identifier + "_images").Invoke(null, null);
@@ -185,9 +185,8 @@ namespace DFWFreeways.Controllers
 
                 }
             }
-            catch
+            catch (Exception ex)
             {
-
             }
             //ImageString is a list of all the images to be displayed, to be used by the recursive client-side image loader
             quickViewPage.ImageString = imageString.Substring(0, imageString.Length - 1);

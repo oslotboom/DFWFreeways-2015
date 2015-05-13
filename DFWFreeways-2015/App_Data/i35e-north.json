@@ -36,8 +36,9 @@
             "FeatureType": "Construction",
             "FeatureProperties":
             [
+                { "AnchorText": "Elevated Toll Lanes, March 2012", "AnchorUrl": "construction-2012-march" },
                 { "AnchorText": "Lake Lewisville bridge, November 2014", "AnchorUrl": "construction-2014-nov" },
-                { "AnchorText": "Belt Line, January 2014", "AnchorUrl": "construction-2015-jan" }
+                { "AnchorText": "Belt Line, January 2015", "AnchorUrl": "construction-2015-jan" }
             ]
         },
         {

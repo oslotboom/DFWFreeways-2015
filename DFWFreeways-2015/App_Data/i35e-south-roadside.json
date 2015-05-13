@@ -1,0 +1,130 @@
+﻿{
+    "folderPath": "",
+    "pageHeader" :
+    {
+        "title": "Roadside Views between Downtown Dallas and Lancaster",
+        "urlParentText": "I-35E South",
+        "lastUpdated": "June 1, 2015 (reviewed)"
+    },
+    "map": "35es_roadside_450.gif",
+    "text": "2015 status: these photos are still accurate depictions except as noted in the full-size image captions, and the photos with construction in progress.",
+    "images":
+        [
+            {
+                "file": "35e_20070429_IMG_6412_srlthornton_sign.jpg",
+                "caption": "This freeway is the south R.L. Thornton Freeway, named after the former mayor of Dallas.",
+                "imageDate": "29-April-2007"
+            },
+            {
+                "file": "35e_20071027_IMG_9452_trintity_bridge_and_flood_plain_950.jpg",
+                "highResolution": "35e_20071027_IMG_9452_trintity_bridge_and_flood_plain_higres.jpg",
+                "caption": "The Trinity floodway bridge. The northbound main lanes were placed on the original Cadiz Street viaduct which predated the construction of I-35E in 1959. The old-style bridge design is visible in this photo.\r\n\t\t\t\t\t",
+                "imageDate": "27-Oct-2007",
+                "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This bridge was replaced during the Horseshoe Project, 2014-2017" }
+
+            },
+            {
+                "file": "35e_20071027_IMG_9454_trinity_bridge_950.jpg",
+                "caption": "Looking northbound, with the northbound lanes on the right and the southbound lanes on the left.",
+                "imageDate": "27-Oct-2007",
+                "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Both bridges were replaced during the Horseshoe Project, 2014-2017" }
+            },
+            {
+                "file": "35e_20071027_IMG_9457_evidence_of_widening.jpg",
+                "caption": "At Colorado, just south of the Trinity, this view shows that the original bridge has been widened.",
+                "imageDate": "27-Oct-2007",
+                "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This structure was replaced during the Horseshoe Project, 2014-2017" }
+
+            },
+            {
+                "file": "35e_20071027_IMG_9447_at_eighth.jpg",
+                "highResolution": "35e_20071027_IMG_9447_at_eighth_2118.jpg",
+                "caption": " Looking north at 8th Street. From downtown to I-20 the freeway is in its originally-constructed configuration except for the center HOV lane which was built on the original median shoulders.\r\n\t\t\t\t\t",
+                "imageDate": "27-Oct-2007"
+            },
+            {
+                "file": "35e_20071027_IMG_9459_ewing_950.jpg",
+                "highResolution": "35e_20071027_IMG_9459_ewing_2048.jpg",
+                "caption": "Looking north at Ewing",
+                "imageDate": "27-Oct-2007"
+            },
+            {
+                "file": "35e_20070429_IMG_6413_looking_s_at_ewing_with_giraffe_950.jpg",
+                "highResolution": "35e_20070429_IMG_6413_looking_s_at_ewing_with_giraffe_hires.jpg",
+                "caption": "Looking south from Ewing.The giraffe sculpture on the left is part of the Dallas Zoo.",
+                "imageDate": "29-April-2007"
+            },
+            {
+                "file": "35e_20071027_IMG_9465_giraffe_at_marsalis_950.jpg",
+                "highResolution": "35e_20071027_IMG_9465_giraffe_at_marsalis_2742.jpg",
+                "caption": "Looking north at Marsalis, with another view of the giraffe.",
+                "imageDate": "27-Oct-2007"
+            },
+            {
+                "file": "35e_20071027_IMG_9467_louisiana.jpg",
+                "highResolution": "35e_20071027_IMG_9467_louisiana_2688.jpg",
+                "caption": "Looking north at Louisiana",
+                "imageDate": "27-Oct-2007"
+            },
+            {
+                "file": "35e_20070429_IMG_6416_looking_n_at_illinois.jpg",
+                "highResolution": "35e_20070429_IMG_6416_looking_n_at_illinois_2529.jpg",
+                "caption": "Looking north at Illinois",
+                "imageDate": "29-April-2007"
+            },
+            {
+                "file": "35e_20071027_IMG_9496_laureland_950.jpg",
+                "highResolution": "35e_20071027_IMG_9496_laureland_2048.jpg",
+                "caption": "Looking north at Laureland",
+                "imageDate": "27-Oct-2007"
+            },
+            {
+                "file": "35e_20070429_IMG_6424_krinwood_950.jpg",
+                "highResolution": "35e_20070429_IMG_6424_krinwood_1953.jpg",
+                "caption": "Looking north at Kirnwood.",
+                "imageDate": "29-April-2007"
+            },
+            {
+                "file": "35e_20070429_IMG_6429_at_i20_950.jpg",
+                "highResolution":"35e_20070429_IMG_6429_at_i20_2048.jpg",
+                "caption": "The interchange at I-20, which opened in January 1974",
+                "imageDate": "29-April-2007"
+            },
+            {
+                "file": "35e_20070429_IMG_6428_at_20_950.jpg",
+                "highResolution": "35e_20070429_IMG_6428_at_20_2048.jpg",
+                "caption": "Looking north along the I-35E northbound frontage road, which penetrates through the interchange.",
+                "imageDate": "29-April-2007"
+            },
+            {
+                "file": "35e_20070429_IMG_6431_at_i20.jpg",
+                "caption": "",
+                "imageDate": "29-April-2007"
+            },
+            {
+                "file": "35e_20070429_IMG_6432_looking_n_at_i20.jpg",
+                "highResolution": "35e_20070429_IMG_6432_looking_n_at_i20_2595.jpg",
+                "caption": " South of the I-20 interchange, looking north. I-35E has been reconstructed and widened south of I-20. The main lanes from I-20 to Belt Line were completed in November 2004, and construction is in progress south of Belt Line as of 2007.\r\n\t\t\t\t\t",
+                "imageDate": "29-April-2007"
+            },
+            {
+                "file": "35e_20070429_IMG_6434_at_pleasant_run.jpg",
+                "caption": "Looking north at Pleasant Run",
+                "imageDate": "29-April-2007"
+            },
+            {
+                "file": "35e_20070429_IMG_6439_s_of_belt_line_950.jpg",
+                "highResolution": "35e_20070429_IMG_6439_s_of_belt_line_2598.jpg",
+                "caption": "",
+                "imageDate": "29-April-2007"
+            },
+            {
+                "file": "35e_20070429_IMG_6441_at_bear_creek_road_950.jpg",
+                "caption": "Widening and reconstruction in progress at Bear Creek Road.",
+                "imageDate": "29-April-2007"
+            }
+
+
+        ]
+
+}

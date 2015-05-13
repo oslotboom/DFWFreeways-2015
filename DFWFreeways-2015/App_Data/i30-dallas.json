@@ -1,0 +1,56 @@
+﻿{
+
+    "pageHeader":
+    {
+        "title": "Interstate 30 in Dallas",
+        "lastUpdated": "June 1, 2015"
+    },
+
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties": [ { "AnchorText": "Lake Ray Hubbard to Dallas", "AnchorUrl": "roadside-dallas" }, { "AnchorText": "Downtown Canyon", "AnchorUrl": "roadside-canyon" } ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties": [ { "AnchorText": "Rockwall to Dallas", "AnchorUrl": "driving-dallas" } ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "I-30 East, Thornton Freeway", "Quickview": "Ex30EThornton?startOdd=True", "Pdf": "" },
+                { "BookText": "I-30 Landry Highway", "Quickview": "ChTomLandryHighway?startOdd=False&pdfSize=9+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-09-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-09-20140803.pdf" },
+                { "BookText": "Chapter 6: Dallas Freeways", "Quickview": "ChDallasFreeways?startOdd=False&pdfSize=40+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-06-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-06-20140803.pdf" },
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "All I-30 aerials", "AnchorUrl": "all" },
+                { "AnchorText": "Downtown", "AnchorUrl": "downtown" },
+                { "AnchorText": "East Dallas", "AnchorUrl": "east-dallas" },
+                { "AnchorText": "US 80 Split", "AnchorUrl": "us80" },
+                { "AnchorText": "I-635 Interchange", "AnchorUrl": "i635" },
+                { "AnchorText": "Garland", "AnchorUrl": "i30-garland" }
+
+            ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties": [{ "AnchorText": "News Reports", "AnchorUrl": "historical" } ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [ ]
+        }
+    ]
+}

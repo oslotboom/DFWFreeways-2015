@@ -14,21 +14,28 @@
 
     <script>
 
-        function Thumbnail(size) {
+        function Thumbnail(element, size) {
             $("#image-container").removeClass("small-thumbnail medium-thumbnail full");
             $(".image").removeClass("expanded");
+            $(".btn").removeClass("btn-selected");
+            $element = $(element);
+            $element.addClass("btn-selected");
             if (size == "small") {
                 $("#image-container").addClass("small-thumbnail");
                 $("#expand-collapse-instruction").show("fast");
+                AddOnclick();
             }
             else if (size == "medium") {
                 $("#image-container").addClass("medium-thumbnail");
                 $("#expand-collapse-instruction").show("fast");
-
+                AddOnclick();
             }
             else if (size == "full") {
                 $("#image-container").addClass("full");
                 $("#expand-collapse-instruction").hide("fast");
+
+                $(".image img").each(function () { $(this).attr("onclick", null); });
+
 
             }
 
@@ -70,6 +77,15 @@
 
         //}
 
+        function AddOnclick() {
+            $(".image img").each(function () {
+                if ($(this).attr("onclick")==null) {
+                    $(this).attr("onclick", "Resize(this);");
+                }
+            });
+
+        }
+
         function Resize(element) {
             $element = $(element);
             $elementDiv = $element.closest("div");
@@ -104,17 +120,17 @@
     }
     <div class="button-list">
         <span>
-            <div class="btn btn-default" onclick="Thumbnail('small');">
+            <div class="btn btn-default" onclick="Thumbnail(this, 'small');">
                 Small Thumbnails
             </div>
         </span>
         <span>
-            <div class="btn btn-default" onclick="Thumbnail('medium');">
+            <div class="btn btn-default btn-selected" onclick="Thumbnail(this, 'medium');">
                 Large Thumbnails
             </div>
         </span>
         <span>
-            <div class="btn btn-default" onclick="Thumbnail('full');">
+            <div class="btn btn-default" onclick="Thumbnail(this, 'full');">
                 Full Size
             </div>
         </span>

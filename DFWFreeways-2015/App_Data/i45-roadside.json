@@ -1,0 +1,105 @@
+﻿{
+    "folderPath": "",
+    "pageHeader" :
+    {
+        "title": "Roadside Views",
+        "urlParentText": "I-45",
+        "lastUpdated": "June 1, 2015 (review only)"
+    },
+    "map": "45_roadside_500.gif",
+    "text": "2015 status: Changes have been minimal since these photos were taken and these photos are still up-to-date.",
+    "images":
+        [
+
+            {
+                "file": "IMG_5125_45_sign_300_20070415.jpg",
+                "caption": "",
+                "imageDate": "15-Apr-2007"
+            },
+            {
+                "file": "IMG_5126_45_mars_950_20070415.jpg",
+                "highResolution": "IMG_5126_45_mars_2592_20070415.jpg",
+                "caption": "Looking northbound at Mars Road",
+                "imageDate": "15-Apr-2007"
+            },
+            {
+                "file": "IMG_5122_45_pleasant_run_950_20070415.jpg",
+                "highResolution": "IMG_5122_45_pleasant_run_2048_20070415.jpg",
+                "caption": "Looking northbound along the northbound frontage road at Pleasant Run. The frontage roads were not rebuilt during the reconstruction in the late 1990s-early 2000s",
+                "imageDate": "15-Apr-2007"
+            },
+            {
+                "file": "IMG_5116_45_fulghum_950_20070415.jpg",
+                "highResolution": "IMG_5116_45_fulghum_2048_20070415.jpg",
+                "caption": "Looking northbound at Fulghum road",
+                "imageDate": "15-Apr-2007"
+            },
+            {
+                "file": "IMG_5118_45_intermodal_sign_20070415.jpg",
+                "caption": "Along the west side of the freeway at Fulgum road is the Union Pacific Intermodal Terminal. It is more than a mile long.",
+                "imageDate": "15-Apr-2007"
+            },
+            {
+                "file": "IMG_5117_45_intermodal_center_950_20070415.jpg",
+                "caption": "The intermodal terminal handles transfers of containers from trains to trucks. This view looks from an overpass over I-45, with the southbound frontage road in the lower part of the photo.",
+                "imageDate": "15-Apr-2007"
+            },
+            {
+                "file": "IMG_5120_45_fulgum_intermodal_950_20070415.jpg",
+                "highResolution": "IMG_5120_45_fulgum_intermodal_2994_20070415.jpg",
+                "caption": "Another view of the intermodal terminal",
+                "imageDate": "15-Apr-2007"
+            },
+            {
+                "file": "IMG_5112_45_at_wintergreen_950_20070415.jpg",
+                "caption": "Looking northbound at Wintergreen",
+                "imageDate": "15-Apr-2007"
+            },
+            {
+                "file": "IMG_5107_45_dowdy_ferry_950_20070415.jpg",
+                "caption": "I-45 passes through Hutchins just south of I-20. This is at Dowdy Ferry Road.",
+                "imageDate": "15-Apr-2007"
+            },
+            {
+                "file": "IMG_5110 _45_at_20_950_20070415.jpg",
+                "highResolution": "IMG_5110 _45_at_20_3072_20070415.jpg",
+                "caption": "The interchange at I-20. This interchange was opened on October 5, 1973.",
+                "imageDate": "15-Apr-2007"
+            },
+            {
+                "file": "IMG_5108_45_at_20_950_2007415.jpg",
+                "highResolution": "IMG_5108_45_at_20_2048_2007415.jpg",
+                "caption": "Another view of the interchange at I-20",
+                "imageDate": "15-Apr-2007"
+            },
+            {
+                "file": "45_20070408_IMG_4863_looking_n_at_loop12_950.jpg",
+                "highResolution": "45_20070408_IMG_4863_looking_n_at_loop12_2592.jpg",
+                "caption": "Looking north at Loop 12.",
+                "imageDate": "8-Apr-2007"
+            },
+            {
+                "file": "45_20070408_IMG_4866_loop_12_houston_sign.jpg",
+                "caption": "Southbound traffic is Houston-bound. This view shows signage looking west along Loop 12.",
+                "imageDate": "8-Apr-2007"
+            },
+            {
+                "file": "45_20071020_IMG_9399_ped_overpass_950.jpg",
+                "highResolution": "45_20071020_IMG_9399_ped_overpass_2592.jpg",
+                "caption": "Looking northbound from a pedestrian overpass north of Lamar Street. This area was a lightning rod for controversy and community opposition during the planning of the freeway in the early 1970s. The area is low-income and predominantly black.",
+                "imageDate": "20-Oct-2007"
+            },
+            {
+                "file": "45_20070408_IMG_4855_crips_near_pennsylvania.jpg",
+                "caption": "Graffiti on the pedestrian overpass. This area qualifies as a \"hood\".",
+                "imageDate": "8-April-2007"
+            },
+            {
+                "file": "45_20070408_IMG_4854_abandoned_house_near_penn.jpg",
+                "caption": "Abandoned home along the freeway.",
+                "imageDate": "8-April-2007"
+            }
+
+        ]
+
+}

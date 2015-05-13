@@ -1,0 +1,39 @@
+﻿{
+    "folderPath": "2012-March",
+    "pageHeader" :
+    {
+        "title": "Elevated toll lanes between Loop 12 and I-635",
+        "urlParentText": "I-35E North",
+        "lastUpdated": "May 7, 2015 (created)"
+    },
+"map": "",
+"text": "The elevated tolled lanes opened on July 16, 2014.",
+"images":
+[
+    {
+        "file": "20120303_const_2506-1050.jpg",
+        "imageDate": "3-March-2012"
+    },
+    {
+        "file": "20120303_const_2516-1050.jpg",
+        "imageDate": "3-March-2012"
+    },
+    {
+        "file": "20120303_const_2531-1050.jpg",
+        "imageDate": "3-March-2012"
+    },
+    {
+        "file": "20120303_const_2537-1050.jpg",
+        "imageDate": "3-March-2012"
+    },
+    {
+        "file": "20120303_const_2543-1050.jpg",
+        "imageDate": "3-March-2012"
+    },
+    {
+        "file": "20120303_const_2560-700.jpg",
+        "imageDate": "3-March-2012"
+    }
+]
+
+}

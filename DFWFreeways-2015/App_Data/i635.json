@@ -1,0 +1,60 @@
+﻿{
+
+    "pageHeader":
+    {
+        "title": "Interstate 635",
+        "subTitle": "LBJ Freeway",
+        "lastUpdated": "June 1, 2015"
+    },
+
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties": [ { "AnchorText": "Roadside Views", "AnchorUrl": "roadside" } ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "LBJ Freeway", "Quickview": "ExLBJ?startOdd=False", "Pdf": "" },
+                { "BookText": "Chapter 6: Dallas Freeways", "Quickview": "ChDallasFreeways?startOdd=False&pdfSize=40+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-06-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-06-20140803.pdf" },
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "All I-635 aerials", "AnchorUrl": "all" },
+                { "AnchorText": "At US 75, the High Five Interchange", "AnchorUrl": "us75" },
+                { "AnchorText": "At Bush Turnpike", "AnchorUrl": "bush" },
+                { "AnchorText": "At I-35E Stemmons Freeway", "AnchorUrl": "i35e" },
+                { "AnchorText": "Farmers Branch, Original Design", "AnchorUrl": "i20" },
+                { "AnchorText": "At the Dallas North Tollway", "AnchorUrl": "dnt" },
+                { "AnchorText": "Garland", "AnchorUrl": "garland" },
+                { "AnchorText": "At I-30", "AnchorUrl": "i30" },
+                { "AnchorText": "At US 80", "AnchorUrl": "us80" },
+                { "AnchorText": "At I-20", "AnchorUrl": "i20" }
+
+            ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [ ]
+        }
+    ]
+}

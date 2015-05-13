@@ -7,14 +7,10 @@ namespace DFWFreeways.Models
 {
     public partial class AerialGalleryList
     {
-        //public static AerialGalleryList i35e_north_i35e_i635(string fileServer, string folderPath)
-        //{
-        //    AerialGalleryList aerialGalleryList = new AerialGalleryList(fileServer, folderPath);
-        //    aerialGalleryList.PageHeader = new PageHeader("I-35E North at I-635", "", GetShieldPath("i35e"), "i35e-north", "I-35E North", "May 3, 2015 (created)");
-        //    aerialGalleryList.ItemList = AerialGalleryList.i35e_north_i35e_i635_images();
-
-        //    return aerialGalleryList;
-        //}
+        public static List<AerialGalleryItem> i635_i35e_images()
+        {
+            return i35e_north_i35e_i635_images();
+        }
 
         public static List<AerialGalleryItem> i35e_north_i35e_i635_images()
         {
