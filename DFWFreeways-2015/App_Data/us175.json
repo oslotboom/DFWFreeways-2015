@@ -1,0 +1,53 @@
+﻿{
+
+    "pageHeader":
+    {
+        "title": "US 175",
+        "subTitle": "CF Hawn Freeway, SM Wright Freeway",
+        "lastUpdated": "June 1, 2015"
+    },
+
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "The S.M. Wright Freeway will be demolished and replaced with an arterial street in the period 2016-2020. New freeway main lanes will be constructed to eliminate \"Dead Man's Corner\" and connect the freeway to IH 45.",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties": [ { "AnchorText": "Roadside Views", "AnchorUrl": "roadside" } ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties": [ { "AnchorText": "Dallas, S.M. Wright Freeway", "AnchorUrl": "driving-wright" },
+                { "AnchorText": "Southeast Dallas County", "AnchorUrl": "driving-southeast" }
+            ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "US 175", "Quickview": "Ex175?startOdd=True", "Pdf": "" },
+                { "BookText": "Chapter 6: Dallas Freeways", "Quickview": "ChDallasFreeways?startOdd=False&pdfSize=40+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-06-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-06-20140803.pdf" }
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "At I-20", "AnchorUrl": "i20" },
+
+            ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [ ]
+        }
+    ]
+}

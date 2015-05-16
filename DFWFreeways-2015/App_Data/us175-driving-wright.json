@@ -1,0 +1,75 @@
+﻿{
+    "folderPath": "",
+    "title": "US 175 Dallas photos",
+    "pageHeader":
+    {
+        "title": "Driving Views",
+        "subTitle": "S.M. Wright Freeway",
+        "urlParentText": "US 175",
+        "lastUpdated": "June 1, 2015 (create)"
+    },
+    "map": "175_driving_500.gif",
+    "text": "S.M. Wright Freeway will be removed and converted to an arterial street after US 175 is realigned at the SH 310 intersection, often called \"Dead Man's Corner\". This section of freeway should be gone by 2020. See it while you can!",
+    "images":
+    [
+        {
+            "file": "20150214-0016-1050.jpg",
+            "caption": "Northbound on SH 310, approaching US 175.",
+            "imageDate": "14-Feb-2015"
+        },
+        {
+            "file": "20150214-0020-1050.jpg",
+            "caption": "Merging with the SH 175 main lanes.",
+            "imageDate": "14-Feb-2015"
+        },        
+        
+        {
+            "file": "20150214-0021-1050.jpg",
+            "caption": "This is a left merge with a short merging distance. It is just one of several low-quality design features at this intersection, often called \"Dead Man's Corner\".",
+            "imageDate": "14-Feb-2015"
+        },        
+        {
+            "file": "20150214-0022-1050.jpg",
+            "caption": "Approaching the Pine Street exit.",
+            "imageDate": "14-Feb-2015"
+        },        
+        {
+            "file": "20150214-0024-800.jpg",
+            "caption": "The freeway ends at I-45 one mile ahead.",
+            "imageDate": "14-Feb-2015"
+        },        
+        {
+            "file": "20150214-0026-1050.jpg",
+            "highResolution": "20150214-0026-2560.jpg",
+            "caption": "Approaching the Metropolitan Avenue exit.",
+            "imageDate": "14-Feb-2015"
+        },        
+        {
+            "file": "20150214-0027-1050.jpg",
+            "caption": "At the Metropolitan Avenue Exit",
+            "imageDate": "14-Feb-2015"
+        },        
+        {
+            "file": "20150214-0029-1050.jpg",
+            "caption": "",
+            "imageDate": "14-Feb-2015"
+        },        
+        {
+            "file": "20150214-0030-1050.jpg",
+            "highResolution": "20150214-0030-2560.jpg",
+            "caption": "Approaching the Pennsylvania Avenue exit.",
+            "imageDate": "14-Feb-2015"
+        },        
+        {
+            "file": "20150214-0032-1050.jpg",
+            "caption": "At the Pennsylvania Avenue exit.",
+            "imageDate": "14-Feb-2015"
+        },        
+        {
+            "file": "20150214-0034-1050.jpg",
+            "caption": "The end of the freeway at I-45 is just ahead.",
+            "imageDate": "14-Feb-2015"
+        }
+    ]
+
+}

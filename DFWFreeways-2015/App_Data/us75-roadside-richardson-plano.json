@@ -1,0 +1,54 @@
+﻿{
+    "folderPath": "",
+    "title":  "US 75 photos Richardson Plano",
+    "pageHeader":
+    {
+        "title": "Roadside Views",
+        "subTitle": "Richardson and Plano",
+        "urlParentText": "US 75",
+        "lastUpdated": "June 1, 2015 (review only)"
+    },
+    "map": "",
+    "text": "2015 status: The interior shoulder has been converted to a pylon-separated HOV lane on this section of freeway. Otherwise, changes have been minimal since these photos were taken and these photos are still accurate.",
+    "images":
+    [
+        {
+            "file": "75n_20070310_IMG_4349_roadside_midpark_950.jpg",
+            "caption": "Looking northeast at Midpark road. The main Texas Instruments campus is on the right.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_IMG_4347_roadside_collins_950.jpg",
+            "highResolution": "75n_20070310_IMG_4347_roadside_collins_3072.jpg",
+            "caption": "Looking north from the Collins Road overpass. Ahead is the area formerly known as the Telecom Corridor.The high tech bust in 2001-2002 decimated the telecom industry and it has never really recovered. There is still a telecompresence in the area, but most of the vacant office space has been filled by non-telecom tenants, especially insurance firms.In 2007 I rarely hear the term Telecom Corridor anymore. ",
+            "imageDate": "10-March-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The interior shoulder has been converted into a pylon-separated HOV lane." }
+        },
+        {
+            "file": "75n_20070310_IMG_4346_gatalyn_950.jpg",
+            "caption": "Looking north from the Gatalyn overpass. This overpass was added after the main reconstruction in the early 1990s as somewhat of an afterthought, and its nonstandard design is the result of trying to retrofit it into the limited space.",
+            "imageDate": "10-March-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The interior shoulder has been converted into a pylon-separated HOV lane." }
+        },
+        {
+            "file": "IMG_4921_75n_at_190_interchange_950_20070415.jpg",
+            "highResolution": "IMG_4921_75n_at_190_interchange_2048_20070415.jpg",
+            "caption": "The interchange at SH 190/Bush Turnpike. The turnpike main lanes are on the upper level.  The US 75 frontage roads penetrate through the interchange, visible in the foreground.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_IMG_4343_roadside_park_950.jpg",
+            "caption": "Looking north from the Park overpass. Construction to reconfigure entrace and exit ramps was in progress at the time of the photo in March 2007. ",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_IMG_4340_roadside_parker_950.jpg",
+            "highResolution": "75n_20070310_IMG_4340_roadside_parker_3072.jpg",
+            "caption": "Looking north at Parker",
+            "imageDate": "10-March-2007"
+        }
+
+
+    ]
+
+}

@@ -23,7 +23,7 @@ namespace DFWFreeways_2015
                 name: "Freeway Page",
                 url: "{id}/{detail}",
                 defaults: new { controller = "Default", action = "Freeway", detail = UrlParameter.Optional },
-                constraints: new { id = @"(?i)^i\d\d\d?(e|w)?(-(north|south|east|west|dallas|landry))?|us\d\d\d?|sh\d\d\d?|loop\d\d\|dallas-north-tollway|bush-turnpike|chisholm-trail-parkway$" }
+                constraints: new { id = @"(?i)^i\d\d\d?(e|w)?(-(north|south|east|west|dallas|landry))?|us\d\d\d?|sh\d\d\d?(-(north|south|east|west|dallas|irving))?|loop\d\d\|dallas-north-tollway|bush|chisholm-trail-parkway$" }
             );
 
 

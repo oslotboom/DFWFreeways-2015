@@ -1,0 +1,73 @@
+﻿{
+    "folderPath": "",
+    "title": "Bush Turnpike construction photos",
+    "pageHeader":
+    {
+        "title": "Construction of Main Lanes in Irving and Grand Prairie",
+        "urlParentText": "Bush Turnpike",
+        "lastUpdated": "June 1, 2015 (review only)"
+    },
+    "map": "161_construction_north.gif",
+    "text": "This section of the turnpike opened to traffic on August 2, 2009.",
+    "images":
+    [
+        {
+            "file": "161_20080622_construction_IMG_2256_at_trinity_blvd.jpg",
+            "caption": "Piers at Trinity Blvd",
+            "imageDate": "22-June-2008"
+        },
+        {
+            "file": "161_20080622_construction_IMG_2258_looking_n_at_trinity_blvd.jpg",
+            "caption": "Looking north at Trinity Blvd",
+            "imageDate": "22-June-2008"
+        },
+        {
+            "file": "161_20080622_construction_IMG_2265_at_oakdale.jpg",
+            "caption": "Looking north at Oakdale along the corridor.",
+            "imageDate": "22-June-2008"
+        },
+        {
+            "file": "161_20080622_construction_IMG_2268_at_shady_grove.jpg",
+            "caption": "Detour sign at Shady Grove",
+            "imageDate": "22-June-2008"
+        },
+        {
+            "file": "161_20080622_construction_IMG_2270_looking_s_at_shady_grove.jpg",
+            "caption": "Looking south along the corridor at Shady Grove",
+            "imageDate": "22-June-2008"
+        },
+        {
+            "file": "161_20080622_construction_IMG_2271_looking_n_at_shady_grove.jpg",
+            "caption": "Looking north along the corridor at Shady Grove",
+            "imageDate": "22-June-2008"
+        },
+        {
+            "file": "161_20080622_construction_IMG_2273_looking_n_at_shady_grove.jpg",
+            "caption": "Another view looking north at Shady Grove",
+            "imageDate": "22-June-2008"
+        },
+        {
+            "file": "161_20080622_construction_IMG_2277_looking_n_at_shady_grove.jpg",
+            "caption": "Looking north at Shady Grove",
+            "imageDate": "22-June-2008"
+        },
+        {
+            "file": "161_20080622_construction_IMG_2279_at_rock_island.jpg",
+            "caption": "Looking southeast at Rock Island",
+            "imageDate": "22-June-2008"
+        },
+        {
+            "file": "161_20080622_construction_IMG_2281_at_rock_island.jpg",
+            "caption": "Looking south at Rock Island",
+            "imageDate": "22-June-2008"
+        },
+        {
+            "file": "161_20080622_construction_IMG_2284_looking_n_at_conflans.jpg",
+            "caption": "Looking north at Conflans. The interchange with TX 183 is just ahead. The interchange was completed\r\n\t\t\t\t\tin 2007 in a separate project but is not open to traffic as of early 2009.",
+            "imageDate": "22-June-2008"
+        }
+
+
+    ]
+
+}

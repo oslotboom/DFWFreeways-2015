@@ -1,0 +1,68 @@
+﻿{
+    "folderPath": "",
+    "title": "Bush Turnpike construction photos",
+    "pageHeader":
+    {
+        "title": "Construction of Main Lanes in Grand Prairie",
+        "urlParentText": "Bush Turnpike",
+        "lastUpdated": "June 1, 2015 (review only)"
+    },
+    "map": "161_construction_south.gif",
+    "text": "This section of the turnpike opened to traffic on August 2, 2009.",
+    "images":
+    [
+        {
+            "file": "161_20080914_construction_IMG_3807_n_of_19th.jpg",
+            "caption": "Just north of Carrier Parkway",
+            "imageDate": "14-Sept-2008"
+        },
+        {
+            "file": "161_20080914_construction_IMG_3811.jpg",
+            "caption": "",
+            "imageDate": "14-Sept-2008"
+        },
+        {
+            "file": "161_20080914_construction_IMG_3812_piers.jpg",
+            "caption": "Near Lower Tarrant Road",
+            "imageDate": "14-Sept-2008"
+        },
+        {
+            "file": "161_20080914_construction_IMG_3813_s_of_trinity.jpg",
+            "caption": "",
+            "imageDate": "14-Sept-2008"
+        },
+        {
+            "file": "161_20080914_construction_IMG_3816_pedestrian_walkway.jpg",
+            "caption": "Pedstrian walkway in Mike Lewis park.",
+            "imageDate": "14-Sept-2008"
+        },
+        {
+            "file": "161_20080914_construction_IMG_3818.jpg",
+            "caption": "",
+            "imageDate": "14-Sept-2008"
+        },
+        {
+            "file": "161_20080914_construction_IMG_3819_piers.jpg",
+            "caption": "",
+            "imageDate": "14-Sept-2008"
+        },
+        {
+            "file": "161_20080914_construction_IMG_3822_piers.jpg",
+            "caption": "",
+            "imageDate": "14-Sept-2008"
+        },
+        {
+            "file": "161_20080914_construction_IMG_3823.jpg",
+            "caption": "",
+            "imageDate": "14-Sept-2008"
+        },
+        {
+            "file": "161_20080914_construction_IMG_3828_wetlands.jpg",
+            "caption": "Wetlands no more",
+            "imageDate": "14-Sept-2008"
+        }
+
+
+    ]
+
+}

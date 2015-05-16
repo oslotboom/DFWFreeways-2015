@@ -1,0 +1,71 @@
+﻿{
+    "folderPath": "",
+    "title": "US 80 Dallas photos",
+    "pageHeader":
+    {
+        "title": "Roadside Views",
+        "urlParentText": "US 80",
+        "lastUpdated": "June 1, 2015 (review only)"
+    },
+    "map": "80_roadside_800.gif",
+    "text" : "2015 status: Changes have been minimal since these photos were taken and these photos are still up-to-date.",
+    "images":
+    [
+        {
+            "file": "80_20070429_IMG_6325_sign.jpg",
+            "caption": "",
+            "imageDate": "29-Apr-2007"
+        },
+        {
+            "file": "80_20070225_IMG_3875_at_big_town.jpg",
+            "highResolution": "80_20070225_IMG_3875_at_big_town_2048.jpg",
+            "caption": "Looking east from the Big Town road overpass",
+            "imageDate": "25-Feb-2007"
+        },
+        {
+            "file": "80_20070429_IMG_6310_looking_w_at_gus_thomasson.jpg",
+            "caption": "Looking west at Gus Thomasson",
+            "imageDate": "29-Apr-2007"
+        },
+        {
+            "file": "80_20070429_IMG_6314_at_635.jpg",
+            "caption": "The four-level interchange at Interstate 635. This interchange opened with the opening of I-635 on Aug 5, 1970.",
+            "imageDate": "29-Apr-2007"
+        },
+        {
+            "file": "80_20070429_IMG_6304_looking_w_at_galloway.jpg",
+            "highResolution": "80_20070429_IMG_6304_looking_w_at_galloway_2346.jpg",
+            "caption": "Looking west from Galloway, just east of I-635",
+            "imageDate": "29-Apr-2007"
+        },
+        {
+            "file": "80_20070429_IMG_6303_guardrail_at_galloway.jpg",
+            "caption": "The antique guardrail on the Galloway bridge shows the age of the bridge, which was completed in 1956.",
+            "imageDate": "29-Apr-2007"
+        },
+        {
+            "file": "80_20070429_IMG_6315_looking_w_w_of_collins_950.jpg",
+            "highResolution": "80_20070429_IMG_6315_looking_w_w_of_collins_2048.jpg",
+            "caption": "Looking west, west of Collins",
+            "imageDate": "29-Apr-2007"
+        },
+        {
+            "file": "80_20070429_IMG_6318_looking_w_at_east_fork.jpg",
+            "caption": "Looking west at East Fork",
+            "imageDate": "29-Apr-2007"
+        },
+        {
+            "file": "80_20070429_IMG_6321_rt_740_forney.jpg",
+            "caption": "Looking west from the FM 740 overpass in Forney",
+            "imageDate": "29-Apr-2007"
+        },
+        {
+            "file": "80_20070429_IMG_6324_forney_statue_liberty.jpg",
+            "caption": "A miniature Statue of Liberty replica along the highway in Forney",
+            "imageDate": "29-Apr-2007"
+        }
+
+
+    ]
+
+}

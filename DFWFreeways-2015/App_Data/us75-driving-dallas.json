@@ -1,0 +1,133 @@
+﻿{
+    "folderPath": "",
+    "title":  "US 75 Dallas photos",
+    "pageHeader":
+    {
+        "title": "Driving Views",
+        "subTitle": "Dallas",
+        "urlParentText": "US 75",
+        "lastUpdated": "June 1, 2015 (review only)"
+    },
+    "map": "75n_driving_inner_loop_400.png",
+    "text": "2015 status: Changes have been minimal since these photos were taken and these photos are still accurate. ",
+    "images":
+    [
+        {
+            "file": "75n_20070310_drivers_nb_approaching_366_950_IMG_4256.jpg",
+            "caption": "Going northbound just south of Spur 366, the Woodall Rodgers Freeway.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_nb_at_366_950_IMG_4257.jpg",
+            "caption": "Connection ramps to Spur 366 are just ahead.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_nb_at_hall_950_IMG_4258.jpg",
+            "caption": "Just ahead the freeway drops into a trench where it will remain for the next 6 miles.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_nb_at_hall_950_IMG_4259.jpg",
+            "caption": "At Hall Street.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_view_onramp_at_blackburn_950_IMG_4276.jpg",
+            "caption": "Onramp at Blackburn. All onramps on the trenched section are framed with the decorative pillars.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_nb_approaching_knox_henderson_950_IMG_4263.jpg",
+            "highResolution": "75n_20070310_drivers_nb_approaching_knox_henderson_2655_IMG_4263.jpg",
+            "caption": "North of Blackburn.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_nb_approaching_knox_henderson_950_IMG_4264.jpg",
+            "caption": "Approaching the Knox/Henderson exit. The overhang for the northbound frontage road can be seen on the right.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_view_at_knox_henderson_950_IMG_4280.jpg",
+            "caption": "At Knox/Henderson",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_view_n_of_knox_henderson_950_IMG_4278.jpg",
+            "caption": "North of Knox/Henderson",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_nb_at_monticello_950_IMG_4266.jpg",
+            "caption": "At Monticello. We are now entering the \"M Street\" zone.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_nb_at_mccommas_950_IMG_4267.jpg",
+            "caption": "At McCommas. ",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_nb_at_mockingbird_exit_950_IIMG_4268.jpg",
+            "caption": "Approaching the Mockingbird exit.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_view_at_mockingbird_950_IMG_4285.jpg",
+            "caption": "At Mockingbird",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20090924_driving_exit_lovers_950_IMG_2223.jpg",
+            "highResolution": "75n_20090924_driving_exit_lovers_2048_IMG_2223.jpg",
+            "caption": "At University",
+            "imageDate": "24-Sept-2006"
+        },
+        {
+            "file": "75n_20090924_driving_nb_at_lovers_950_IMG_2224.jpg",
+            "highResolution": "75n_20090924_driving_nb_at_lovers_2048_IMG_2224.jpg",
+            "caption": "At Lovers Lane",
+            "imageDate": "24-Sept-2006"
+        },
+        {
+            "file": "75n_20070310_drivers_view_approaching_southwestern_950_IMG_4291.jpg",
+            "caption": "Approaching Southwestern",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_view_at_caruth_haven_950_IMG_4292.jpg",
+            "caption": "At Caruth Haven",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_IMG_4389_drivers_nb_at_northpark_950.jpg",
+            "caption": "North of Loop 12 at Northpark drive. Northpark Mall is on the left.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_IMG_4390_drivers_nb_at_park_950.jpg",
+            "caption": "At Park Lane. This is the end of the trench and the freeway returns to ground level ahead.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_view_n_of_walnut_hill_IMG_4298.jpg",
+            "caption": "North of Walnut Hill",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20090924_driving_nb_forest_950_IMG_2225.jpg",
+            "highResolution": "75n_20090924_driving_nb_forest_2048_IMG_2225.jpg",
+            "caption": "Just past Royal with Forest Lane ahead.",
+            "imageDate": "24-Sept-2006"
+        },
+        {
+            "file": "75n_20070310_IMG_4394_drivers_nb_at_forest_exit_950.jpg",
+            "caption": "Approaching the Forest Lane exit",
+            "imageDate": "10-March-2007"
+        }
+
+
+    ]
+
+}

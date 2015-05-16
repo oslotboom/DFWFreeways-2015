@@ -1,0 +1,90 @@
+﻿{
+    "folderPath": "",
+    "title": "Bush Turnpike photos",
+    "pageHeader":
+    {
+        "title": "Driving Southbound, I-635 to I-30",
+        "urlParentText": "Bush Turnpike",
+        "lastUpdated": "June 1, 2015 (review and update captions)"
+    },
+    "map": "161_635_to_183_500.gif",
+    "text": "The first half of this section is a tollway which was opened on December 21, 2001. The second half is a freeway which was opened circa 1994. These photos are stil valid as of 2015.",
+    "images":
+    [
+        {
+            "file": "161_20070408_driving_IMG_5968_s_of_635.jpg",
+            "caption": "Just south of I-635",
+            "imageDate": "8-April-2007"
+        },
+        {
+            "file": "161_20070408_driving_IMG_5971_royal.jpg",
+            "caption": "",
+            "imageDate": "8-April-2007"
+        },
+        {
+            "file": "161_20070408_driving_IMG_5973_approaching_114.jpg",
+            "caption": "Approaching TX 114",
+            "imageDate": "8-April-2007"
+        },
+        {
+            "file": "161_20070408_driving_IMG_5974_114.jpg",
+            "caption": "Orphan piers at TX 114",
+            "imageDate": "8-April-2007"
+        },
+        {
+            "file": "161_20070408_driving_IMG_5975_s_of_114.jpg",
+            "caption": "South of TX 114",
+            "imageDate": "8-April-2007"
+        },
+        {
+            "file": "161_20070408_driving_IMG_5977_approaching_plaza.jpg",
+            "caption": "Approaching the toll plaza",
+            "imageDate": "8-April-2007"
+        },
+        {
+            "file": "161_20070408_driving_IMG_5979_toll_plaza.jpg",
+            "caption": "At the toll plaza",
+            "imageDate": "8-April-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The cash lanes for paying tolls were closed when the NTTA system became all electronic." }
+        },
+        {
+            "file": "161_20070408_driving_IMG_5980_end_toll_sign.jpg",
+            "caption": "This sign indicates the end of the tolled section of 161. The highway ahead is a freeway to TX 183.",
+            "imageDate": "8-April-2007"
+        },
+        {
+            "file": "161_20070408_driving_IMG_5982.jpg",
+            "caption": "",
+            "imageDate": "8-April-2007"
+        },
+        {
+            "file": "161_20070408_driving_IMG_5984.jpg",
+            "caption": "",
+            "imageDate": "8-April-2007"
+        },
+        {
+            "file": "161_20070408_driving_IMG_5985.jpg",
+            "caption": "",
+            "imageDate": "8-April-2007"
+        },
+        {
+            "file": "161_20070408_driving_IMG_5986.jpg",
+            "caption": "The interchange with TX 183 is visible ahead.",
+            "imageDate": "8-April-2007"
+        },
+        {
+            "file": "161_20070408_driving_IMG_5990_connecting_to_183.jpg",
+            "caption": "When these photos were taken in 2007, the freeway ended at TX 183. This view shows the connection\r\n\t\t\t\t\tto TX 183 westbound.",
+            "imageDate": "8-April-2007"
+        },
+        {
+            "file": "161_20070408_driving_IMG_5992.jpg",
+            "caption": "TX 183 is visible ahead.",
+            "imageDate": "8-April-2007"
+        }
+
+
+
+    ]
+
+}

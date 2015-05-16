@@ -44,6 +44,9 @@ namespace DFWFreeways.Controllers
                 new AerialGalleryList(ConfigurationManager.AppSettings["AzureFileStorage"], "aerial",
                     new PageHeader(info[0], info[1], GetShieldPath(id.Split('-').FirstOrDefault()), id, info[2], info[3])
                 );
+            if (!string.IsNullOrEmpty(AerialGalleryList.PageText(identifier)))
+                aerialGalleryList.Text = AerialGalleryList.PageText(identifier);
+
             //AerialGalleryList aerialGalleryList = (AerialGalleryList)instance.GetType().GetMethod(id.Replace('-', '_') + "_" + detail.Replace('-', '_')).Invoke(null, new string[] { ConfigurationManager.AppSettings["AzureFileStorage"], "aerial" });
             aerialGalleryList.ItemList = (List<AerialGalleryItem>)aerialGalleryList.GetType().GetMethod(identifier + "_images").Invoke(null, null);
 
@@ -72,6 +75,7 @@ namespace DFWFreeways.Controllers
                 freewayHome = Deserialize<FreewayHome>(bytes);
                 freewayHome.PageHeader.Shield = GetShieldPath(id);
                 freewayHome.HighwayRouting = id;
+                freewayHome.FolderPath = ConfigurationManager.AppSettings["GoogleDrive"] + id + "/";
                 foreach (Feature feature in freewayHome.Features)
                 {
                     feature.IconText = IconText(feature.FeatureType);

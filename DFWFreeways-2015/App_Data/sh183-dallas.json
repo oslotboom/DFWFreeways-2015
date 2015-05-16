@@ -1,0 +1,62 @@
+﻿{
+
+    "pageHeader":
+    {
+        "title": "SH 183 Dallas and Irving",
+        "subTitle": "Carpenter Freeway and Airport Freeway",
+        "lastUpdated": "June 1, 2015"
+    },
+
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "Right-of-clearance was underway from around 2007 and the first phase of construction of the widening project began in 2015.",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties": [ { "AnchorText": "Roadside Views", "AnchorUrl": "roadside" } ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties":
+            [
+                { "AnchorText": "Dallas", "AnchorUrl": "driving-dallas" },
+                { "AnchorText": "Irving", "AnchorUrl": "driving-irving" }
+            ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "SH 183", "Quickview": "ExSH183?startOdd=False", "Pdf": "" },
+                { "BookText": "Chapter 8: Texas Stadium Freeways", "Quickview": "ChTexasStadium?startOdd=False&pdfSize=6+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-08-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-08-20140803.pdf" },
+                { "BookText": "Chapter 10: Mid-Cities Freeways", "Quickview": "ChMidCitiesFreeways?startOdd=True&pdfSize=11+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-10-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-10-20140803.pdf" }
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties":
+            [
+                { "AnchorText": "Right of Way clearance in Irving", "AnchorUrl": "construction-row" }
+            ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "At the former Texas Stadium site, now the Diamond Interchange", "AnchorUrl": "diamond" }
+
+            ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties": [
+                { "AnchorText": "Images", "AnchorUrl": "historical" }
+
+            ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [ ]
+        }
+    ]
+}

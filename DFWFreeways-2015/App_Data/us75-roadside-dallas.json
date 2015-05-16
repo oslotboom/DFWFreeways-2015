@@ -1,0 +1,86 @@
+﻿{
+    "folderPath": "",
+    "title":  "US 75 Dallas photos",
+    "pageHeader":
+    {
+        "title": "Roadside Views",
+        "subTitle": "Dallas",
+        "urlParentText": "US 75",
+        "lastUpdated": "June 1, 2015 (review only)"
+    },
+    "map": "",
+    "text": "2015 status: Changes have been minimal since these photos were taken and these photos are still accurate.",
+    "images":
+    [
+        {
+            "file": "75n_20070310_ground_fwy_view_blackburn_950_IMG_4275.jpg",
+            "highResolution": "75n_20070310_ground_fwy_view_blackburn_3072_IMG_4275.jpg",
+            "caption": "Looking north from the Blackburn overpass.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_IMG_9416_20071020_fitzhugh_950.jpg",
+            "highResolution": "75n_IMG_9416_20071020_fitzhugh_2577.jpg",
+            "caption": "Looking north from the Fitzhugh overpass.",
+            "imageDate": "20-October-2007"
+        },
+        {
+            "file": "75n_20070310_ground_fwy_view_knox_henderson_950_IMG_4273.jpg",
+            "highResolution": "75n_20070310_ground_fwy_view_knox_henderson_2048_IMG_4273.jpg",
+            "caption": "Looking north at Knox/Henderson.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_ground_at_knox_henderson_950_IMG_4274.jpg",
+            "caption": "Architectural enhancement on the Knox/Henderson overpass.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_ground_fwy_view_knox_henderson_s1_plaque_950_IIMG_4272.jpg",
+            "caption": "Plaque on the Knox/Henderson overpass commemorating the completion of construction of this section. Section S1 was from Spur 366 (Woodall Rodgers Freeway) to north of Monticello.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_ground_mockingbird_architechture_950_IMG_4269.jpg",
+            "caption": "Architectural enhancement on the Mockingbird overpass.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_ground_plaque_s2_mockingbird_950_IMG_4271.jpg",
+            "caption": "Plaque on the Mockingbird overpass commemorating the completion of construction of this section. Section S2 was from north of Monticello to north of Lovers Lane. The contract was awarded in July 1993 for $105.5 million.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_IMG_4386_roadside_yale_950.jpg",
+            "highResolution": "75n_20070310_IMG_4386_roadside_yale_3012.jpg",
+            "caption": "Looking north from the Yale overpass.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_IMG_9421_20071020_at_caruth_haven_950.jpg",
+            "highResolution": "75n_IMG_9421_20071020_at_caruth_haven_2811.jpg",
+            "caption": "Looking north from the Caruth Haven overpass, with Loop 12/Northwest Highway just ahead.",
+            "imageDate": "20-October-2007"
+        },
+        {
+            "file": "75n_IMG_9436_20071020_looking_n_at_12_950.jpg",
+            "highResolution": "75n_IMG_9436_20071020_looking_n_at_12_2048.jpg",
+            "caption": "Looking north from the east side of the Loop 12/Northwest Highway overpass.",
+            "imageDate": "20-October-2007"
+        },
+        {
+            "file": "75n_IMG_9430_20071020_looking_n_at_12_950.jpg",
+            "highResolution": "75n_IMG_9430_20071020_looking_n_at_12_2048.jpg",
+            "caption": "Looking north from the the Loop 12/Northwest Highway overpass.",
+            "imageDate": "20-October-2007"
+        },
+        {
+            "file": "75n_IMG_9431_20071020_decorative_columns_at_loop12_950.jpg",
+            "caption": "Decorative structure along the southbound frontage road at the Loop 12/Northwest Highway overpass.",
+            "imageDate": "20-October-2007"
+        }
+
+
+    ]
+
+}

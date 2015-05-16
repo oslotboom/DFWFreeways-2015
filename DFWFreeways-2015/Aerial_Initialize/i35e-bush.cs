@@ -8,14 +8,10 @@ namespace DFWFreeways.Models
     public partial class AerialGalleryList
     {
 
-        //public static AerialGalleryList i35e_north_i35e_bush(string fileServer, string folderPath)
-        //{
-        //    AerialGalleryList aerialGalleryList = new AerialGalleryList(fileServer, folderPath);
-        //    aerialGalleryList.PageHeader = new PageHeader("I-35E at Bush Turnpike", "", GetShieldPath("i35e"), "i35e-north", "I-35E North", "May 5, 2015 (created)");
-
-        //    aerialGalleryList.ItemList = i35e_north_i35e_bush_images();
-        //    return aerialGalleryList;
-        //}
+        public static List<AerialGalleryItem> bush_i35e_images()
+        {
+            return i35e_north_i35e_bush_images();
+        }
 
         public static List<AerialGalleryItem> i35e_north_i35e_bush_images()
         {

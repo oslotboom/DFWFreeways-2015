@@ -1,0 +1,110 @@
+﻿{
+    "folderPath": "",
+    "title": "US 175 Dallas photos",
+    "pageHeader":
+    {
+        "title": "Roadside Views",
+        "urlParentText": "US 175",
+        "lastUpdated": "June 1, 2015 (review and add photos)"
+    },
+    "map": "175_roadside_660.gif",
+    "text": "2015 status: Changes have been minimal since these photos were taken and these photos are still up-to-date. Work is scheduled to begin in 2016 to reroute the freeway at the SH 310 intersection (Dead Man's Corner), and after the new section of freeway is built, the SM Wright Freeway will be removed.",
+    "images":
+    [
+        {
+            "file": "IMG_5027_175_sm_wright_sign_300_20070415.jpg",
+            "caption": "The north section of US 175 is also known as Central Expressway and the S.M. Wright Freeway.East of Central Expressway the freeway is the C.F. Hawn Freeway.",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5049_175_sign_150_20070415.jpg",
+            "caption": "",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5021_175_mlk_950_20070415.jpg",
+            "highResolution": "IMG_5021_175_mlk_2592_20070415.jpg",
+            "caption": "This is near the north terminus of the freeway with Interstate 45 just ahead.",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5023_175_metropolitan_on_ramp_950_20070415.jpg",
+            "highResolution": "IMG_5023_175_metropolitan_on_ramp_2500_20070415.jpg",
+            "caption": "Here the freeway passes through a neighborhood; or, stated more precisely in the local vernacular, this area is definitely a \"hood\". This is the onramp at Metropolitan. This section of freeway will be removed and replaced with an arterial street around 2020.",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5026_175_mlk_tree_canopy_950_20070415.jpg",
+            "caption": "North of Metropolitan Street the frontage roads are shaded by a tree canopy. This is quite unusual for a frontage road.",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5028_175_abandonned_bldg_3609_950_20070415.jpg",
+            "caption": "Boarded-up building along the freeway. This is a low-income area.",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "20150214-0011-1050.jpg",
+            "caption": "This is the Ghetto Club, located at the \"Dead Man's Corner\" intersection with SH 310. The building appears to be in the path of the new freeway alignment, so it is almost surely slated for demolition.",
+            "imageDate": "14-Feb-2015"
+        },
+        {
+            "file": "20140111_0074-1050.jpg",
+            "caption": "Seeing the Ghetto Club from the freeway, I always thought it was a bar. But it is actually a pool hall which serves barbeque.",
+            "imageDate": "11-Jan-2014"
+        },
+        {
+            "file": "20150214-0012-1050.jpg",
+            "caption": "Some of the text on the Ghetto Club exterior includes \"No drinking, no drugs, no loitering, no weapons\".",
+            "imageDate": "11-Jan-2014"
+        },
+
+        {
+            "file": "20140111_0065-1050.jpg",
+            "caption": "This property just west of Dead Man's Corner was boarded up in January 2014, awaiting removal for clearance of the corridor for the new freeway alignment.",
+            "imageDate": "11-Jan-2014"
+        },
+        {
+            "file": "IMG_5031_175_lake_june_950_20070415.jpg",
+            "caption": "Looking northbound at Lake June road.",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5032_175_lake_jume_skyline_950_20070415.jpg",
+            "highResolution": "IMG_5032_175_lake_jume_skyline_2592_20070415.jpg",
+            "caption": "Looking northwest at Lake June road, with the downtown skyline in the distance.",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5034_175_masters_950_20070415.jpg",
+            "highResolution": "IMG_5034_175_masters_2100_20070415.jpg",
+            "caption": "Roadside at Masters Road.",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5036_175_at_635_950_20070415.jpg",
+            "highResolution": "IMG_5036_175_at_635_2592_20070415.jpg",
+            "caption": "South of Interstate 20, looking toward the interchange. This interchange was dedicated on January 7, 1972.",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5042_175_at_silverado_950_20070415.jpg",
+            "highResolution": "IMG_5042_175_at_silverado_2048_20070415.jpg",
+            "caption": "Looking northbound at Silverado road. The freeway is reduced to four main lanes (two each way) south of Interstate 20.",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5045_175_at_simonds_950_20070415.jpg",
+            "highResolution": "IMG_5045_175_at_simonds_2048_20070415.jpg",
+            "caption": "Looking northbound at Simonds road.",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5048_175_fm1389_950_20070415.jpg",
+            "highResolution": "IMG_5048_175_fm1389_2592_20070415.jpg",
+            "caption": "Looking northbound at FM 1389.",
+            "imageDate": "15-April-2007"
+        }
+    ]
+
+}

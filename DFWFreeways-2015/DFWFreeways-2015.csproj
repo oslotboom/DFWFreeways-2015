@@ -134,6 +134,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Aerial_Initialize\AerialInitialize.cs" />
+    <Compile Include="Aerial_Initialize\bush-all.cs" />
+    <Compile Include="Aerial_Initialize\bush-carrollton.cs" />
+    <Compile Include="Aerial_Initialize\bush-dnt.cs" />
+    <Compile Include="Aerial_Initialize\bush-plano.cs" />
     <Compile Include="Aerial_Initialize\i20-all.cs" />
     <Compile Include="Aerial_Initialize\i20-i35e.cs" />
     <Compile Include="Aerial_Initialize\i20-i45.cs" />
@@ -146,7 +150,8 @@
     <Compile Include="Aerial_Initialize\i30-dallas-garland.cs" />
     <Compile Include="Aerial_Initialize\i30-dallas-i635.cs" />
     <Compile Include="Aerial_Initialize\i30-dallas-us80.cs" />
-    <Compile Include="Aerial_Initialize\i35-north-all.cs" />
+    <Compile Include="Aerial_Initialize\i30-midcities-bush.cs" />
+    <Compile Include="Aerial_Initialize\i35e-north-all.cs" />
     <Compile Include="Aerial_Initialize\i35e-bush.cs" />
     <Compile Include="Aerial_Initialize\i35e-i635.cs" />
     <Compile Include="Aerial_Initialize\i35e-north-american-airlines-center.cs" />
@@ -164,6 +169,15 @@
     <Compile Include="Aerial_Initialize\i635-us75.cs" />
     <Compile Include="Aerial_Initialize\i635-us80.cs" />
     <Compile Include="Aerial_Initialize\i635_dnt.cs" />
+    <Compile Include="Aerial_Initialize\sh114-all.cs" />
+    <Compile Include="Aerial_Initialize\sh114-bush.cs" />
+    <Compile Include="Aerial_Initialize\sh114-las-colinas.cs" />
+    <Compile Include="Aerial_Initialize\sh183-diamond.cs" />
+    <Compile Include="Aerial_Initialize\us75-bush.cs" />
+    <Compile Include="Aerial_Initialize\us75-dallas.cs" />
+    <Compile Include="Aerial_Initialize\us75-loop12.cs" />
+    <Compile Include="Aerial_Initialize\us75-plano.cs" />
+    <Compile Include="Aerial_Initialize\us80-all.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
@@ -181,7 +195,18 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App_Data\bush-construction-grand-prairie-main-lanes.json" />
     <Content Include="App_Data\i20-dallas.json" />
+    <Content Include="App_Data\bush.json" />
+    <Content Include="App_Data\bush-roadside-irving.json" />
+    <Content Include="App_Data\bush-driving-west.json" />
+    <Content Include="App_Data\bush-driving-north.json" />
+    <Content Include="App_Data\bush-driving-irving.json" />
+    <Content Include="App_Data\bush-construction-grand-prairie-row.json" />
+    <Content Include="App_Data\bush-construction-sh183.json" />
+    <Content Include="App_Data\bush-construction-grand-prairie-frontage.json" />
+    <Content Include="App_Data\bush-construction-irving-main-lanes.json" />
+    <Content Include="App_Data\bush-roadside-north.json" />
     <None Include="App_Data\i20-dallas-roadside-dallas.json" />
     <Content Include="App_Data\i20-dallas-roadside-terrell.json" />
     <Content Include="App_Data\i30-dallas-historical.json" />
@@ -196,6 +221,10 @@
     <None Include="App_Data\i35e-north-roadside-dallas.json" />
     <None Include="App_Data\i35e-south-roadside.json" />
     <None Include="App_Data\i35e-south-construction-horseshoe-1.json" />
+    <Content Include="App_Data\sh183-dallas-construction-row.json" />
+    <Content Include="App_Data\sh114-irving.json" />
+    <Content Include="App_Data\sh114-irving-roadside.json" />
+    <None Include="App_Data\sh183-dallas-driving-dallas.json" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -219,6 +248,30 @@
     <Content Include="App_Data\i35e-south.json" />
     <Content Include="App_Data\i635.json" />
     <Content Include="App_Data\i635-roadside.json" />
+    <Content Include="App_Data\us67.json" />
+    <Content Include="App_Data\us67-roadside.json" />
+    <Content Include="App_Data\us67-driving.json" />
+    <Content Include="App_Data\us75.json" />
+    <Content Include="App_Data\us75-driving-dallas.json" />
+    <Content Include="App_Data\us75-driving-high-five.json" />
+    <Content Include="App_Data\us75-driving-richardson-plano.json" />
+    <Content Include="App_Data\us75-roadside-high-five.json" />
+    <Content Include="App_Data\us75-roadside-dallas.json" />
+    <Content Include="App_Data\us75-roadside-richardson-plano.json" />
+    <Content Include="App_Data\us75-roadside-downtown.json" />
+    <Content Include="App_Data\us75-construction-2002-nov.json" />
+    <Content Include="App_Data\us75-construction-2004.json" />
+    <Content Include="App_Data\us80.json" />
+    <Content Include="App_Data\us80-driving.json" />
+    <Content Include="App_Data\us80-roadside.json" />
+    <Content Include="App_Data\us175.json" />
+    <Content Include="App_Data\us175-driving-wright.json" />
+    <Content Include="App_Data\us175-driving-southeast.json" />
+    <Content Include="App_Data\us175-roadside.json" />
+    <Content Include="App_Data\sh183-dallas.json" />
+    <Content Include="App_Data\sh183-dallas-driving-irving.json" />
+    <Content Include="App_Data\sh183-dallas-roadside.json" />
+    <Content Include="App_Data\sh183-dallas-historical.json" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />

@@ -10,7 +10,8 @@ namespace DFWFreeways.Models
         private string _lowRes;
         public DateTime ImageDate { get; set; }
         public string Thumbnail { get; set; }
-        public string LowRes {
+        public string LowRes
+        {
             get
             {
                 return _lowRes;
@@ -19,7 +20,7 @@ namespace DFWFreeways.Models
             {
                 _lowRes = value;
                 //set the thumbnail image based on the lowRes file name. This assumes only one occurrence of "-" in the lowres file name
-                if (_lowRes.Split('-').Length==2)
+                if (_lowRes.Split('-').Length == 2)
                     Thumbnail = _lowRes.Split('-')[0] + "-280.jpg";
                 else
                 {
@@ -38,9 +39,9 @@ namespace DFWFreeways.Models
         public string PageCaption { get; set; }
         public AerialStatus Status { get; set; }
 
-        public AerialGalleryItem (
+        public AerialGalleryItem(
             DateTime imageDate,
-            string original, 
+            string original,
             string lowRes,
             string highRes,
             string folder,
@@ -84,6 +85,7 @@ namespace DFWFreeways.Models
         public string FileServer { get; set; }
         public string FolderPath { get; set; }
         public PageHeader PageHeader { get; set; }
+        public string Text { get; set; }
         public List<AerialGalleryItem> ItemList { get; set; }
 
         public AerialGalleryList() { }
@@ -101,7 +103,6 @@ namespace DFWFreeways.Models
             PageHeader = pageheader;
         }
 
-
         private static string GetShieldPath(string id)
         {
             return "~/images/shields/shield-" + id + ".png";
@@ -111,7 +112,8 @@ namespace DFWFreeways.Models
         {
             string[] info = new string[4];
             //fields are title, subtitle, return Url test, last updated
-            switch (page) {
+            switch (page)
+            {
                 case "i35e_north_all": info = new string[] { "I-35E North All Aerials", "", "I-35E North", "June 1, 2015" }; break;
                 case "i35e_north_i35e_i635": info = new string[] { "I-35E at I-635", "", "I-35E North", "June 1, 2015" }; break;
                 case "i35e_north_american_airlines_center": info = new string[] { "American Airlines Center", "", "I-35E North", "June 1, 2015" }; break;
@@ -146,14 +148,56 @@ namespace DFWFreeways.Models
                 case "i635_i20": info = new string[] { "I-635 at I-20", "", "I-635", "June 1, 2015" }; break;
                 case "i635_farmers_branch": info = new string[] { "I-635 Farmers Branch", "Photos obsolete, for historical reference", "I-635", "June 1, 2015" }; break;
                 case "i635_garland": info = new string[] { "I-635 in Garland", "", "I-635", "June 1, 2015" }; break;
+                case "us67_i20": info = new string[] { "US 67 at I-20", "", "US 67", "June 1, 2015" }; break;
+                case "us75_all": info = new string[] { "US 75 All Aerials", "", "US 75", "June 1, 2015" }; break;
+                case "us75_i635": info = new string[] { "US 75 at I-635 LBJ Freeway", "", "US 75", "June 1, 2015" }; break;
+                case "us75_dallas": info = new string[] { "US 75 in Dallas South of Loop 12", "", "US 75", "June 1, 2015" }; break;
+                case "us75_loop12": info = new string[] { "US 75 from Mockingbird to Loop 12", "", "US 75", "June 1, 2015" }; break;
+                case "us75_bush": info = new string[] { "US 75 at the Bush Turnpike and the Telecom Corridor", "", "US 75", "June 1, 2015" }; break;
+                case "us80_all": info = new string[] { "US 80 All Aerials", "", "US 80", "June 1, 2015" }; break;
+                case "us80_i635": info = new string[] { "US 80 at I-635", "", "US 80", "June 1, 2015" }; break;
+                case "us80_i30": info = new string[] { "US 80 at I-30", "", "US 80", "June 1, 2015" }; break;
+                case "us175_i20": info = new string[] { "US 175 at I-20", "", "US 175", "June 1, 2015" }; break;
+                case "sh183_dallas_diamond": info = new string[] { "SH 183 at the Texas Stadium site", "All Photos for Historical Reference", "SH 183 Dallas", "June 1, 2015" }; break;
+                case "sh114_irving_diamond": info = new string[] { "SH 114 at the Texas Stadium site", "All Photos for Historical Reference", "SH 114", "June 1, 2015" }; break;
+                case "sh114_irving_all": info = new string[] { "All SH 114 Aerials", "", "SH 114 Dallas", "June 1, 2015" }; break;
+                case "sh114_irving_las_colinas": info = new string[] { "SH 114 at Las Colinas", "", "SH 114 Dallas", "June 1, 2015" }; break;
+                case "sh114_irving_bush": info = new string[] { "SH 114 at the Bush Turnpike", "", "SH 114 Dallas", "June 1, 2015" }; break;
+                case "bush_i30": info = new string[] { "Bush Turnpike at I-30", "", "Bush Turnpike", "June 1, 2015" }; break;
+                case "bush_sh114": info = new string[] { "Bush Turnpike at SH 114 Carpenter Freeway", "", "Bush Turnpike", "June 1, 2015" }; break;
+                case "bush_i635": info = new string[] { "Bush Turnpike at I-635 LBJ Freeway", "", "Bush Turnpike", "June 1, 2015" }; break;
+                case "bush_i35e": info = new string[] { "Bush Turnpike at I-35E Stemmons Freeway", "", "Bush Turnpike", "June 1, 2015" }; break;
+                case "bush_carrollton": info = new string[] { "Bush Turnpike in Carrollton", "", "Bush Turnpike", "June 1, 2015" }; break;
+                case "bush_dnt": info = new string[] { "Bush Turnpike at the Dallas North Tollway", "", "Bush Turnpike", "June 1, 2015" }; break;
+                case "bush_plano": info = new string[] { "Bush Turnpike in Plano and Richardson", "", "Bush Turnpike", "June 1, 2015" }; break;
+                case "bush_us75": info = new string[] { "Bush Turnpike at US 75 Central Expressway", "", "Bush Turnpike", "June 1, 2015" }; break;
 
-                    }
+            }
             return info;
         }
+
+        public static string PageText(string page)
+        {
+            //Text to be displayed at the top of the page.
+            string text = "";
+            switch (page)
+            {
+                case "i35e_north_i35e_i635":
+                case "i635_i35e": text = "This interchanged was substantially modified for the LBJ Express project, completed in 2015. The images below are all obsolete and are included to show the original interchange."; break;
+                case "i635_farmers_branch": text = "Interstate 635 was rebuilt and expanded for the LBJ Express Project, completed in 2015. This section of freeway now has frontage roads and tolled express lanes in a trench in the center of the freeway."; break;
+                case "i635_dnt": text = "The I-635 main lanes were widened for the LBJ Express Project, completed in 2015. The overall configuration of the interchange remained the same."; break;
+                case "us75_loop12": text = "The Bush Presidential Library opened on April 25, 2013."; break;
+                case "us75_bush": text = "2015 status: The highway features are still accurate, but there has been some new development on the land around the freeway."; break;
+                case "sh183_dallas_diamond": text = "All these photos are now obsolete due to the implosion of Texas Stadium in 2010, expansion of the freeways and TxDOT's construction staging yard at the stadium site. TxDOT now calls the area the Diamond Interchange, although I have not heard any other organization use that name."; break;
+                case "sh114_irving_diamond": text = "All these photos are now obsolete due to the implosion of Texas Stadium in 2010, expansion of the freeways and TxDOT's construction staging yard at the stadium site. TxDOT now calls the area the Diamond Interchange, although I have not heard any other organization use that name."; break;
+                case "bush_carrollton": text = "The section of the Bush Turnpike through Carrollton was the second most controversial freeway in the ranking of North Texas freeway controversies. See the Bush Turnpike book excerpt and Chapter 2 for details"; break;
+                case "bush_i30": text = "The section of the Bush Turnpike through the neighborhood north of I-30 was the third most controversial freeway in the ranking of North Texas freeway controversies. See the Bush Turnpike book excerpt and Chapter 2 for details"; break;
+            }
+            return text;
+        }
+
     }
-
 }
-
 
 
 

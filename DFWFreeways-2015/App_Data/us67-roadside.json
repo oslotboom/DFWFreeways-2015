@@ -1,0 +1,94 @@
+﻿{
+    "folderPath": "",
+    "title":  "US 67 Dallas photos",
+    "pageHeader" :
+    {
+        "title": "Roadside Views",
+        "urlParentText": "US 67",
+        "lastUpdated": "June 1, 2015 (review only)"
+    },
+    "map": "67_roadside_400.gif",
+    "text": "2015 status: Changes have been minimal since these photos were taken and these photos are still up-to-date.",
+    "images":
+        [
+
+            {
+                "file": "67_20070512_IMG_6508_marvin_d_love_sign.jpg",
+                "caption": "In Dallas, US 67 is the Marvin D. Love Freeway.",
+                "imageDate": "12-May-2007"
+            },
+            {
+                "file": "67_20071027_IMG_9478_at_pentagon_parkway_950.jpg",
+                "highResolution": "67_20071027_IMG_9478_at_pentagon_parkway_2592.jpg",
+                "caption": "Looking north at Pentagon Parkway. This is about 1 mile south of the point where US 67 branches from I-35E, which occurs near the white mid-rise building in the distance. The HOV lanes are barrier-separated at this location.",
+                "imageDate": "27-October-2007"
+            },
+            {
+                "file": "67_20071027_IMG_9484_at_loop_12_looking_n.jpg",
+                "highResolution": "67_20071027_IMG_9484_at_loop_12_looking_n_2931.jpg",
+                "caption": "Looking north at Loop 12. The HOV lane is no longer barrier separated, and the freeway has four general-purpose main lanes (two each way).",
+                "imageDate": "27-October-2007"
+            },
+            {
+                "file": "67_20070512_IMG_6507_looking_s_at_12_950.jpg",
+                "highResolution": "67_20070512_IMG_6507_looking_s_at_12_2048.jpg",
+                "caption": "Looking southbound (southwest on the compass) at Loop 12.",
+                "imageDate": "12-May-2007"
+            },
+            {
+                "file": "67_20070512_IMG_6514_executive_sign.jpg",
+                "caption": "Just south of Hamption US 67 forms the southeast border of Executive Airport, formerly Red Bird Airport. The main runway ends just to the west of the freeway and aircraft on approach fly low over the freeway.",
+                "imageDate": "12-May-2007"
+            },
+            {
+                "file": "67_20070512_IMG_6513_looking_s_at_red_bird_950.jpg",
+                "highResolution": "67_20070512_IMG_6513_looking_s_at_red_bird_2592.jpg",
+                "caption": "Looking south at Red Bird Road.",
+                "imageDate": "12-May-2007"
+            },
+            {
+                "file": "IMG_4771_20_at_67_950_20070401.jpg",
+                "caption": "This is the interchange at I-20, which opened on July 12, 1974 in conjunction with the opening of a section of I-20. This view looks east along I-20.",
+                "imageDate": "12-May-2007"
+            },
+            {
+                "file": "67_20070512_IMG_6528_sg_alexander_sign.jpg",
+                "caption": "South of I-20, US 67 enters Duncanville and is named the S.G. Alexander Freeway.",
+                "imageDate": "12-May-2007"
+            },
+            {
+                "file": "67_20070512_IMG_6522_at_cockrell_hill_950.jpg",
+                "highResolution": "67_20070512_IMG_6522_at_cockrell_hill_2577.jpg",
+                "caption": "The HOV lane ends at I-20 and US 67 continues south as a freeway with four main lanes. This view looks south at  Cockrell Hill Road in Duncanville. The freeway main lanes in Duncanville were reported as complete in 1983. (The news report did not provide any further details; the section shown could have opened earlier.)",
+                "imageDate": "12-May-2007"
+            },
+            {
+                "file": "67_20070512_IMG_6523_cockrell_hill_950.jpg",
+                "caption": "Another view looking southwest at Cockrell Hill Road.",
+                "imageDate": "12-May-2007"
+            },
+            {
+                "file": "67_20070512_IMG_6526_danieldale_950.jpg",
+                "highResolution": "67_20070512_IMG_6526_danieldale_2475.jpg",
+                "caption": "Looking southwest at Danieldale Road.",
+                "imageDate": "12-May-2007"
+            },
+            {
+                "file": "67_20070512_IMG_6535_looking_s_toward_belt_line_950.jpg",
+                "caption": "Looking southwest at Belt Line.",
+                "imageDate": "12-May-2007"
+            },
+            {
+                "file": "67_20070512_IMG_6537_cooper_950.jpg",
+                "caption": "Looking southwest at Cooper",
+                "imageDate": "12-May-2007"
+            },
+            {
+                "file": "67_20070512_IMG_6545_gilco_dove.jpg",
+                "caption": "Looking southwest at Gilco-Dove Roads. US 67 continues as a freeway to Midloathian, with the freeway coming to an end just southwest of US 287.",
+                "imageDate": "12-May-2007"
+            }
+
+        ]
+
+}

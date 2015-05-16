@@ -1,0 +1,78 @@
+﻿{
+    "folderPath": "",
+    "title": "Bush Turnpike photos",
+    "pageHeader":
+    {
+        "title": "Roadside Views in Irving",
+        "urlParentText": "Bush Turnpike",
+        "lastUpdated": "June 1, 2015 (review only)"
+    },
+    "map": "161_635_to_183_500.gif",
+    "text": "",
+    "images":
+    [
+        {
+            "file": "161_20071028_roadside_IMG_9560_sign.jpg",
+            "caption": "This section of TX 161 is the George Bush Turnpike, the same name as the connecting TX 190.",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "161_20071028_roadside_IMG_9554_looking_n_at_las_colinas.jpg",
+            "caption": "Looking northeast toward the interchange at I-635.",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "161_20071028_roadside_IMG_9559_looking_n_at_macarthur.jpg",
+            "caption": "Looking northeast from the MacArthur overpass.",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "161_20071028_roadside_IMG_9561_orphan_pier_at_114.jpg",
+            "caption": "Orphan pier at TX 114. As of 2015, there are no plans to add the ramp.",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "161_20071028_roadside_IMG_9564_looking_nb_at_belt_line_toll_plaza.jpg",
+            "caption": "Looking northeast at the toll plaza from the Belt Line overpass. The cash lanes were closed after this photo was taken when the NTTA toll road system became all electronic. South of Beltline, TX 161 is a freeway.",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "161_20071028_roadside_IMG_9566_start_tollway_sign.jpg",
+            "caption": "This view on the northbound lanes shows the sign indicating the end of the free TX 161 freeway and the start of the Bush Turnpike.",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "161_20070811_roadside_IMG_8614_Looking_nb_at_northgate.jpg",
+            "caption": "Looking northbound at Northgate",
+            "imageDate": "11-August-2007"
+        },
+        {
+            "file": "161_20070811_roadside_IMG_8615_looking_sb_at_northgate.jpg",
+            "caption": "Looking southbound at Northgate",
+            "imageDate": "11-August-2007"
+        },
+        {
+            "file": "161_20070811_roadside_IMG_8617_looking_n_at_rochelle.jpg",
+            "caption": "Looking north at Rochelle",
+            "imageDate": "11-August-2007"
+        },
+        {
+            "file": "161_20070811_roadside_IMG_8618_looking_s_at_rochelle.jpg",
+            "caption": "Looking south at Rochelle, with the interchange at TX 183 just ahead. The freeway ended at TX 183 at the time of this photo. The southward extension is a tollway, projected to open in 2010.",
+            "imageDate": "11-August-2007"
+        },
+        {
+            "file": "161_20070811_roadside_IMG_8619_looking_s_at_rochelle_zoomed.jpg",
+            "caption": "A zoomed in view showing the main lanes for the southward extension, which opened in August 2009.",
+            "imageDate": "11-August-2007"
+        },
+        {
+            "file": "161_20070811_roadside_IMG_8621_looking_sb_at_183.jpg",
+            "caption": "Looking south along the southbound frontage road just north of TX 183.",
+            "imageDate": "11-August-2007"
+        }
+
+
+    ]
+
+}

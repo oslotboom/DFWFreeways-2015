@@ -28,7 +28,10 @@
                 { "BookText": "Chapter 5: Stemmons Freeway and the John F. Kennedy Assassination", "Quickview": "ChStemmonsJFK?startOdd=True&pdfSize=6+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-05-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-05-20140803.pdf" },
                 { "BookText": "JFK Assassination: freeway views", "Quickview": "ExStemmonsJFKFreeway?startOdd=False", "Pdf": "" },
                 { "BookText": "JFK Assassination: freeway signs in Dealey Plaza", "Quickview": "ExStemmonsJFKSigns?startOdd=True", "Pdf": "" },
-                { "BookText": "JFK Assassination: Zapruder film", "Quickview": "ExStemmonsJFKZapruder?startOdd=False", "Pdf": "" }
+                { "BookText": "JFK Assassination: Zapruder film", "Quickview": "ExStemmonsJFKZapruder?startOdd=False", "Pdf": "" },
+                { "BookText": "Chapter 1: Putting North Texas Style into Freeway Openings and Celebrations", "Quickview": "ChEvents?startOdd=False&pdfSize=13+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-01-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-01-20140803.pdf" },
+                { "BookText": "Chapter 7: Freeway Adventures in Dallas", "Quickview": "ChDallasFreewayAdventures?startOdd=False&pdfSize=5+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-07-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-07-20140803.pdf" }
+
 
             ]
         },

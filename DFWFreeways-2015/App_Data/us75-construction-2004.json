@@ -1,0 +1,95 @@
+﻿{
+    "folderPath": "",
+    "title":  "High Five construction 2004",
+    "pageHeader":
+    {
+        "title": "Construction of the High Five Interchange",
+        "subTitle": "November 2002",
+        "urlParentText": "US 75",
+        "lastUpdated": "June 1, 2015 (review)"
+    },
+    "map": "",
+    "text": "The High Five Interchange was completed in November 2005.",
+    "images":
+    [
+        {
+            "file": "high_five_31_grA_looking_N_along_75_2002-11-17_lres.jpg",
+            "highResolution": "high_five_31_grA_looking_N_along_75_2002-11-17_hres.jpg",
+            "caption": "Looking north along US 75",
+            "imageDate": "17-November-2002"
+        },
+        {
+            "file": "high_five_42_grA_looking_NNE_2002-11-17_lres.jpg",
+            "highResolution": "high_five_42_grA_looking_NNE_2002-11-17_hres.jpg",
+            "caption": "Looking north-northeast along US 75.",
+            "imageDate": "17-November-2002"
+        },
+        {
+            "file": "high_five_11_grA_looking_NE_framed_2002-11-17_lres.jpg",
+            "highResolution": "high_five_11_grA_looking_NE_framed_2002-11-17_hres.jpg",
+            "caption": "Looking northeast on the southwest side of the interchange.",
+            "imageDate": "17-November-2002"
+        },
+        {
+            "file": "high_five_12_grA_looking_NW_2002-11-17_lres.jpg",
+            "highResolution": "high_five_12_grA_looking_NW_2002-11-17_hres.jpg",
+            "caption": "Looking northwest",
+            "imageDate": "17-November-2002"
+        },
+        {
+            "file": "high_five_06_grA_looking_E_from_coit_2002-11-17_lres.jpg",
+            "highResolution": "high_five_06_grA_looking_E_from_coit_2002-11-17_hres.jpg",
+            "caption": "Looking east along the eastbound lanes of Interstate 635 (LBJ Freeway).",
+            "imageDate": "17-November-2002"
+        },
+        {
+            "file": "high_five_13_grA_looking_SW_at_SW_quadrant_2002-11-17_lres.jpg",
+            "highResolution": "high_five_13_grA_looking_SW_at_SW_quadrant_2002-11-17_hres.jpg",
+            "caption": "Looking southwest from the center of the interchange.",
+            "imageDate": "17-November-2002"
+        },
+        {
+            "file": "high_five_16_grA_looking_SW_at_SW_quadrant_2002-11-17_lres.jpg",
+            "highResolution": "high_five_16_grA_looking_SW_at_SW_quadrant_2002-11-17_hres.jpg",
+            "caption": "Looking southwest at the center of the interchange with the Interstate 635 eastbound lanes visible on the ground.",
+            "imageDate": "17-November-2002"
+        },
+        {
+            "file": "high_five_01_grA_looking_E_on_north_side_2002-11-17_lres.jpg",
+            "highResolution": "high_five_01_grA_looking_E_on_north_side_2002-11-17_hres.jpg",
+            "caption": "Looking east from the north-center of the interchange.",
+            "imageDate": "17-November-2002"
+        },
+        {
+            "file": "high_five_03_grA_looking_E_along_fwy_2002-11-17_lres.jpg",
+            "highResolution": "high_five_03_grA_looking_E_along_fwy_2002-11-17_hres.jpg",
+            "caption": "Looking east along Interstate 635 with the westbound main lanes on the right edge of the photo.",
+            "imageDate": "17-November-2002"
+        },
+        {
+            "file": "high_five_06_looking_SW_main_spans_grA_2002-11-17_lres.jpg",
+            "highResolution": "high_five_06_looking_SW_main_spans_grA_2002-11-17_hres.jpg",
+            "caption": "Looking southwest from the near-northeast side of the interchange.",
+            "imageDate": "17-November-2002"
+        },
+        {
+            "file": "high_five_08_looking_SW_main_spans_grA_2002-11-17_lres.jpg",
+            "highResolution": "high_five_08_looking_SW_main_spans_grA_2002-11-17_hres.jpg",
+            "caption": "Looking southwest from the near-northeast side of the interchange.",
+            "imageDate": "17-November-2002"
+        },
+        {
+            "file": "high_five_17_grA_looking_S_at_pier_2002-11-17_lres.jpg",
+            "caption": "This view looks south from the center of the interchange.",
+            "imageDate": "17-November-2002"
+        },
+        {
+            "file": "high_five_41_grA_segment_casting_yard_2002-11-17_lres.jpg",
+            "caption": "This view shows the casting yard for the bridge sections. The construction technique used to build the long main spans of the ramps is called the precast segmental technique.",
+            "imageDate": "17-November-2002"
+        }
+
+
+    ]
+
+}

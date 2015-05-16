@@ -1,0 +1,72 @@
+﻿{
+
+    "pageHeader":
+    {
+        "title": "Bush Turnpike",
+        "subTitle": "SH 190 and SH 161",
+        "lastUpdated": "June 1, 2015"
+    },
+
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties": [ { "AnchorText": "Irving", "AnchorUrl": "roadside-irving" } ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties":
+            [
+                { "AnchorText": "Westbound, Garland to Irving", "AnchorUrl": "driving-north" },
+                { "AnchorText": "Southbound, I-635 to I-20", "AnchorUrl": "driving-west" },
+                { "AnchorText": "Southbound, Irving", "AnchorUrl": "driving-irving" }
+
+            ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "Bush Turnpike", "Quickview": "ExBush?startOdd=False", "Pdf": "" },
+                { "BookText": "Chapter 6: Dallas Freeways", "Quickview": "ChDallasFreeways?startOdd=False&pdfSize=40+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-06-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-06-20140803.pdf" },
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties": [ 
+                { "AnchorText": "Grand Prairie right-of-way clearance, 2004", "AnchorUrl": "grand-prairie-row" },
+                { "AnchorText": "SH 183 Interchange, 2006", "AnchorUrl": "sh183" },
+                { "AnchorText": "Grand Prairie frontage roads, 2006", "AnchorUrl": "grand-prairie-frontage" },
+                { "AnchorText": "Main lanes, 2008", "AnchorUrl": "irving-main-lanes" },
+                { "AnchorText": "Main lanes in Grand Prairie, 2008", "AnchorUrl": "grand-prairie-main-lanes" }
+
+            ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "All Bush Turnpike aerials", "AnchorUrl": "all" },
+                { "AnchorText": "At I-30 Landry Highway", "AnchorUrl": "i30" },
+                { "AnchorText": "At SH 114", "AnchorUrl": "sh114" },
+                { "AnchorText": "At I-635", "AnchorUrl": "i635" },
+                { "AnchorText": "At I-35E", "AnchorUrl": "i35e" },
+                { "AnchorText": "Carrollton", "AnchorUrl": "carrollton" },
+                { "AnchorText": "At Dallas North Tollway", "AnchorUrl": "dnt" },
+                { "AnchorText": "Plano", "AnchorUrl": "plano" },
+                { "AnchorText": "At US 75", "AnchorUrl": "us75" }
+
+            ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [ ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+﻿{
+    "folderPath": "",
+    "title":  "US 75 photos Richardson Plano",
+    "pageHeader" :
+    {
+        "title": "Driving Views",
+        "subTitle" :  "Richardson and Plano",
+        "urlParentText": "US 75",
+        "lastUpdated": "June 1, 2015 (review only)"
+    },
+    "map": "75n_driving_n_of_635_400.png",
+    "text": "2015 status: For all this length, the inner shoulder has been converted into a pylon-separated HOV lane. Otherwise, the photos are mostly accurate.",
+    "images":
+        [
+                            {
+                                "file": "75n_20070310_IMG_4316_drivers_nb_at_midpark_950.jpg",
+                                "caption": "At Midpark",
+                                "imageDate": "10-March-2007",            
+                                "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The interior shoulder has been converted into a pylon-separated HOV lane." }
+                            },
+                            {
+                                "file": "75n_20070310_IMG_4318_drivers_nb_spring_valley_overpass_950.jpg",
+                                "caption": "On the Spring Valley overpass.",
+                                "imageDate": "10-March-2007",            
+                                "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The interior shoulder has been converted into a pylon-separated HOV lane." }
+                            },
+                            {
+                                "file": "75n_20070310_IMG_4320_drivers_nb_on_belt_line_overpass_950.jpg",
+                                "caption": "On the Belt Line overpass",
+                                "imageDate": "10-March-2007",            
+                                "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The interior shoulder has been converted into a pylon-separated HOV lane." }
+                            },
+                            {
+                                "file": "75n_20070310_IMG_4321_drivers_at_arapaho_950.jpg",
+                                "caption": "The Arapaho overpass is just ahead",
+                                "imageDate": "10-March-2007",            
+                                "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The interior shoulder has been converted into a pylon-separated HOV lane." }
+                            },
+                            {
+                                "file": "75n_20070310_IMG_4322_drivers_nb_at_collins_950.jpg",
+                                "caption": "At Collins Road",
+                                "imageDate": "10-March-2007",            
+                                "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The interior shoulder has been converted into a pylon-separated HOV lane." }
+                            },
+                            {
+                                "file": "75n_20070310_IMG_4323_dirvers_nb_approaching_campbell_950.jpg",
+                                "caption": "Approaching the Campbell overpass. Ahead is the area known as the Telecom Corridor. The high tech bust in 2001-2002 decimated the telecom industry and it has never really recovered. There is still a telecom presence in the area, but most of the vacant office space has been filled by non-telecom tenants, especially insurance firms. ",
+                                "imageDate": "10-March-2007",            
+                                "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The interior shoulder has been converted into a pylon-separated HOV lane." }
+                            },
+                            {
+                                "file": "75n_20070310_IMG_4326_drivers_at_gatalyn_parkway_950.jpg",
+                                "caption": "Gatalyn Parkway. This overpass was added after the main reconstruction in the early 1990s.",
+                                "imageDate": "10-March-2007",            
+                                "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The interior shoulder has been converted into a pylon-separated HOV lane." }
+                            },
+                            {
+                                "file": "75n_20070310_IMG_4328_drivers_approaching_190_950.jpg",
+                                "highResolution": "75n_20070310_IMG_4328_drivers_approaching_190_2661.jpg",
+                                "caption": "The interchange with the SH 190/Bush Turnpike is ahead.",
+                                "imageDate": "10-March-2007",            
+                                "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The interior shoulder has been converted into a pylon-separated HOV lane." }
+                            },
+                            {
+                                "file": "75n_20070310_IMG_4331_drivers_nb_at_190_950.jpg",
+                                "highResolution": "75n_20070310_IMG_4331_drivers_nb_at_190_3072.jpg",
+                                "imageDate": "10-March-2007",            
+                                "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The interior shoulder has been converted into a pylon-separated HOV lane." }
+                            },
+                            {
+                                "file": "75n_20070310_IMG_4332 _drivers_nb_at_190_950.jpg",
+                                "highResolution": "75n_20070310_IMG_4332 _drivers_nb_at_190_2048.jpg",
+                                "imageDate": "10-March-2007",            
+                                "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The interior shoulder has been converted into a pylon-separated HOV lane." }
+                            },
+                            {
+                                "file": "75n_20070310_IMG_4333_drivers_nb_at_15th_950.jpg",
+                                "caption": "This is the railroad crossing just north of the interchange with the Bush Turnpike. The narrow width underneath the overpass causes a major rush hour  bottleneck as all the vehicles coming off the Turnpike try to merge. In 2015 a project began to widen the ramps coming from the Bush Turnpike to minimize the bottleneck.",
+                                "imageDate": "10-March-2007",            
+                                "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The interior shoulder has been converted into a pylon-separated HOV lane." }
+                            },
+                            {
+                                "file": "75n_20070310_IMG_4335_drivers_nb_on_15th_overpass_950.jpg",
+                                "caption": "On the 15th Street overpass in Plano.",
+                                "imageDate": "10-March-2007"
+                            },
+                            {
+                                "file": "75n_20070310_IMG_4336_drivers_nb_at_park_950.jpg",
+                                "caption": "Approaching the Park overpass.",
+                                "imageDate": "10-March-2007"
+                            },
+                            {
+                                "file": "75n_20070310_IMG_4338_drivers_nb_at_parker_950.jpg",
+                                "caption": "At Parker. At the next exit, Spring Creek, a main lane is dropped providing 6 main lanes (3 each way) further north. In 2015 work is in progress to add the fourth lane in both directions.",
+                                "imageDate": "10-March-2007"
+                            },
+                            {
+                                "file": "75n_20070310_IMG_4339_drivers_nb_at_legacy_950.jpg",
+                                "caption": "At Legacy.",
+                                "imageDate": "10-March-2007"
+                            }
+
+
+        ]
+
+}

@@ -1,0 +1,65 @@
+﻿{
+    "folderPath": "",
+    "title":  "US 75 Dallas photos",
+    "pageHeader":
+    {
+        "title": "Driving Views",
+        "subTitle": "High Five Interchange",
+        "urlParentText": "US 75",
+        "lastUpdated": "June 1, 2015 (review only)"
+    },
+    "map": "75n_high_five_driving.png",
+    "text": "2015 status: These photos are still accurate. The paint on the ramps has faded and no longer looks as good as shown in these photos.",
+    "images":
+    [
+        {
+            "file": "75n_20070310_drivers_view_approaching_635_950_IMG_4304.jpg",
+            "caption": "Approaching the High Five from the south.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_view_approaching_635_950_IMG_4306.jpg",
+            "highResolution": "75n_20070310_drivers_view_approaching_635_2340_IMG_4306.jpg",
+            "caption": "",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_view_approaching_635_IMG_4307.jpg",
+            "caption": "",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_view_approaching_635_950_IMG_4308.jpg",
+            "highResolution": "75n_20070310_drivers_view_approaching_635_3072_IMG_4308.jpg",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_IMG_4399_at_high_five_950.jpg",
+            "highResolution": "75n_20070310_IMG_4399_at_high_five_3072.jpg",
+            "caption": "",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_view_at_635_IMG_4311.jpg",
+            "caption": "Underneath Interstate 635.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_view_past_635_IMG_4312.jpg",
+            "caption": "North of Interstate 635.",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_IMG_4400_drivers_high_five_950.jpg",
+            "imageDate": "10-March-2007"
+        },
+        {
+            "file": "75n_20070310_drivers_view_HOV_wishbone_n_of_635_IMG_4315.jpg",
+            "caption": "\"Wishbone\" HOV connection structure north of the interchange.",
+            "imageDate": "10-March-2007"
+        }
+
+
+    ]
+
+}

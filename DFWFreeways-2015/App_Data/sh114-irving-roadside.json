@@ -1,0 +1,131 @@
+﻿{
+    "folderPath": "",
+    "title": "SH 114 Irving photos",
+    "pageHeader":
+    {
+        "title": "Roadside Views",
+        "urlParentText": "SH 114",
+        "lastUpdated": "June 1, 2015"
+    },
+    "map": "114e_roadside.gif",
+    "text": "2015 status: At the east end of the freeway, Texas Stadium was demolished in 2010. In 2015 work began to add managed lanes on the inside median on this section of SH 114. Otherwise, the configuration and surrounding environment of these photos are mostly accurate.",
+    "images":
+    [
+        {
+            "file": "114_roadside_20080413_IMG_0671_texas_stadium.jpg",
+            "caption": "TX 114 branches off from TX 183 at Texas Stadium. This is the view at the branch point before the implosion of Texas Stadium in April 2010.",
+            "imageDate": "13-April-2008",
+			"imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Texas Stadium was demolished in 2010 and expansion of this interchange at SH 183 began in 2015." }
+        },
+        {
+            "file": "114_roadside_20080413_IMG_0675_texas_stadium_sign.jpg",
+            "caption": "A closer view of the sign. The sign has been modified in 2015 to have an electronic message board.",
+            "imageDate": "13-April-2008",
+			"imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Texas Stadium was demolished in 2010. The sign has been modified." }
+        },
+        {
+            "file": "114_roadside_20070428_IMG_6070_texas_stadium.jpg",
+            "highResolution": "114_roadside_20070428_IMG_6070_texas_stadium_2300.jpg",
+            "caption": "View of Texas Stadium from TX 114",
+            "imageDate": "28-April-2007",
+			"imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Texas Stadium was demolished in 2010." }
+        },
+        {
+            "file": "114_roadside_20070428_IMG_6072_e_of_12.jpg",
+            "highResolution": "114_roadside_20070428_IMG_6072_e_of_12_2300.jpg",
+            "caption": "Looking west toward the Loop 12 freeway ahead. At the time of this photo, all connections to Loop 12 were made via frontage roads. In October 2008 a $224 million construction contract was awarded to widen the freeway ahead to Riverside/Rochelle to 8 free lanes and 4 tolled lanes, with two new direct connection ramps to Loop 12.  The project was finished in July 2012. However, most of the new pavement is unused because the adjacent sections of freeway have not been widened.",
+            "imageDate": "28-April-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The interchange at SH 114 has been rebuilt with two new ramps added." }
+        },
+        {
+            "file": "114_at_12_20140126_5194-1050.jpg",
+            "highResolution": "114_at_12_20140126_5194-2560.jpg",
+            "caption": "SH 114 west of Loop 12. This view shows the widened section of SH 114, with enough pavement for 8 regular lanes and 4 managed lanes. The widening was completed in July 2012. In 2015 only 5 lanes are used because adjacent sections have not been widenend.",
+            "imageDate": "26-January-2014"
+        },        
+        {
+            "file": "20131003_dfw_4147-1200.jpg",
+            "highResolution": "20131003_dfw_4147-2560.jpg",
+            "caption": "SH 114 west of Loop 12. This view shows the unused pavment for the managed lanes. ",
+            "imageDate": "3-October-2013"
+        },
+        {
+            "file": "20131003_dfw_4155-1200.jpg",
+            "highResolution": "20131003_dfw_4155-2560.jpg",
+            "caption": "This view shows the DART light rail station on the north side of the freeway west of Loop 12. ",
+            "imageDate": "3-October-2013"
+        },        
+        {
+            "file": "114_roadside_20070428_IMG_6065_at_rr_w_of_12.jpg",
+            "highResolution": "114_roadside_20070428_IMG_6065_at_rr_w_of_12_2200.jpg",
+            "caption": "Looking west, west of Loop 12. The Las Colinas development is just ahead.",
+            "imageDate": "28-April-2007",
+			"imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "Work began in 2015 to add managed lanes in the median." }
+        },
+        {
+            "file": "114_roadside_20070428_IMG_6062 copy_at_riverside_rochelle.jpg",
+            "highResolution": "114_roadside_20070428_IMG_6062 copy_at_riverside_rochelle_2300.jpg",
+            "caption": "Looking northwest at Riverside-Rochelle",
+            "imageDate": "28-April-2007",
+			"imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "Work began in 2015 to add managed lanes in the median." }
+        },
+        {
+            "file": "114_roadside_20070428_IMG_6060_at_wingren.jpg",
+            "highResolution": "114_roadside_20070428_IMG_6060_at_wingren_2048.jpg",
+            "caption": "Looking northwest at Wingren",
+            "imageDate": "28-April-2007",
+			"imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "Work began in 2015 to add managed lanes in the median." }
+        },
+        {
+            "file": "114_roadside_20070428_IMG_6057_w_of_oconner.jpg",
+            "caption": "Looking west, west of O'Connor",
+            "imageDate": "28-April-2007"
+        },
+        {
+            "file": "114_roadside_20070428_IMG_6054_at_colwell.jpg",
+            "caption": "Looking westbound near Colwell. Here the freeway merges with the original TX 114 alignment (now Northwest Highway).",
+            "imageDate": "28-April-2007",
+			"imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "Work began in 2015 to add managed lanes in the median. A bridge for the DART light rail was built across this intersection." }
+        },
+        {
+            "file": "114_roadside_20070428_IMG_6053_at_walnut_hill.jpg",
+            "highResolution": "114_roadside_20070428_IMG_6053_at_walnut_hill_hires.jpg",
+            "caption": "Looking west at Walnut Hill",
+            "imageDate": "28-April-2007",
+			"imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "Work began in 2015 to add managed lanes in the median." }
+        },
+        {
+            "file": "114_roadside_20070428_IMG_6052_at_walnut_hill.jpg",
+            "highResolution": "114_roadside_20070428_IMG_6052_at_walnut_hill_hires.jpg",
+            "caption": "Looking west along the eastbound frontage road at Walnut Hill",
+            "imageDate": "28-April-2007",
+			"imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "Work began in 2015 to add managed lanes in the median." }
+        },
+        {
+            "file": "114_roadside_20070428_IMG_6048 _looking_w_at_macarthur.jpg",
+            "highResolution": "114_roadside_20070428_IMG_6048 _looking_w_at_macarthur_2048.jpg",
+            "caption": "Looking west at MacArthur. The intersection with 161-Toll can be seen in the distance. Connections are made via the frontage roads. Two orphan piers for a future connection ramp are visible.",
+            "imageDate": "28-April-2007",
+			"imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "Work began in 2015 to add managed lanes in the median." }
+        },
+        {
+            "file": "114_roadside_20070428_IMG_6045 _at_161.jpg",
+            "caption": "Near Belt Line, looking west. Here we can see that the frontage road ahead has not yet been built, but the design obviously anticipates its construction in the future.",
+            "imageDate": "28-April-2007",
+			"imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "Work began in 2015 to add managed lanes in the median." }
+        },
+        {
+            "file": "114_roadside_20070428_IMG_6044_at_beltline.jpg",
+            "caption": "Looking westbound from the Belt Line overpass.",
+            "imageDate": "28-April-2007",
+			"imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "Work began in 2015 to add a westbound managed lane." }
+        },
+        {
+            "file": "114_roadside_20070428_IMG_6036_at_freeport_pkwy.jpg",
+            "highResolution": "114_roadside_20070428_IMG_6036_at_freeport_pkwy_HIRES.jpg",
+            "caption": "Looking west at Freeport Parkway, with TX 121 (the entrance to DFW Airport) just ahead.",
+            "imageDate": "28-April-2007"
+        }
+    ]
+
+}

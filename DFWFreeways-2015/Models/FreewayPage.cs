@@ -11,14 +11,6 @@ namespace DFWFreeways.Models
     {
         [DataMember(Name = "pageHeader")]
         public PageHeader PageHeader { get; set; }
-        //[DataMember(Name = "Icon-shield")]
-        //public string IconShield { get; set; }
-        //[DataMember(Name = "Title")]
-        //public string Title { get; set; }
-        //[DataMember(Name = "Subtitle")]
-        //public string Subtitle { get; set; }
-        //[DataMember(Name = "LastUpdated")]
-        //public string LastUpdated { get; set; }
         [DataMember(Name = "Map")]
         public string Map { get; set; }
         [DataMember(Name = "Photo")]
@@ -28,6 +20,7 @@ namespace DFWFreeways.Models
         public string HighwayRouting { get; set; }
         [DataMember(Name = "Features")]
         public List<Feature> Features { get; set; }
+        public string FolderPath { get; set; } 
     }
 
     [DataContract(Name = "photo")]
@@ -64,5 +57,15 @@ namespace DFWFreeways.Models
         public string QuickView { get; set; }
         [DataMember(Name = "Pdf")]
         public string Pdf { get; set; }
+        [DataMember(Name = "video")]
+        public string Video { get; set; }
+        [DataMember(Name = "videoLinkSmall")]
+        public string VideoLinkSmall { get; set; }
+        [DataMember(Name = "videoLinkLarge")]
+        public string VideoLinkLarge { get; set; }
+        [DataMember(Name = "videoLinkSmallText")]
+        public string VideoLinkSmallText { get; set; }
+        [DataMember(Name = "videoLinkLargeText")]
+        public string VideoLinkLargeText { get; set; }
     }
 }

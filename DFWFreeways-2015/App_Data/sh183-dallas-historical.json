@@ -1,0 +1,32 @@
+﻿{
+    "folderPath": "",
+    "title": "SH 183 historical items",
+    "pageHeader":
+    {
+        "title": "Historical Images",
+        "urlParentText": "SH 183 Dallas",
+        "lastUpdated": "June 1, 2015 (create)"
+    },
+    "map": "",
+    "text": "",
+    "images":
+    [
+        {
+            "file": "IMG_3624_196010_183_construction.jpg",
+            "caption": "TX 183 was featured on the cover of the 1960 issue of Dallas magazine, showing construction in progress between the Trinity River and I-35E.\r\n\t\t\t\t\t"
+        },
+        {
+            "file": "183_location_of_tunnel.jpg",
+            "caption": "TX 183 went underneath the main north-south runway at the Greater Southwest International Airport. This aerial image shows the remains of runway and the location of the tunnel.\r\n\t\t\t\t\t"
+        },
+        {
+            "file": "183_19830528_tunnel_smoothed_DSC00006_950.jpg",
+            "caption": "View of the tunnel."
+        },
+        {
+            "file": "183_19880510_explosives_to_destroy_tunnel_DSC00012.jpg",
+            "caption": "This May 1988 article shows explosive destruction of the tunnel."
+        }
+    ]
+
+}

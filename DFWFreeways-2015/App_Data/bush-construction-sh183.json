@@ -1,0 +1,70 @@
+﻿{
+    "folderPath": "",
+    "title": "Bush Turnpike construction photos",
+    "pageHeader":
+    {
+        "title": "Construction of the SH 183 Interchange",
+        "urlParentText": "Bush Turnpike",
+        "lastUpdated": "June 1, 2015 (review only)"
+    },
+    "map": "",
+    "text": "The north half of the interchange opened in 2000. Construction of the south half, shown in these photos, was completed in 2008. The Bush Turnpike main lanes south of the interchange opened in August 2009.",
+    "images":
+    [
+        {
+            "file": "161_20060716_IMG_1485_looking_se.jpg",
+            "highResolution": "161_20060716_IMG_1485_looking_se_hires.jpg",
+            "caption": "Looking east along TX 183.",
+            "imageDate": "16-July-2006"
+        },
+        {
+            "file": "161_20060716_IMG_1486_looking_e.jpg",
+            "highResolution": "161_20060716_IMG_1486_looking_e_hires.jpg",
+            "caption": "Looking east along TX 183",
+            "imageDate": "16-July-2006"
+        },
+        {
+            "file": "161_20060716_IMG_1488_ramp.jpg",
+            "caption": "Looking northeast",
+            "imageDate": "16-July-2006"
+        },
+        {
+            "file": "161_20070716_IMG_1496_looking_north.jpg",
+            "caption": "Looking north",
+            "imageDate": "16-July-2006"
+        },
+        {
+            "file": "161_20060716_IMG_1489_looking_west.jpg",
+            "caption": "Looking west",
+            "imageDate": "16-July-2006"
+        },
+        {
+            "file": "161_20070716_IMG_1490_looking_ne_161_main_lanes.jpg",
+            "caption": "Looking northeast, showing a gap in the structure for the Bush Turnpike main lanes.",
+            "imageDate": "16-July-2006"
+        },
+        {
+            "file": "161_20060716_IMG_1491_looking_e_along_183.jpg",
+            "caption": "Looking east along TX 183",
+            "imageDate": "16-July-2006"
+        },
+        {
+            "file": "161_20060716_IMG_1500_looking_north_northeast.jpg",
+            "caption": "Looking north-northeast on the southwest side of the interchange.",
+            "imageDate": "16-July-2006"
+        },
+        {
+            "file": "161_20060716_IMG_1505_looking_north_on_south_side.jpg",
+            "caption": "Looking north along the main lanes of the Bush Turnpike",
+            "imageDate": "16-July-2006"
+        },
+        {
+            "file": "161_20070716_IMG_1501_looking_south_south_side.jpg",
+            "caption": "Looking south on the south side of the interchange. The Bush Turnpike main lanes opened in 2009.",
+            "imageDate": "16-July-2006"
+        }
+
+
+    ]
+
+}

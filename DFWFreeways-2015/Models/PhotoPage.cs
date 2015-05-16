@@ -13,8 +13,8 @@ namespace DFWFreeways.Models
         public PageHeader PageHeader { get; set; }
         [DataMember(Name = "folderPath")]
         public string FolderPath { get; set; }
-        //[DataMember(Name = "title")]
-        //public string Title { get; set; }
+        [DataMember(Name = "title")]
+        public string Title { get; set; }
         public string Shield { get; set; }
         //[DataMember(Name = "displayNumber")]
         //public string DisplayNumber { get; set; }

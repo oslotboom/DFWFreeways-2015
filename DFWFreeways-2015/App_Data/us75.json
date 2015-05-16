@@ -1,0 +1,74 @@
+﻿{
+
+    "pageHeader":
+    {
+        "title": "US 75",
+        "subTitle": "Central Expressway",
+        "lastUpdated": "June 1, 2015"
+    },
+    "Map": "",
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "Central Expressway is top freeway in North Texas in terms of the access it provides and the traffic count it serves.",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties":
+            [
+                { "AnchorText": "High Five Interchange", "AnchorUrl": "roadside-high-five" },
+                { "AnchorText": "Dallas", "AnchorUrl": "roadside-dallas" },
+                { "AnchorText": "Richardson and Plano", "AnchorUrl": "roadside-richardson-plano" },
+                { "AnchorText": "Original Freeway, downtown", "AnchorUrl": "roadside-downtown" }
+            ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties":
+            [
+                { "AnchorText": "Dallas", "AnchorUrl": "driving-dallas" },
+                { "AnchorText": "High Five Interchange", "AnchorUrl": "driving-high-five" },
+                { "AnchorText": "Richardson and Plano", "AnchorUrl": "driving-richardson-plano" }
+            ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "Chapter 3: Central Expressway, the Original", "Quickview": "ChCentralOriginal?startOdd=False&pdfSize=11+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-03-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-03-20140803.pdf" },
+                { "BookText": "Chapter 4: Central Expressway", "Quickview": "ChCentralModern?startOdd=True&pdfSize=9+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-04-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-04-20140803.pdf" },
+                { "BookText": "Chapter 1: Putting North Texas Style into Freeway Openings and Celebrations", "Quickview": "ChEvents?startOdd=False&pdfSize=13+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-01-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-01-20140803.pdf" },
+                { "BookText": "Chapter 7: Freeway Adventures in Dallas", "Quickview": "ChDallasFreewayAdventures?startOdd=False&pdfSize=5+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-07-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-07-20140803.pdf" }
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties":
+            [
+                { "AnchorText": "High Five Construction, November 2002", "AnchorUrl": "construction-2002-nov" },
+                { "AnchorText": "High Five Construction, 2004", "AnchorUrl": "construction-2004" }
+            ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "All US 75 aerials", "AnchorUrl": "all" },
+                { "AnchorText": "High Five Interchange", "AnchorUrl": "i635" },
+                { "AnchorText": "Dallas, South of Loop 12", "AnchorUrl": "dallas" },
+                { "AnchorText": "Mockingbird to Loop 12", "AnchorUrl": "loop12" },
+                { "AnchorText": "Bush Turnpike and Telecom Corridor", "AnchorUrl": "bush" }
+            ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties": [ { "AnchorText": "Photos", "AnchorUrl": "historical" } ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [
+                { "video": "Oct 2006 High Five raw video, 1:17", "videoLinkSmallText":  "11MB", "videoLinkSmall":  "high_five_raw_video_20070819_360x240_good90.wmv", "videoLinkLargeText": "27MB", "videoLinkLarge": "high_five_raw_video_20070819_720x480_good90.wmv" },
+                { "video": "March 2005 High Five construction at final stage, 3:18", "videoLinkSmallText":  "44MB", "videoLinkSmall":  "high_five_2005-03-20_best97_360x240.wmv", "videoLinkLargeText": "78MB", "videoLinkLarge": "high_five_2005-03-20_best93_720x480.wmv" }
+            ]
+        }
+    ]
+}

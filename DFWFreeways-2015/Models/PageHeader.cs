@@ -36,5 +36,6 @@ namespace DFWFreeways.Models
             UrlParentText = urlParentText;
             LastUpdated = lastUpdated;
         }
+
     }
 }

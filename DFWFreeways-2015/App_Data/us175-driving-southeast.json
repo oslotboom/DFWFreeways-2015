@@ -1,0 +1,86 @@
+﻿{
+    "folderPath": "",
+    "title": "US 175 Dallas photos",
+    "pageHeader":
+    {
+        "title": "Driving Views",
+        "subTitle": "Southeast Dallas County",
+        "urlParentText": "US 175",
+        "lastUpdated": "June 1, 2015 (review)"
+    },
+    "map": "175_driving_500.gif",
+    "text": "2015 status: Changes have been minimal since these photos were taken and these photos are still up-to-date.",
+    "images":
+    [
+        {
+            "file": "IMG_5050_175_drivers_at_county_line_950_20070415.jpg",
+            "caption": "At the Dallas county line",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5051_drivers_950_20070415.jpg",
+            "caption": "",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5053_175_drivers_950_20070415.jpg",
+            "caption": "",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5054_175_drivers_950_20070415.jpg",
+            "caption": "",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5055_175_drivers_950_20070415.jpg",
+            "caption": "",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5056_175_drivers_950_20070415.jpg",
+            "caption": "",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5058_175_drivers_950_20070415.jpg",
+            "highResolution": "IMG_5058_175_drivers_2592_20070415.jpg",
+            "caption": "",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5060_195_drivers_edd_road_950_20070415.jpg",
+            "highResolution": "IMG_5060_195_drivers_edd_road_2048_20070415.jpg",
+            "caption": "",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5061_175_drivers_950_20070415.jpg",
+            "caption": "",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5062_175_drivers_950_20070415.jpg",
+            "caption": "",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5063_175_drivers_20070415.jpg",
+            "caption": "",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5065_175_drivers_approaching_635_950_20070415.jpg",
+            "highResolution": "IMG_5065_175_drivers_approaching_635_3072_20070415.jpg",
+            "caption": "",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "IMG_5066_175_drivers_at_20_950_20070415.jpg",
+            "highResolution": "IMG_5066_175_drivers_at_20_2048_20070415.jpg",
+            "caption": "",
+            "imageDate": "15-April-2007"
+        }
+    ]
+
+}

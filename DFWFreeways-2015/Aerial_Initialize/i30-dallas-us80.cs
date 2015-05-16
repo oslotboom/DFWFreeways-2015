@@ -7,6 +7,10 @@ namespace DFWFreeways.Models
 {
     public partial class AerialGalleryList
     {
+        public static List<AerialGalleryItem> us80_i30_images()
+        {
+            return i30_dallas_us80_images();
+        }
 
         public static List<AerialGalleryItem> i30_dallas_us80_images()
         {
