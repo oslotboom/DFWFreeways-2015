@@ -1,0 +1,57 @@
+﻿{
+    "folderPath": "",
+    "title": "Margaret Hunt Hill bridge right-of-way clearance",
+    "pageHeader":
+    {
+        "title": "Margaret Hunt Hill bridge Right-of-way Clearance",
+        "urlParentText": "Woodall Rodgers Freeway",
+        "lastUpdated": "June 1, 2015 (review and update captions)"
+    },
+    "map": "366_clearance.png",
+    "text": "Surely many folks with memories of the inside of the jail were glad to see it cleared.",
+    "images":
+    [
+        {
+            "file": "366_20061028_kays_building_front_view_wide_950_IMG_2293.jpg",
+            "highResolution": "366_20061028_kays_building_front_view_wide_2880_IMG_2293.jpg",
+            "caption": "This is the Suzanne L. Kays detention center as viewed from the Spur 366 right-of-way. The freeway extension proceeded straight ahead, requiring demolition of the building.",
+            "imageDate": "28-Oct-2006"
+        },
+        {
+            "file": "366_20061028_kays_building_front_view_950_IMG_2286.jpg",
+            "highResolution": "366_20061028_kays_building_front_view_2048_IMG_2286.jpg",
+            "caption": "A closer view of the building.",
+            "imageDate": "28-Oct-2006"
+        },
+        {
+            "file": "366_20061028_kays_building_front_view_close_950_IMG_2294.jpg",
+            "caption": "The building entrance",
+            "imageDate": "28-Oct-2006"
+        },
+        {
+            "file": "366_20061028_kays_building_plaque_950_IMG_2295.jpg",
+            "highResolution": "366_20061028_kays_plaque_1600_IMG_2295.jpg",
+            "caption": "The building is named for Suzanne Lee Kays, a Dallas County deputy who died in the line of duty on January 4, 1989, six days after graduating from the academy.",
+            "imageDate": "28-Oct-2006"
+        },
+        {
+            "file": "366_20061028_kays_building_jail_sign_IMG_2296.jpg",
+            "caption": "Directional sign to the jail.",
+            "imageDate": "28-Oct-2006"
+        },
+        {
+            "file": "IMG_6111_366_bridge_fuel_station_on_beckley_950_20070429.jpg",
+            "caption": "Fuel station on Beckley, on the west side of the Trinity River",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "IMG_6112_366_bridge_structure_on_beckley_950_20070429.jpg",
+            "caption": "Structure along Beckley",
+            "imageDate": "29-April-2007"
+        }
+
+
+
+    ]
+
+}

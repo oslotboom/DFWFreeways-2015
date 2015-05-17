@@ -6,7 +6,7 @@
         "subTitle": "SH 190 and SH 161",
         "lastUpdated": "June 1, 2015"
     },
-
+    "Title": "Bush Turnpike",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
     "Text": "",
     "Features":
@@ -36,11 +36,11 @@
         {
             "FeatureType": "Construction",
             "FeatureProperties": [ 
-                { "AnchorText": "Grand Prairie right-of-way clearance, 2004", "AnchorUrl": "grand-prairie-row" },
-                { "AnchorText": "SH 183 Interchange, 2006", "AnchorUrl": "sh183" },
-                { "AnchorText": "Grand Prairie frontage roads, 2006", "AnchorUrl": "grand-prairie-frontage" },
-                { "AnchorText": "Main lanes, 2008", "AnchorUrl": "irving-main-lanes" },
-                { "AnchorText": "Main lanes in Grand Prairie, 2008", "AnchorUrl": "grand-prairie-main-lanes" }
+                { "AnchorText": "Grand Prairie right-of-way clearance, 2004", "AnchorUrl": "construction-grand-prairie-row" },
+                { "AnchorText": "SH 183 Interchange, 2006", "AnchorUrl": "construction-sh183" },
+                { "AnchorText": "Grand Prairie frontage roads, 2006", "AnchorUrl": "construction-grand-prairie-frontage" },
+                { "AnchorText": "Main lanes, 2008", "AnchorUrl": "construction-irving-main-lanes" },
+                { "AnchorText": "Main lanes in Grand Prairie, 2008", "AnchorUrl": "construction-grand-prairie-main-lanes" }
 
             ]
         },

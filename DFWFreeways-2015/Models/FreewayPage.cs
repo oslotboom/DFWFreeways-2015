@@ -11,6 +11,8 @@ namespace DFWFreeways.Models
     {
         [DataMember(Name = "pageHeader")]
         public PageHeader PageHeader { get; set; }
+        [DataMember(Name = "Title")]
+        public string Title { get; set; }
         [DataMember(Name = "Map")]
         public string Map { get; set; }
         [DataMember(Name = "Photo")]

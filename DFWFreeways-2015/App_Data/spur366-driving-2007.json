@@ -1,0 +1,66 @@
+﻿{
+    "folderPath": "",
+    "title": "Woodall Rodgers Freeway photos",
+    "pageHeader":
+    {
+        "title": "Driving Photos, Eastbound in 2007",
+        "urlParentText": "Woodall Rodgers Freeway",
+        "lastUpdated": "June 1, 2015 (review and update captions)"
+    },
+    "map": "366_driving.png",
+    "text": "2015 status: The trench was covered by the deck for Klyde Warren park in 2009 and 2010. The west end of the freeway was extended for the Margaret Hunt Hill bridge.",
+    "images":
+    [
+        {
+            "file": "IMG_7286_366_driving_start_20070602.jpg",
+            "caption": "Entering the freeway at its west end at Industrial Boulevard",
+            "imageDate": "02-June-2007"
+        },
+        {
+            "file": "IMG_7287_366_driving_w_of_35e_20070602.jpg",
+            "imageDate": "02-June-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This on-ramp no longer exists due to the westward extension of the freeway." }
+        },
+        {
+            "file": "IMG_7289_366_driving_approaching_west_end_20070602.jpg",
+            "imageDate": "02-June-2007"
+        },
+        {
+            "file": "IMG_7290_366_driving_west_end_20070602.jpg",
+            "imageDate": "02-June-2007"
+        },
+        {
+            "file": "IMG_7292_366_driving_field_griffin_exit_20070602.jpg",
+            "imageDate": "02-June-2007"
+        },
+        {
+            "file": "IMG_7293_366_driving_descending_20070602.jpg",
+            "imageDate": "02-June-2007"
+        },
+        {
+            "file": "IMG_7294_366_driving_trench_20070602.jpg",
+            "imageDate": "02-June-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Klyde Warren Park was built above the freeway, opening in 2012." }
+
+        },
+        {
+            "file": "IMG_7296_366_driving_ascending_20070602.jpg",
+            "imageDate": "02-June-2007"
+        },
+        {
+            "file": "IMG_7298_366_driving_i45_exit_20070602.jpg",
+            "imageDate": "02-June-2007"
+        },
+        {
+            "file": "IMG_7299_366_driving_approaching_i45_exit_20070602.jpg",
+            "imageDate": "02-June-2007"
+        },
+        {
+            "file": "IMG_7300_366_driving_20070602.jpg",
+            "caption": "The exit ramp to US 75 Central Expressway has a tight radius ramp with no shoulder.",
+            "imageDate": "02-June-2007"
+        }
+
+    ]
+
+}

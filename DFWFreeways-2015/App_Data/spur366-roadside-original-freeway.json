@@ -1,0 +1,86 @@
+﻿{
+    "folderPath": "",
+    "title": "Woodall Rodgers Freeway photos, 2006",
+    "pageHeader":
+    {
+        "title": "Roadside Photos, 2006",
+        "subTitle": "For historical reference",
+        "urlParentText": "Woodall Rodgers Freeway",
+        "lastUpdated": "June 1, 2015 (review and update captions)"
+    },
+    "map": "366_roadside.png",
+    "text": "Since these photos were taken, Klyde Warren Park and the Margaret Hunt Hill bridge were built, both opening in 2012. As indicated in the captions, most of these images are obsolete and now serve as a historical reference of the original freeway.",
+    "images":
+    [
+        {
+            "file": "IMG_2398_366_st_paul_950_20061118.jpg",
+            "highResolution": "IMG_2398_366_st_paul_2048_20061118.jpg",
+            "caption": "Looking east at St. Paul. The freeway here was covered with the deck for Klyde Warren Park.",
+            "imageDate": "18-Nov-2006",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Klyde Warren Park was built over the freeway at this location." }
+
+        },
+        {
+            "file": "IMG_2400_366_looking_into_trench_st_paul_950_20061118.jpg",
+            "highResolution": "IMG_2400_366_looking_into_trench_st_paul_2048_20061118.jpg",
+            "caption": "At St. Paul, looking northeast from the edge of the trench.",
+            "imageDate": "18-Nov-2006",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Klyde Warren Park was built over the freeway at this location." }
+        },
+        {
+            "file": "IMG_2402_366_st_paul_exit_950_20061118.jpg",
+            "highResolution": "IMG_2402_366_st_paul_exit_2048_20061118.jpg",
+            "caption": "The exit ramp just east of St. Paul. This ramp was removed.",
+            "imageDate": "18-Nov-2006",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Klyde Warren Park was built over the freeway at this location and the ramp was removed." }
+        },
+        {
+            "file": "IMG_2387_366_pearl_950_20061118.jpg",
+            "highResolution": "IMG_2387_366_pearl_2592_20061118.jpg",
+            "caption": "Looking east at Pearl, which is the east end of the trenched section. The freeway grade is steep going from the trench to the elevated section to the east: 8% on the down grade, and 7% on the up grade.",
+            "imageDate": "18-Nov-2006"
+        },
+        {
+            "file": "IMG_2394_366_office_construction_640_20061118.jpg",
+            "caption": "The Hunt Oil headquarters was under construction at Akard in 2006.",
+            "imageDate": "18-Nov-2006"
+        },
+        {
+            "file": "IMG_2391_366_west_end_950_20061118.jpg",
+            "caption": "Elevated structure and connection ramps at the I-35E interchange, on the southeast side looking northwest.",
+            "imageDate": "18-Nov-2006"
+        },
+        {
+            "file": "366_20061028_westbound_terminus_at_industrial_950IMG_2289.jpg",
+            "highResolution": "366_20061028_westbound_terminus_at_industrial_3042_IMG_2289.jpg",
+            "caption": "This is the original westbound terminus of the freeway at Riverfront Boulevard, which was Industrial Boulevard at the time of this photo. The freeway was extended westward, opening in March 2012.",
+            "imageDate": "28-Oct-2006",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The freeway was extended westward to the Margaret Hunt Hill Bridge." }
+        },
+        {
+            "file": "366_20061028_westbound_at_industrial_950_IMG_2292.jpg",
+            "highResolution": "366_20061028_westbound_at_industrial_2877_IMG_2292.jpg",
+            "caption": "A closer view of the original westbound terminus at Industrial.",
+            "imageDate": "28-Oct-2006",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The freeway was extended westward to the Margaret Hunt Hill Bridge." }
+        },
+        {
+            "file": "366_20061028_kays_building_front_view_wide_950_IMG_2293.jpg",
+            "highResolution": "366_20061028_kays_building_front_view_wide_2880_IMG_2293.jpg",
+            "caption": "This view is on the Spur 366 right-of-way, looking west in the direction of the extension. The Suzanne L. Kays Detention Center was demolished.",
+            "imageDate": "28-Oct-2006",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The freeway was extended westward to the Margaret Hunt Hill Bridge." }
+        },
+        {
+            "file": "366_20061028_eastbound_start_at_industrial_950_IMG_2287.jpg",
+            "highResolution": "366_20061028_eastbound_start_at_industrial_2592_IMG_2287.jpg",
+            "caption": "This is the eastbound start of the freeway at Riverfront.",
+            "imageDate": "28-Oct-2006",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The freeway was extended westward to the Margaret Hunt Hill Bridge and this entrance no longer exists." }
+        }
+
+
+
+    ]
+
+}

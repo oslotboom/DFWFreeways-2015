@@ -171,6 +171,11 @@ namespace DFWFreeways.Models
                 case "bush_dnt": info = new string[] { "Bush Turnpike at the Dallas North Tollway", "", "Bush Turnpike", "June 1, 2015" }; break;
                 case "bush_plano": info = new string[] { "Bush Turnpike in Plano and Richardson", "", "Bush Turnpike", "June 1, 2015" }; break;
                 case "bush_us75": info = new string[] { "Bush Turnpike at US 75 Central Expressway", "", "Bush Turnpike", "June 1, 2015" }; break;
+                case "spur366_all": info = new string[] { "Woodall Rodgers Freeway All Aerials", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)" }; break;
+                case "spur366_margaret_hunt_hill_bridge": info = new string[] { "Margaret Hunt Hill Bridge", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)" }; break;
+                case "spur366_bridge_construction": info = new string[] { "Margaret Hunt Hill Bridge Construction", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)" }; break;
+                case "spur366_2012": info = new string[] { "Klyde Warren Park Nearly Complete", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)" }; break;
+                case "spur366_pre_klyde_warren": info = new string[] { "Before Klyde Warren Park", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)" }; break;
 
             }
             return info;
@@ -192,6 +197,9 @@ namespace DFWFreeways.Models
                 case "sh114_irving_diamond": text = "All these photos are now obsolete due to the implosion of Texas Stadium in 2010, expansion of the freeways and TxDOT's construction staging yard at the stadium site. TxDOT now calls the area the Diamond Interchange, although I have not heard any other organization use that name."; break;
                 case "bush_carrollton": text = "The section of the Bush Turnpike through Carrollton was the second most controversial freeway in the ranking of North Texas freeway controversies. See the Bush Turnpike book excerpt and Chapter 2 for details"; break;
                 case "bush_i30": text = "The section of the Bush Turnpike through the neighborhood north of I-30 was the third most controversial freeway in the ranking of North Texas freeway controversies. See the Bush Turnpike book excerpt and Chapter 2 for details"; break;
+                case "spur366_bridge_construction": text = "Construction was just underway at the time of this June 2009 photo. The bridge opened in March 2012."; break;
+                case "spur366_2012": text = "Klyde Warren Park opened in October 2012."; break;
+                case "spur366_pre_klyde_warren": text = "Klyde Warren Park opened in October 2012 on a deck over the trenched section of the freeway. There has also been new development along the freeway since these photos were taken, including Museum Tower, the Perot Museum, and Hunt Oil Headquarters."; break;
             }
             return text;
         }

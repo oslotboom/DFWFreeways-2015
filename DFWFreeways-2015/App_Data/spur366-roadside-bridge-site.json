@@ -1,0 +1,52 @@
+﻿{
+    "folderPath": "",
+    "title": "Site of the Margaret Hunt Hill Bridge, 2007",
+    "pageHeader":
+    {
+        "title": "Site of the Margaret Hunt Hill Bridge, 2007",
+        "urlParentText": "Woodall Rodgers Freeway",
+        "lastUpdated": "June 1, 2015 (review only)"
+    },
+    "map": "366_bridge_official_map.gif",
+    "text": "",
+    "images":
+    [
+        {
+            "file": "366_20070602_surveyors_markers_west_levee_IMG_7274.jpg",
+            "caption": "Surveyor's stakes on the west levee",
+            "imageDate": "02-June-2007"
+        },
+        {
+            "file": "366_20070602_west_levee_looking_s_IMG_7283.jpg",
+            "caption": "Looking south along the west levee, showing more surveyor's stakes on the inside of the levee",
+            "imageDate": "02-June-2007"
+        },
+        {
+            "file": "366_20070602_looking_e_from_w_levee_IMG_7278.jpg",
+            "caption": "Looking east with the bridge path straight ahead",
+            "imageDate": "02-June-2007"
+        },
+        {
+            "file": "366_20070602_looking_e_from_bridge_IMG_7272.jpg",
+            "caption": "Looking from the Continental Street bridge, with the Trinity River in the foreground.",
+            "imageDate": "02-June-2007"
+        },
+        {
+            "file": "366_20070602_looking_east_at_freeway_end_IMG_7270.jpg",
+            "caption": "This shows the original terminus of the freeway at Industrial Boulevard, prior to the construction of the Margaret Hunt Hill bridge.",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "IMG_6123_366_trinity_river_20070429.jpg",
+            "caption": "This is the Trinity River at the bridge location. The Margaret Hunt Hill bridge now crosses at the location of the dead tree on the left bank.",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "366_20070602_on_east_levee_looking_south_IMG_7266.jpg",
+            "caption": "This looks south along the eastern levee where the bridge was built.",
+            "imageDate": "02-June-2007"
+        }
+
+    ]
+
+}

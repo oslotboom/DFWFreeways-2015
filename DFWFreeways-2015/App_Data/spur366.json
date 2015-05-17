@@ -1,0 +1,73 @@
+﻿{
+
+    "pageHeader":
+    {
+        "title": "Spur 366",
+        "subTitle": "Woodall Rodgers Freeway",
+        "lastUpdated": "June 1, 2015"
+    },
+    "Title": "Woodall Rodgers Freeway, Spur 366",
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties":
+            [
+                { "AnchorText": "Bridge Opening Celebration", "AnchorUrl": "roadside-bridge-celebration" },
+                { "AnchorText": "Klyde Warren Park", "AnchorUrl": "roadside-klyde-warren-park" },
+                { "AnchorText": "2006 freeway views, before the park and bridge", "AnchorUrl": "roadside-original-freeway" },
+                { "AnchorText": "Bridge site, before construction", "AnchorUrl": "roadside-bridge-site" },
+                { "AnchorText": "Buildings cleared for the bridge", "AnchorUrl": "roadside-bridge-clearance"}
+
+            ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties":
+            [
+                { "AnchorText": "Before Klyde Warren Park", "AnchorUrl": "driving-2007" }
+            ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "Woodall Rodgers Freeway", "Quickview": "ExWoodallRodgers?startOdd=False", "Pdf": "" },
+                { "BookText": "Chapter 6: Dallas Freeways", "Quickview": "ChDallasFreeways?startOdd=False&pdfSize=40+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-06-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-06-20140803.pdf" },
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties":
+            [
+                { "AnchorText": "Margaret Hunt Hill Bridge", "AnchorUrl": "construction-bridge" },
+                { "AnchorText": "Klyde Warren Park", "AnchorUrl": "construction-park" }
+            ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "All Spur 366 aerials", "AnchorUrl": "all" },
+                { "AnchorText": "Margaret Hunt Hill Bridge", "AnchorUrl": "margaret-hunt-hill-bridge" },
+                { "AnchorText": "Bridge, construction just starting", "AnchorUrl": "bridge-construction" },
+                { "AnchorText": "Before Klyde Warren Park", "AnchorUrl": "pre-klyde-warren" },
+                { "AnchorText": "Klyde Warren Park nearly complete", "AnchorUrl": "2012" }
+
+            ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [ 
+                                { "video": "July 2007 Overview and Drive-Through, 2:49", "videoLinkSmallText":  "27MB", "videoLinkSmall":  "366_360x240_best90_sharpened.wmv", "videoLinkLargeText": "70MB", "videoLinkLarge": "366_720x480_best90_sharpened.wmv" }
+
+            ]
+        }
+    ]
+}

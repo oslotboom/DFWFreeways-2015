@@ -173,6 +173,11 @@
     <Compile Include="Aerial_Initialize\sh114-bush.cs" />
     <Compile Include="Aerial_Initialize\sh114-las-colinas.cs" />
     <Compile Include="Aerial_Initialize\sh183-diamond.cs" />
+    <Compile Include="Aerial_Initialize\spur366-all.cs" />
+    <Compile Include="Aerial_Initialize\spur366-bridge-construction.cs" />
+    <Compile Include="Aerial_Initialize\spur366-bridge.cs" />
+    <Compile Include="Aerial_Initialize\spur366-pre-klyde-warren.cs" />
+    <Compile Include="Aerial_Initialize\spur366_2012.cs" />
     <Compile Include="Aerial_Initialize\us75-bush.cs" />
     <Compile Include="Aerial_Initialize\us75-dallas.cs" />
     <Compile Include="Aerial_Initialize\us75-loop12.cs" />
@@ -225,6 +230,10 @@
     <Content Include="App_Data\sh114-irving.json" />
     <Content Include="App_Data\sh114-irving-roadside.json" />
     <None Include="App_Data\sh183-dallas-driving-dallas.json" />
+    <None Include="App_Data\spur366-roadside-bridge-clearance.json" />
+    <Content Include="App_Data\spur366-roadside-bridge-site.json" />
+    <Content Include="App_Data\spur366-roadside-klyde-warren-park.json" />
+    <None Include="App_Data\spur366-roadside-original-freeway.json" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -272,6 +281,11 @@
     <Content Include="App_Data\sh183-dallas-driving-irving.json" />
     <Content Include="App_Data\sh183-dallas-roadside.json" />
     <Content Include="App_Data\sh183-dallas-historical.json" />
+    <Content Include="App_Data\spur366.json" />
+    <Content Include="App_Data\spur366-roadside-bridge-celebration.json" />
+    <Content Include="App_Data\spur366-construction-park.json" />
+    <Content Include="App_Data\spur366-construction-bridge.json" />
+    <Content Include="App_Data\spur366-driving-2007.json" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
