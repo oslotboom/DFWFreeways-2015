@@ -40,6 +40,7 @@
                 { "AnchorText": "At Bush Turnpike", "AnchorUrl": "bush" },
                 { "AnchorText": "At I-35E Stemmons Freeway", "AnchorUrl": "i35e" },
                 { "AnchorText": "Farmers Branch, Original Design", "AnchorUrl": "farmers-branch" },
+                { "AnchorText": "At Preston Road, Original Design", "AnchorUrl": "preston" },
                 { "AnchorText": "At the Dallas North Tollway", "AnchorUrl": "dnt" },
                 { "AnchorText": "Garland", "AnchorUrl": "garland" },
                 { "AnchorText": "At I-30", "AnchorUrl": "i30" },

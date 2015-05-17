@@ -138,6 +138,11 @@
     <Compile Include="Aerial_Initialize\bush-carrollton.cs" />
     <Compile Include="Aerial_Initialize\bush-dnt.cs" />
     <Compile Include="Aerial_Initialize\bush-plano.cs" />
+    <Compile Include="Aerial_Initialize\dnt-addison.cs" />
+    <Compile Include="Aerial_Initialize\dnt-loop12.cs" />
+    <Compile Include="Aerial_Initialize\dnt-park-cities.cs" />
+    <Compile Include="Aerial_Initialize\dnt-plano.cs" />
+    <Compile Include="Aerial_Initialize\dnt-sh121.cs" />
     <Compile Include="Aerial_Initialize\i20-all.cs" />
     <Compile Include="Aerial_Initialize\i20-i35e.cs" />
     <Compile Include="Aerial_Initialize\i20-i45.cs" />
@@ -166,6 +171,7 @@
     <Compile Include="Aerial_Initialize\i635-bush.cs" />
     <Compile Include="Aerial_Initialize\i635-farmers-branch.cs" />
     <Compile Include="Aerial_Initialize\i635-garland.cs" />
+    <Compile Include="Aerial_Initialize\i635-preston.cs" />
     <Compile Include="Aerial_Initialize\i635-us75.cs" />
     <Compile Include="Aerial_Initialize\i635-us80.cs" />
     <Compile Include="Aerial_Initialize\i635_dnt.cs" />

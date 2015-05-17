@@ -14,6 +14,7 @@ namespace DFWFreeways.Models
             itemList.AddRange(AerialGalleryList.i635_bush_images());
             itemList.AddRange(AerialGalleryList.i635_i35e_images());
             itemList.AddRange(AerialGalleryList.i635_farmers_branch_images());
+            itemList.AddRange(AerialGalleryList.i635_preston_images());
             itemList.AddRange(AerialGalleryList.i635_dnt_images());
             itemList.AddRange(AerialGalleryList.i635_garland_images());
             itemList.AddRange(AerialGalleryList.i635_i30_images());

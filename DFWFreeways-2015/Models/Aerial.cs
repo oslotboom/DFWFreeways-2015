@@ -145,8 +145,9 @@ namespace DFWFreeways.Models
                 case "i635_dnt": info = new string[] { "I-635 at the Dallas North Tollway", "Photos obsolete, for historical reference", "I-635", "June 1, 2015" }; break;
                 case "i635_i30": info = new string[] { "I-635 at I-30", "", "I-635", "June 1, 2015" }; break;
                 case "i635_us80": info = new string[] { "I-635 at US 80", "", "I-635", "June 1, 2015" }; break;
-                case "i635_i20": info = new string[] { "I-635 at I-20", "", "I-635", "June 1, 2015" }; break;
-                case "i635_farmers_branch": info = new string[] { "I-635 Farmers Branch", "Photos obsolete, for historical reference", "I-635", "June 1, 2015" }; break;
+                case "i635_i20": info = new string[] { "I-635 at Preston Road", "", "I-635", "June 1, 2015" }; break;
+                case "i635_preston": info = new string[] { "I-635 at Preston Road", "Original Freeway Before the LBJ Express", "I-635", "June 1, 2015" }; break;
+                case "i635_farmers_branch": info = new string[] { "I-635 Farmers Branch", "Original Freeway Before the LBJ Express", "I-635", "June 1, 2015" }; break;
                 case "i635_garland": info = new string[] { "I-635 in Garland", "", "I-635", "June 1, 2015" }; break;
                 case "us67_i20": info = new string[] { "US 67 at I-20", "", "US 67", "June 1, 2015" }; break;
                 case "us75_all": info = new string[] { "US 75 All Aerials", "", "US 75", "June 1, 2015" }; break;
@@ -191,6 +192,7 @@ namespace DFWFreeways.Models
                 case "i635_i35e": text = "This interchanged was substantially modified for the LBJ Express project, completed in 2015. The images below are all obsolete and are included to show the original interchange."; break;
                 case "i635_farmers_branch": text = "Interstate 635 was rebuilt and expanded for the LBJ Express Project, completed in 2015. This section of freeway now has frontage roads and tolled express lanes in a trench in the center of the freeway."; break;
                 case "i635_dnt": text = "The I-635 main lanes were widened for the LBJ Express Project, completed in 2015. The overall configuration of the interchange remained the same."; break;
+                case "i635_preston": text = "The I-635 main lanes were widened and managed lanes were added for the LBJ Express Project, completed in 2015."; break;
                 case "us75_loop12": text = "The Bush Presidential Library opened on April 25, 2013."; break;
                 case "us75_bush": text = "2015 status: The highway features are still accurate, but there has been some new development on the land around the freeway."; break;
                 case "sh183_dallas_diamond": text = "All these photos are now obsolete due to the implosion of Texas Stadium in 2010, expansion of the freeways and TxDOT's construction staging yard at the stadium site. TxDOT now calls the area the Diamond Interchange, although I have not heard any other organization use that name."; break;
