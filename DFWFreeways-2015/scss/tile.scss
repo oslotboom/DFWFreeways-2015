@@ -81,6 +81,7 @@ body {
 .expanded img:hover {cursor: pointer;}
 
 .long-caption { padding-bottom: 14px; 
+                max-width: 900px;
                 div:nth-child(2) span {color: red;}
                 a {padding: 0 6px;}
 }

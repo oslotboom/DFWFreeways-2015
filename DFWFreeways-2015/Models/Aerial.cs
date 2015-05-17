@@ -177,6 +177,17 @@ namespace DFWFreeways.Models
                 case "spur366_bridge_construction": info = new string[] { "Margaret Hunt Hill Bridge Construction", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)" }; break;
                 case "spur366_2012": info = new string[] { "Klyde Warren Park Nearly Complete", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)" }; break;
                 case "spur366_pre_klyde_warren": info = new string[] { "Before Klyde Warren Park", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)" }; break;
+                case "dnt_sh121": info = new string[] { "At SH 121 and the Legacy Area", "", "Dallas North Tollway", "June 1, 2015 (create)" }; break;
+                case "dnt_plano": info = new string[] { "In Plano", "", "Dallas North Tollway", "June 1, 2015 (create)" }; break;
+                case "dnt_bush": info = new string[] { "At Bush Turnpike", "", "Dallas North Tollway", "June 1, 2015 (review, add photo)" }; break;
+                case "dnt_addison": info = new string[] { "In Addison", "", "Dallas North Tollway", "June 1, 2015 (review, add photo)" }; break;
+                case "dnt_i635": info = new string[] { "At I-635 LBJ Freeway", "Interchange Modifications completed in 2015", "Dallas North Tollway", "June 1, 2015 (review, add photo)" }; break;
+                case "dnt_loop12": info = new string[] { "At Loop 12", "", "Dallas North Tollway", "June 1, 2015 (review, add photo)" }; break;
+                case "dnt_park_cities": info = new string[] { "At Mockingbird Lane", "", "Dallas North Tollway", "June 1, 2015 (review, add photo)" }; break;
+                case "sh121_all": info = new string[] { "All SH 121 Aerials", "", "SH 121/Sam Rayburn Turnpike", "June 1, 2015 (create)" }; break;
+                case "sh121_dnt": info = new string[] { "At the Dallas North Tollway", "", "SH 121/Sam Rayburn Turnpike", "June 1, 2015 (create)" }; break;
+                case "sh121_colony": info = new string[] { "Construction in the Colony area", "", "SH 121", "June 1, 2015 (review and update caption)" }; break;
+                case "sh121_i35e": info = new string[] { "At I-35E Stemmons Freeway", "", "SH 121", "June 1, 2015 (update)" }; break;
 
             }
             return info;
@@ -202,6 +213,9 @@ namespace DFWFreeways.Models
                 case "spur366_bridge_construction": text = "Construction was just underway at the time of this June 2009 photo. The bridge opened in March 2012."; break;
                 case "spur366_2012": text = "Klyde Warren Park opened in October 2012."; break;
                 case "spur366_pre_klyde_warren": text = "Klyde Warren Park opened in October 2012 on a deck over the trenched section of the freeway. There has also been new development along the freeway since these photos were taken, including Museum Tower, the Perot Museum, and Hunt Oil Headquarters."; break;
+                case "dnt_i635": text = "The I-635 main lanes were widened for the LBJ Express Project, completed in 2015. The overall configuration of the interchange remained the same. Changes to the Dallas North Tollway were minimal."; break;
+                case "dnt_sh121": text = "The interchange was completed in November 2011."; break;
+                case "sh121_dnt": text = "The interchange was completed in November 2011."; break;
             }
             return text;
         }

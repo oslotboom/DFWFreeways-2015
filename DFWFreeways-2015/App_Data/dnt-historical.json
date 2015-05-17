@@ -1,0 +1,32 @@
+﻿{
+    "folderPath": "",
+    "title": "Dallas North Tollway",
+    "pageHeader":
+    {
+        "title": "Historical Items",
+        "urlParentText": "Dallas North Tollway",
+        "lastUpdated": "Created June 4, 2009. Last updated June 1, 2015 (review and update captions)."
+    },
+    "map": "",
+    "text": "",
+    "images":
+    [
+        {
+            "file": "dnt_undated_at_121_IMG_0884_950.jpg",
+            "highResolution": "dnt_undated_at_121_IMG_0884_1600.jpg",
+            "caption": "This undated view of the Dallas North Tollway looking north at Texas 121 appears to have been taken in the late 1990s. The interchange footprint was expanded in a project in the early 2000s, and the tollway main lanes over Texas 121 opened in 2004. A five-level interchange was completed in November 2011. This location became a favored area for corporate relocations in the 2010s, with Toyota USA, Fedex Office and Liberty Mutual insurance all building major offices as of 2015.",
+            "imageDate": "photo courtesy of the North Texas Turnpike Authority."
+        },
+        {
+            "file": "IMG_3524_195711_addison_airport_opening.jpg",
+            "caption": "Addison Airport was officially opened on October 18, 1957, and a half-mile west of the present-day Dallas North Tollway. This report is from Dallas magazine."
+        },
+        {
+            "file": "IMG_3604_195911_addison_airport_advertisement.jpg",
+            "caption": "This advertisement for Addison Airport appeared in Dallas magazine in November 1959."
+        }
+
+
+    ]
+
+}

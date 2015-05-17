@@ -1,0 +1,56 @@
+﻿{
+
+    "pageHeader":
+    {
+        "title": "SH 121",
+        "subTitle": "Including the Sam Rayburn Tollway",
+        "lastUpdated": "June 1, 2015"
+    },
+    "Title": "SH 121 Dallas-Fort Worth",
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties": [ { "AnchorText": "I-635 to Carrollton", "AnchorUrl": "roadside" } ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties": [ 
+                { "AnchorText": "Northbound, Hebron Road to Hillcrest", "AnchorUrl": "driving-frisco" },
+                { "AnchorText": "Southbound, I-35E to DFW Airport", "AnchorUrl": "driving-lewisville" }
+            ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "Chapter 6: Dallas Freeways", "Quickview": "ChDallasFreeways?startOdd=False&pdfSize=40+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-06-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-06-20140803.pdf" },
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "All SH 121 aerials", "AnchorUrl": "all" },
+                { "AnchorText": "At the Dallas North Tollway", "AnchorUrl": "dnt" },
+                { "AnchorText": "Construction in the Colony area", "AnchorUrl": "colony" },
+                { "AnchorText": "At I-35E", "AnchorUrl": "i35e" }
+
+            ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [ ]
+        }
+    ]
+}

@@ -8,14 +8,10 @@ namespace DFWFreeways.Models
     public partial class AerialGalleryList
     {
 
-        //public static AerialGalleryList i35e_north_i35e_sh121(string fileServer, string folderPath)
-        //{
-        //    AerialGalleryList aerialGalleryList = new AerialGalleryList(fileServer, folderPath);
-        //    aerialGalleryList.PageHeader = new PageHeader("I-35E at SH 121 Rayburn Turnpike", "", GetShieldPath("i35e"), "i35e-north", "I-35E North", "May 5, 2015 (created)");
-
-        //    aerialGalleryList.ItemList = i35e_north_i35e_sh121_images();
-        //    return aerialGalleryList;
-        //}
+        public static List<AerialGalleryItem> sh121_i35e_images()
+        {
+            return i35e_north_i35e_sh121_images();
+        }
 
         public static List<AerialGalleryItem> i35e_north_i35e_sh121_images()
         {

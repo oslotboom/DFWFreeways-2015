@@ -178,6 +178,8 @@
     <Compile Include="Aerial_Initialize\sh114-all.cs" />
     <Compile Include="Aerial_Initialize\sh114-bush.cs" />
     <Compile Include="Aerial_Initialize\sh114-las-colinas.cs" />
+    <Compile Include="Aerial_Initialize\sh121-all.cs" />
+    <Compile Include="Aerial_Initialize\sh121-colony.cs" />
     <Compile Include="Aerial_Initialize\sh183-diamond.cs" />
     <Compile Include="Aerial_Initialize\spur366-all.cs" />
     <Compile Include="Aerial_Initialize\spur366-bridge-construction.cs" />
@@ -218,6 +220,12 @@
     <Content Include="App_Data\bush-construction-grand-prairie-frontage.json" />
     <Content Include="App_Data\bush-construction-irving-main-lanes.json" />
     <Content Include="App_Data\bush-roadside-north.json" />
+    <Content Include="App_Data\dnt.json" />
+    <Content Include="App_Data\dnt-roadside-north.json" />
+    <Content Include="App_Data\dnt-roadside-bush-residence.json" />
+    <Content Include="App_Data\dnt-driving.json" />
+    <Content Include="App_Data\dnt-construction-frisco.json" />
+    <Content Include="App_Data\dnt-historical.json" />
     <None Include="App_Data\i20-dallas-roadside-dallas.json" />
     <Content Include="App_Data\i20-dallas-roadside-terrell.json" />
     <Content Include="App_Data\i30-dallas-historical.json" />
@@ -232,9 +240,13 @@
     <None Include="App_Data\i35e-north-roadside-dallas.json" />
     <None Include="App_Data\i35e-south-roadside.json" />
     <None Include="App_Data\i35e-south-construction-horseshoe-1.json" />
+    <None Include="App_Data\sh121-driving-lewisville.json" />
     <Content Include="App_Data\sh183-dallas-construction-row.json" />
     <Content Include="App_Data\sh114-irving.json" />
     <Content Include="App_Data\sh114-irving-roadside.json" />
+    <Content Include="App_Data\sh121.json" />
+    <Content Include="App_Data\sh121-roadside.json" />
+    <Content Include="App_Data\sh121-driving-frisco.json" />
     <None Include="App_Data\sh183-dallas-driving-dallas.json" />
     <None Include="App_Data\spur366-roadside-bridge-clearance.json" />
     <Content Include="App_Data\spur366-roadside-bridge-site.json" />

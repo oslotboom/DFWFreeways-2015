@@ -1,0 +1,71 @@
+﻿{
+
+    "pageHeader":
+    {
+        "title": "Dallas North Tollway",
+        "lastUpdated": "June 1, 2015"
+    },
+    "Title": "Dallas North Tollway",
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties":
+            [
+                { "AnchorText": "I-635 to SH 121 (Sam Rayburn Turnpike)", "AnchorUrl": "roadside-north" },
+                { "AnchorText": "George W. Bush Residence", "AnchorUrl": "roadside-bush-residence" }
+            ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties":
+            [
+                { "AnchorText": "Downtown to Bush Turnpike", "AnchorUrl": "driving" }
+
+            ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "Dallas North Tollway", "Quickview": "ExDNT?startOdd=True", "Pdf": "" },
+                { "BookText": "Chapter 6: Dallas Freeways", "Quickview": "ChDallasFreeways?startOdd=False&pdfSize=40+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-06-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-06-20140803.pdf" }
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties":
+            [
+                { "AnchorText": "SH 121 (Sam Rayburn Turnpike) to US 380", "AnchorUrl": "construction-frisco" }
+
+            ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "All aerials", "AnchorUrl": "all" },
+                { "AnchorText": "At Mockingbird Lane", "AnchorUrl": "park-cities" },
+                { "AnchorText": "At Loop 12", "AnchorUrl": "loop12" },
+                { "AnchorText": "At I-635", "AnchorUrl": "i635" },
+                { "AnchorText": "Through Addison", "AnchorUrl": "addison" },
+                { "AnchorText": "At Bush Turnpike", "AnchorUrl": "bush" },
+                { "AnchorText": "Through Plano", "AnchorUrl": "plano" },
+                { "AnchorText": "At SH 121", "AnchorUrl": "sh121" }
+
+            ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties": [ 
+                { "AnchorText": "Photo, news report", "AnchorUrl": "historical" }
+            ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [ ]
+        }
+    ]
+}

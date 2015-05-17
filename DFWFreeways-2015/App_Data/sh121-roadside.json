@@ -1,0 +1,93 @@
+﻿{
+    "folderPath": "",
+    "title": "SH 121 photos",
+    "pageHeader":
+    {
+        "title": "Roadside Views",
+        "subTitle": "I-635 Near DFW Airport Northbound to Carrollton",
+        "urlParentText": "SH 121",
+        "lastUpdated": "Created March 8, 2009. Last updated June 1, 2015 (review and update captions)"
+    },
+    "map": "",
+    "text": "2015 status: Many of these photos are obsolete due to projects which have built new freeway sections or expanded the existing freeway. The affected photos are indicated. These images begin north of DFW Airport and proceed to a point near the eastern junction of SH 121 and SH 121 business in Carrollton.",
+    "images":
+    [
+        {
+            "file": "121_20081108_IMG_5149_sign.jpg",
+            "caption": "Overhead sign in Carrollton",
+            "imageDate": "8-Nov-2008"
+        },
+        {
+            "file": "121_20070729_IMG_8232_looking_s_at_635.jpg",
+            "caption": "Looking south at I-635",
+            "imageDate": "29-July-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The freeway was expanded to be much wider during the DFW Connector project, completed in 2013" }
+
+        },
+        {
+            "file": "121_20070729_IMG_8235_derrick_at_635.jpg",
+            "caption": "On the connection ramp from I-635 to SH 121. In 2007 and 2008 there were numerous drilling rigs in the area, drilling for natural gas in the Barnett Shale. When prices collapsed in the second half of 2008, drilling stopped. The wells which were drilled were reportedly poor producers.",
+            "imageDate": "29-July-2007"
+        },
+        {
+            "file": "635_20071004IMG_9003_drilling.jpg",
+            "caption": "This drilling rig was on the southeast corner of TX 121 and I-635.",
+            "imageDate": "4-October-2007"
+        },
+        {
+            "file": "121_roadside_20070804_IMG_8410_near_635_950.jpg",
+            "highResolution": "121_roadside_20070804_IMG_8410_near_635_hires.jpg",
+            "caption": "Looking south just north of I-635",
+            "imageDate": "4-Aug-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The freeway was expanded during the DFW Connector project, completed in 2013" }
+
+        },
+        {
+            "file": "121_roadside_20070729_IMG_8406_at_2499_950.jpg",
+            "highResolution": "121_roadside_20070729_IMG_8406_at_2499_hires.jpg",
+            "caption": "Looking south at FM 2499",
+            "imageDate": "29-July-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The freeway was expanded during the DFW Connector project, completed in 2013" }
+        },
+        {
+            "file": "121_roadside_20070729_IMG_8404_frontage_near_2499.jpg",
+            "caption": "Looking south on the frontage road north of FM 2499.",
+            "imageDate": "29-July-2007"
+        },
+        {
+            "file": "121_roadside_20070729_IMG_8395_at_freeport_parkway.jpg",
+            "caption": "Signalized intersection at Freeport Parkway. In 2009 the freeway main lanes opened at this location.",
+            "imageDate": "29-July-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Freeway main lanes were built at this location, opening in 2009. In 2015 work is in progress to expand the main lanes." }
+        },
+        {
+            "file": "121_roadside_20070729_IMG_8383_macarthur.jpg",
+            "highResolution": "121_roadside_20070729_IMG_8383_macarthur_hires.jpg",
+            "caption": "Tollway at MacArthur, looking west.",
+            "imageDate": "29-July-2007"
+        },
+        {
+            "file": "121_raodside_20070804_IMG_8374_hebron_950.jpg",
+            "highResolution": "121_raodside_20070804_IMG_8374_hebron_2474.jpg",
+            "caption": "Looking west toward the interchange at I-35E.",
+            "imageDate": "4-Aug-2007"
+        },
+        {
+            "file": "121_20070603_IMG_7366_at_huffines_marchand.jpg",
+            "caption": "At Huffines-Marchant, looking northeast",
+            "imageDate": "3-June-2007"
+        },
+        {
+            "file": "121_20070603_roadside_IMG_7365_hebron.jpg",
+            "caption": "North of Hebron, looking northeast",
+            "imageDate": "3-June-2007"
+        },
+        {
+            "file": "121_20070603_roadside_IMG_7361_at_carrollton_pkwy.jpg",
+            "caption": "At Carrollton Parkway, looking southwest",
+            "imageDate": "3-June-2007"
+        }
+
+    ]
+
+}

@@ -264,7 +264,8 @@ body {
   cursor: pointer; }
 
 .long-caption {
-  padding-bottom: 14px; }
+  padding-bottom: 14px;
+  max-width: 900px; }
   .long-caption div:nth-child(2) span {
     color: red; }
   .long-caption a {

@@ -7,7 +7,10 @@ namespace DFWFreeways.Models
 {
     public partial class AerialGalleryList
     {
-
+        public static List<AerialGalleryItem> dnt_i635_images()
+        {
+            return i635_dnt_images();
+        }
 
         public static List<AerialGalleryItem> i635_dnt_images()
         {

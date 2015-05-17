@@ -1,0 +1,121 @@
+﻿{
+    "folderPath": "",
+    "title": "Dallas North Tollway Construction",
+    "subTitle":  "SH 121 to US 380",
+    "pageHeader":
+    {
+        "title": "Construction, SH 121 to US 380",
+        "urlParentText": "Dallas North Tollway",
+        "lastUpdated": "Created Nov 1, 2007; last updated June 1, 2015 (review and update captions)"
+    },
+    "map": "",
+    "text": "This section opened to traffic on September 29, 2007. There are long-term plans to extend the toll road northward, but as of 2015 the extension is not scheduled and is not imminent.",
+    "images":
+    [
+        {
+            "file": "dnt_const_20070602_IMG_7059_near_121.jpg",
+            "caption": "Looking south toward SH 121. The open section over SH 121 can be seen ahead.",
+            "imageDate": "2-June-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "A five-level interchange was built ahead at the SH 121 (Sam Rayburn Turpike) intersection opening in 2011." }
+
+        },
+        {
+            "file": "dnt_const_20070602_IMG_7064_warren.jpg",
+            "caption": "Looking south at Warren",
+            "imageDate": "2-June-2007"
+        },
+        {
+            "file": "dnt_const_20070602_IMG_7062_warren.jpg",
+            "caption": "The underpass at Warren",
+            "imageDate": "2-June-2007"
+        },
+        {
+            "file": "dnt_const_20070602_IMG_7070_s_of_lebanon.jpg",
+            "caption": "South of Lebanon",
+            "imageDate": "2-June-2007"
+        },
+        {
+            "file": "dnt_const_20070602_IMG_7066_lebanon.jpg",
+            "caption": "Closure at Lebanon Road for the overpass construction",
+            "imageDate": "2-June-2007"
+        },
+        {
+            "file": "dnt_const_20070602_IMG_7125_lebanon.jpg",
+            "caption": "Construction at Lebanon",
+            "imageDate": "2-June-2007"
+        },
+        {
+            "file": "dnt_const_20070602_IMG_7124_lebanon.jpg",
+            "caption": "Looking north at Lebanon",
+            "imageDate": "2-June-2007"
+        },
+        {
+            "file": "dnt_const_20070602_IMG_7121_looking_n_at_stonebrook.jpg",
+            "caption": "Looking north at Stonebrook",
+            "imageDate": "2-June-2007"
+        },
+        {
+            "file": "dnt_const_2000402_DSC00019_at_rr.jpg",
+            "caption": "This photo from April 2005 shows construction just getting started. The piers are for the overpass at the railroad\r\n\t\t\t\t\tsouth of Main Street.",
+            "imageDate": "2-April-2005"
+        },
+        {
+            "file": "dnt_const_20070402_DSC00009_frisco_city_hall.jpg",
+            "caption": "Frisco City Hall was under construction in April 2005, just east of the tollway.",
+            "imageDate": "2-April-2005"
+        },
+        {
+            "file": "dnt_const_20070602_IMG_7077_n_of_main.jpg",
+            "caption": "Concrete work in progress north of Main Street.",
+            "imageDate": "2-June-2007"
+        },
+        {
+            "file": "dnt_const_20070602_IMG_7079_concrete_plant_n_of_main.jpg",
+            "caption": "Concrete batch plant north of Main Street",
+            "imageDate": "2-June-2007"
+        },
+        {
+            "file": "dnt_const_20070602_IMG_7082_toll_plaza_location.jpg",
+            "caption": "Location of the main toll plaza",
+            "imageDate": "2-June-2007"
+        },
+        {
+            "file": "dnt_const_20070602_IMG_7083_two_way_frontage.jpg",
+            "caption": "Just north of the toll plaza location, only the east side frontage road was open and it had two-way traffic.",
+            "imageDate": "2-June-2007"
+        },
+        {
+            "file": "dnt_const_20070602_IMG_7085_n_of_eldorado.jpg",
+            "caption": "North of El Dorado",
+            "imageDate": "2-June-2007"
+        },
+        {
+            "file": "dnt_const_20070602_IMG_7088_s_of_curve.jpg",
+            "caption": "",
+            "imageDate": "2-June-2007"
+        },
+        {
+            "file": "dnt_const_20070602_IMG_7091_curve.jpg",
+            "caption": "As the tollway gets closer to State Highway 380, it veers to the east and then veers back to the north.",
+            "imageDate": "2-June-2007"
+        },
+        {
+            "file": "dnt_const_20070602_IMG_7095_s_of_380.jpg",
+            "caption": "South of highway 380",
+            "imageDate": "2-June-2007"
+        },
+        {
+            "file": "dnt_const_20070602_IMG_7102_signal_at_380.jpg",
+            "caption": "The tollway ends at highway 380. This view looks south from just north of 380.",
+            "imageDate": "2-June-2007"
+        },
+        {
+            "file": "dnt_const_20070602_IMG_7101_n_of_380.jpg",
+            "caption": "This is the two-lane country road which continues north from the tollway terminus. Someday, this will be a toll road.",
+            "imageDate": "2-June-2007"
+        }
+
+
+    ]
+
+}
