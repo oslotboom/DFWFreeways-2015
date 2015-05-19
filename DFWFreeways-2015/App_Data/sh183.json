@@ -2,13 +2,13 @@
 
     "pageHeader":
     {
-        "title": "SH 183 Dallas and Irving",
+        "title": "SH 183",
         "subTitle": "Carpenter Freeway and Airport Freeway",
         "lastUpdated": "June 1, 2015"
     },
     "Title": "SH 183 Airport Freeway",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
-    "Text": "Right-of-clearance was underway from around 2007 and the first phase of construction of the widening project began in 2015.",
+    "Text": "",
     "Features":
     [
         {
@@ -20,7 +20,8 @@
             "FeatureProperties":
             [
                 { "AnchorText": "Dallas", "AnchorUrl": "driving-dallas" },
-                { "AnchorText": "Irving", "AnchorUrl": "driving-irving" }
+                { "AnchorText": "Irving", "AnchorUrl": "driving-irving" },
+                { "AnchorText": "North Tarrant Express", "AnchorUrl": "driving-nte" }
             ]
         },
         {

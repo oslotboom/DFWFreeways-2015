@@ -1,0 +1,62 @@
+﻿{
+    "folderPath": "",
+    "title": "Spur 408 photos",
+    "pageHeader":
+    {
+        "title": "Roadside Views",
+        "subTitle": "",
+        "urlParentText": "Spur 408",
+        "lastUpdated": "Created December 15, 2007. Last updated June 1, 2015 (review only)"
+    },
+    "map": "408_roadside_600.gif",
+    "text": "2015 update: Changes have been minimal and these photos are still accurate depictions. 2007 was an outstanding year for bluebonnets along Spur 408, as the photos below show.",
+    "images":
+    [
+        {
+            "file": "408_20070415_IMG_5240_at_i20.jpg",
+            "caption": "Looking north along the overpass at Interstate 20, which crosses from left to right in the photo.",
+            "imageDate": "15-Apr-2007"
+        },
+        {
+            "file": "408_20070415_IMG_5238_bloubonnet_meadow_950.jpg",
+            "highResolution": "408_20070415_IMG_5238_bloubonnet_meadow_2048.jpg",
+            "caption": "A field of bluebonnets in the median just north of I-20.",
+            "imageDate": "15-Apr-2007"
+        },
+        {
+            "file": "408_20070415_IMG_5237_bluebonnets_950.jpg",
+            "highResolution": "408_20070415_IMG_5237_bluebonnets_2048.jpg",
+            "caption": "",
+            "imageDate": "15-Apr-2007"
+        },
+        {
+            "file": "408_20070415_IMG_5230_south_of_kiest.jpg",
+            "caption": "At Keist",
+            "imageDate": "15-Apr-2007"
+        },
+        {
+            "file": "408_20070415_IMG_5232_potters_house.jpg",
+            "caption": "Just west of Spur 408 at Keist is the Potter's House, congregation of T.D. Jakes",
+            "imageDate": "15-Apr-2007"
+        },
+        {
+            "file": "408_20070415_IMG_5227_n_of_keist_950.jpg",
+            "highResolution": "408_20070415_IMG_5227_n_of_keist_2048.jpg",
+            "caption": "North of Keist",
+            "imageDate": "15-Apr-2007"
+        },
+        {
+            "file": "408_20070415_IMG_5223_nb_at_loop12_950.jpg",
+            "caption": "Northbound traffic approaching Loop 12 just ahead",
+            "imageDate": "15-Apr-2007"
+        },
+        {
+            "file": "408_20070415_IMG_5221_at_loop12_950.jpg",
+            "highResolution": "408_20070415_IMG_5221_at_loop12.jpg",
+            "caption": "Southbound traffic at Loop 12",
+            "imageDate": "15-Apr-2007"
+        }
+
+    ]
+
+}

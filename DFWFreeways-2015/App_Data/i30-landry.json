@@ -1,0 +1,77 @@
+﻿{
+
+    "pageHeader":
+    {
+        "title": "Interstate 30",
+        "subTitle": "Tom Landry Highway",
+        "lastUpdated": "June 1, 2015"
+    },
+    "Title": "Interstate 30 Dallas-Fort Worth",
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties":
+            [
+                { "AnchorText": "Roadside Views", "AnchorUrl": "roadside" },
+                { "AnchorText": "Cowboys Stadium", "AnchorUrl": "roadside-cowboys-stadium" }
+
+            ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties":
+            [
+                { "AnchorText": "Mid-Cities", "AnchorUrl": "driving-mid-cities" },
+                { "AnchorText": "Fort Worth", "AnchorUrl": "driving-fort-worth" },
+                { "AnchorText": "Six Flags Over Texas", "AnchorUrl": "driving-six-flags" }
+            ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "Chapter 9: Tom Landry Highway", "Quickview": "ChTomLandryHighway?startOdd=False&pdfSize=9+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-09-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-09-20140803.pdf" },
+                { "BookText": "The Dallas-Fort Worth Turnpike", "Quickview": "ExDFWTurnpike?startOdd=False", "Pdf": "" },
+                { "BookText": "Six Flags Over Texas", "Quickview": "ExSixFlags?startOdd=True", "Pdf": "" },
+                { "BookText": "The Stadiums of Arlington", "Quickview": "ExArlingtonStadiums?startOdd=False", "Pdf": "" }
+
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties": [ 
+                { "AnchorText": "Arlington, 2008-2009", "AnchorUrl": "construction-2009" }
+            ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "All I-30 aerials", "AnchorUrl": "all" },
+                { "AnchorText": "Six Flags Over Texas and SH 360", "AnchorUrl": "sh360" },
+                { "AnchorText": "Stadiums", "AnchorUrl": "stadiums" },
+                { "AnchorText": "At I-35W, Fort Worth Mixmaster", "AnchorUrl": "i35w" },
+                { "AnchorText": "At I-820", "AnchorUrl": "i820-east" },
+                { "AnchorText": "At Bush Turnpike", "AnchorUrl": "bush" },
+                { "AnchorText": "Lone Star Park", "AnchorUrl": "lone-star" },
+                { "AnchorText": "At Loop 12", "AnchorUrl": "loop12" },
+                { "AnchorText": "Original Trinity River bridge", "AnchorUrl": "trinity" }
+
+            ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties":
+            [
+                { "AnchorText": "Photos", "AnchorUrl": "historical" }
+            ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [ ]
+        }
+    ]
+}

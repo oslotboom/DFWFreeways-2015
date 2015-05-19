@@ -1,0 +1,52 @@
+﻿{
+
+    "pageHeader":
+    {
+        "title": "Spur 408",
+        "subTitle":  "Patriot Parkway",
+        "lastUpdated": "June 1, 2015"
+    },
+    "Title": "Spur 408 Dallas",
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties": [ { "AnchorText": "Roadside Views", "AnchorUrl": "roadside" } ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties": [  { "AnchorText": "Driving Views", "AnchorUrl": "driving" } ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "Chapter 6: Dallas Freeways", "Quickview": "ChDallasFreeways?startOdd=False&pdfSize=40+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-06-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-06-20140803.pdf" }
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "All Spur 408 Aerials", "AnchorUrl": "all" },
+                { "AnchorText": "Freeway views", "AnchorUrl": "freeway" },
+                { "AnchorText": "At I-20", "AnchorUrl": "i20" }
+
+            ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [ ]
+        }
+    ]
+}

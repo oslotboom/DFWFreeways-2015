@@ -41,6 +41,8 @@
                 { "AnchorText": "All SH 114 Aerials", "AnchorUrl": "all" },
                 { "AnchorText": "Las Colinas", "AnchorUrl": "las-colinas" },
                 { "AnchorText": "At the Bush Turnpike", "AnchorUrl": "bush" },
+                { "AnchorText": "In Westlake at Solana", "AnchorUrl": "westlake" },
+                { "AnchorText": "At SH 170", "AnchorUrl": "sh170" },
                 { "AnchorText": "At the former Texas Stadium site, now the Diamond Interchange", "AnchorUrl": "diamond" }
 
             ]

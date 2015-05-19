@@ -1,0 +1,31 @@
+﻿{
+    "folderPath": "",
+    "title": "I-30 Mid-Cities photos",
+    "pageHeader":
+    {
+        "title": "Driving Views",
+        "subTitle": "At Six Flags",
+        "urlParentText": "I-30 Tom Landry Highway",
+        "lastUpdated": "June 1, 2015 (review and update captions)"
+    },
+    "map": "30m_six_flags_950.gif",
+    "text": "2015 status: The highway views in these photos are obsolete due to the expansion project completed in 2010.",
+    "images":
+    [
+        {
+            "file": "30m_driving_IMG_8672_eb_at_six_flags.jpg",
+            "caption": "",
+            "imageDate": "11-August-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The freeway was rebuilt and widened at this location in 2010. Six Flags is the same." }
+        },
+        {
+            "file": "30m_driving_IMG_8673_six_flags.jpg",
+            "caption": "",
+            "imageDate": "11-August-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The freeway was rebuilt and widened at this location in 2010. Six Flags is the same." }
+        }
+
+
+    ]
+
+}

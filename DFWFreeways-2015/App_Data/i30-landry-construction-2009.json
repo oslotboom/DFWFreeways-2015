@@ -1,0 +1,59 @@
+﻿{
+    "folderPath": "",
+    "title": "I-30 Construction photos",
+    "pageHeader":
+    {
+        "title": "Construction Views",
+        "subTitle": "Arlington, 2008-2009",
+        "urlParentText": "I-30 Tom Landry Highway",
+        "lastUpdated": "June 1, 2015 (review only)"
+    },
+    "map": "",
+    "text": "This project was completed in 2010.",
+    "images":
+    [
+        {
+            "file": "30m_20080914_IMG_3855_construction_looking_e_at_collins_950.jpg",
+            "highResolution": "30m_20080914_IMG_3855_construction_looking_e_at_collins_2400.jpg",
+            "caption": "Looking east from the Collins overpass. The new Cowboys stadium is on Collins about a mile south.",
+            "imageDate": "14-Sept-2008"
+        },
+        {
+            "file": "30m_20080914_IMG_3860_construction_looking_e_at_collins_950.jpg",
+            "caption": "A zoomed-in view looking east from Collins.",
+            "imageDate": "14-Sept-2008"
+        },
+        {
+            "file": "30m_20080914_IMG_3865_construction_looking_e_toward_baird_950.jpg",
+            "highResolution": "30m_20080914_IMG_3865_construction_looking_e_toward_baird_2991.jpg",
+            "caption": "Looking east toward the new overpass for Baird Farm road.",
+            "imageDate": "14-Sept-2008"
+        },
+        {
+            "file": "30m_20090131_IMG_5915_construction_at_baird.jpg",
+            "caption": "This view is similar to the one above, but taken four months later. The entrance ramp is now paved. \r\n\t\t\t\t\tThis ramp will handle much of the traffic leaving Cowboys stadium after games.",
+            "imageDate": "31-Jan-2009"
+        },
+        {
+            "file": "30m_20080914_IMG_3872_construction_looking_e_toward_baird_zoomed_950.jpg",
+            "highResolution": "30m_20080914_IMG_3872_construction_looking_e_toward_baird_zoomed_2048.jpg",
+            "caption": "Another view looking toward the Baird Farm road overpass.",
+            "imageDate": "14-Sept-2008"
+        },
+        {
+            "file": "30m_20080914_IMG_3880_construction_on_pavement_ballpark_way_950.jpg",
+            "highResolution": "30m_20080914_IMG_3880_construction_on_pavement_ballpark_way_2300.jpg",
+            "caption": "Looking east on the pavement for the future eastbound main lanes, with the Ballpark Way overpass just ahead.",
+            "imageDate": "14-Sept-2008"
+        },
+        {
+            "file": "30m_20090131_IMG_5913_construction_ballpark_way_950.jpg",
+            "highResolution": "30m_20090131_IMG_5913_construction_ballpark_way_2300.jpg",
+            "caption": "Looking east from the Ballpark Way overpass on January 31, 2009. The pavement looks ready for the traffic shift\r\n\t\t\t\t\tto begin work on the westbound main lanes.",
+            "imageDate": "31-Jan-2009"
+        }
+
+
+    ]
+
+}

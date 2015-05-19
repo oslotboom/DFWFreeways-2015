@@ -1,0 +1,80 @@
+﻿{
+    "folderPath": "",
+    "title": "I-30 Mid-Cities photos",
+    "pageHeader":
+    {
+        "title": "Driving Views",
+        "subTitle": "Eastbound, Fort Worth",
+        "urlParentText": "I-30 Tom Landry Highway",
+        "lastUpdated": "Create October 6, 2007, last updated June 1, 2015 (review only)"
+    },
+    "map": "30m_fort_worth_500.gif",
+    "text": "2015 status: These photos remain accurate depictions.",
+    "images":
+    [
+        {
+            "file": "30fw_driving_IMG_6249_20070429_eb_at_35e_950.jpg",
+            "caption": "Eastbound at the I-35W interchange, the Fort Worth Mixmaster",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6250_20070429_eb_at_35e.jpg",
+            "caption": "",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6251_20070429_eb_at_35e_950.jpg",
+            "caption": "",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6252_20070429_eb_at_287.jpg",
+            "caption": "At US 287",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_sign_IMG_8337_20070729_tom_landry.jpg",
+            "caption": "\r\n\t\t\t\t\t\tThe freeway was officially named the Tom Landry highway in 2000 (local governments) and 2001 (TxDOT)",
+            "imageDate": "29-July-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6255_20070429_e_of_beach.jpg",
+            "caption": "East of Beach Street",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6258_20070409_eb_at_oakland.jpg",
+            "caption": "At Oakland. The freeway is reduced from four to three main lanes eastbound just ahead.",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6259_20070429_950.jpg",
+            "highResolution": "30fw_driving_IMG_6259_20070429_2500.jpg",
+            "caption": "",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6260_20070429_eb_approaching_820.jpg",
+            "caption": "Approaching Interstate 820",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6261_20070429_eb_at_820.jpg",
+            "caption": "At Interstate 820",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6262_20070429_eb_at_820.jpg",
+            "caption": "",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6263_20070429_at_820.jpg",
+            "caption": "",
+            "imageDate": "29-April-2007"
+        }
+
+
+    ]
+
+}

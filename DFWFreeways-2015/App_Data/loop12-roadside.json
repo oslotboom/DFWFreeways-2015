@@ -1,0 +1,110 @@
+﻿{
+    "folderPath": "",
+    "title": "Loop 12 photos",
+    "pageHeader":
+    {
+        "title": "Roadside Views",
+        "subTitle": "",
+        "urlParentText": "Loop 12",
+        "lastUpdated": "Created December 11, 2007. Last updated June 1, 2015 (update captions, add photos)"
+    },
+    "map": "12_roadside_550.gif",
+    "text": "2015 update: Some of the photos below have become obsolete due to changes in the area of the former Texas Stadium, as noted in the image captions. ",
+    "images":
+    [
+
+        {
+            "file": "12_20071027_IMG_9508_sign.jpg",
+            "caption": "",
+            "imageDate": "27-Oct-2007"
+        },
+        {
+            "file": "12_20070609_IMG_7397_looking_s_at_nw_hwy.jpg",
+            "highResolution": "12_20070609_IMG_7397_looking_s_at_nw_hwy_2427.jpg",
+            "caption": "Looking south at Northwest Highway",
+            "imageDate": "9-June-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Partially Obsolete", "note": "Texas Stadium was imploded and cleared in 2010. The freeway remains the same in 2015." }
+        },
+        {
+            "file": "20131003_dfw_4176-1050.jpg",
+            "highResolution": "20131003_dfw_4176-2560.jpg",
+            "caption": "Looking north from the Texas Plaza overpass in October 2013, showing the widened section of freeway which was completed in 2012. The large set-aside of pavement in the middle is for future managed lanes.",
+            "imageDate": "3-October-2013"
+        },
+        {
+            "file": "20131003_dfw_4184-1050.jpg",
+            "caption": "Looking north along the northbound frontage road north of Texas Plaza in 2013. Two connection ramps to SH 114 were added.",
+            "imageDate": "3-October-2013"
+        },
+
+        {
+            "file": "12_20070609_IMG_7406_looking_s_at_texas_plaza.jpg",
+            "highResolution": "12_20070609_IMG_7406_looking_s_at_texas_plaza_hires.jpg",
+            "caption": "Looking south toward the interchange with TX 183, showing the original freeway. The original interchange was an antiquated loop-connector design with very poor geometrics. Phase 1 of the interchange modernization, including two connection ramps, was underway in 2015.",
+            "imageDate": "9-June-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "In 2015 work is in progress to widen this section of freeway and add two connection ramps to SH 183." }
+        },
+        {
+            "file": "12_20070609_IMG_7409_looking_s_at_union_bower.jpg",
+            "highResolution": "12_20070609_IMG_7409_looking_s_at_union_bower_2493.jpg",
+            "caption": "Looking south at Union Bower",
+            "imageDate": "9-June-2007"
+        },
+        {
+            "file": "12_20070609_IMG_7411_looking_s_at_356.jpg",
+            "highResolution": "12_20070609_IMG_7411_looking_s_at_356_2754.jpg",
+            "caption": "Looking south at highway 356, with the Irving Blvd crossing ahead.",
+            "imageDate": "9-June-2007"
+        },
+        {
+            "file": "12_20070609_IMG_7414_looking_s_at_shady_grove.jpg",
+            "highResolution": "12_20070609_IMG_7414_looking_s_at_shady_grove_2676.jpg",
+            "caption": "Looking south at Shady Grove, with the Trinty River bridge visible in the distance.",
+            "imageDate": "9-June-2007"
+        },
+        {
+            "file": "12_20070609_IMG_7419_trinity_bridge.jpg",
+            "caption": "The Trinity River bridge, completed in 1976 and featuring a 52-foot clearance for barges on the planned Trinity waterway canal. Of course, the Trinity waterway was cancelled in the late 1970s.",
+            "imageDate": "9-June-2007"
+        },
+        {
+            "file": "12_20070609_IMG_7422_looking_s_on_trinity_bridge.jpg",
+            "caption": "Looking south on the Trinity River bridge, with Interstate 30 visible in the distance.",
+            "imageDate": "9-June-2007"
+        },
+        {
+            "file": "12_20071027_IMG_9515_at_i30_looking_n.jpg",
+            "caption": "Looking north along Loop 12 at the Interstate 30 overpass. Work was in progress to rebuild the I-30 main lanes. On the date of this photo, the northbound Loop 12 frontage road was closed. The I-30 interchange is a holdover from the DFW Turnpike days, and the design of the interchange remains basically unchanged. Motorists make some highly inefficient loops to make connections between the two freeways. There are plans to construct a modern interchange, but work is not funded or scheduled as of 2015.",
+            "imageDate": "27-Oct-2007"
+        },
+        {
+            "file": "30_20071027_IMG_9512_looking_n_at_i30_exit.jpg",
+            "highResolution": "30_20071027_IMG_9512_looking_n_at_i30_exit_2048.jpg",
+            "caption": "Looking north, south of I-30",
+            "imageDate": "27-Oct-2007"
+        },
+        {
+            "file": "12_20071027_IMG_9511_looking_n_at_davis.jpg",
+            "highResolution": "12_20071027_IMG_9511_looking_n_at_davis_2048.jpg",
+            "caption": "Looking north from Davis Street. This section of the freeway was the last to be completed, opening in 1980. The design standards are higher on this relatively new section. Two new main lanes were added in 2006.",
+            "imageDate": "27-Oct-2007"
+        },
+        {
+            "file": "12_20071027_IMG_9509_s_of_keeneland.jpg",
+            "highResolution": "12_20071027_IMG_9509_s_of_keeneland_2886.jpg",
+            "caption": "Looking north, south of Keeneland",
+            "imageDate": "27-Oct-2007"
+        },
+        {
+            "file": "12_20071027_IMG_9507_at_illinois.jpg",
+            "highResolution": "12_20071027_IMG_9507_at_illinois_2916.jpg",
+            "caption": "Looking north at Illinois. The Loop 12 freeway begins here. Just ahead is the merge point with Spur 408.",
+            "imageDate": "27-Oct-2007"
+        }
+
+
+
+
+    ]
+
+}

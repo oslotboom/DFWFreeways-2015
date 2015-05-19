@@ -159,11 +159,13 @@ namespace DFWFreeways.Models
                 case "us80_i635": info = new string[] { "US 80 at I-635", "", "US 80", "June 1, 2015" }; break;
                 case "us80_i30": info = new string[] { "US 80 at I-30", "", "US 80", "June 1, 2015" }; break;
                 case "us175_i20": info = new string[] { "US 175 at I-20", "", "US 175", "June 1, 2015" }; break;
-                case "sh183_dallas_diamond": info = new string[] { "SH 183 at the Texas Stadium site", "All Photos for Historical Reference", "SH 183 Dallas", "June 1, 2015" }; break;
-                case "sh114_irving_diamond": info = new string[] { "SH 114 at the Texas Stadium site", "All Photos for Historical Reference", "SH 114", "June 1, 2015" }; break;
-                case "sh114_irving_all": info = new string[] { "All SH 114 Aerials", "", "SH 114 Dallas", "June 1, 2015" }; break;
-                case "sh114_irving_las_colinas": info = new string[] { "SH 114 at Las Colinas", "", "SH 114 Dallas", "June 1, 2015" }; break;
-                case "sh114_irving_bush": info = new string[] { "SH 114 at the Bush Turnpike", "", "SH 114 Dallas", "June 1, 2015" }; break;
+                case "sh183_diamond": info = new string[] { "SH 183 at the Texas Stadium site", "All Photos for Historical Reference", "SH 183 Dallas", "June 1, 2015" }; break;
+                case "sh114_diamond": info = new string[] { "SH 114 at the Texas Stadium site", "All Photos for Historical Reference", "SH 114", "June 1, 2015" }; break;
+                case "sh114_all": info = new string[] { "All SH 114 Aerials", "", "SH 114", "June 1, 2015" }; break;
+                case "sh114_las_colinas": info = new string[] { "SH 114 at Las Colinas", "", "SH 114", "June 1, 2015 (create)" }; break;
+                case "sh114_bush": info = new string[] { "SH 114 at the Bush Turnpike", "", "SH 114", "June 1, 2015" }; break;
+                case "sh114_westlake": info = new string[] { "SH 114 at Solana in Westlake", "", "SH 114", "June 1, 2015 (create)" }; break;
+                case "sh114_sh170": info = new string[] { "SH 114 at SH 170", "", "SH 114", "June 1, 2015 (create)" }; break;
                 case "bush_i30": info = new string[] { "Bush Turnpike at I-30", "", "Bush Turnpike", "June 1, 2015" }; break;
                 case "bush_sh114": info = new string[] { "Bush Turnpike at SH 114 Carpenter Freeway", "", "Bush Turnpike", "June 1, 2015" }; break;
                 case "bush_i635": info = new string[] { "Bush Turnpike at I-635 LBJ Freeway", "", "Bush Turnpike", "June 1, 2015" }; break;
@@ -188,6 +190,23 @@ namespace DFWFreeways.Models
                 case "sh121_dnt": info = new string[] { "At the Dallas North Tollway", "", "SH 121/Sam Rayburn Turnpike", "June 1, 2015 (create)" }; break;
                 case "sh121_colony": info = new string[] { "Construction in the Colony area", "", "SH 121", "June 1, 2015 (review and update caption)" }; break;
                 case "sh121_i35e": info = new string[] { "At I-35E Stemmons Freeway", "", "SH 121", "June 1, 2015 (update)" }; break;
+                case "loop12_diamond": info = new string[] { "Loop 12 at the Texas Stadium site", "All Photos for Historical Reference", "Loop 12", "June 1, 2015" }; break;
+                case "loop12_all": info = new string[] { "All Loop 12 Photos", "", "Loop 12", "June 1, 2015" }; break;
+                case "loop12_trinity": info = new string[] { "Trinity River Crossing", "", "Loop 12", "June 1, 2015" }; break;
+                case "loop12_davis": info = new string[] { "At Davis/Jefferson Streets", "", "Loop 12", "June 1, 2015" }; break;
+                case "loop12_i30": info = new string[] { "At I-30 Landry Highway", "", "Loop 12", "June 1, 2015" }; break;
+                case "spur408_all": info = new string[] { "All Spur 408 Aerials", "", "Spur 408", "June 1, 2015" }; break;
+                case "spur408_freeway": info = new string[] { "Aerial views", "", "Spur 408", "June 1, 2015" }; break;
+                case "spur408_i20": info = new string[] { "At I-20", "", "Spur 408", "June 1, 2015" }; break;
+                case "i30_landry_all": info = new string[] { "All Aerials for I-30 Tom Landry Highway", "", "I-30 Landry Highway", "June 1, 2015" }; break;
+                case "i30_landry_sh360": info = new string[] { "I-30 at SH 360", "Six Flags Over Texas", "I-30 Landry Highway", "June 1, 2015" }; break;
+                case "i30_landry_stadiums": info = new string[] { "Arlington Stadiums", "", "I-30 Landry Highway", "June 1, 2015" }; break;
+                case "i30_landry_bush": info = new string[] { "I-30 at Bush Turnpike", "", "I-30 Landry Highway", "June 1, 2015" }; break;
+                case "i30_landry_loop12": info = new string[] { "I-30 at Loop 12", "", "I-30 Landry Highway", "June 1, 2015" }; break;
+                case "i30_landry_i820_east": info = new string[] { "I-30 at I-820 East", "", "I-30 Landry Highway", "June 1, 2015" }; break;
+                case "i30_landry_i35w": info = new string[] { "I-30 at I35W", "The Fort Worth Mixmaster", "I-30 Landry Highway", "June 1, 2015" }; break;
+                case "i30_landry_lone_star": info = new string[] { "Lone Star Park Horse Track", "", "I-30 Landry Highway", "June 1, 2015" }; break;
+                case "i30_landry_trinity": info = new string[] { "Original Trinity River Bridge", "For Historical Reference", "I-30 Landry Highway", "June 1, 2015" }; break;
 
             }
             return info;
@@ -216,6 +235,9 @@ namespace DFWFreeways.Models
                 case "dnt_i635": text = "The I-635 main lanes were widened for the LBJ Express Project, completed in 2015. The overall configuration of the interchange remained the same. Changes to the Dallas North Tollway were minimal."; break;
                 case "dnt_sh121": text = "The interchange was completed in November 2011."; break;
                 case "sh121_dnt": text = "The interchange was completed in November 2011."; break;
+                case "loop12_diamond": text = "All these photos are now obsolete due to the implosion of Texas Stadium in 2010, expansion of the freeways and TxDOT's construction staging yard at the stadium site. TxDOT now calls the area the Diamond Interchange, although I have not heard any other organization use that name."; break;
+                case "i30_landry_sh360": text = "All these photos are now obsolete due to construction of the 4-level interchange at SH 360, which was underway in 2016."; break;
+                case "i30_landry_trinity": text = "Construction began on the new bridge in 2014. The new bridge will feature two pedestrian bridges with long-span signature arches."; break;
             }
             return text;
         }

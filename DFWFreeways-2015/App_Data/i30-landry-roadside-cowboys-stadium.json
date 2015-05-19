@@ -1,0 +1,75 @@
+﻿{
+    "folderPath": "",
+    "title": "Cowboys stadium photos",
+    "pageHeader":
+    {
+        "title": "Cowboys Stadium",
+        "subTitle": "Construction and Superbowl XLV",
+        "urlParentText": "I-30 Tom Landry Highway",
+        "lastUpdated": "June 1, 2015 (create)"
+    },
+    "map": "",
+    "text": "Cowboys Stadium was renamed AT&T Stadium in 2013.",
+    "images":
+    [
+        {
+            "file": "20070623-IMG_7630-1050.jpg",
+            "highResolution": "20070623-IMG_7630-2560.jpg",
+            "caption": "",
+            "imageDate": "23-June-2007"        
+        },
+        {
+            "file": "20070623-IMG_7635-1050.jpg",
+            "caption": "",
+            "imageDate": "23-June-2007"
+        },
+        {
+            "file": "20070623-IMG_7643.jpg",
+            "highResolution": "20070623-IMG_7643-2560.jpg",
+            "caption": "View from the Walmart parking lot across the street.",
+            "imageDate": "23-June-2007"        
+        },
+        {
+            "file": "20070811-IMG_8652-1200.jpg",
+            "highResolution": "20070811-IMG_8652-2560.jpg",
+            "caption": "The first arch is being built.",
+            "imageDate": "11-August-2007"        
+        },
+        {
+            "file": "20070811-IMG_8661-1100.jpg",
+            "highResolution": "20070811-IMG_8661-2560.jpg",
+            "caption": "",
+            "imageDate": "11-August-2007"        
+        },
+        {
+            "file": "20070811-IMG_8666-1200.jpg",
+            "highResolution": "20070811-IMG_8666-2560.jpg",
+            "caption": "",
+            "imageDate": "11-August-2007"        
+        },
+        {
+            "file": "20070811-IMG_8667-1050.jpg",
+            "highResolution": "",
+            "caption": "Notice the banner \"Home of Super Bowl XLV\"",
+            "imageDate": "11-August-2007"        
+        },
+        {
+            "file": "20110122_sbowl_001-1050.jpg",
+            "caption": "Super Bowl XLV at Cowboys Stadium (now AT&T Stadium)",
+            "imageDate": "22-January-2011"        
+        },
+        {
+            "file": "20110122_sbowl_009-1050jpg.jpg",
+            "caption": "",
+            "imageDate": "22-January-2011"        
+        },
+        {
+            "file": "20110205_016-1050.jpg",
+            "highResolution": "",
+            "caption": "Downtown skyscraper with supersize banner on display.",
+            "imageDate": "2-February-2011"        
+        }
+
+    ]
+
+}

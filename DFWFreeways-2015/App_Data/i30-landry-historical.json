@@ -1,0 +1,31 @@
+﻿{
+    "folderPath": "",
+    "title": "Dallas-Fort Worth Turnpike historical photos",
+    "pageHeader":
+    {
+        "title": "Historical Views",
+        "subTitle": "Dallas-Fort Worth Turnpike",
+        "urlParentText": "I-30 Tom Landry Highway",
+        "lastUpdated": "June 1, 2015 (review)"
+    },
+    "map": "",
+    "text": "These images are courtesy of the NTTA (North Texas Turnpike Authority).",
+    "images":
+    [
+        {
+            "file": "30m_tollbooth_950.jpg",
+            "caption": "This view shows the Fort Worth toll plaza, which was just east of Oakland. The signs say \"Stop Get Ticket\". This photo appears to be taken in the early years of the Turnpike, which opened in September 1957. (Photo: North Texas Turnpike Authority)"
+        },
+        {
+            "file": "30m_Original_Construction_of_DFW_2.jpg",
+            "caption": "This view shows construction of the turnpike, most likely winter 1956. (Photo: North Texas Turnpike Authority)"
+        },
+        {
+            "file": "30m_six_flags_undated_Development.jpg",
+            "caption": "This view shows Six Flags, sometime in the 1960s. Unfortunately a higher-resolution image was not available, so it is difficult to identify any of the amusements in the park. (Photo: North Texas Turnpike Authority)"
+        }
+
+
+    ]
+
+}

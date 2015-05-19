@@ -1,0 +1,63 @@
+﻿{
+    "folderPath": "",
+    "title": "Spur 408 photos",
+    "pageHeader":
+    {
+        "title": "Driving Views Northbound",
+        "subTitle": "",
+        "urlParentText": "Spur 408",
+        "lastUpdated": "Created December 15, 2007. Last updated June 1, 2015 (review only)"
+    },
+    "map": "408_roadside_600.gif",
+    "text": "2015 update: Changes have been minimal and these photos are still accurate depictions.",
+    "images":
+    [
+        {
+            "file": "408_driving_20071028_IMG_9741_on_connecting_ramp.jpg",
+            "caption": "On the connection ramp from eastbound I-20 to northbound Spur 408",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "408_driving_20071028_IMG_9742_nb_just_n_of_i20.jpg",
+            "caption": "Just north of I-20",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "408_driving_20071028_IMG_9744_nb_niblo.jpg",
+            "caption": "Near Grady Niblo road",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "408_driving_20071028_IMG_9745_nb.jpg",
+            "caption": "The freeway features a very wide right-of-way and a wide median. There are no frontage roads.",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "408_driving_20071028_IMG_9746_exit_at_keist.jpg",
+            "caption": "At the Keist exit",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "408_driving_20071028_IMG_9747.jpg",
+            "caption": "North of Keist there is an extra-wide separation of the northbound and southbound lanes.",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "408_driving_20071028_IMG_9748_approaching_illinois.jpg",
+            "caption": "",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "408_driving_20071028_IMG_9749_approaching_loop_12.jpg",
+            "caption": "The end of the Spur 408 freeway at Loop 12 is just ahead.",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "408_driving_20071028_IMG_9750_at_illinois.jpg",
+            "caption": "At Illinois. The freeway merges with Loop 12 just ahead, and traffic then follows Loop 12.",
+            "imageDate": "28-Oct-2007"
+        }
+
+    ]
+
+}

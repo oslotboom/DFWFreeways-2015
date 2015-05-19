@@ -1,0 +1,126 @@
+﻿{
+    "folderPath": "",
+    "title": "Loop 12 photos",
+    "pageHeader":
+    {
+        "title": "Driving Views Northbound",
+        "subTitle": "",
+        "urlParentText": "Loop 12",
+        "lastUpdated": "Created December 11, 2007. Last updated June 1, 2015 (update captions, add photo)"
+    },
+    "map": "12_driving_550.gif",
+    "text": "2015 update: Some of the photos below have become obsolete due to changes in the area of the former Texas Stadium, as noted in the image captions. There are long-term plans to widen and modernize the Loop 12 corridor, but the work is not funded or scheduled as of 2015.",
+    "images":
+    [
+
+
+        {
+            "file": "12_driving_20071028_IMG_9751_keeneland.jpg",
+            "caption": "North of Illinois",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "12_driving_20071028_IMG_9753_at_jefferson.jpg",
+            "caption": "At Jefferson",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "12_driving_20071028_IMG_9755_exit_at_interstate_30.jpg",
+            "caption": "At the exit for I-30. The interchange at I-30 is still in its original DFW Turnpike configuration and requires drivers to make some very unusual connections.",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "12_driving_20071028_IMG_9756_at_i30.jpg",
+            "caption": "At Interstate 30. At the time of this photo, construction was in progress to rebuild the I-30 main lanes. There are long-term plans for a modern 4-level interchange at this location, but as of 2015 the interchange construction is not funded or scheduled.",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "12_driving_20071028_IMG_9757_under_i30.jpg",
+            "caption": "",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "12_driving_20071028_IMG_9758_trinity_bridge.jpg",
+            "caption": "The Trinity River bridge is just ahead. The bridge was built with a 52-foot clearance over the average river level in anticipation of the construction of the Trinity waterway navigable barge canal. The construction contract for the Loop 12 bridge was awarded in January 1973, and on March 13, 1973, voters rejected a $150 million bond issue which would have covered the local share of the cost of the barge canal. The Trinity waterway navigation canal project was on life support after the election, and dead by the late 1970s. So, the extra clearance and long span of the bridge turned out to be a waste of money.",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "12_driving_20071028_IMG_9759_nb_trinity_bridge.jpg",
+            "caption": "On the downgrade of the Trinity river bridge.",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "12_driving_20071028_IMG_9760_at_shady_grove_exit.jpg",
+            "caption": "",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "12_driving_20071028_IMG_9761_irving_blvd_exit.jpg",
+            "caption": "",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "12_driving_20071028_IMG_9762_irving_blvd.jpg",
+            "caption": "At Irving Blvd",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "12_driving_20071028_IMG_9763_union_bower_exit.jpg",
+            "caption": "At the exit for Union Bower",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "12_driving_20071028_IMG_9764_approaching_183.jpg",
+            "caption": "Approaching TX 183 with Texas Stadium just ahead.",
+            "imageDate": "28-Oct-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Partially Obsolete", "note": "Texas Stadium was imploded and cleared in 2010. The freeway remains the same in 2015." }
+        },
+        {
+            "file": "12_driving_20071028_IMG_9765_at_183.jpg",
+            "caption": "Exit to 183. The interchange at SH 183 features an antiquated and obsolete design with loop connectors and poor geometrics.",
+            "imageDate": "28-Oct-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Partially Obsolete", "note": "Texas Stadium was imploded and cleared in 2010. The freeway remains the same in 2015." }
+        },
+        {
+            "file": "12_driving_20071028_IMG_9766_texas_stadium.jpg",
+            "caption": "",
+            "imageDate": "28-Oct-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Partially Obsolete", "note": "Texas Stadium was imploded and cleared in 2010. The freeway remains the same in 2015." }
+        },
+        {
+            "file": "12_driving_20071028_IMG_9767_at_183.jpg",
+            "caption": "At TX 183",
+            "imageDate": "28-Oct-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "In 2015 the first phase of work began to modernize this interchange. Two direct connection ramps will be added." }
+        },
+        {
+            "file": "12_driving_20071028_IMG_9768_at_texas_plaza.jpg",
+            "caption": "At Texas Plaza.",
+            "imageDate": "28-Oct-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section of freeway was rebuilt and widened in 2012 during phase 1 of the Diamond Interchange project." }
+        },
+        {
+            "file": "12_driving_20071028_IMG_9769_over_114.jpg",
+            "caption": "This is over SH 114. Two connection ramps to SH 114 were opened in 2012, but the other six connection movements must go through a signalized intersection on the frontage roads.",
+            "imageDate": "28-Oct-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section of freeway was rebuilt and widened in 2012 during phase 1 of the Diamond Interchange project." }
+        },
+        {
+            "file": "12_driving_20071028_IMG_9770_trinity_bridge.jpg",
+            "caption": "On the Trinity River bridge, crossing into Dallas from Irving.",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "12_driving_20071028_IMG_9771_at_nw_hwy.jpg",
+            "caption": "At Northwest Highway. This area has a dense concentration of liquor stores, gentlemen's clubs, bars, and restaurants. Eastbound Loop 12 traffic exits here. ",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "12_driving_20071028_IMG_9773_merging_with_35e.jpg",
+            "caption": "Merging with I-35E.",
+            "imageDate": "28-Oct-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "In 2014 elevated mananged lanes opened on I-35E, including a connection from northbound Loop 12." }
+        }
+    ]
+
+}
