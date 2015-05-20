@@ -1,0 +1,56 @@
+﻿{
+
+    "pageHeader":
+    {
+        "title": "I-35W",
+        "subTitle": "Fort Worth",
+        "lastUpdated": "June 1, 2015"
+    },
+    "Title": "I-35W Fort Worth",
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "I-35W South Freeway", "Quickview": "ExFW35WS?startOdd=True", "Pdf": "" },
+                { "BookText": "Fort Worth Mixmaster", "Quickview": "ExFWMixmaster?startOdd=False", "Pdf": "" },        
+                { "BookText": "Chapter 11: Fort Worth Freeways", "Quickview": "ChFortWorthFreeways?startOdd=False&pdfSize=17+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-11-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-11-20140803.pdf" }
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "All aerials", "AnchorUrl": "all" },
+                { "AnchorText": "At I-20", "AnchorUrl": "i20" },
+                { "AnchorText": "At I-30, the Mixmaster ", "AnchorUrl": "i30" },
+                { "AnchorText": "At Loop 820, north Fort Worth", "AnchorUrl": "i820" },
+                { "AnchorText": "At Alliance Airport", "AnchorUrl": "alliance" },
+                { "AnchorText": "Texas Motor Speedway", "AnchorUrl": "texas-motor-speedway" }
+           ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [ ]
+        }
+    ]
+}

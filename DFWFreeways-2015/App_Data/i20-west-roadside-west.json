@@ -1,0 +1,63 @@
+﻿{
+    "folderPath": "",
+    "title": "I-20 Fort Worth photos",
+    "pageHeader":
+    {
+        "title": "Roadside Views",
+        "subTitle": "Southwest Fort Worth",
+        "urlParentText": "I-20 West",
+        "lastUpdated": "Created September 23, 2007. Reviewed June 1, 2015."
+    },
+    "map": "20_map_west_650.gif",
+    "text": "2015 status: These photos are still accurate.",
+    "images":
+    [
+        {
+            "file": "20_20070415_ground_e_of_30_950_IMG_5285.jpg",
+            "highResolution": "20_20070415_ground_e_of_30_IMG_5285.jpg",
+            "caption": "East of Interstate 30, looking east",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "20_20070415_ground_w_of_markum_ranch_IMG_5277.jpg",
+            "caption": "Looking east, west of Markum Ranch Road",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "20_20070415_at_markum_ranch_950_IMG_5273.jpg",
+            "highResolution": "20_20070415_at_markum_ranch_1600_IMG_5273.jpg",
+            "caption": "West of Markum Ranch road",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "20_20070415_ground_w_of_markum_ranch_950_IMG_5278.jpg",
+            "caption": "Downtown Fort Worth is visible in the distance",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "20_20070415_ground_looking_e_950_IMG_5292.jpg",
+            "highResolution": "20_20070415_ground_looking_e_2048_IMG_5292.jpg",
+            "caption": "Alongside the eastbound lanes",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "20_west_of_markum_ranch_future_road_950IMG_5276.jpg",
+            "caption": "There are two or three unused overpasses over I-20, inaccessible by vehicle. I parked on the main lanes shoulder and walked up to this overpass.",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "20_20070415_at_820_950_IMG_5271.jpg",
+            "highResolution": "20_20070415_at_820_2602_IMG_5271.jpg",
+            "caption": "Approaching Interstate 820",
+            "imageDate": "15-April-2007"
+        },
+        {
+            "file": "20_20070415_at_820_950_IMG_5268.jpg",
+            "highResolution": "20_20070415_at_820_2472_IMG_5268.jpg",
+            "caption": "Looking east toward the Interstate 820 interchange.",
+            "imageDate": "15-April-2007"
+        }
+
+    ]
+
+}

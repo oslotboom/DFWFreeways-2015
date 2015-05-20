@@ -150,11 +150,13 @@
     <Compile Include="Aerial_Initialize\i20-spur408.cs" />
     <Compile Include="Aerial_Initialize\i20-us175.cs" />
     <Compile Include="Aerial_Initialize\i20-us67.cs" />
+    <Compile Include="Aerial_Initialize\i20-west-all.cs" />
     <Compile Include="Aerial_Initialize\i30-dallas-downtown.cs" />
     <Compile Include="Aerial_Initialize\i30-dallas-east-dallas.cs" />
     <Compile Include="Aerial_Initialize\i30-dallas-garland.cs" />
     <Compile Include="Aerial_Initialize\i30-dallas-i635.cs" />
     <Compile Include="Aerial_Initialize\i30-dallas-us80.cs" />
+    <Compile Include="Aerial_Initialize\i30-fort-worth-all.cs" />
     <Compile Include="Aerial_Initialize\i30-landry-all.cs" />
     <Compile Include="Aerial_Initialize\i30-midcities.cs" />
     <Compile Include="Aerial_Initialize\i35e-north-all.cs" />
@@ -165,6 +167,7 @@
     <Compile Include="Aerial_Initialize\i35e-sh121.cs" />
     <Compile Include="Aerial_Initialize\i35e-south-all.cs" />
     <Compile Include="Aerial_Initialize\i35e-south-downtown.cs" />
+    <Compile Include="Aerial_Initialize\i35w-all.cs" />
     <Compile Include="Aerial_Initialize\i45-all.cs" />
     <Compile Include="Aerial_Initialize\i45-i30.cs" />
     <Compile Include="Aerial_Initialize\i45-dallas.cs" />
@@ -232,6 +235,8 @@
     <None Include="App_Data\i20-dallas-roadside-dallas.json" />
     <Content Include="App_Data\i20-dallas-roadside-terrell.json" />
     <Content Include="App_Data\i30-dallas-historical.json" />
+    <Content Include="App_Data\i20-west.json" />
+    <Content Include="App_Data\i20-west-roadside-west.json" />
     <None Include="App_Data\i30-dallas-roadside-dallas.json" />
     <Content Include="App_Data\i30-dallas.json" />
     <Content Include="App_Data\i30-dallas-driving-dallas.json" />
@@ -244,6 +249,7 @@
     <Content Include="App_Data\i30-landry-historical.json" />
     <Content Include="App_Data\i30-landry-roadside-cowboys-stadium.json" />
     <Content Include="App_Data\i30-landry-construction-2009.json" />
+    <Content Include="App_Data\i30-fort-worth.json" />
     <None Include="App_Data\i35e-north-construction-2014-nov.json" />
     <None Include="App_Data\i35e-north-construction-2015-jan.json" />
     <None Include="App_Data\i35e-north-construction-2012-march.json" />
@@ -254,6 +260,8 @@
     <Content Include="App_Data\loop12.json" />
     <Content Include="App_Data\loop12-driving.json" />
     <Content Include="App_Data\loop12-roadside.json" />
+    <Content Include="App_Data\i20-west-driving.json" />
+    <Content Include="App_Data\i35w.json" />
     <None Include="App_Data\sh121-driving-lewisville.json" />
     <Content Include="App_Data\sh183-construction-row.json" />
     <Content Include="App_Data\sh114.json" />
@@ -263,6 +271,8 @@
     <Content Include="App_Data\sh121-driving-frisco.json" />
     <None Include="App_Data\sh183-driving-dallas.json" />
     <Content Include="App_Data\sh183-driving-nte.json" />
+    <Content Include="App_Data\sh360.json" />
+    <Content Include="App_Data\sh360-roadside.json" />
     <None Include="App_Data\spur366-roadside-bridge-clearance.json" />
     <Content Include="App_Data\spur366-roadside-bridge-site.json" />
     <Content Include="App_Data\spur366-roadside-klyde-warren-park.json" />

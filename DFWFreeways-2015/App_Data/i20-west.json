@@ -1,0 +1,56 @@
+﻿{
+
+    "pageHeader":
+    {
+        "title": "I-20 Fort Worth and Arlington",
+        "subTitle": "",
+        "lastUpdated": "June 1, 2015"
+    },
+    "Title": "I-20 Reagan Memorial Parkway",
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties": [ { "AnchorText": "West of Fort Worth", "AnchorUrl": "roadside-west" } ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties": [ 
+                { "AnchorText": "Westbound, SH 360 to US 377", "AnchorUrl": "driving" } 
+            ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "Fort Worth I-20 and Loop 820", "Quickview": "ExFW820?startOdd=True", "Pdf": "" },
+                { "BookText": "Chapter 10: Mid-Cities Freeways", "Quickview": "ChMidCitiesFreeways?startOdd=True&pdfSize=11+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-10-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-10-20140803.pdf" },
+                { "BookText": "Chapter 11: Fort Worth Freeways", "Quickview": "ChFortWorthFreeways?startOdd=False&pdfSize=17+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-11-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-11-20140803.pdf" }
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "All aerials", "AnchorUrl": "all" },
+                { "AnchorText": "At I-35W", "AnchorUrl": "i35w" },
+                { "AnchorText": "South Fort Worth", "AnchorUrl": "fort-worth" },
+                { "AnchorText": "At Loop 820, southwest Fort Worth", "AnchorUrl": "i820" }
+            ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [ ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+﻿{
+
+    "pageHeader":
+    {
+        "title": "I-30 Fort Worth",
+        "subTitle": "",
+        "lastUpdated": "June 1, 2015"
+    },
+    "Title": "I-30 Fort Worth",
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties": [ { "AnchorText": "Roadside views", "AnchorUrl": "roadside" } ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties": [ 
+                { "AnchorText": "Eastbound, I-20 Split to Downtown", "AnchorUrl": "driving" } 
+            ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "I-30 West Freeway", "Quickview": "ExFW30?startOdd=False", "Pdf": "" },
+                { "BookText": "Lancaster Elevated", "Quickview": "ExFWLancaster?startOdd=True", "Pdf": "" },
+                { "BookText": "Chapter 11: Fort Worth Freeways", "Quickview": "ChFortWorthFreeways?startOdd=False&pdfSize=17+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-11-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-11-20140803.pdf" },
+                { "BookText": "Fort Worth Mixmaster", "Quickview": "ExFWMixmaster?startOdd=False", "Pdf": "" },        
+
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "All aerials", "AnchorUrl": "all" },
+                { "AnchorText": "At I-35W", "AnchorUrl": "i35w" },
+                { "AnchorText": "Downtown Fort Worth", "AnchorUrl": "downtown" },
+                { "AnchorText": "Arlington Heights and Joint Reserve Base", "AnchorUrl": "arlington" },
+                { "AnchorText": "At I-820", "AnchorUrl": "i820" }
+            ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [ ]
+        }
+    ]
+}

@@ -111,7 +111,7 @@ namespace DFWFreeways.Models
         public static string[] Descriptions(string page)
         {
             string[] info = new string[4];
-            //fields are title, subtitle, return Url test, last updated
+            //fields are title, subtitle, return Url text, last updated
             switch (page)
             {
                 case "i35e_north_all": info = new string[] { "I-35E North All Aerials", "", "I-35E North", "June 1, 2015" }; break;
@@ -164,6 +164,7 @@ namespace DFWFreeways.Models
                 case "sh114_all": info = new string[] { "All SH 114 Aerials", "", "SH 114", "June 1, 2015" }; break;
                 case "sh114_las_colinas": info = new string[] { "SH 114 at Las Colinas", "", "SH 114", "June 1, 2015 (create)" }; break;
                 case "sh114_bush": info = new string[] { "SH 114 at the Bush Turnpike", "", "SH 114", "June 1, 2015" }; break;
+                case "sh114_texas_motor_speedway": info = new string[] { "SH 114 at the Texas Motor Speedway", "", "SH 114", "June 1, 2015" }; break;
                 case "sh114_westlake": info = new string[] { "SH 114 at Solana in Westlake", "", "SH 114", "June 1, 2015 (create)" }; break;
                 case "sh114_sh170": info = new string[] { "SH 114 at SH 170", "", "SH 114", "June 1, 2015 (create)" }; break;
                 case "bush_i30": info = new string[] { "Bush Turnpike at I-30", "", "Bush Turnpike", "June 1, 2015" }; break;
@@ -207,6 +208,22 @@ namespace DFWFreeways.Models
                 case "i30_landry_i35w": info = new string[] { "I-30 at I35W", "The Fort Worth Mixmaster", "I-30 Landry Highway", "June 1, 2015" }; break;
                 case "i30_landry_lone_star": info = new string[] { "Lone Star Park Horse Track", "", "I-30 Landry Highway", "June 1, 2015" }; break;
                 case "i30_landry_trinity": info = new string[] { "Original Trinity River Bridge", "For Historical Reference", "I-30 Landry Highway", "June 1, 2015" }; break;
+                case "sh360_i30": info = new string[] { "SH 360 at I-30 and Six Flags", "", "SH 360", "June 1, 2015" }; break;
+                case "i20_west_all": info = new string[] { "I-20 All Aerials", "Fort Worth", "I-20 Fort Worth", "June 1, 2015 (create)" }; break;
+                case "i20_west_i35w": info = new string[] { "I-20 at I-35W", "South Fort Worth", "I-20 Fort Worth", "June 1, 2015 (create)" }; break;
+                case "i20_west_fort_worth": info = new string[] { "I-20 South Fort Worth", "", "I-20 Fort Worth", "June 1, 2015 (create)" }; break;
+                case "i20_west_i820": info = new string[] { "I-20 at I-820", "Southwest Fort Worth", "I-20 Fort Worth", "June 1, 2015 (create)" }; break;
+                case "i35w_all": info = new string[] { "All I-35W Aerials", "", "I-35W", "June 1, 2015 (create)" }; break;
+                case "i35w_i20": info = new string[] { "I-35W at I-20", "South Fort Worth", "I-35W", "June 1, 2015 (create)" }; break;
+                case "i35w_i30": info = new string[] { "I-35W at I-30", "Fort Worth Mixmaster", "I-35W", "June 1, 2015 (create)" }; break;
+                case "i35w_i820": info = new string[] { "I-35W at I-820", "North Fort Worth", "I-35W", "June 1, 2015 (create)" }; break;
+                case "i35w_alliance": info = new string[] { "I-35W at Alliance", "North Fort Worth", "I-35W", "June 1, 2015 (create)" }; break;
+                case "i35w_texas_motor_speedway": info = new string[] { "I-35W at Alliance", "North Fort Worth", "I-35W", "June 1, 2015 (create)" }; break;
+                case "i30_fort_worth_all": info = new string[] { "All I-30 Fort Worth Aerials", "", "I-30 Fort Worth", "June 1, 2015 (create)" }; break;
+                case "i30_fort_worth_downtown": info = new string[] { "I-30 Downtown Fort Worth", "", "I-30 Fort Worth", "June 1, 2015 (create)" }; break;
+                case "i30_fort_worth_i35w": info = new string[] { "I-30 at I-35W", "The Fort Worth Mixmaster", "I-30 Fort Worth", "June 1, 2015 (create)" }; break;
+                case "i30_fort_worth_arlington": info = new string[] { "I-30 West Fort Worth", "Arlington Heights Area", "I-30 Fort Worth", "June 1, 2015 (create)" }; break;
+                case "i30_fort_worth_i820": info = new string[] { "I-30 at I-820", "West Fort Worth", "I-30 Fort Worth", "June 1, 2015 (create)" }; break;
 
             }
             return info;

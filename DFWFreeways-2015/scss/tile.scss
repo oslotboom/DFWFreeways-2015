@@ -78,7 +78,9 @@ body {
     }
 }
 
-.expanded img:hover {cursor: pointer;}
+/*.expanded img:hover {cursor: pointer;}*/
+
+.hover-pointer:hover {cursor: pointer;}
 
 .long-caption { padding-bottom: 14px; 
                 max-width: 900px;

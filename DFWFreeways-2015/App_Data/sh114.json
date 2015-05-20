@@ -43,6 +43,7 @@
                 { "AnchorText": "At the Bush Turnpike", "AnchorUrl": "bush" },
                 { "AnchorText": "In Westlake at Solana", "AnchorUrl": "westlake" },
                 { "AnchorText": "At SH 170", "AnchorUrl": "sh170" },
+                { "AnchorText": "At Texas Motor Speedway", "AnchorUrl": "texas-motor-speedway" },
                 { "AnchorText": "At the former Texas Stadium site, now the Diamond Interchange", "AnchorUrl": "diamond" }
 
             ]

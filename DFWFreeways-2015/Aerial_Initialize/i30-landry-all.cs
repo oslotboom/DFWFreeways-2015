@@ -336,7 +336,10 @@ namespace DFWFreeways.Models
         {
             return i30_landry_i35w_images();
         }
-
+        public static List<AerialGalleryItem> i30_fort_worth_i35w_images()
+        {
+            return i30_landry_i35w_images();
+        }
 
         public static List<AerialGalleryItem> i30_landry_i35w_images()
         {

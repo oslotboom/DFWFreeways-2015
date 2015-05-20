@@ -48,12 +48,15 @@ function ExpandThumbnail(element) {
     $tileDiv.toggleClass("tile-expanded");
     $tileDiv.find(".expanded").show();
     $img = $tileDiv.find("img");
+    $img.toggleClass("hover-pointer");
     $img.attr("src", $img.attr("data-source"));
     //$tileDiv.find(".long-caption").before("<img src='" + image + "'>");
 }
 function CollapseImage(element) {
     $element = $(element);
     $tileDiv = $element.closest(".tile-expanded");
+    $img = $tileDiv.find("img");
+    $img.toggleClass("hover-pointer");
     $tileDiv.find(".collapsed").each(function () { $(this).show(); });
     $tileDiv.find(".expanded").hide();
     $tileDiv.toggleClass("tile-expanded");

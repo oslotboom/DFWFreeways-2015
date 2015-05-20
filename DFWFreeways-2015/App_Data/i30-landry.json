@@ -36,7 +36,8 @@
                 { "BookText": "Chapter 9: Tom Landry Highway", "Quickview": "ChTomLandryHighway?startOdd=False&pdfSize=9+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-09-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-09-20140803.pdf" },
                 { "BookText": "The Dallas-Fort Worth Turnpike", "Quickview": "ExDFWTurnpike?startOdd=False", "Pdf": "" },
                 { "BookText": "Six Flags Over Texas", "Quickview": "ExSixFlags?startOdd=True", "Pdf": "" },
-                { "BookText": "The Stadiums of Arlington", "Quickview": "ExArlingtonStadiums?startOdd=False", "Pdf": "" }
+                { "BookText": "The Stadiums of Arlington", "Quickview": "ExArlingtonStadiums?startOdd=False", "Pdf": "" },
+                { "BookText": "Fort Worth Mixmaster", "Quickview": "ExFWMixmaster?startOdd=False", "Pdf": "" }
 
             ]
         },

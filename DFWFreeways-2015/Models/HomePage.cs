@@ -178,11 +178,10 @@ namespace DFWFreeways.Models
 
                 new KeyValuePair<string, List<Link>> ("Fort Worth", 
                 new List<Link>{
-                    new Link("I-20", "","i20-fort-worth"),
+                    new Link("I-20", "","i20-west"),
+                    new Link("I-30", "West Freeway","i30-fort-worth"),
                     new Link("I-30", "Tom Landry Highway","i30-landry"),
-                    new Link("I-30", "West Freeway","i30-west"),
-                    new Link("I-35W north", "North Freeway","i35w-north"),
-                    new Link("I-35W south", "South Freeway","i35w-north"),
+                    new Link("I-35W", "North and South Freeways","i35w"),
                     new Link("I-820", "Jim Wright Freeway","i820"),
                     new Link("US 287 south", "M.L. King Freeway","us287-south"),
                     new Link("US 287 north", "","us287-north"),
@@ -193,7 +192,7 @@ namespace DFWFreeways.Models
                     }),
                 new KeyValuePair<string, List<Link>> ("Mid-Cities", 
                 new List<Link>{
-                    new Link("I-20", "Reagan Freeway","i20-dallas"),
+                    new Link("I-20", "West","i20-west"),
                     new Link("I-30", "Tom Landry Highway","i30-landry"),
                     new Link("SH 360", "Angus Wynne Freeway","sh360"),
                     new Link("SH 183/SH 121", "Airport Freeway","sh183"),

@@ -260,7 +260,8 @@ body {
     max-height: 100%;
     max-width: 100%; }
 
-.expanded img:hover {
+/*.expanded img:hover {cursor: pointer;}*/
+.hover-pointer:hover {
   cursor: pointer; }
 
 .long-caption {

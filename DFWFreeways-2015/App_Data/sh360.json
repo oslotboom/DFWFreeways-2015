@@ -1,0 +1,51 @@
+﻿{
+
+    "pageHeader":
+    {
+        "title": "SH 360",
+        "subTitle": "Angus Wynne Freeway",
+        "lastUpdated": "June 1, 2015"
+    },
+    "Title": "SH 360",
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties": [ { "AnchorText": "Roadside Views", "AnchorUrl": "roadside" } ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties": [  ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "Chapter 10: Mid-Cities Freeways", "Quickview": "ChMidCitiesFreeways?startOdd=True&pdfSize=11+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-10-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-10-20140803.pdf" },
+                { "BookText": "Six Flags Over Texas", "Quickview": "ExSixFlags?startOdd=True", "Pdf": "" },
+                { "BookText": "The Stadiums of Arlington", "Quickview": "ExArlingtonStadiums?startOdd=False", "Pdf": "" }
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "At I-30 and Six Flags", "AnchorUrl": "i30" }
+            ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [ ]
+        }
+    ]
+}
