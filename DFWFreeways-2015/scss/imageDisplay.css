@@ -76,6 +76,9 @@ table {
   border-spacing: 0;
   border-collapse: separate; }
 
+.titleBase, .header .title span:first-child, .header .title span:last-child {
+  line-height: 120%; }
+
 .header {
   margin: 12px 0 20px 0;
   display: table; }
@@ -85,19 +88,17 @@ table {
     display: table-cell;
     vertical-align: middle; }
   .header div:nth-child(2) {
-    font-size: 2.2em;
     padding-right: 30px; }
-  .header .title {
-    font-size: 2em;
-    padding-right: 30px;
-    line-height: 120%; }
-
-#last-update {
-  padding: 0 0 8px 0;
-  font-style: italic; }
-  #last-update span {
-    font-weight: bold;
-    font-style: normal; }
+  .header .title span:first-child {
+    font-size: 2.2em; }
+  .header .title span:last-child {
+    font-size: 1.8em; }
+  .header #last-update {
+    padding: 0 0 8px 0;
+    font-style: italic; }
+    .header #last-update span {
+      font-weight: bold;
+      font-style: normal; }
 
 body {
   padding-top: 0;

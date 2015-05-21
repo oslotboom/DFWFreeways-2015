@@ -1,0 +1,71 @@
+﻿{
+    "folderPath": "",
+    "title": "I-30 photos",
+    "pageHeader":
+    {
+        "title": "I-30 Roadside Views",
+        "subTitle": "West Fort Worth to Arlington Heights",
+        "urlParentText": "I-30 Fort Worth",
+        "lastUpdated": "Created October 19, 2007. Reviewed June 1, 2015"
+    },
+    "map": "30fw_roadside_800.gif",
+    "text": "2015 update: Changes have been minimal since these photos were taken in 2007, and these photos are still accurate depictions.",
+    "images":
+    [
+        {
+            "file": "30fw_IMG_6132_20070429_sign_500.jpg",
+            "caption": "Interstate 30 in Fort Worth is the West Freeway",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_IMG_6146_20070429_sign_500.jpg",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_IMG_6218_20070429_at_chapel_creek_950.jpg",
+            "caption": "Looking east from Chapel Creek. Interstate 820 is just ahead. For photos of the interchange at 820, see the driver's views.",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_IMG_6154_20070429_at_183_alta_mere_950.jpg",
+            "highResolution": "30fw_IMG_6154_20070429_at_183_alta_mere_2859.jpg",
+            "caption": "Looking east at SH 183/Alta Mere",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_IMG_6151_20070429_ridgmar_ridglea_950.jpg",
+            "caption": "Looking east from the Ridgmar/Ridgelea overpass.",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_IMG_6143_20070429_guilford.jpg",
+            "highResolution": "30fw_IMG_6143_20070429_guilford_2592.jpg",
+            "caption": "Looking east at Guilford. From this point eastward to University the freeway was widened and reconstructed in the late 1980s, with work completed in 1989 and 1990.",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_IMG_6147_20070429_bryant_guilford_950.jpg",
+            "caption": "Looking east from the Bryant/Guilford overpass.",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_IMG_6142_20070429_horne_950.jpg",
+            "caption": "Looking east at Horne",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_IMG_6137_20070429_merrick_950.jpg",
+            "highResolution": "30fw_IMG_6137_20070429_merrick_2048.jpg",
+            "caption": "Looking east at Merrick",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_IMG_6134_20070429_ashland_950.jpg",
+            "caption": "Looking east at Ashland",
+            "imageDate": "29-April-2007"
+        }
+
+
+    ]
+
+}

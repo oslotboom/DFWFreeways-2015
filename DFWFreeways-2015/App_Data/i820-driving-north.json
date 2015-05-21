@@ -1,0 +1,89 @@
+﻿{
+    "folderPath": "",
+    "title": "I-820 photos",
+    "pageHeader":
+    {
+        "title": "I-820 North Driving Views",
+        "subTitle": "For Historical Reference",
+        "urlParentText": "I-820",
+        "lastUpdated": "Created December 19, 2007. Updated June 1, 2015"
+    },
+    "map": "820_driving_north_700.gif",
+    "text": "2015 update: All these photos are obsolete due to construction of the North Tarrant Express toll lanes on this section, completed in 2014. These photos show the original freeway.",
+    "images":
+    [
+        {
+            "file": "820_driving_20070708_IMG_8187_at_beach.jpg",
+            "caption": "At Beach",
+            "imageDate": "Jul 8, 2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section of Loop 820 was rebuilt and four toll lanes were added by the North Tarrant Express project, completed in 2014." }
+        },
+        {
+            "file": "820_driving_20070708_IMG_8190_haltom.jpg",
+            "caption": "At Haltom",
+            "imageDate": "Jul 8, 2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section of Loop 820 was rebuilt and four toll lanes were added by the North Tarrant Express project, completed in 2014." }
+
+        },
+        {
+            "file": "820_driving_20070708_IMG_8191_377_exit.jpg",
+            "caption": "Exit for 377",
+            "imageDate": "Jul 8, 2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section of Loop 820 was rebuilt and four toll lanes were added by the North Tarrant Express project, completed in 2014." }
+
+        },
+        {
+            "file": "820_driving_20070708_IMG_8194_approaching_rufe_snow.jpg",
+            "caption": "",
+            "imageDate": "Jul 8, 2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section of Loop 820 was rebuilt and four toll lanes were added by the North Tarrant Express project, completed in 2014." }
+
+        },
+        {
+            "file": "820_driving_20070708_IMG_8195_rufe_snow_exit.jpg",
+            "caption": "At the Rufe Snow exit",
+            "imageDate": "Jul 8, 2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section of Loop 820 was rebuilt and four toll lanes were added by the North Tarrant Express project, completed in 2014." }
+
+        },
+        {
+            "file": "820_driving_20070708_IMG_8196_.jpg",
+            "caption": "",
+            "imageDate": "Jul 8, 2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section of Loop 820 was rebuilt and four toll lanes were added by the North Tarrant Express project, completed in 2014." }
+
+        },
+        {
+            "file": "820_driving_20070708_IMG_8197_approaching_holiday.jpg",
+            "caption": "Approaching Holiday",
+            "imageDate": "Jul 8, 2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section of Loop 820 was rebuilt and four toll lanes were added by the North Tarrant Express project, completed in 2014." }
+
+        },
+        {
+            "file": "820_driving_20070708_IMG_8198_approaching_121_183.jpg",
+            "highResolution": "820_driving_20070708_IMG_8198_approaching_121_183_2048.jpg",
+            "caption": "Approaching the northeast corner of I-820 and the interchange with TX 121 and TX 183",
+            "imageDate": "Jul 8, 2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section of Loop 820 was rebuilt and four toll lanes were added by the North Tarrant Express project, completed in 2014." }
+
+        },
+        {
+            "file": "820_driving_20070708_IMG_8199_at_183_121.jpg",
+            "caption": "Just ahead the freeway becomes much wider with new concrete. The interchange at TX 121 and TX 121 was totally rebuilt and expanded in a project that completed around 2002.",
+            "imageDate": "Jul 8, 2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section of Loop 820 was rebuilt and four toll lanes were added by the North Tarrant Express project, completed in 2014." }
+
+        },
+        {
+            "file": "820_driving_20070708_IMG_8202_121_183_interchange.jpg",
+            "caption": "On the connection to 183/121 east.",
+            "imageDate": "Jul 8, 2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This interchange was substantially modified by the North Tarrant Express project, completed in 2014. Long elevated structures were added for the managed lanes." }
+
+        }
+
+
+    ]
+
+}

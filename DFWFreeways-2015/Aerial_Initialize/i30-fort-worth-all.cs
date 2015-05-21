@@ -149,6 +149,11 @@ namespace DFWFreeways.Models
             };
         }
 
+        public static List<AerialGalleryItem> i820_i30_west_images()
+        {
+            return i30_fort_worth_i820_images();
+        }
+
         public static List<AerialGalleryItem> i30_fort_worth_i820_images()
         {
 

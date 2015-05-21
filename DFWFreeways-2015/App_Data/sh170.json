@@ -1,0 +1,49 @@
+﻿{
+
+    "pageHeader":
+    {
+        "title": "SH 170",
+        "subTitle": "North Fort Worth",
+        "lastUpdated": "June 1, 2015"
+    },
+    "Title": "SH 170",
+    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
+    "Text": "The SH 170 frontage roads opened in 1992. The main lanes are planned to be tolled. As of a May 2015 progress report on the NTTA web site, the construction date remains to be determined.",
+    "Features":
+    [
+        {
+            "FeatureType": "Roadside",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "DriversViews",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Book",
+            "FeatureProperties":
+            [
+                { "BookText": "Chapter 11: Fort Worth Freeways", "Quickview": "ChFortWorthFreeways?startOdd=False&pdfSize=17+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-11-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-11-20140803.pdf" }
+            ]
+        },
+        {
+            "FeatureType": "Construction",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Aerial",
+            "FeatureProperties":
+            [
+                { "AnchorText": "Aerial views", "AnchorUrl": "frontage" }
+           ]
+        },
+        {
+            "FeatureType": "Historical",
+            "FeatureProperties": [ ]
+        },
+        {
+            "FeatureType": "Video",
+            "FeatureProperties": [ ]
+        }
+    ]
+}

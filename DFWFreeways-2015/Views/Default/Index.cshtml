@@ -72,7 +72,11 @@
                                     @foreach (DFWFreeways.Models.Link link in linkGroup.Value)
                                     {
                                         <div>
+                                            @if (link.GetType().Name == "Link") { 
                                             <a href="@Url.Action("freeway", new { id=link.Url})">@link.DisplayText</a> @link.Description
+                                            }
+                                            else
+                                            {<span class="bold">@link.DisplayText</span> <text> @link.Description</text>}
                                         </div>
 
                                     }

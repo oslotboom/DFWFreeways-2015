@@ -1,0 +1,144 @@
+﻿{
+    "folderPath": "",
+    "title": "I-30 photos",
+    "pageHeader":
+    {
+        "title": "I-30 Eastbound Driving Views",
+        "subTitle": "I-20 Split to I-35W",
+        "urlParentText": "I-30 Fort Worth",
+        "lastUpdated": "June 1, 2015 (create)"
+    },
+    "map": "30fw_driving_850.gif",
+    "text": "2015 update: The only major project on this corridor since these photos were taken was the construction of the large interchange at the Chisholm Trail Parkway near downtown. Except for the one photo at the Chisholm Trail location, these photos are accurate depictions.",
+    "images":
+    [
+        {
+            "file": "30fw_IMG_6954_20070513_at_split_950.jpg",
+            "caption": "Driving eastbound on Interstate 20 with the start of Interstate 30 just ahead. ",
+            "imageDate": "13-May-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6219_20070429_chapel_creek_950.jpg",
+            "caption": "Entering the freeway at Chapel Creek",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6220_20070429_alemeda.jpg",
+            "caption": "Approaching Interstate 820",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6222_20070429_eb_at_820_950.jpg",
+            "highResolution": "30fw_driving_IMG_6222_20070429_eb_at_820_2661.jpg",
+            "caption": "The Interstate 820 interchange is a four-level design",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6223_20070429_eb_at_830_950.jpg",
+            "caption": "",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6225_20070429_eb_las_vegas_trail_950.jpg",
+            "caption": "East of Interstate 820",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6227_20070429_eb_approaching_183.jpg",
+            "caption": "Approaching route 183",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6229_20070429_eb_183_950.jpg",
+            "caption": "",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6230_20070429_eb_183_950.jpg",
+            "caption": "At SH 183",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6231_ridgemar_950.jpg",
+            "caption": "At Ridgemar. The overpass is the original construction. ",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6233_eb_horne_950.jpg",
+            "caption": "At Horne. This section through west Fort Worth was reconstructed and expanded, with work completed in 1989 and 1990.",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6234_20070429_eb_merrick_950.jpg",
+            "caption": "At Merrick",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6235_20070429_hulen_950.jpg",
+            "caption": "Approaching Hulen",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6236_20070429_eb_hulen_950.jpg",
+            "caption": "At Hulen",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6237_20070429_eb_at_ashland_950.jpg",
+            "caption": "At Ashland",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6238_20070429_eb_montgomery_950.jpg",
+            "highResolution": "30fw_driving_IMG_6238_20070429_eb_montgomery_2847.jpg",
+            "caption": "Approaching Montgomery",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6239_20070429_eb_at_montgomery_950.jpg",
+            "caption": "At Montgomery",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6240_20070429_rosedale_950.jpg",
+            "caption": "At Rosedale. Here the freeway narrows to six lanes (three each way) and is still in its original general configuration.",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6242_20070429_eb_forest_park.jpg",
+            "caption": "At Forest Park",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6243_20070429_eb_e_of_university_950.jpg",
+            "caption": "Proceeding eastbound, east of University",
+            "imageDate": "29-April-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The interchange to the Chisholm Trail Parkway was built in this area, fully completed in 2015." }
+
+        },
+        {
+            "file": "30fw_driving_IMG_6246_20070429_downtown_950.jpg",
+            "caption": "Now we are in downtown, on a section of freeway which opened in 2000. This section replaced the Lancaster Elevated freeway, which was subsequently demolished.",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6247_20070429_eb_downtown_950.jpg",
+            "highResolution": "30fw_driving_IMG_6247_20070429_eb_downtown_2048.jpg",
+            "caption": "Approaching Interstate 35W.",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6249_20070429_eb_at_35e_950.jpg",
+            "caption": "In the I-35W interchange",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "30fw_driving_IMG_6250_20070429_eb_at_35e.jpg",
+            "caption": "",
+            "imageDate": "29-April-2007"
+        }
+
+
+    ]
+
+}

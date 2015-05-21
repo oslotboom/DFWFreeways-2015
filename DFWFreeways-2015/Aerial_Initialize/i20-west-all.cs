@@ -120,6 +120,11 @@ namespace DFWFreeways.Models
             };
         }
 
+
+        public static List<AerialGalleryItem> chisholm_trail_parkway_fort_worth_images()
+        {
+            return i20_west_fort_worth_images();
+        }
         public static List<AerialGalleryItem> i20_west_fort_worth_images()
         {
 

@@ -224,6 +224,15 @@ namespace DFWFreeways.Models
                 case "i30_fort_worth_i35w": info = new string[] { "I-30 at I-35W", "The Fort Worth Mixmaster", "I-30 Fort Worth", "June 1, 2015 (create)" }; break;
                 case "i30_fort_worth_arlington": info = new string[] { "I-30 West Fort Worth", "Arlington Heights Area", "I-30 Fort Worth", "June 1, 2015 (create)" }; break;
                 case "i30_fort_worth_i820": info = new string[] { "I-30 at I-820", "West Fort Worth", "I-30 Fort Worth", "June 1, 2015 (create)" }; break;
+                case "chisholm_trail_parkway_fort_worth": info = new string[] { "At I-20", "Prior to Interchange Construction", "Chisholm Trail Parkway", "June 1, 2015 (create)" }; break;
+                case "i820_all": info = new string[] { "All I-820 Aerials", "", "I-820", "June 1, 2015 (create)" }; break;
+                case "i820_i30_west": info = new string[] { "At I-30 West", "", "I-820", "June 1, 2015 (create)" }; break;
+                case "i820_i30_east": info = new string[] { "At I-30 East", "", "I-820", "June 1, 2015 (create)" }; break;
+                case "i820_i35w": info = new string[] { "At I-35W", "North Fort Worth", "I-820", "June 1, 2015 (create)" }; break;
+                case "us287_south_freeway": info = new string[] { "US 287 MLK Freeway", "At Erath Street", "US 287 South", "June 1, 2015 (create)" }; break;
+                case "sh199_frontage": info = new string[] { "SH 199", "Lake Worth", "SH 199", "June 1, 2015 (create)" }; break;
+                case "sh170_frontage": info = new string[] { "SH 170", "Alliance Area", "SH 170", "June 1, 2015 (create)" }; break;
+
 
             }
             return info;
@@ -255,6 +264,10 @@ namespace DFWFreeways.Models
                 case "loop12_diamond": text = "All these photos are now obsolete due to the implosion of Texas Stadium in 2010, expansion of the freeways and TxDOT's construction staging yard at the stadium site. TxDOT now calls the area the Diamond Interchange, although I have not heard any other organization use that name."; break;
                 case "i30_landry_sh360": text = "All these photos are now obsolete due to construction of the 4-level interchange at SH 360, which was underway in 2016."; break;
                 case "i30_landry_trinity": text = "Construction began on the new bridge in 2014. The new bridge will feature two pedestrian bridges with long-span signature arches."; break;
+                case "chisholm_trail_parkway_fort_worth": text = "These views show the location where the interchange at I-20 and the Chisholm Trail Parkway was built, opened in 2014."; break;
+                case "sh199_frontage": text = "This section of SH 199 just west of I-820 is in a frontage road configuration. As of 2015 the construction of the main lanes is not scheduled. Further west, SH 199 has sections with freeway main lanes."; break;
+                case "sh170_frontage": text = "The SH 170 frontage roads opened in 1992. The main lanes are planned to be tolled. As of a May 2015 progress report on the NTTA web site, the construction date remains to be determined."; break;
+
             }
             return text;
         }

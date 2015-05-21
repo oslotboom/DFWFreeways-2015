@@ -1,0 +1,138 @@
+﻿{
+    "folderPath": "",
+    "title": "I-820 photos",
+    "pageHeader":
+    {
+        "title": "I-820 Northwest Driving Views",
+        "subTitle": "",
+        "urlParentText": "I-820",
+        "lastUpdated": "Created December 19, 2007. Reviewed June 1, 2015"
+    },
+    "map": "820_driving_northwest_800.gif",
+    "text": "2015 update: The only major change since these photos were taken in 2007 is the installation of a concrete barrier in the median. Otherwise these images remain accurate depictions in 2015, except for the two photos at the I-35W interchange, which is being rebuilt in 2015 by the North Tarrant Express project.",
+    "images":
+    [
+        {
+            "file": "820_driving_20070429_IMG_6156_approaching_30.jpg",
+            "caption": "Proceeding northbound just north of Highway 80",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6157_approaching_30.jpg",
+            "caption": "",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6158_at_30.jpg",
+            "caption": "",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6159_at_30.jpg",
+            "caption": "At I-30",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6160_at_westpoint.jpg",
+            "caption": "At Westpoint",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6163_at_white_settlement_road.jpg",
+            "caption": "At White Settlement road",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6166_exit_at_las_vegas_trail.jpg",
+            "caption": "Exit for Las Vegas trail",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6167_at_las_vegas_trail.jpg",
+            "caption": "",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6169_approaching_bridge.jpg",
+            "caption": "Approaching the Lake Worth bridge",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6170_lake_worth_sign.jpg",
+            "caption": "Start of the Lake Worth bridge",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6172_lake_view.jpg",
+            "caption": "View from the Lake Worth bridge",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6174_navajo_exit.jpg",
+            "caption": "",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6175_approaching_quebec.jpg",
+            "caption": "",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6176_quebec_exit.jpg",
+            "caption": "At the exit for Quebec",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6178_199_exit.jpg",
+            "caption": "At SH 199.",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6180_e_of_199.jpg",
+            "caption": "",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6182_marine_creek_pkwy_exit.jpg",
+            "caption": "At the Marine Creek parkway exit",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6183_old_decatur_road.jpg",
+            "caption": "At Old Decatur Road",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6184_287.jpg",
+            "caption": "At Business 287",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6188_first_35w_sign.jpg",
+            "caption": "The first signs alerting drivers for I-35W",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6189_mark_iv_pkwy.jpg",
+            "caption": "",
+            "imageDate": "Apr 29, 2007"
+        },
+        {
+            "file": "820_driving_20070429_IMG_6191_at_i35w.jpg",
+            "caption": "At I-35W",
+            "imageDate": "Apr 29, 2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The I-35W interchange is being rebuilt for the North Tarrant Express, with work in progress in 2015." }
+
+        },
+        {
+            "file": "820_driving_20070429_IMG_6192_at_i35w.jpg",
+            "caption": "At I-35W",
+            "imageDate": "Apr 29, 2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The I-35W interchange is being rebuilt for the North Tarrant Express, with work in progress in 2015." }
+
+        }
+
+
+    ]
+
+}

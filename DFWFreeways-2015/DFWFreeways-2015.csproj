@@ -179,19 +179,23 @@
     <Compile Include="Aerial_Initialize\i635-us75.cs" />
     <Compile Include="Aerial_Initialize\i635-us80.cs" />
     <Compile Include="Aerial_Initialize\i635_dnt.cs" />
+    <Compile Include="Aerial_Initialize\i820-all.cs" />
     <Compile Include="Aerial_Initialize\loop12.cs" />
     <Compile Include="Aerial_Initialize\sh114-all.cs" />
     <Compile Include="Aerial_Initialize\sh114-bush.cs" />
     <Compile Include="Aerial_Initialize\sh114-las-colinas.cs" />
     <Compile Include="Aerial_Initialize\sh121-all.cs" />
     <Compile Include="Aerial_Initialize\sh121-colony.cs" />
+    <Compile Include="Aerial_Initialize\sh170.cs" />
     <Compile Include="Aerial_Initialize\sh183-diamond.cs" />
+    <Compile Include="Aerial_Initialize\sh199.cs" />
     <Compile Include="Aerial_Initialize\spur366-all.cs" />
     <Compile Include="Aerial_Initialize\spur366-bridge-construction.cs" />
     <Compile Include="Aerial_Initialize\spur366-bridge.cs" />
     <Compile Include="Aerial_Initialize\spur366-pre-klyde-warren.cs" />
     <Compile Include="Aerial_Initialize\spur366_2012.cs" />
     <Compile Include="Aerial_Initialize\spur408.cs" />
+    <Compile Include="Aerial_Initialize\us287.cs" />
     <Compile Include="Aerial_Initialize\us75-bush.cs" />
     <Compile Include="Aerial_Initialize\us75-dallas.cs" />
     <Compile Include="Aerial_Initialize\us75-loop12.cs" />
@@ -215,6 +219,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App_Data\bush-construction-grand-prairie-main-lanes.json" />
+    <None Include="App_Data\chisholm-trail-parkway-driving.json" />
     <Content Include="App_Data\i20-dallas.json" />
     <Content Include="App_Data\bush.json" />
     <Content Include="App_Data\bush-roadside-irving.json" />
@@ -232,6 +237,7 @@
     <Content Include="App_Data\dnt-driving.json" />
     <Content Include="App_Data\dnt-construction-frisco.json" />
     <Content Include="App_Data\dnt-historical.json" />
+    <Content Include="App_Data\chisholm-trail-parkway.json" />
     <None Include="App_Data\i20-dallas-roadside-dallas.json" />
     <Content Include="App_Data\i20-dallas-roadside-terrell.json" />
     <Content Include="App_Data\i30-dallas-historical.json" />
@@ -250,6 +256,8 @@
     <Content Include="App_Data\i30-landry-roadside-cowboys-stadium.json" />
     <Content Include="App_Data\i30-landry-construction-2009.json" />
     <Content Include="App_Data\i30-fort-worth.json" />
+    <Content Include="App_Data\i30-fort-worth-driving.json" />
+    <Content Include="App_Data\i30-fort-worth-roadside.json" />
     <None Include="App_Data\i35e-north-construction-2014-nov.json" />
     <None Include="App_Data\i35e-north-construction-2015-jan.json" />
     <None Include="App_Data\i35e-north-construction-2012-march.json" />
@@ -262,6 +270,11 @@
     <Content Include="App_Data\loop12-roadside.json" />
     <Content Include="App_Data\i20-west-driving.json" />
     <Content Include="App_Data\i35w.json" />
+    <Content Include="App_Data\i820.json" />
+    <Content Include="App_Data\i820-roadside-northwest.json" />
+    <Content Include="App_Data\i820-roadside-east.json" />
+    <Content Include="App_Data\i820-driving-northwest.json" />
+    <Content Include="App_Data\i820-driving-north.json" />
     <None Include="App_Data\sh121-driving-lewisville.json" />
     <Content Include="App_Data\sh183-construction-row.json" />
     <Content Include="App_Data\sh114.json" />
@@ -269,13 +282,16 @@
     <Content Include="App_Data\sh121.json" />
     <Content Include="App_Data\sh121-roadside.json" />
     <Content Include="App_Data\sh121-driving-frisco.json" />
+    <Content Include="App_Data\sh170.json" />
     <None Include="App_Data\sh183-driving-dallas.json" />
     <Content Include="App_Data\sh183-driving-nte.json" />
     <Content Include="App_Data\sh360.json" />
     <Content Include="App_Data\sh360-roadside.json" />
+    <Content Include="App_Data\sh199.json" />
     <None Include="App_Data\spur366-roadside-bridge-clearance.json" />
     <Content Include="App_Data\spur366-roadside-bridge-site.json" />
     <Content Include="App_Data\spur366-roadside-klyde-warren-park.json" />
+    <Content Include="App_Data\spur366-roadside-continental.json" />
     <None Include="App_Data\spur366-roadside-original-freeway.json" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -332,6 +348,9 @@
     <Content Include="App_Data\spur408.json" />
     <Content Include="App_Data\spur408-driving.json" />
     <Content Include="App_Data\spur408-roadside.json" />
+    <Content Include="App_Data\us287-south.json" />
+    <Content Include="App_Data\us287-south-driving.json" />
+    <Content Include="App_Data\us287-south-roadside.json" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />

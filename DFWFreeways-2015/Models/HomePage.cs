@@ -158,7 +158,7 @@ namespace DFWFreeways.Models
                     new Link("I-35E North", "Stemmons Freeway","i35e-north"),
                     new Link("I-35E South", "R.L. Thornton Freeway South","i35e-south"),
                     new Link("I-45", "Schepps Freeway","i45"),
-                    new Link("I-345", "Downtown","i345"),
+                    new LinkPlaceholder("I-345", "Downtown","i345"),
                     new Link("I-635", "LBJ Freeway","i635"),
                     new Link("US 67", "Marvin Love Freeway","us67"),
                     new Link("US 75", "Central Expressway","us75"),
@@ -172,7 +172,7 @@ namespace DFWFreeways.Models
                     new Link("Loop 12", "Walton Walker Blvd","loop12"),
                     new Link("Spur 366", "Woodall Rodgers Freeway","spur366"),
                     new Link("Spur 408", "Patriot Freeway","spur408"),
-                    new Link("Collin County Outer Loop", "","ccol")
+                    new LinkPlaceholder("Collin County Outer Loop", "","ccol")
 
                     }),
 
@@ -184,11 +184,11 @@ namespace DFWFreeways.Models
                     new Link("I-35W", "North and South Freeways","i35w"),
                     new Link("I-820", "Jim Wright Freeway","i820"),
                     new Link("US 287 south", "M.L. King Freeway","us287-south"),
-                    new Link("US 287 north", "","us287-north"),
-                    new Link("SH 121", "Airport Freeway","sh121-fort-worth"),
-                    new Link("SH 170", "Toll Road","sh170"),
+                    new LinkPlaceholder("US 287 north", "","us287-north"),
+                    new LinkPlaceholder("SH 121", "Airport Freeway","sh121-fort-worth"),
+                    new Link("SH 170", "Future Toll Road","sh170"),
                     new Link("SH 199", "","sh199"),
-                    new Link("Chisholm Trail Parkway", "Toll Road","us67"),
+                    new Link("Chisholm Trail Parkway", "Toll Road","chisholm-trail-parkway"),
                     }),
                 new KeyValuePair<string, List<Link>> ("Mid-Cities", 
                 new List<Link>{
@@ -274,5 +274,12 @@ namespace DFWFreeways.Models
             Description = description;
             Url = url;
         }
+    }
+
+    public class LinkPlaceholder : Link {
+        public LinkPlaceholder(string displayText, string description, string url) : base(displayText, description, url)
+        {
+        }
+
     }
 }

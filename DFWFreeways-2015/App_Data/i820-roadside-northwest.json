@@ -1,0 +1,51 @@
+﻿{
+    "folderPath": "",
+    "title": "I-820 photos",
+    "pageHeader":
+    {
+        "title": "I-820 Northwest Roadside Views",
+        "subTitle": "",
+        "urlParentText": "I-820",
+        "lastUpdated": "Created December 19, 2007. Reviewed June 1, 2015"
+    },
+    "map": "820_roadside_northwest_700.gif",
+    "text": "2015 update: The only major change since these photos were taken in 2007 is the installation of a concrete barrier in the median. Otherwise these images remain accurate depictions in 2015.",
+    "images":
+    [
+        {
+            "file": "820_20070429_IMG_6214_las_vegas_trail_950.jpg",
+            "highResolution": "820_20070429_IMG_6214_las_vegas_trail_2592.jpg",
+            "caption": "Looking northeast at Las Vegas Trail. The Lake Worth bridge is just ahead.",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "820_20070429_IMG_6212_lake_worth_bridge.jpg",
+            "caption": "Underneath the Lake Worth bridge",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "820_20070429_IMG_6211_jrb.jpg",
+            "caption": "Just north of the lake, southwest-bound motorists can just get a glimpse of the Joint Reserve Base.",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "820_20070429_IMG_6201_azle_ave.jpg",
+            "caption": "Looking northeast at Azle Avenue. ",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "820_20070429_IMG_6199_frontage_at_huffines.jpg",
+            "highResolution": "820_20070429_IMG_6199_frontage_at_huffines_2048.jpg",
+            "caption": "Looking east along the frontage road at Huffines Blvd",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "820_20070429_IMG_6197_old_decatur_rd.jpg",
+            "caption": "Looking east at Old Decatur Road",
+            "imageDate": "29-April-2007"
+        }
+
+
+    ]
+
+}
