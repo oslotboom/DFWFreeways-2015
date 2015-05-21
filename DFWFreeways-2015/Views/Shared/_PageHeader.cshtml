@@ -1,7 +1,12 @@
 ﻿@model DFWFreeways.Models.PageHeader
 
 <div class="header">
-    <div><img src="@Url.Content(Model.Shield)" /> </div>
+    <div>
+        @if (!String.IsNullOrEmpty(Model.Shield))
+        {
+            <img src="@Url.Content(Model.Shield)" />
+        }
+    </div>
     <div class="title">
         <span>@Model.Title</span>
 

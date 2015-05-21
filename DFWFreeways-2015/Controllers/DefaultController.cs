@@ -7,7 +7,8 @@ using DFWFreeways.Models;
 using System.Runtime.Serialization.Json;
 using System.IO;
 using System.Configuration;
-using DFWFreeways.Models;
+//using DFWFreeways.Models;
+using System.Xml.Xsl;
 
 
 namespace DFWFreeways.Controllers
@@ -198,6 +199,22 @@ namespace DFWFreeways.Controllers
             return View(quickViewPage);
 
         }
+
+        // GET: Book
+        public ActionResult Maps()
+        {
+            string xmlFile = Server.MapPath("~/App_Data/oldRoadMaps.xml");
+            string xsltFile = Server.MapPath("~/App_Data/oldRoadMaps.xsl");
+
+            string imagePath = ConfigurationManager.AppSettings["GoogleDrive"] + "old-highway-maps/";
+
+            Maps model = new Maps("Old Highway Maps of Texas ", xmlFile, xsltFile, imagePath,
+                new PageHeader("Old Highway Maps of Texas","1917-1973",string.Empty,string.Empty,string.Empty, "June 1, 2015 (add 1957 Fort Worth)")
+            );
+
+            return View(model);
+        }
+
 
         public ActionResult PageNotFound()
         {

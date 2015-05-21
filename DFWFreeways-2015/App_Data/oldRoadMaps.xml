@@ -1,0 +1,1902 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<maps>
+  <!--<info></info>-->
+  <map>
+    <cover>
+      <imageThumbnail>1917-clauson-cover-300h.jpg</imageThumbnail>
+      <imageLarge>1917-clauson-cover.jpg</imageLarge>
+    </cover>
+    <text>
+      <title>1917 Texas, Clason Maps</title>
+      <legendFile>1917-clauson-legend.jpg</legendFile>
+      <description>
+        This map shows that there were very few roads in rural areas in 1917 and most rural towns relied on railroads for transportation. Automobile roads are shown in red. Map scans courtesy of Terry Palmer.
+      </description>
+      <items>
+        <item>
+          <name>Dallas</name>
+          <description>This shows the core of downtown only</description>
+          <links>
+            <link text="Med">1917-clauson-dallas-medium.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Austin</name>
+          <description></description>
+          <links>
+            <link text="Med">1917-clauson-austin-medium.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>East Texas</name>
+          <description></description>
+          <links>
+            <link text="Large">1917-clauson-east-texas-large.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>West Texas</name>
+          <description></description>
+          <links>
+            <link text="Large">1917-clauson-west-texas-large.jpg</link>
+          </links>
+        </item>
+      </items>
+    </text>
+  </map>
+
+  <map>
+    <cover>
+    </cover>
+    <text>
+      <title>1924 Texas, Gulf Oil</title>
+      <legendFile>1924-gulf-trail-markers.jpg</legendFile>
+      <description>
+        This map includes a directory of the trail and highway markings that were used prior to the adoption of the highway numbering system. The numbers on the routes in the map correspond the the trail names in the index directory. Map scans courtesy of Terry Palmer.
+      </description>
+      <items>
+        <item>
+          <name>Trail Guide</name>
+          <description>This directory shows the distinctive markers for the automobile trails.</description>
+          <links>
+            <link text="Guide">1924-gulf-trail-markers.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Texas</name>
+          <description></description>
+          <links>
+            <link text="Med">1924-gulf-medium.jpg</link>
+          </links>
+        </item>
+      </items>
+    </text>
+  </map>
+
+  <map>
+    <cover>
+      <imageThumbnail>1927-humble-cover-300h.jpg</imageThumbnail>
+      <imageLarge>1927-humble-cover.jpg</imageLarge>
+    </cover>
+    <text>
+      <title>1927 Texas, Humble Oil</title>
+      <legendFile>1927-humble-legend.jpg</legendFile>
+      <description>
+        The legend for this map also includes a trail marker directory, similar to the 1924 map. The red numbers on the maps correspond to the trail directory entries. Highways were also designated with the first generation of number designations, so many
+        highways had both a number designation and a trail marker. Humble Oil is now part of ExxonMobil. Map scans courtesy of Terry Palmer.
+      </description>
+      <items>
+        <item>
+          <name>Dallas</name>
+          <description></description>
+          <links>
+            <link text="Med">1927-humble-dallas.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Fort Worth</name>
+          <description></description>
+          <links>
+            <link text="Med">1927-humble-fort-worth.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Houston</name>
+          <description></description>
+          <links>
+            <link text="Med">1927-humble-houston.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>San Antonio</name>
+          <description></description>
+          <links>
+            <link text="Med">1927-humble-san-antonio.jpg</link>
+          </links>
+        </item>
+      </items>
+    </text>
+  </map>
+
+  <map>
+    <cover>
+      <imageThumbnail>1936-conoco-cover-300h.jpg</imageThumbnail>
+      <imageLarge>1936-conoco-cover.jpg</imageLarge>
+    </cover>
+    <text>
+      <title>1936 Texas, Conoco</title>
+      <legendFile>1936-conoco-legend.jpg</legendFile>
+      <description>
+        This map has detailed maps of cities. There is no indication of trail markers, so the trail marker system appears to be phased out by this time. This map also includes a map of the Texas Centennial Exposition at Fair Park in Dallas.
+        Map scans courtesy of Terry Palmer.
+      </description>
+      <items>
+        <item>
+          <name>Dallas</name>
+          <description>There were many Conoco stations in central Dallas</description>
+          <links>
+            <link text="Med">1936-conoco-dallas-medium.jpg</link>
+            <link text="Large">1936-conoco-dallas-large.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Fair Park</name>
+          <description>The 1936 Texas Centennial Exposition was held at Fair Park to commemorate the one-hundredth birthday of Texas. </description>
+          <links>
+            <link text="Med">1936-conoco-fair-park-medium.jpg</link>
+            <link text="Large">1936-conoco-fair-park-large.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Fort Worth</name>
+          <description>Central Fort Worth also had strong coverage of Conoco stations. (Red triangles are Conoco stations)</description>
+          <links>
+            <link text="Med">1936-conoco-fort-worth-medium.jpg</link>
+            <link text="Large">1936-conoco-fort-worth-large.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Houston</name>
+          <description></description>
+          <links>
+            <link text="Med">1936-conoco-houston-medium.jpg</link>
+            <link text="Large">1936-conoco-houston-large.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Galveston</name>
+          <description>This map shows a U.S. Immigrant Station on Pelican Island</description>
+          <links>
+            <link text="Med">1936-conoco-galveston-medium.jpg</link>
+            <link text="Large">1936-conoco-galveston-large.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>San Antonio</name>
+          <description></description>
+          <links>
+            <link text="Med">1936-conoco-san-antonio-medium.jpg</link>
+            <link text="Large">1936-conoco-san-antonio-large.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>East and Southeast Texas</name>
+          <description></description>
+          <links>
+            <link text="Med">1936-conoco-east-se-texas-medium.jpg</link>
+            <link text="Large">1936-conoco-east-se-texas-large.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Central Texas</name>
+          <description></description>
+          <links>
+            <link text="Med">1936-conoco-central-texas-medium.jpg</link>
+            <link text="Large">1936-conoco-central-texas-large.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>West Texas</name>
+          <description>Notice the lack of paved roads in West Texas. The Big Bend area was served by dirt roads only.</description>
+          <links>
+            <link text="Med">1936-conoco-west-texas-medium.jpg</link>
+            <link text="Large">1936-conoco-west-texas-large.jpg</link>
+          </links>
+        </item>
+      </items>
+    </text>
+  </map>
+
+  <map>
+    <cover>
+      <imageThumbnail>1936-official-cover-300h.jpg</imageThumbnail>
+      <imageLarge>1936-official-cover.jpg</imageLarge>
+    </cover>
+    <text>
+      <title>1936 Official Texas State Highway Map</title>
+      <legendFile>1936-official-legend.jpg</legendFile>
+      <description>
+      </description>
+      <items>
+        <item>
+          <name>North Texas</name>
+          <description></description>
+          <links>
+            <link text="Large">1936-official-north-texas-high.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Southeast and Central Texas</name>
+          <description></description>
+          <links>
+            <link text="Large">1936-official-southeast-central-high.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>South Texas</name>
+          <description></description>
+          <links>
+            <link text="Med">1936-official-south-high.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>West Texas</name>
+          <description>This map shows that Big Bend National park was accessible only by a single primitive road, an "Unimproved Earth Road" which is now US 385</description>
+          <links>
+            <link text="Med">1936-official-west-high.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Panhandle</name>
+          <description></description>
+          <links>
+            <link text="Med">1936-official-panhandle-high.jpg</link>
+          </links>
+        </item>
+      </items>
+    </text>
+  </map>
+  <map>
+    <cover>
+      <imageThumbnail>1939-bay-cover-300h.jpg</imageThumbnail>
+      <imageLarge>1939-bay-cover.jpg</imageLarge>
+    </cover>
+    <text>
+      <title>1939 Texas, Bay Petroleum</title>
+      <description>
+        Map scans courtesy of Terry Palmer.
+      </description>
+      <items>
+        <item>
+          <name>Dallas</name>
+          <description></description>
+          <links>
+            <link text="Med">1939-bay-dallas.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Fort Worth</name>
+          <description></description>
+          <links>
+            <link text="Med">1939-bay-fort-worth.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>East Texas</name>
+          <description></description>
+          <links>
+            <link text="Large">1939-bay-east-texas-large.jpg</link>
+          </links>
+        </item>
+      </items>
+    </text>
+  </map>
+  
+  <map>
+    <cover>
+      <imageThumbnail>1939-el-paso-standard-cover-300h.jpg</imageThumbnail>
+      <imageLarge>1939-el-paso-standard-cover.jpg</imageLarge>
+    </cover>
+    <text>
+      <title>1939 El Paso, Standard Oil</title>
+      <description>
+        Note that the map cover illustration is a generic city scene, not representing El Paso. Map scans courtesy of Terry Palmer.
+      </description>
+      <items>
+        <item>
+          <name>El Paso</name>
+          <description>This also includes the adjacent section of south New Mexico</description>
+          <links>
+            <link text="Med">1939-el-paso-standard-medium.jpg</link>
+            <link text="Large">1939-el-paso-standard-large.jpg</link>
+          </links>
+        </item>
+      </items>
+    </text>
+  </map>
+
+  <map>
+    <cover>
+      <imageThumbnail>1942-dallas-cover-300h.jpg</imageThumbnail>
+      <imageLarge>1942-dallas-cover.jpg</imageLarge>
+    </cover>
+    <text>
+      <title>1942 Dallas, Dallas Railroad and Terminal Company</title>
+      <legendFile>1942-dallas-legend.jpg</legendFile>
+      <description>
+        This map was published by the transit company, Dallas Railroad and Terminal, which provided bus and streetcar service. The main purpose of this map is to show the bus and streetcar routes. Map scans courtesy of Terry Palmer.
+      </description>
+      <items>
+        <item>
+          <name>Route listing</name>
+          <description></description>
+          <links>
+            <link text="Med">1942-dallas-legend.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Central Dallas</name>
+          <description></description>
+          <links>
+            <link text="Med">1942-dallas-central-medium.jpg</link>
+            <link text="Large">1942-dallas-central-large.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>North Dallas</name>
+          <description>I'm thinking that the bus routes in the Park Cities may have existed to  provide transportation for domestic workers.</description>
+          <links>
+            <link text="Med">1942-dallas-north-medium.jpg</link>
+            <link text="Large">1942-dallas-north-large.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>West Dallas</name>
+          <description></description>
+          <links>
+            <link text="Med">1942-dallas-west-medium.jpg</link>
+            <link text="Large">1942-dallas-west-large.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Southeast Dallas</name>
+          <description></description>
+          <links>
+            <link text="Med">1942-dallas-se-medium.jpg</link>
+            <link text="Large">1942-dallas-se-large.jpg</link>
+          </links>
+        </item>
+
+      </items>
+    </text>
+  </map>
+  
+  <map>
+		<cover>
+			<imageThumbnail>1942_humble_cover_300h.jpg</imageThumbnail>
+			<imageLarge>1942_humble_cover.jpg</imageLarge>
+		</cover>
+		<text>
+			<title>1942 Texas, Humble Oil</title>
+			<legendFile>1942_humble_legend.jpg</legendFile>
+			<description>The 1942 highway system was dominated by the US Highway routes. There were no freeways in Texas in 1942; the first 
+			freeway in Texas was Houston's Gulf Freeway in September 1948, and the first section of Central Expressway in Dallas opened on August 20, 1949. Humble Oil is now ExxonMobil</description>
+			<items>
+				<item>
+					<name>Dallas</name>
+					<description>This shows the original US Highway alignments</description>
+					<links>
+						<link text="Med">1942_humble_dallas_med.jpg</link>
+						<link text="Large">1942_humble_dallas_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1942_humble_fort_worth_med.jpg</link>
+						<link text="Large">1942_humble_fort_worth_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Houston</name>
+					<description></description>
+					<links>
+						<link text="Med">1942_humble_houston_med.jpg</link>
+						<link text="Large">1942_humble_houston_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Southeast Texas</name>
+					<description></description>
+					<links>
+						<link text="Med">1942_humble_se_texas_med.jpg</link>
+						<link text="Large">1942_humble_se_texas_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>San Antonio</name>
+					<description></description>
+					<links>
+						<link text="Med">1942_humble_san_antonio_med.jpg</link>
+						<link text="Large">1942_humble_san_antonio_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Austin</name>
+					<description></description>
+					<links>
+						<link text="Med">1942_humble_austin_med.jpg</link>
+						<link text="Large">1942_humble_austin_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Galveston</name>
+					<description></description>
+					<links>
+						<link text="Large">1942_humble_galveston_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Corpus Christi</name>
+					<description></description>
+					<links>
+						<link text="Med">1942_humble_corpus_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Beaumont</name>
+					<description></description>
+					<links>
+						<link text="Large">1942_humble_beaumont_large.jpg</link>
+					</links>
+				</item>
+
+
+			</items>
+		</text>
+	</map>
+
+  <map>
+    <cover>
+      <imageThumbnail>1949-ashburn-cover-300h.jpg</imageThumbnail>
+      <imageLarge>1949-ashburn-cover.jpg</imageLarge>
+    </cover>
+    <text>
+      <title>1949 Dallas, Ashburn Maps</title>
+      <description>
+        Map scans courtesy of Terry Palmer.
+      </description>
+      <items>
+        <item>
+          <name>Central Dallas</name>
+          <description>This map shows North Central Expressway as a dashed line, indicating it was under construction. The first section of Central Expressway opened in August 1949. </description>
+          <links>
+            <link text="Med">1949-ashburn-central-medium.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Northeast Dallas</name>
+          <description>This map shows Mustang Airport along Northwest Highway between Central Expressway and White Rock Lake.</description>
+          <links>
+            <link text="Med">1949-ashburn-north-medium.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>West Dallas</name>
+          <description></description>
+          <links>
+            <link text="Med">1949-ashburn-west-medium.jpg</link>
+          </links>
+        </item>
+
+      </items>
+    </text>
+  </map>
+  
+	<map>
+		<cover>
+			<imageThumbnail>1950_humble_cover_300h.jpg</imageThumbnail>
+			<imageLarge>1950_humble_cover.jpg</imageLarge>
+		</cover>
+		<text>
+			<title>1950 Texas, Humble Oil</title>
+			<legendFile>1950_humble_legend.jpg</legendFile>
+			<description></description>
+			<items>
+				<item>
+					<name>Dallas</name>
+					<description>The first section of Central Expressway (US 75) north of downtown opened in August 1949, but this map does
+					not include the new freeway. US 75 is still shown on Ross and Greenville Avenues.</description>
+					<links>
+						<link text="Med">1950_humble_dallas_med.jpg</link>
+						<link text="Large">1950_humble_dallas_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1950_humble_fort_worth_med.jpg</link>
+						<link text="Large">1950_humble_fort_worth_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Wichita Falls</name>
+					<description></description>
+					<links>
+						<link text="Large">1950_humble_wichita_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>North Texas</name>
+					<description></description>
+					<links>
+						<link text="Med">1950_humble_north_texas_med.jpg</link>
+						<link text="Large">1950_humble_north_texas_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Houston</name>
+					<description>This map shows the first section of the Gulf Freeway which opened September 30, 1948.</description>
+					<links>
+						<link text="Med">1950_humble_houston_med.jpg</link>
+						<link text="Large">1950_humble_houston_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Galveston</name>
+					<description></description>
+					<links>
+						<link text="Large">1950_humble_galveston_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Beaumont</name>
+					<description></description>
+					<links>
+						<link text="Large">1950_humble_beaumont_large.jpg</link>
+					</links>
+				</item>			
+				<item>
+					<name>Southeast Texas</name>
+					<description></description>
+					<links>
+						<link text="Med">1950_humble_se_texas_med.jpg</link>
+						<link text="Large">1950_humble_se_texas_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>San Antonio</name>
+					<description>The first section of freeway on US 87 (now I-10) just northwest of downtown opened in 1949 but is not shown on this map.</description>
+					<links>
+						<link text="Med">1950_humble_san_antonio_med.jpg</link>
+						<link text="Large">1950_humble_san_antonio_large.jpg</link>
+					</links>
+				</item>
+
+				<item>
+					<name>Austin</name>
+					<description>Notice that Lake Lady Bird (formerly Town Lake) does not appear on this map. Lake Lady Bird formed after the 
+					completion of Longhorn Dam in 1960.</description>
+					<links>
+						<link text="Med">1950_humble_austin_med.jpg</link>
+						<link text="Large">1950_humble_austin_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Corpus Christi</name>
+					<description></description>
+					<links>
+						<link text="Large">1950_humble_corpus_large.jpg</link>
+					</links>
+				</item>
+			</items>
+		</text>
+	</map>
+
+  <map>
+    <cover>
+      <imageThumbnail>1951-humble-cover-300h.jpg</imageThumbnail>
+      <imageLarge>1951-humble-cover.jpg</imageLarge>
+    </cover>
+    <text>
+      <title>1951 Texas, Humble Oil</title>
+      <legendFile>1951-humble-legend.jpg</legendFile>
+      <description>
+        Compared to the 1950 Humble Oil map, this 1951 Humble map has a detailed view of the Dallas-Fort Worth region.
+        Map scans courtesy of Terry Palmer.
+      </description>
+      <items>
+        <item>
+          <name>Dallas</name>
+          <description>This map shows Central Expressway under construction north of Loop 12.</description>
+          <links>
+            <link text="Med">1951-humble-dallas.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Fort Worth</name>
+          <description></description>
+          <links>
+            <link text="Med">1951-humble-fort-worth.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Houston</name>
+          <description>Most of the Gulf Freeway between Houston and Galveston is under construction</description>
+          <links>
+            <link text="Med">1951-humble-houston.jpg</link>
+          </links>
+        </item>
+
+      </items>
+    </text>
+  </map>
+
+  <map>
+    <cover>
+      <imageThumbnail>1951-official-cover-300h.jpg</imageThumbnail>
+      <imageLarge>1951-official-cover.jpg</imageLarge>
+    </cover>
+    <text>
+      <title>1951 Official Texas State Highway Map</title>
+      <legendFile>1951-official-legend.jpg</legendFile>
+      <description>
+        This map includes a guide to Texas road signs, showing the style used at that time.
+        Map scans courtesy of Terry Palmer.
+      </description>
+      <items>
+        <item>
+          <name>Sign Guide</name>
+          <description></description>
+          <links>
+            <link text="Med">1951-official-road-signs.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>West Texas</name>
+          <description>This map shows that by 1951, most of main route into Big Bend National park (then SH 227, now US 385) was paved. However, the map still shows an unpaved section inside the park.</description>
+          <links>
+            <link text="High">1951-official-west-texas.jpg</link>
+          </links>
+        </item>
+      </items>
+    </text>
+  </map>
+
+  <map>
+    <cover>
+      <imageThumbnail>1952-austin-cover-300h.jpg</imageThumbnail>
+      <imageLarge>1952-austin-cover.jpg</imageLarge>
+    </cover>
+    <text>
+      <title>1952 Austin Chamber of Commerce</title>
+      <description>
+        The first item on the listing of points of interest on the cover (click on cover for larger view)
+        refers to "Zilker Springs". The description for Zilker Park also refers to Zilker Springs with the accompanying text "formerly Barton Springs".
+        So apparently the name was changed to Zilker Springs, and then back to Barton Springs.
+      </description>
+      <items>
+        <item>
+          <name>Central and Southwest Austin</name>
+          <description></description>
+          <links>
+            <link text="Large">1952-austin-southwest.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Northwest Austin</name>
+          <description></description>
+          <links>
+            <link text="Large">1952-austin-northwest.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Downtown Austin inset and northeast</name>
+          <description></description>
+          <links>
+            <link text="Large">1952-austin-downtown-inset-northeast.jpg</link>
+          </links>
+        </item>
+      </items>
+    </text>
+  </map>
+
+  <map>
+		<cover>
+			<imageThumbnail>1954_humble_cover_300h.jpg</imageThumbnail>
+			<imageLarge>1954_humble_cover.jpg</imageLarge>
+		</cover>
+		<text>
+			<title>1954 Texas, Humble Oil</title>
+			<legendFile>1954_humble_legend.jpg</legendFile>
+			<description>Compared to the 1950 map, this 1954 Humble map greatly expanded coverage of the DFW and Houston metropolitan areas.</description>
+			<items>
+
+				<item>
+					<name>Dallas-Fort Worth</name>
+					<description>This shows US 75 Central Expressway under construction in Richardson. That section of freeway opened in 1954 and 1955.</description>
+					<links>
+						<link text="Med">1954_humble_dfw_merged_360p_med.jpg</link>
+						<link text="Large">1954_humble_dfw_merged_360p_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Dallas</name>
+					<description></description>
+					<links>
+						<link text="Med">1954_humble_dfw_east_360p_med.jpg</link>
+						<link text="Large">1954_humble_dfw_east_360p_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1954_humble_dfw_west_360p_med.jpg</link>
+						<link text="Large">1954_humble_dfw_west_360p_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>North Texas</name>
+					<description></description>
+					<links>
+						<link text="Med">1954_humble_north_texas_360p_med.jpg</link>
+						<link text="Large">1954_humble_north_texas_360p_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Houston</name>
+					<description>This map shows several planned freeways as dashed lines. The Baytown Tunnel, opened on September 22, 1953, is shown on this map.</description>
+					<links>
+						<link text="Med">1954_humble_houston_merged_360p_med.jpg</link>
+						<link text="Large">1954_humble_houston_merged_360p_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Southeast Texas</name>
+					<description>Four-lane divided highways in rural areas were still rare in 1954, with the US 75 between Houston and
+					Galveston (now the Gulf Freeway) the longest sustained length.</description>
+					<links>
+						<link text="Med">1954_humble_se_texas_360p_med.jpg</link>
+						<link text="Large">1954_humble_se_texas_360p_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Austin and San Antonio</name>
+					<description>The first planned freeways are indicated on these maps. This map includes a detailed view of downtown San Antonio.</description>
+					<links>
+						<link text="Med">1954_humble_san_antonio_austin_360p_med.jpg</link>
+						<link text="Large">1954_humble_san_antonio_austin_360p_large.jpg</link>
+					</links>
+				</item>
+
+			</items>
+		</text>
+	</map>
+
+	<map>
+		<cover>
+			<imageThumbnail>1954_chevron_cover_300h.jpg</imageThumbnail>
+			<imageLarge>1954_chevron_cover.jpg</imageLarge>
+		</cover>
+		<text>
+			<title>1954 Texas, Chevron</title>
+			<legendFile>1954_chevron_legend.jpg</legendFile>
+			<description>The Chevron map has less detail in the urban areas compared to the Humble map.</description>
+			<items>
+				<item>
+					<name>Dallas-Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1954_chevron_dfw_med.jpg</link>
+						<link text="Large">1954_chevron_dfw_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>North Texas</name>
+					<description></description>
+					<links>
+						<link text="Med">1954_chevron_north_texas_360p_med.jpg</link>
+						<link text="Large">1954_chevron_north_texas_360p_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Houston</name>
+					<description></description>
+					<links>
+						<link text="Med">1954_chevron_houston_med.jpg</link>
+						<link text="Large">1954_chevron_houston_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Southeast Texas</name>
+					<description></description>
+					<links>
+						<link text="Med">1954_chevron_se_texas_360p_med.jpg</link>
+						<link text="Large">1954_chevron_se_texas_360p_large.jpg</link>
+					</links>
+				</item>
+
+			</items>
+		</text>
+	</map>
+
+  <map>
+    <cover>
+      <imageThumbnail>1955-dallas-cover-300h.jpg</imageThumbnail>
+      <imageLarge>1955-dallas-cover.jpg</imageLarge>
+    </cover>
+    <text>
+      <title>1955 Dallas Transfer and Terminal Warehouse Company</title>
+      <description>
+            </description>
+      <items>
+        <item>
+          <name>Central Dallas</name>
+          <description>This view shows the planned route of Interstate 30 on the south side of downtown, and the planned route of Interstate 35E into South Oak Cliff.</description>
+          <links>
+            <link text="Large">1955-dallas-central.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>North Dallas</name>
+          <description></description>
+          <links>
+            <link text="Large">1955-dallas-north.jpg</link>
+          </links>
+        </item>
+      </items>
+    </text>
+  </map>
+
+  <map>
+		<cover>
+			<imageThumbnail>1956_humble_cover_300h.jpg</imageThumbnail>
+			<imageLarge>1956_humble_cover.jpg</imageLarge>
+		</cover>
+		<text>
+			<title>1956 Texas, Humble Oil</title>
+			<legendFile>1956_humble_legend.jpg</legendFile>
+			<description></description>
+			<items>
+				<item>
+					<name>Dallas-Fort Worth</name>
+					<description>This map shows the Dallas-Fort Worth turnpike under construction</description>
+					<links>
+						<link text="Med">1956_humble_dfw_merged_360p_med.jpg</link>
+						<link text="Large">1956_humble_dfw_merged_360p_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Dallas</name>
+					<description></description>
+					<links>
+						<link text="Med">1956_humble_dfw_east_360p_med.jpg</link>
+						<link text="Large">1956_humble_dfw_east_360p_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1956_humble_dfw_west_360p_med.jpg</link>
+						<link text="Large">1956_humble_dfw_west_360p_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>North Texas</name>
+					<description></description>
+					<links>
+						<link text="Med">1956_humble_north_texas_360p_med.jpg</link>
+						<link text="Large">1956_humble_north_texas_360p_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Houston</name>
+					<description></description>
+					<links>
+						<link text="Med">1956_humble_houston_merged_360p_med.jpg</link>
+						<link text="Large">1956_humble_houston_merged_360p_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Southeast Texas</name>
+					<description></description>
+					<links>
+						<link text="Med">1956_humble_se_texas_360p_med.jpg</link>
+						<link text="Large">1956_humble_se_texas_360p_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Austin and San Antonio</name>
+					<description>This includes a detailed view of downtown San Antonio</description>
+					<links>
+						<link text="Med">1956_humble_san_antonio_austin_360p_med.jpg</link>
+						<link text="Large">1956_humble_san_antonio_austin_360p_large.jpg</link>
+					</links>
+				</item>
+
+			</items>
+		</text>
+	</map>
+
+	<map>
+		<cover>
+			<imageThumbnail>1957_gulf_cover_300h.jpg</imageThumbnail>
+			<imageLarge>1957_gulf_cover.jpg</imageLarge>
+		</cover>
+		<text>
+			<title>1957 Texas, Gulf</title>
+			<legendFile>1957_gulf_legend.jpg</legendFile>
+			<description></description>
+			<items>
+				<item>
+					<name>Dallas-Fort Worth</name>
+					<description>This map includes the DFW Turnpike, which opened Aug 27, 1957.</description>
+					<links>
+						<link text="Med">1957_gulf_dfw_med.jpg</link>
+						<link text="Large">1957_gulf_dfw_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>North Texas</name>
+					<description></description>
+					<links>
+						<link text="Med">1957_gulf_north_texas_med.jpg</link>
+						<link text="Large">1957_gulf_north_texas_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Southeast Texas</name>
+					<description></description>
+					<links>
+						<link text="Med">1957_gulf_se_texas_small.jpg</link>
+						<link text="Large">1957_gulf_se_texas_large.jpg</link>
+					</links>
+				</item>
+			</items>
+		</text>
+	</map>
+
+  <map>
+    <cover>
+      <imageThumbnail>1957-ashburn-fort-worth-cover-300.jpg</imageThumbnail>
+      <imageLarge>1957-ashburn-fort-worth-cover-large.jpg</imageLarge>
+    </cover>
+    <text>
+      <title>1957 Fort Worth, Ashburn</title>
+      <legendFile>1957-ashburn-fort-worth-legand.jpg</legendFile>
+      <description></description>
+      <items>
+        <item>
+          <name>Regional Map</name>
+          <description>This map shows the proposed alignments of many Fort Worth freeways, including the north-south freeway in west Fort Worth which was dropped from plans soon after this map was made. This map also shows an east-west route in Arlington between present-day I-20 and I-30. I had not seen that proposed alignment on any other map, but it would have been an eastward extension of the proposed East Rosedale freeway.</description>
+          <links>
+            <link text="Large">1957-ashburn-fort-worth-regional-large.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>North Fort Worth</name>
+          <description></description>
+          <links>
+            <link text="Large">1957-ashburn-fort-worth-north.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Northeast Fort Worth</name>
+          <description></description>
+          <links>
+            <link text="Large">1957-ashburn-fort-worth-northeast.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Southeast Fort Worth</name>
+          <description>The inset map for Amon Carter field shows a proposed extension of the northwest-southeast runway to 12,000 feet. That proposal did not happen, and instead the north-south runway was extended (but not to 12,000 feet).</description>
+          <links>
+            <link text="Large">1957-ashburn-fort-worth-southeast.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Northeast Fort Worth</name>
+          <description></description>
+          <links>
+            <link text="Large">1957-ashburn-fort-worth-northeast.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Northeast Fort Worth</name>
+          <description></description>
+          <links>
+            <link text="Large">1957-ashburn-fort-worth-northeast.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>South Fort Worth</name>
+          <description>The southwest section of the loop is identified as being under construction.</description>
+          <links>
+            <link text="Large">1957-ashburn-fort-worth-south.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Southwest Fort Worth</name>
+          <description></description>
+          <links>
+            <link text="Large">1957-ashburn-fort-worth-southwest.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Downtown Fort Worth</name>
+          <description></description>
+          <links>
+            <link text="North">1957-ashburn-fort-worth-downtown-north.jpg</link>
+            <link text="South">1957-ashburn-fort-worth-downtown-south.jpg</link>
+          </links>
+        </item>
+      </items>
+    </text>
+  </map>
+  
+  <map>
+    <cover>
+      <imageThumbnail>1958-houston-cover-300h.jpg</imageThumbnail>
+      <imageLarge>1958-houston-cover.jpg</imageLarge>
+    </cover>
+    <text>
+      <title>1958 Houston, Humble Oil</title>
+      <legendFile>1958-houston-legend.jpg</legendFile>
+      <description>
+        This map shows the planned alignments of many freeways in Houston, including Loop 610, US 59 Southwest Freeway, and Interstate 10.
+      </description>
+      <items>
+        <item>
+          <name>Central Houston</name>
+          <description></description>
+          <links>
+            <link text="Large">1958-houston-central.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>West Houston</name>
+          <description>This view shows the planned alignment of the West Loop.</description>
+          <links>
+            <link text="Large">1958-houston-west.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Southwest Houston</name>
+          <description>This view shows the area where I grew up, in Sharpstown. But the streets of my neighborhood were not yet on the map. The planned alignment of the Southwest Freeway is shown.</description>
+          <links>
+            <link text="Large">1958-houston-southwest.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>South Houston</name>
+          <description>This view shows the planned alignment of the South Loop and the area that would become the Astrodome complex. Work on the Astrodome was underway around 1962. The original planned aligment of the South Freeway SH 288 is shown.</description>
+          <links>
+            <link text="Large">1958-houston-south.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Southeast Houston</name>
+          <description></description>
+          <links>
+            <link text="Large">1958-houston-southeast.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Northwest Houston</name>
+          <description>There is no indication of the planned Northwest Freeway US 290.</description>
+          <links>
+            <link text="Large">1958-houston-northwest.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Downtown Houston</name>
+          <description>Major highways still came through downtown on the surface streets.</description>
+          <links>
+            <link text="Large">1958-houston-downtown.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Houston Region</name>
+          <description></description>
+          <links>
+            <link text="Large">1958-houston-regional.jpg</link>
+          </links>
+        </item>
+        <item>
+          <name>Houston Region, west and northwest</name>
+          <description></description>
+          <links>
+            <link text="Large">1958-houston-regional-west.jpg</link>
+          </links>
+        </item>
+      </items>
+    </text>
+  </map>
+  
+	<map>
+		<cover>
+			<imageThumbnail>1960_humble_cover_300h.jpg</imageThumbnail>
+			<imageLarge>1960_humble_cover.jpg</imageLarge>
+		</cover>
+		<text>
+			<title>1960 Texas, Humble Oil</title>
+			<legendFile>1960_humble_legend.jpg</legendFile>
+			<description></description>
+			<items>
+				<item>
+					<name>Dallas-Fort Worth</name>
+					<description>This shows the developing freeway network with interstate designations. However, this map does not
+					differetiate between freeway and non-freeway divided highways.</description>
+					<links>
+						<link text="Med">1960_humble_dfw_merged_360p_med.jpg</link>
+						<link text="Large">1960_humble_dfw_merged_360p_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Dallas</name>
+					<description></description>
+					<links>
+						<link text="Med">1960_humble_dfw_east_360p_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1960_humble_dfw_west_360p_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>North Texas</name>
+					<description></description>
+					<links>
+						<link text="Med">1960_humble_north_texas_360p_medium.jpg</link>
+						<link text="Large">1960_humble_north_texas_360p_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Houston</name>
+					<description>This shows the Southwest Freeway under construction</description>
+					<links>
+						<link text="Med">1960_humble_houston_merged_360p_med.jpg</link>
+						<link text="Large">1960_humble_houston_merged_360p_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Southeast Texas</name>
+					<description></description>
+					<links>
+						<link text="Med">1960_humble_se_texas_360p_med.jpg</link>
+						<link text="Large">1960_humble_se_texas_360p_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Austin and San Antonio</name>
+					<description></description>
+					<links>
+						<link text="Med">1960_humble_san_antonio_austin_360p_med.jpg</link>
+						<link text="Large">1960_humble_san_antonio_austin_360p_large.jpg</link>
+					</links>
+				</item>
+
+			</items>
+		</text>
+	</map>
+
+	<map>
+		<cover>
+			<imageThumbnail>1960_phillips_cover_300h.jpg</imageThumbnail>
+			<imageLarge>1960_phillips_cover.jpg</imageLarge>
+		</cover>
+		<text>
+			<title>1960 Texas, Phillips</title>
+			<legendFile>1960_phillips_legend.jpg</legendFile>
+			<description></description>
+			<items>
+				<item>
+					<name>Dallas-Fort Worth</name>
+					<description>This map has less detail than the Humble maps</description>
+					<links>
+						<link text="Med">1960_phillips_dallas_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>North Texas</name>
+					<description></description>
+					<links>
+						<link text="Med">1960_phillips_north_texas_med.jpg</link>
+						<link text="Large">1960_phillips_north_texas_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Houston</name>
+					<description></description>
+					<links>
+						<link text="Med">1960_phillips_houston_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Southeast Texas</name>
+					<description></description>
+					<links>
+						<link text="Med">1960_phillips_se_texas_med.jpg</link>
+						<link text="Large">1960_phillips_se_texas_large.jpg</link>
+					</links>
+				</item>
+			</items>
+		</text>
+	</map>
+
+	<map>
+		<cover>
+			<imageThumbnail>1962_enco_dfw_cover_300h.jpg</imageThumbnail>
+			<imageLarge>1962_enco_dfw_cover.jpg</imageLarge>
+		</cover>
+		<text>
+			<title>1962 Dallas and Forth Worth, Humble Oil</title>
+			<description>This is a city street map for both Dallas and Fort Worth.</description>
+			<items>
+				<item>
+					<name>Dallas-Fort Worth</name>
+					<description>This shows several freeways planned or under construction</description>
+					<links>
+						<link text="Med">1962_enco_dfw_region_merged_med.jpg</link>
+						<link text="Large">1962_enco_dfw_region_merged_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Dallas</name>
+					<description></description>
+					<links>
+						<link text="Med">1962_enco_dfw_region_east_med.jpg</link>
+						<link text="Large">1962_enco_dfw_region_east_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1962_enco_dfw_regional_west_med.jpg</link>
+						<link text="Large">1962_enco_dfw_regional_west_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Central Dallas</name>
+					<description></description>
+					<links>
+						<link text="Med">1962_enco_dfw_downtown_dallas_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Downtown Dallas detail</name>
+					<description></description>
+					<links>
+						<link text="Med">1962_enco_dfw_downtown_dallas_detail_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Northwest Dallas</name>
+					<description></description>
+					<links>
+						<link text="Med">1962_enco_dfw_nw_dallas_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>North Dallas</name>
+					<description></description>
+					<links>
+						<link text="Med">1962_enco_dfw_north_dallas_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Northeast Dallas</name>
+					<description></description>
+					<links>
+						<link text="Med">1962_enco_dfw_ne_dallas_med.jpg</link>
+					</links>
+				</item>
+
+				<item>
+					<name>Downtown Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1962_enco_dfw_downtown_fw_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Central and east Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1962_enco_dfw_downtown_and_ne_fw_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Southeast Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1962_enco_dfw_se_fw_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Southwest Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1962_enco_dfw_sw_fw_med.jpg</link>
+					</links>
+				</item>
+
+			</items>
+		</text>
+	</map>
+
+	<map>
+		<cover>
+			<imageThumbnail>1965_enco_cover_300h.jpg</imageThumbnail>
+			<imageLarge>1965_enco_cover.jpg</imageLarge>
+		</cover>
+		<text>
+			<title>1965 Enco</title>
+			<legendFile>1965_enco_legend.jpg</legendFile>
+			<description></description>
+			<items>
+				<item>
+					<name>Dallas-Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1965_enco_dfw_merged_med.jpg</link>
+						<link text="Large">1965_enco_dfw_merged_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Dallas</name>
+					<description></description>
+					<links>
+						<link text="Med">1965_enco_dfw_east_med.jpg</link>
+						<link text="Large">1965_enco_dfw_east_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1965_enco_dfw_west_med.jpg</link>
+						<link text="Large">1965_enco_dfw_west_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>North Texas</name>
+					<description>This map shows the rapid progress on rural Interstate highway construction surrounding DFW</description>
+					<links>
+						<link text="Med">1965_enco_north_texas_med.jpg</link>
+						<link text="Large">1965_enco_north_texas_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Houston</name>
+					<description>This shows substantial progress on Houston's freeways</description>
+					<links>
+						<link text="Med">1965_enco_houston_med.jpg</link>
+						<link text="Large">1965_enco_houston_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Southeast Texas</name>
+					<description>Very little of I-10 west of Houston was complete as of 1965.</description>
+					<links>
+						<link text="Med">1965_enco_se_texas_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>San Antonio</name>
+					<description></description>
+					<links>
+						<link text="Med">1965_enco_san_antonio_med.jpg</link>
+					</links>
+				</item>
+			</items>
+		</text>
+	</map>
+
+
+	<map>
+		<cover>
+			<imageThumbnail>1965_esso_us_cover_300h.jpg</imageThumbnail>
+			<imageLarge>1965_esso_us_cover.jpg</imageLarge>
+		</cover>
+		<text>
+			<title>1965 United States Interstate System, Esso</title>
+			<description>As of Spring 1965 the Interstate Highway System was approximately 50% complete.</description>
+			<items>
+				<item>
+					<name>Texas</name>
+					<description>This shows the status of Interstates in Texas</description>
+					<links>
+						<link text="Med">1965_esso_us_texas_med.jpg</link>
+					</links>
+				</item>
+
+				<item>
+					<name>Arizona, New Mexico</name>
+					<description></description>
+					<links>
+						<link text="Med">1965_esso_us_az_nm_med.jpg</link>
+					</links>
+				</item>
+
+				<item>
+					<name>California, Nevada</name>
+					<description></description>
+					<links>
+						<link text="Med">1965_esso_us_ca_nv_med.jpg</link>
+					</links>
+				</item>
+
+				<item>
+					<name>Colorado, Utah</name>
+					<description></description>
+					<links>
+						<link text="Med">1965_esso_us_co_ut_med.jpg</link>
+					</links>
+				</item>
+
+				<item>
+					<name>Pacific Northwest</name>
+					<description></description>
+					<links>
+						<link text="Med">1965_esso_us_wa_or_id_med.jpg</link>
+					</links>
+				</item>
+
+				<item>
+					<name>Louisiana, MS, Alabama</name>
+					<description></description>
+					<links>
+						<link text="Med">1965_esso_us_la_ms_al_med.jpg</link>
+					</links>
+				</item>
+
+				<item>
+					<name>Georgia, Florida, SC</name>
+					<description></description>
+					<links>
+						<link text="Med">1965_esso_us_ga_fl_sc_med.jpg</link>
+					</links>
+				</item>
+
+				<item>
+					<name>Mid Atlantic, Pennsylvania</name>
+					<description></description>
+					<links>
+						<link text="Med">1965_esso_us_mid_atlantic_med.jpg</link>
+					</links>
+				</item>
+
+				<item>
+					<name>New York and New England</name>
+					<description></description>
+					<links>
+						<link text="Med">1965_esso_us_ny_new_england_med.jpg</link>
+					</links>
+				</item>
+
+				<item>
+					<name>Ohio, Indiana, Michigan</name>
+					<description></description>
+					<links>
+						<link text="Med">1965_esso_us_mi_oh_in_med.jpg</link>
+					</links>
+				</item>
+
+
+				<item>
+					<name>Illinios, WI, MI, IA, MO</name>
+					<description></description>
+					<links>
+						<link text="Med">1965_esso_us_il_wi_mn_ia_mo_med.jpg</link>
+					</links>
+				</item>
+
+
+				<item>
+					<name>Kentucky, TN, AR</name>
+					<description></description>
+					<links>
+						<link text="Med">1965_esso_us_ky_tn_ar_med.jpg</link>
+					</links>
+				</item>
+
+
+				<item>
+					<name>Montana, WY, ND, SD</name>
+					<description></description>
+					<links>
+						<link text="Med">1965_esso_us_mt_wy_nd_sd_med.jpg</link>
+					</links>
+				</item>
+
+
+			</items>
+		</text>
+	</map>
+
+	<map>
+		<cover>
+			<imageThumbnail>1967_sunray_dx_cover_300h.jpg</imageThumbnail>
+			<imageLarge>1967_sunray_dx_cover.jpg</imageLarge>
+		</cover>
+		<text>
+			<title>1967 Texas, Sunray DX Oil</title>
+			<legendFile>1967_sunray_dx_legend.jpg</legendFile>
+			<description></description>
+			<items>
+				<item>
+					<name>Dallas Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1967_sunray_dx_dfw_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>North Texas</name>
+					<description>This shows I-20 east of Dallas complete to the Louisiana border except for a short section near Longview. The section near Longview
+					was completed and dedicated on May 6, 1967.</description>
+					<links>
+						<link text="Med">1967_sunray_dx_ne_texas_med.jpg</link>
+						<link text="Large">1967_sunray_dx_ne_texas_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>I-45, Dallas to Houston</name>
+					<description>This shows a large gap remaining between Madisonville and Richland. The gap was completely closed in October 1971.</description>
+					<links>
+						<link text="Med">1967_sunray_dx_houston_to_dallas_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Houston</name>
+					<description>The core freeway system is substantially complete.</description>
+					<links>
+						<link text="Med">1967_sunray_dx_houston_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Southeast Texas</name>
+					<description>I-10 west of Houston is complete to near Weimar</description>
+					<links>
+						<link text="Med">1967_sunray_dx_se_texas_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>San Antonio</name>
+					<description></description>
+					<links>
+						<link text="Med">1967_sunray_dx_san_antonio_med.jpg</link>
+					</links>
+				</item>
+
+			
+			</items>
+		</text>
+	</map>
+
+	<map>
+		<cover>
+			<imageThumbnail>1968_mobil_dallas_cover_300h.jpg</imageThumbnail>
+		</cover>
+		<text>
+			<title>1968 Dallas, Mobil</title>
+			<description>By the late 1960s, many oil company map covers were becoming very plain. Of course, by the early 1970s most
+			oil companies stopped providing free highway maps.</description>
+			<items>
+
+				<item>
+					<name>Central Dallas</name>
+					<description></description>
+					<links>
+						<link text="Large">1968_mobil_dallas_downtown_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Downtown Dallas</name>
+					<description>This shows all downtown freeways complete except I-45 and Spur 366 (Woodall Rodgers Freeway)</description>
+					<links>
+						<link text="Large">1968_mobil_dallas_downtown_detailed_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>North Dallas</name>
+					<description>I-635 (LBJ Freeway) west of Central expressway opened in 1967, and the Dallas North tollway opened in 1968.</description>
+					<links>
+						<link text="Large">1968_mobil_dallas_north_dallas_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Irving</name>
+					<description>This shows the future location of Texas stadium</description>
+					<links>
+						<link text="Large">1968_mobil_dallas_texas_stadium_area_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Dallas-Fort Worth</name>
+					<description>This map accurately shows the status of freeways in 1968.</description>
+					<links>
+						<link text="Med">1968_mobil_dallas_region_merged_med.jpg</link>
+						<link text="Large">1968_mobil_dallas_region_merged_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Dallas</name>
+					<description></description>
+					<links>
+						<link text="Med">1968_mobil_dallas_region_east_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1968_mobil_dallas_region_west_med.jpg</link>
+					</links>
+				</item>
+			</items>
+		</text>
+	</map>
+
+	<map>
+		<cover>
+			<imageThumbnail>1968_phillips_cover_300h.jpg</imageThumbnail>
+			<imageLarge>1968_phillips_cover.jpg</imageLarge>
+		</cover>
+		<text>
+			<title>1968 Texas, Phillips</title>
+			<legendFile>1968_phillips_legend.jpg</legendFile>
+			<description></description>
+			<items>
+
+				<item>
+					<name>Dallas-Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1968_phillips_dfw_merged_med.jpg</link>
+						<link text="Large">1968_phillips_dfw_merged_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Dallas</name>
+					<description></description>
+					<links>
+						<link text="Med">1968_phillips_dfw_east_med.jpg</link>
+						<link text="Large">1968_phillips_dfw_east_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1968_phillips_dfw_west_med.jpg</link>
+						<link text="Large">1968_phillips_dfw_west_large.jpg</link>
+					</links>
+				</item>
+
+				<item>
+					<name>North Texas</name>
+					<description>Only a few gaps remain in the north Texas interstate system</description>
+					<links>
+						<link text="Med">1968_phillips_ne_texas_med.jpg</link>
+						<link text="Large"></link>
+					</links>
+				</item>
+				<item>
+					<name>Houston</name>
+					<description>This map shows recommended routes to NASA and the Astrodome</description>
+					<links>
+						<link text="Med">1968_phillips_houston_merged_med.jpg</link>
+						<link text="Large">1968_phillips_houston_merged_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Southeast Texas</name>
+					<description></description>
+					<links>
+						<link text="Med">1968_phillips_se_texas_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>San Antonio</name>
+					<description></description>
+					<links>
+						<link text="Med">1968_phillips_san_antonio_med.jpg</link>
+					</links>
+				</item>
+
+			</items>
+		</text>
+	</map>
+
+	<map>
+		<cover>
+			<imageThumbnail>1970_arco_cover_300h.jpg</imageThumbnail>
+		</cover>
+		<text>
+			<title>1970 Texas, Arco</title>
+			<description></description>
+			<items>
+
+				<item>
+					<name>Dallas-Fort Worth</name>
+					<description>This map shows the Greater Southwest Airport just south of present-day DFW.</description>
+					<links>
+						<link text="Med">1970_arco_dfw_merged_med.jpg</link>
+						<link text="Large">1970_arco_dfw_merged_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Dallas</name>
+					<description></description>
+					<links>
+						<link text="Med">1970_arco_dfw_east_med.jpg</link>
+						<link text="Large">1970_arco_dfw_east_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1970_arco_dfw_west_med.jpg</link>
+						<link text="Large">1970_arco_dfw_west_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>North Texas</name>
+					<description>The gaps in rural interstates continue to shrink</description>
+					<links>
+						<link text="Med">1970_arco_ne_texas_med.jpg</link>
+					</links>
+				</item>
+
+				<item>
+					<name>Houston Central</name>
+					<description>This map shows the planned route of the entire Beltway 8 Loop. It also shows the planned
+					southward extension of the West Loop, which was later cancelled and subsequently reinstated as the Fort Bend Parkway toll road.
+					In northeast Houston, the planned route of the US 90 Crosby Freeway is shown. That freeway inside BW 8 began construction in 2006 and
+					remains under construction in 2008.</description>
+					<links>
+						<link text="Med">1970_arco_houston_central_med.jpg</link>
+						<link text="Large">1970_arco_houston_central_large.jpg</link>
+					</links>
+				</item>
+				
+				<item>
+					<name>Houston region</name>
+					<description>This includes the Galveston Bay areas</description>
+					<links>
+						<link text="Med">1970_arco_houston_merged_med.jpg</link>
+						<link text="Large">1970_arco_houston_merged_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Southeast Texas</name>
+					<description></description>
+					<links>
+						<link text="Med">1970_arco_se_texas_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>San Antonio</name>
+					<description></description>
+					<links>
+						<link text="Med">1970_arco_san_antonio_med.jpg</link>
+					</links>
+				</item>
+
+			</items>
+		</text>
+	</map>
+
+	<map>
+		<cover>
+			<imageThumbnail>1972_houston_cover_300h.jpg</imageThumbnail>
+			<imageLarge>1972_houston_cover.jpg</imageLarge>
+		</cover>
+		<text>
+			<title>1972 Houston</title>
+			<description>This 1972 Houston map was issued by the Houston Chamber of Commerce, which explains the "City of Tomorrow" designation</description>
+			<items>
+
+				<item>
+					<name>Central Houston</name>
+					<description>This shows I-10 on the north side of downtown under construction. It opened on May 17, 1972. This map does 
+					not show any work in progress on the missing link of US 59, which was just getting started in 1972.</description>
+					<links>
+						<link text="Large">1972_houston_downtown_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Houston region</name>
+					<links>
+						<link text="Med">1972_houston_region_med.jpg</link>
+						<link text="Large">1972_houston_region_large.jpg</link>
+					</links>
+				</item>
+			</items>
+		</text>
+	</map>
+
+	<map>
+		<cover>
+			<imageThumbnail>1973_exxon_cover_300h.jpg</imageThumbnail>
+		</cover>
+		<text>
+			<title>1973 Texas, Exxon</title>
+			<description>The great freeway-building binge of the 1960s was over, but there were still plenty of
+			missing links and unbuilt freeways that would need to wait for funding in an era of greatly diminished resources for highway construction.
+			As highway construction slowed, my observation is that map companies updated their maps less frequently and therefore maps were more susception to error.
+			However, this 1973 Exxon map is quite accurate.</description>
+			<items>
+
+				<item>
+					<name>Dallas-Fort Worth</name>
+					<description>The freeway systems of Dallas and Fort Worth are substantially complete, but the mid-cities are is still
+					largely devoid of freeways and would be the focus of efforts in the 1970s, 1980s, and 1990s.</description>
+					<links>
+						<link text="Med">1973_exxon_dfw_merged_med.jpg</link>
+						<link text="Large">1973_exxon_dfw_merged_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Dallas</name>
+					<description></description>
+					<links>
+						<link text="Med">1973_exxon_dfw_east_med.jpg</link>
+						<link text="Large">1973_exxon_dfw_east_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>DFW region, Fort Worth</name>
+					<description></description>
+					<links>
+						<link text="Med">1973_exxon_dfw_west_med.jpg</link>
+						<link text="Large">1973_exxon_dfw_west_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Texas Interstates</name>
+					<description>This view shows the main population center of Texas and shows all interstates completed except for a section of I-20 west of Fort Worth. I-45 between
+					Dallas and Houston was completed in 1971. The last section of I-10 between Houston and San Antonio, from Waelder to TX 304, was completed in March 1972.</description>
+					<links>
+						<link text="Med">1973_exxon_texas_triangle_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>Houston</name>
+					<description></description>
+					<links>
+						<link text="Med">1973_exxon_houston_merged_med.jpg</link>
+						<link text="Large">1973_exxon_houston_merged_large.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>San Antonio</name>
+					<description>All central freeways were complete except for US 281 heading north out of downtown.</description>
+					<links>
+						<link text="Med">1973_exxon_san_antonio_med.jpg</link>
+					</links>
+				</item>
+				<item>
+					<name>I-10 West Texas</name>
+					<description>A substantial amount of work remained to be done on I-10 in west Texas. Work continued in the
+					1970s and into the 1980s, with completion of the final link at Fort Stockton in May 1983.</description>
+					<links>
+						<link text="Med">1973_exxon_west_texas_med.jpg</link>
+					</links>
+				</item>
+			</items>
+		</text>
+	</map>
+</maps>

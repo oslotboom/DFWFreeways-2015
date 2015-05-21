@@ -58,6 +58,10 @@ namespace DFWFreeways_2015
             bundles.Add(new StyleBundle("~/Content/css-book").Include(
             "~/scss/book.css"
             ));
+
+            bundles.Add(new StyleBundle("~/Content/css-old-maps").Include(
+            "~/scss/oldHighwayMaps.css"
+            ));
         }
     }
 }

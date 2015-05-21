@@ -1,0 +1,90 @@
+﻿@import "mixins.scss";
+@include anchor;
+
+@include basic-settings;
+
+@include header;
+
+
+
+
+/* these styles are for the old road map page */
+
+.container {margin-left: 2.5cm;}
+
+DIV.maps_outer_div
+{
+	padding-left: 33mm;
+	/*background-image: url(../../images/other/background_mosaic.jpg);*/
+	background-repeat: repeat;
+	
+}
+
+DIV.orp_main_div
+{
+	width: 740px;
+	text-align: left;
+}
+
+DIV.orp_info {
+    font-weight: bold;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 15px;
+    padding: 8px 0 8px 12px;
+    color: #F00;
+    }
+
+TABLE.orp_table
+{
+
+}
+
+TD.orp_td
+{
+	padding: 16px 8px 16px 16px;
+}
+
+.orp_Header
+{
+	 font-family:Arial, Sans-Serif;
+	 font-size: 1.6em;
+	 font-weight: bold;	
+	 padding-bottom: 6px;
+}
+
+.orp_LinkLegend
+{
+	padding-left:6mm;
+	font-size: 0.65em;
+	font-family: arial, Sans-Serif;
+	color: #00563E;
+	text-decoration: none;
+	font-weight: bold;
+}
+.orp_LinkLegendMouseOver
+{
+	padding-left:6mm;
+	font-size: 0.65em;
+	font-family: arial, Sans-Serif;
+	color: #FF0000;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.orp_Description
+{
+	font-family: Arial, Sans-Serif;
+	padding-bottom: 2mm;
+}
+
+.orp_Table_Main
+{
+	width: 700px;
+}
+.orp_subTable TD
+{
+	padding-right:4mm;
+	padding-top:0.15em;
+	padding-bottom:0.15em;
+
+}

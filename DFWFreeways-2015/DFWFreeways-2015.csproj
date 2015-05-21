@@ -209,8 +209,10 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Helpers\XsltTransform.cs" />
     <Compile Include="Models\Aerial.cs" />
     <Compile Include="Models\FreewayPage.cs" />
+    <Compile Include="Models\Maps.cs" />
     <Compile Include="Models\PageHeader.cs" />
     <Compile Include="Models\HomePage.cs" />
     <Compile Include="Models\PhotoPage.cs" />
@@ -238,6 +240,7 @@
     <Content Include="App_Data\dnt-construction-frisco.json" />
     <Content Include="App_Data\dnt-historical.json" />
     <Content Include="App_Data\chisholm-trail-parkway.json" />
+    <Content Include="App_Data\chisholm-trail-parkway-roadside-opening.json" />
     <None Include="App_Data\i20-dallas-roadside-dallas.json" />
     <Content Include="App_Data\i20-dallas-roadside-terrell.json" />
     <Content Include="App_Data\i30-dallas-historical.json" />
@@ -276,6 +279,8 @@
     <Content Include="App_Data\i820-driving-northwest.json" />
     <Content Include="App_Data\i820-driving-north.json" />
     <None Include="App_Data\sh121-driving-lewisville.json" />
+    <Content Include="App_Data\oldRoadMaps.xml" />
+    <Content Include="App_Data\oldRoadMaps.xsl" />
     <Content Include="App_Data\sh183-construction-row.json" />
     <Content Include="App_Data\sh114.json" />
     <Content Include="App_Data\sh114-roadside.json" />
@@ -297,6 +302,7 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="css\oldHighwayMaps.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -401,6 +407,12 @@
     <Content Include="scss\mixins.min.css">
       <DependentUpon>mixins.css</DependentUpon>
     </Content>
+    <Content Include="scss\oldHighwayMaps.css">
+      <DependentUpon>oldHighwayMaps.scss</DependentUpon>
+    </Content>
+    <Content Include="scss\oldHighwayMaps.min.css">
+      <DependentUpon>oldHighwayMaps.css</DependentUpon>
+    </Content>
     <Content Include="scss\shared.css">
       <DependentUpon>shared.scss</DependentUpon>
     </Content>
@@ -422,7 +434,9 @@
     <Content Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
-    <Content Include="Views\Web.config" />
+    <Content Include="Views\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
@@ -469,9 +483,13 @@
       <DependentUpon>book.css</DependentUpon>
     </Content>
     <Content Include="Views\Shared\_PageHeader.cshtml" />
+    <Content Include="Views\Default\Maps.cshtml" />
+    <Content Include="scss\oldHighwayMaps.scss" />
+    <Content Include="scss\oldHighwayMaps.css.map">
+      <DependentUpon>oldHighwayMaps.css</DependentUpon>
+    </Content>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="css\" />
     <Folder Include="images\aerial\" />
     <Folder Include="images\book\" />
     <Folder Include="images\shields\" />

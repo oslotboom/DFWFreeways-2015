@@ -1,0 +1,16 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    @model DFWFreeways.Models.Maps
+    ViewBag.Title = @Model.Title;
+}
+
+@section headerSection{
+    @Styles.Render("~/Content/css-old-maps")
+}
+
+@Html.Partial("_PageHeader", Model.PageHeader)
+
+
+
+@Html.RenderXml(Model.XmlFile, Model.XsltFile, Model.ImagePath);

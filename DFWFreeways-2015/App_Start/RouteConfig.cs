@@ -35,13 +35,19 @@ namespace DFWFreeways_2015
             routes.MapRoute(
                 name: "Aerial location",
                 url: "aerial/{id}/{detail}",
-                defaults: new { controller = "Default", action = "Aerial"  }
+                defaults: new { controller = "Default", action = "Aerial" }
             );
 
             routes.MapRoute(
                 name: "Book",
                 url: "book/{id}",
                 defaults: new { controller = "Default", action = "Book" }
+            );
+
+            routes.MapRoute(
+                name: "Maps",
+                url: "old-highway-maps",
+                defaults: new { controller = "Default", action = "Maps" }
             );
 
             routes.MapRoute(
