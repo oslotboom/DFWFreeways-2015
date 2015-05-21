@@ -2,13 +2,13 @@
 
 <div class="header">
     <div><img src="@Url.Content(Model.Shield)" /> </div>
-    <div @(!String.IsNullOrEmpty(Model.Subtitle) ? "class=title" : "")>
-        @Model.Title
-        @if (!String.IsNullOrEmpty(Model.Subtitle)) {
-        <br />
-        @Model.Subtitle
-        }
+    <div class="title">
+        <span>@Model.Title</span>
 
+        @if (!String.IsNullOrEmpty(Model.Subtitle))
+        {
+            <br /><span>@Model.Subtitle</span>
+        }
     </div>
     <div>
         @if (!String.IsNullOrEmpty(Model.UrlParent)) { 
