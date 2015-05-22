@@ -22,7 +22,7 @@ DIV.maps_outer_div
 
 DIV.orp_main_div
 {
-	width: 740px;
+	max-width: 900px;
 	text-align: left;
 }
 
@@ -36,6 +36,7 @@ DIV.orp_info {
 
 TABLE.orp_table
 {
+    img {box-shadow: 0 0 20px #ddd;}
 
 }
 
@@ -47,7 +48,7 @@ TD.orp_td
 .orp_Header
 {
 	 font-family:Arial, Sans-Serif;
-	 font-size: 1.6em;
+	 font-size: 1.4em;
 	 font-weight: bold;	
 	 padding-bottom: 6px;
 }
@@ -81,10 +82,16 @@ TD.orp_td
 {
 	width: 700px;
 }
-.orp_subTable TD
-{
-	padding-right:4mm;
-	padding-top:0.15em;
-	padding-bottom:0.15em;
-
+.orp_subTable 
+{ TD{
+      padding: 3px 4mm 3px 0;
+    }
+  tr td:first-child {min-width: 170px;}
+  tr:not(:first-child) td:not(:last-child) { border-top: thin solid #aaa;}
 }
+
+
+
+/*.org_left_column {
+    min-width: 150px;
+}*/

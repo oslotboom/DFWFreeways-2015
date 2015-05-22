@@ -7,6 +7,18 @@ namespace DFWFreeways.Models
 {
     public partial class AerialGalleryList
     {
+        public static List<AerialGalleryItem> i30_dallas_all_images()
+        {
+            List<AerialGalleryItem> itemList = new List<AerialGalleryItem>(AerialGalleryList.i30_dallas_downtown_images());
+            itemList.AddRange(AerialGalleryList.i30_dallas_east_dallas_images());
+            itemList.AddRange(AerialGalleryList.i30_dallas_us80_images());
+            itemList.AddRange(AerialGalleryList.i30_dallas_i635_images());
+            itemList.AddRange(AerialGalleryList.i30_dallas_garland_images());
+            itemList.AddRange(AerialGalleryList.i30_dallas_white_rock_lake_images());
+
+            return itemList;
+        }
+
 
         public static List<AerialGalleryItem> i30_dallas_downtown_images()
         {
@@ -75,6 +87,34 @@ namespace DFWFreeways.Models
                     "Looking east.",
                     new AerialStatus ("2015", "Obsolete", "Interchange is rebuilt and expanded by the Horseshoe Project." ) 
                 )
+
+            };
+        }
+
+        public static List<AerialGalleryItem> i30_dallas_white_rock_lake_images()
+        {
+
+            return new List<AerialGalleryItem>() {
+                new AerialGalleryItem(new DateTime(2012,4,6),"20120406_3063.JPG","20120406_3063-1050.jpg", "20120406_3063-2560.jpg", "aerial", 
+                    "White Rock Lake",
+                    "White Rock Lake, looking south",
+                    "White Rock Lake",
+                    "Looking south along Buckner Boulevard."),
+                new AerialGalleryItem(new DateTime(2012,4,6),"20120406_3065.JPG","20120406_3065-1050.jpg", "20120406_3065-2560.jpg", "aerial", 
+                    "White Rock Lake",
+                    "White Rock Lake, looking east",
+                    "White Rock Lake",
+                    "Looking east."),
+                new AerialGalleryItem(new DateTime(2012,4,6),"20120406_3067.JPG","20120406_3067-1050.jpg", "20120406_3067-2560.jpg", "aerial", 
+                    "Lakewood Country Club",
+                    "Lakewood Country Club, looking southeast",
+                    "Lakewood Country Club",
+                    "Lakewood Country Club looking southeast."),
+                new AerialGalleryItem(new DateTime(2011,4,16),"20110416_aerial_0502.JPG","20110416_aerial_0502-1050.jpg", "20110416_aerial_0502-2560.jpg", "aerial", 
+                    "White Rock Lake",
+                    "White Rock Lake, looking north",
+                    "White Rock Lake",
+                    "Looking north."),
 
             };
         }

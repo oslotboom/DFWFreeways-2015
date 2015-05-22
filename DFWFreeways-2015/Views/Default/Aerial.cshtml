@@ -11,54 +11,6 @@
 
 
 
-
-@*<script>
-        var thumbnailSize = "tile-item-medium";
-
-        function Thumbnail(size) {
-            $(".tile-item").each(function() {
-                $(this).removeClass("tile-item-small tile-item-medium tile-item-large tile-item-extralarge");
-            });
-            if (size == "small") {
-                $(".tile-item").addClass("tile-item-small");
-                thumbnailSize = "tile-item-small";
-            }
-            else if (size=="medium") {
-                $(".tile-item").addClass("tile-item-medium");
-                thumbnailSize = "tile-item-medium";
-            }
-            else if (size == "large") {
-                $(".tile-item").addClass("tile-item-large");
-                thumbnailSize = "tile-item-large";
-            }
-            else if (size == "extralarge") {
-                $(".tile-item").addClass("tile-item-extralarge");
-                thumbnailSize = "tile-item-extralarge";
-            }
-        }
-        function ExpandThumbnail(element) {
-            //var backgroundImage = $(element).css("backgroundImage");
-            //var image = backgroundImage.split("(")[1];
-            //image = image.substring(0, image.length - 1);
-            $element = $(element);
-            $tileDiv = $element.closest(".tile-item");
-            $tileDiv.find(".collapsed").each(function () { $(this).hide(); });
-            $tileDiv.removeClass("tile-item tile-item-small tile-item-medium tile-item-large tile-item-extralarge");
-            $tileDiv.toggleClass("tile-expanded");
-            $tileDiv.find(".expanded").show();
-            //$tileDiv.find(".long-caption").before("<img src='" + image + "'>");
-        }
-        function CollapseImage(element) {
-            $element = $(element);
-            $tileDiv = $element.closest(".tile-expanded");
-            $tileDiv.find(".collapsed").each(function () { $(this).show(); });
-            $tileDiv.find(".expanded").hide();
-            $tileDiv.toggleClass("tile-expanded");
-            $tileDiv.addClass("tile-item " + thumbnailSize);
-
-        }
-    </script>*@
-
 @Html.Partial("_PageHeader", Model.PageHeader)
 <div class="button-list">
     <span>
@@ -101,7 +53,7 @@
             <div class="expanded" style="display: none;"><img data-source="@(Model.FileServer + Model.FolderPath + item.LowRes)" onclick="CollapseImage(this);"></div>
             <div class="expanded long-caption" style="display: none;">
                 <div>
-                    @(item.PageCaption)
+                    @(item.GalleryShortCaption + " " + item.PageCaption)
                     @if (!String.IsNullOrEmpty(item.HighRes))
                     {
                         <a target="_blank" href="@(Model.FileServer + Model.FolderPath + item.HighRes)">High resolution</a>

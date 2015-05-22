@@ -35,7 +35,7 @@ namespace DFWFreeways_2015
             routes.MapRoute(
                 name: "Aerial location",
                 url: "aerial/{id}/{detail}",
-                defaults: new { controller = "Default", action = "Aerial" }
+                defaults: new { controller = "Default", action = "Aerial", id = UrlParameter.Optional,  detail = UrlParameter.Optional }
             );
 
             routes.MapRoute(

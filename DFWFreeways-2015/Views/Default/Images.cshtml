@@ -39,43 +39,6 @@
 
             }
 
-            //$(".image").each(function() {
-            //    $(this).removeClass("small-thumbnail medium-thumbnail full");
-            //});
-            //if (size == "small") {
-            //    $(".image").addClass("small-thumbnail");
-            //    thumbnailSize = "tile-item-small";
-            //}
-            //else if (size=="medium") {
-            //    $(".image").addClass("medium-thumbnail");
-            //    thumbnailSize = "small-thumbnail";
-            //}
-            //else if (size == "full") {
-            //    $(".image").each(function() { $(this).addClass("full") });
-            //    thumbnailSize = "full";
-            //}
-        }
-        //function ExpandThumbnail(element) {
-        //    //var backgroundImage = $(element).css("backgroundImage");
-        //    //var image = backgroundImage.split("(")[1];
-        //    //image = image.substring(0, image.length - 1);
-        //    $element = $(element);
-        //    $tileDiv = $element.closest(".tile-item");
-        //    $tileDiv.find(".collapsed").each(function () { $(this).hide(); });
-        //    $tileDiv.removeClass("tile-item tile-item-small tile-item-medium tile-item-large tile-item-extralarge");
-        //    $tileDiv.toggleClass("tile-expanded");
-        //    $tileDiv.find(".expanded").show();
-        //    //$tileDiv.find(".long-caption").before("<img src='" + image + "'>");
-        //}
-        //function CollapseImage(element) {
-        //    $element = $(element);
-        //    $tileDiv = $element.closest(".tile-expanded");
-        //    $tileDiv.find(".collapsed").each(function () { $(this).show(); });
-        //    $tileDiv.find(".expanded").hide();
-        //    $tileDiv.toggleClass("tile-expanded");
-        //    $tileDiv.addClass("tile-item " + thumbnailSize);
-
-        //}
 
         function AddOnclick() {
             $(".image img").each(function () {
@@ -102,15 +65,6 @@
 }
 
 <div id="page-container">
-    @*<div class="header">
-        <div><img src="@Url.Content(Model.Shield)" /> </div>
-        <div>@Model.Title</div>
-        <div>
-            <a href="@Url.Action("Freeway", new { detail = @Model.Parent })"><nobr>@Model.DisplayNumber Home</nobr></a><br />
-            <nobr><a href="@Url.Action("index")">Site Home</a></nobr>
-        </div>
-    </div>
-    <div id="last-update">Page last updated or reviewed: <span>@Model.LastUpdated</span></div>*@
 
     @Html.Partial("_PageHeader", Model.PageHeader)
     <div id="text">@Model.Text</div>

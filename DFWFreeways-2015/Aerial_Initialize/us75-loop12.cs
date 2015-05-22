@@ -75,7 +75,8 @@ namespace DFWFreeways.Models
                     "US 75 at Bush Library site",
                     "US 75 at Bush Library site, looking south-southwest",
                     "US 75 at Bush Library site",
-                    "Looking south-southwest"),  
+                    "Looking south-southwest",
+                    new AerialStatus ("2015", "Partially Obsolete", "The Bush Presidential Center opened on the site in 2013." )),  
                 new AerialGalleryItem(new DateTime(2009,6,23),"20090623_aerial_0110.JPG","20090623_aerial_0110-1050.jpg", "20090623_aerial_0110-2560.jpg", "aerial", 
                     "US 75 at Bush Library site",
                     "US 75 at Bush Library site, looking south-southwest",
@@ -163,7 +164,7 @@ namespace DFWFreeways.Models
                     "US 75 at Loop 12",
                     "US 75 at Loop 12, looking north",
                     "US 75 at Loop 12",
-                    "Looking north")            
+                    "Looking north")         
             };
         }
     }

@@ -32,7 +32,7 @@
     div:nth-child(2) {padding-right: 30px; }
         .title { 
         span:first-child{@extend .titleBase; font-size: 2.2em;}
-        span:last-child{@extend .titleBase; font-size: 1.8em;}
+        span:nth-child(3){@extend .titleBase; font-size: 1.8em;}
         }
 
     #last-update { padding: 0 0 8px 0; font-style: italic;

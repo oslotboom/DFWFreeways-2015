@@ -122,9 +122,9 @@
 
 	<xsl:template match="item">
 		<tr>
-			<td valign="top" width="145px">
-				<xsl:value-of select="name"/>	
-			</td>
+      <td valign="top" >
+        <xsl:value-of select="name"/>
+      </td>
 			<td valign="top">
 				<xsl:apply-templates select="links/link"></xsl:apply-templates>
 			</td>

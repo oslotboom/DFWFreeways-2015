@@ -38,6 +38,7 @@
                 { "AnchorText": "All I-30 aerials", "AnchorUrl": "all" },
                 { "AnchorText": "Downtown", "AnchorUrl": "downtown" },
                 { "AnchorText": "East Dallas", "AnchorUrl": "east-dallas" },
+                { "AnchorText": "White Rock Lake", "AnchorUrl": "white-rock-lake" },
                 { "AnchorText": "US 80 Split", "AnchorUrl": "us80" },
                 { "AnchorText": "I-635 Interchange", "AnchorUrl": "i635" },
                 { "AnchorText": "Garland", "AnchorUrl": "i30-garland" }

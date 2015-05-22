@@ -114,6 +114,7 @@ namespace DFWFreeways.Models
             //fields are title, subtitle, return Url text, last updated
             switch (page)
             {
+                case "gallery": info = new string[] { "Aerial Gallery", "", "", "June 1, 2015" }; break;
                 case "i35e_north_all": info = new string[] { "I-35E North All Aerials", "", "I-35E North", "June 1, 2015" }; break;
                 case "i35e_north_i35e_i635": info = new string[] { "I-35E at I-635", "", "I-35E North", "June 1, 2015" }; break;
                 case "i35e_north_american_airlines_center": info = new string[] { "American Airlines Center", "", "I-35E North", "June 1, 2015" }; break;
@@ -128,6 +129,8 @@ namespace DFWFreeways.Models
                 case "i20_dallas_i20_us175": info = new string[] { "I-20 at US 175", "", "I-20 Dallas", "June 1, 2015" }; break;
                 case "i20_dallas_i20_spur408": info = new string[] { "I-20 at Spur 408", "", "I-20 Dallas", "June 1, 2015" }; break;
                 case "i20_dallas_i20_i635": info = new string[] { "I-20 at I-635", "", "I-20 Dallas", "June 1, 2015" }; break;
+                case "i30_dallas_all": info = new string[] { "All I-30 Aerials", "", "I-30 Dallas", "June 1, 2015" }; break;
+                case "i30_dallas_white_rock_lake": info = new string[] { "White Rock Lake", "", "I-30 Dallas", "June 1, 2015" }; break;
                 case "i30_dallas_downtown": info = new string[] { "I-30 at I-45 and the Downtown Canyon", "", "I-30 Dallas", "June 1, 2015" }; break;
                 case "i30_dallas_us80": info = new string[] { "I-30 at US 80", "", "I-30 Dallas", "June 1, 2015" }; break;
                 case "i30_dallas_i635": info = new string[] { "I-30 at I-635", "", "I-30 Dallas", "June 1, 2015" }; break;
@@ -158,6 +161,8 @@ namespace DFWFreeways.Models
                 case "us80_all": info = new string[] { "US 80 All Aerials", "", "US 80", "June 1, 2015" }; break;
                 case "us80_i635": info = new string[] { "US 80 at I-635", "", "US 80", "June 1, 2015" }; break;
                 case "us80_i30": info = new string[] { "US 80 at I-30", "", "US 80", "June 1, 2015" }; break;
+                case "us175_all": info = new string[] { "US 175 All Aerials", "", "US 175", "June 1, 2015" }; break;
+                case "us175_dallas": info = new string[] { "S.M. Wright Freeway", "", "US 175", "June 1, 2015" }; break;
                 case "us175_i20": info = new string[] { "US 175 at I-20", "", "US 175", "June 1, 2015" }; break;
                 case "sh183_diamond": info = new string[] { "SH 183 at the Texas Stadium site", "All Photos for Historical Reference", "SH 183 Dallas", "June 1, 2015" }; break;
                 case "sh114_diamond": info = new string[] { "SH 114 at the Texas Stadium site", "All Photos for Historical Reference", "SH 114", "June 1, 2015" }; break;
@@ -180,6 +185,7 @@ namespace DFWFreeways.Models
                 case "spur366_bridge_construction": info = new string[] { "Margaret Hunt Hill Bridge Construction", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)" }; break;
                 case "spur366_2012": info = new string[] { "Klyde Warren Park Nearly Complete", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)" }; break;
                 case "spur366_pre_klyde_warren": info = new string[] { "Before Klyde Warren Park", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)" }; break;
+                case "dnt_all": info = new string[] { "All Dallas North Tollway Aerials", "", "Dallas North Tollway", "June 1, 2015 (create)" }; break;
                 case "dnt_sh121": info = new string[] { "At SH 121 and the Legacy Area", "", "Dallas North Tollway", "June 1, 2015 (create)" }; break;
                 case "dnt_plano": info = new string[] { "In Plano", "", "Dallas North Tollway", "June 1, 2015 (create)" }; break;
                 case "dnt_bush": info = new string[] { "At Bush Turnpike", "", "Dallas North Tollway", "June 1, 2015 (review, add photo)" }; break;
@@ -232,8 +238,6 @@ namespace DFWFreeways.Models
                 case "us287_south_freeway": info = new string[] { "US 287 MLK Freeway", "At Erath Street", "US 287 South", "June 1, 2015 (create)" }; break;
                 case "sh199_frontage": info = new string[] { "SH 199", "Lake Worth", "SH 199", "June 1, 2015 (create)" }; break;
                 case "sh170_frontage": info = new string[] { "SH 170", "Alliance Area", "SH 170", "June 1, 2015 (create)" }; break;
-
-
             }
             return info;
         }
@@ -267,6 +271,7 @@ namespace DFWFreeways.Models
                 case "chisholm_trail_parkway_fort_worth": text = "These views show the location where the interchange at I-20 and the Chisholm Trail Parkway was built, opened in 2014."; break;
                 case "sh199_frontage": text = "This section of SH 199 just west of I-820 is in a frontage road configuration. As of 2015 the construction of the main lanes is not scheduled. Further west, SH 199 has sections with freeway main lanes."; break;
                 case "sh170_frontage": text = "The SH 170 frontage roads opened in 1992. The main lanes are planned to be tolled. As of a May 2015 progress report on the NTTA web site, the construction date remains to be determined."; break;
+                case "us175_dallas": text = "The S.M Wright Freeway is scheduled to be removed and replaced with an arterial street by around 2020. A new freeway section will be built to connect to I-45."; break;
 
             }
             return text;

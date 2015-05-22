@@ -30,20 +30,19 @@ namespace DFWFreeways.Controllers
         //    return View(list);
         //}
         // GET: Freeway
-        public ActionResult Aerial(string location)
+        public ActionResult Aerial()
         {
             string id = (string)this.ControllerContext.RouteData.Values["id"];
             string detail = (string)this.ControllerContext.RouteData.Values["detail"];
 
-            //AerialList aerialList = new AerialList();
-            //AerialGalleryList aerialGalleryList = new AerialGalleryList(ConfigurationManager.AppSettings["AzureFileStorage"], "aerial");
-            //aerialGalleryList.ItemList = (List<AerialGalleryItem>)aerialGalleryList.GetType().GetMethod(id.Replace('-', '_') + "_" + detail.Replace('-', '_')).Invoke(null, null);
-            string identifier = id.Replace('-', '_') + "_" + detail.Replace('-', '_');
+            string identifier = "gallery";
+            if (!String.IsNullOrEmpty(id) && !String.IsNullOrEmpty(detail))
+                identifier = id.Replace('-', '_') + "_" + detail.Replace('-', '_');
+
             string[] info = AerialGalleryList.Descriptions(identifier);
             AerialGalleryList aerialGalleryList = 
-
                 new AerialGalleryList(ConfigurationManager.AppSettings["AzureFileStorage"], "aerial",
-                    new PageHeader(info[0], info[1], GetShieldPath(id.Split('-').FirstOrDefault()), id, info[2], info[3])
+                    new PageHeader(info[0], info[1], (String.IsNullOrEmpty(id) ? "" : GetShieldPath(id.Split('-').FirstOrDefault())), id, info[2], info[3])
                 );
             if (!string.IsNullOrEmpty(AerialGalleryList.PageText(identifier)))
                 aerialGalleryList.Text = AerialGalleryList.PageText(identifier);
@@ -51,7 +50,6 @@ namespace DFWFreeways.Controllers
             //AerialGalleryList aerialGalleryList = (AerialGalleryList)instance.GetType().GetMethod(id.Replace('-', '_') + "_" + detail.Replace('-', '_')).Invoke(null, new string[] { ConfigurationManager.AppSettings["AzureFileStorage"], "aerial" });
             aerialGalleryList.ItemList = (List<AerialGalleryItem>)aerialGalleryList.GetType().GetMethod(identifier + "_images").Invoke(null, null);
 
-            //AerialGalleryList list = AerialGalleryList.i635_us75();
             return View(aerialGalleryList);
         }
 

@@ -133,7 +133,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Aerial_Initialize\AerialInitialize.cs" />
+    <Compile Include="Aerial_Initialize\gallery-all.cs" />
     <Compile Include="Aerial_Initialize\bush-all.cs" />
     <Compile Include="Aerial_Initialize\bush-carrollton.cs" />
     <Compile Include="Aerial_Initialize\bush-dnt.cs" />
@@ -195,7 +195,9 @@
     <Compile Include="Aerial_Initialize\spur366-pre-klyde-warren.cs" />
     <Compile Include="Aerial_Initialize\spur366_2012.cs" />
     <Compile Include="Aerial_Initialize\spur408.cs" />
+    <Compile Include="Aerial_Initialize\us175-all.cs" />
     <Compile Include="Aerial_Initialize\us287.cs" />
+    <Compile Include="Aerial_Initialize\us75-all.cs" />
     <Compile Include="Aerial_Initialize\us75-bush.cs" />
     <Compile Include="Aerial_Initialize\us75-dallas.cs" />
     <Compile Include="Aerial_Initialize\us75-loop12.cs" />
@@ -205,7 +207,6 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\DefaultController.cs" />
-    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

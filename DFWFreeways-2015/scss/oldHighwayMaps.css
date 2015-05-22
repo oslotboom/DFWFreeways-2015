@@ -13,7 +13,7 @@ table {
   border-spacing: 0;
   border-collapse: separate; }
 
-.titleBase, .header .title span:first-child, .header .title span:last-child {
+.titleBase, .header .title span:first-child, .header .title span:nth-child(3) {
   line-height: 120%; }
 
 .header {
@@ -28,7 +28,7 @@ table {
     padding-right: 30px; }
   .header .title span:first-child {
     font-size: 2.2em; }
-  .header .title span:last-child {
+  .header .title span:nth-child(3) {
     font-size: 1.8em; }
   .header #last-update {
     padding: 0 0 8px 0;
@@ -47,7 +47,7 @@ DIV.maps_outer_div {
   background-repeat: repeat; }
 
 DIV.orp_main_div {
-  width: 740px;
+  max-width: 900px;
   text-align: left; }
 
 DIV.orp_info {
@@ -57,12 +57,15 @@ DIV.orp_info {
   padding: 8px 0 8px 12px;
   color: #F00; }
 
+TABLE.orp_table img {
+  box-shadow: 0 0 20px #ddd; }
+
 TD.orp_td {
   padding: 16px 8px 16px 16px; }
 
 .orp_Header {
   font-family: Arial, Sans-Serif;
-  font-size: 1.6em;
+  font-size: 1.4em;
   font-weight: bold;
   padding-bottom: 6px; }
 
@@ -90,8 +93,13 @@ TD.orp_td {
   width: 700px; }
 
 .orp_subTable TD {
-  padding-right: 4mm;
-  padding-top: 0.15em;
-  padding-bottom: 0.15em; }
+  padding: 3px 4mm 3px 0; }
+.orp_subTable tr td:first-child {
+  min-width: 170px; }
+.orp_subTable tr:not(:first-child) td:not(:last-child) {
+  border-top: thin solid #aaa; }
 
+/*.org_left_column {
+    min-width: 150px;
+}*/
 /*# sourceMappingURL=oldHighwayMaps.css.map */

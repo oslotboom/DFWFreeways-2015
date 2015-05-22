@@ -7,7 +7,18 @@ namespace DFWFreeways.Models
 {
     public partial class AerialGalleryList
     {
-
+        public static List<AerialGalleryItem> dnt_all_images()
+        {
+            List<AerialGalleryItem> itemList = new List<AerialGalleryItem>(AerialGalleryList.dnt_park_cities_images());
+            itemList.AddRange(AerialGalleryList.dnt_loop12_images());
+            itemList.AddRange(AerialGalleryList.dnt_i635_images());
+            itemList.AddRange(AerialGalleryList.dnt_addison_images());
+            itemList.AddRange(AerialGalleryList.dnt_bush_images());
+            itemList.AddRange(AerialGalleryList.dnt_plano_images());
+            itemList.AddRange(AerialGalleryList.dnt_sh121_images());
+            
+            return itemList;
+        }
 
         public static List<AerialGalleryItem> dnt_addison_images()
         {

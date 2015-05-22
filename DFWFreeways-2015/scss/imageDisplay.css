@@ -76,7 +76,7 @@ table {
   border-spacing: 0;
   border-collapse: separate; }
 
-.titleBase, .header .title span:first-child, .header .title span:last-child {
+.titleBase, .header .title span:first-child, .header .title span:nth-child(3) {
   line-height: 120%; }
 
 .header {
@@ -91,7 +91,7 @@ table {
     padding-right: 30px; }
   .header .title span:first-child {
     font-size: 2.2em; }
-  .header .title span:last-child {
+  .header .title span:nth-child(3) {
     font-size: 1.8em; }
   .header #last-update {
     padding: 0 0 8px 0;

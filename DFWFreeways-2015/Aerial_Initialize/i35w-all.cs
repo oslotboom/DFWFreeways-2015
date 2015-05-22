@@ -70,12 +70,8 @@ namespace DFWFreeways.Models
                     "I-35W at the US 287 split, looking northwest",
                     "I-35W at the US 287 split",
                     "Looking northwest at the I-35W/US 287 interchange.",
-                    new AerialStatus ("2015", "Obsolete", "This interchange was widened and reconfigured by the North Tarrant Express project." )),
-                new AerialGalleryItem(new DateTime(2011,10,29),"","", "", "aerial", 
-                    "I-820 at Business 287",
-                    "I-820 at Business 287, looking east",
-                    "I-820 at Business 287",
-                    "I-820 at Business 287, looking east. (Two miles west of the I-35W/I-820 interchange).")
+                    new AerialStatus ("2015", "Obsolete", "This interchange was widened and reconfigured by the North Tarrant Express project." ))
+
             };
         }
 

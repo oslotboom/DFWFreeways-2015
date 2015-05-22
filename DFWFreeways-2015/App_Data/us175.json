@@ -37,6 +37,8 @@
             "FeatureType": "Aerial",
             "FeatureProperties":
             [
+                { "AnchorText": "All Aerials", "AnchorUrl": "all" },
+                { "AnchorText": "S.M. Wright Freeway", "AnchorUrl": "dallas" },
                 { "AnchorText": "At I-20", "AnchorUrl": "i20" },
 
             ]
