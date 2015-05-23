@@ -41,7 +41,7 @@
                 { "AnchorText": "White Rock Lake", "AnchorUrl": "white-rock-lake" },
                 { "AnchorText": "US 80 Split", "AnchorUrl": "us80" },
                 { "AnchorText": "I-635 Interchange", "AnchorUrl": "i635" },
-                { "AnchorText": "Garland", "AnchorUrl": "i30-garland" }
+                { "AnchorText": "Garland", "AnchorUrl": "garland" }
 
             ]
         },

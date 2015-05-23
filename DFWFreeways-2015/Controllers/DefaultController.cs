@@ -24,12 +24,6 @@ namespace DFWFreeways.Controllers
 
 
         // GET: Freeway
-        //public ActionResult Aerial()
-        //{
-        //    AerialGalleryList list = AerialGalleryList.Initialize_i635_us75();
-        //    return View(list);
-        //}
-        // GET: Freeway
         public ActionResult Aerial()
         {
             string id = (string)this.ControllerContext.RouteData.Values["id"];
@@ -41,8 +35,8 @@ namespace DFWFreeways.Controllers
 
             string[] info = AerialGalleryList.Descriptions(identifier);
             AerialGalleryList aerialGalleryList = 
-                new AerialGalleryList(ConfigurationManager.AppSettings["AzureFileStorage"], "aerial",
-                    new PageHeader(info[0], info[1], (String.IsNullOrEmpty(id) ? "" : GetShieldPath(id.Split('-').FirstOrDefault())), id, info[2], info[3])
+                new AerialGalleryList(ConfigurationManager.AppSettings["AzureFileStorage"], "aerial", (String.IsNullOrEmpty(info[4])? info[0]: info[4]) + " aerial views",
+                    new PageHeader(info[0], info[1], (String.IsNullOrEmpty(id) ? "" : GetShieldPath(id.Split('-').FirstOrDefault())), (!String.IsNullOrEmpty(id) && id.ToLower()=="downtown"?"":id), info[2], info[3])
                 );
             if (!string.IsNullOrEmpty(AerialGalleryList.PageText(identifier)))
                 aerialGalleryList.Text = AerialGalleryList.PageText(identifier);
@@ -60,7 +54,7 @@ namespace DFWFreeways.Controllers
             string id = (string)this.ControllerContext.RouteData.Values["id"];
             string detail = (string)this.ControllerContext.RouteData.Values["detail"];
 
-            //The view depends on the path. A path with a freeway only is a freeway home page. Paths with additional items are photo pages.
+            //The view depends on the path. A path with a freeway only is a freeway home page. Paths with additional items are photo pages for freeways.
             if (String.IsNullOrEmpty(detail)) { 
                 FreewayHome freewayHome = new FreewayHome();
 
@@ -107,6 +101,29 @@ namespace DFWFreeways.Controllers
             }
         }
 
+        //Get: Photos
+        public ActionResult Photos()
+        {
+
+            string id = (string)this.ControllerContext.RouteData.Values["id"];
+
+
+                PhotoPage photoPage = new PhotoPage();
+                string cloudFolderPath = ConfigurationManager.AppSettings["GoogleDrive"] +  "photos/" + id + "/";
+            string filePath = Request.PhysicalApplicationPath + "PhotoPages\\" + id + ".json";
+            if (!System.IO.File.Exists(filePath)) {
+                return View("PageNotFound");
+            }
+            else {
+                byte[] bytes = System.IO.File.ReadAllBytes(Request.PhysicalApplicationPath + "PhotoPages\\" + id + ".json");
+                //strip off first three elements, which is the BOM byte sequence
+                bytes = bytes.Skip(3).ToArray();
+                photoPage = Deserialize<PhotoPage>(bytes);
+                photoPage.FolderPath = cloudFolderPath;
+                return View("Images", photoPage);
+                }
+
+        }
 
         // GET: Book
         public ActionResult Book(bool startOdd, string pdfSize, string pdfFile)
@@ -233,6 +250,9 @@ namespace DFWFreeways.Controllers
 
         private string GetShieldPath(string id)
         {
+            if (id.ToLower().Contains("downtown"))
+                return "";
+            else
             return "~/images/shields/shield-" + id.Split('-').First() + ".png";
         }
 

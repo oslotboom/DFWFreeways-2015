@@ -9,7 +9,7 @@ namespace DFWFreeways.Models
     {
 
 
-        public static List<AerialGalleryItem> sh114_irving_las_colinas_images()
+        public static List<AerialGalleryItem> sh114_las_colinas_images()
         {
 
             return new List<AerialGalleryItem>() {

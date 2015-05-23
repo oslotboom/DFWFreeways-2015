@@ -14,7 +14,7 @@ namespace DFWFreeways.Models
             return sh183_dallas_diamond_images();
         }
 
-        public static List<AerialGalleryItem> sh114_irving_diamond_images()
+        public static List<AerialGalleryItem> sh114_diamond_images()
         {
             return sh183_dallas_diamond_images();
         }

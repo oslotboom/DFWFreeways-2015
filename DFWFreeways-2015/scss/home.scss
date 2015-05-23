@@ -15,7 +15,8 @@ body { padding-top: 0; margin-top: 0; margin-left: 0; }
 
 #content { margin: 0 auto 0 auto; }
 #header-title { margin: 10px 0; float: left; width: $header-title-width;
-    span { font-weight: bold; font-family: 'Segoe UI Semibold','Segoe UI', sans-serif; }
+    .semibold { font-weight: bold; font-family: 'Segoe UI Semibold','Segoe UI', sans-serif; }
+    .announce {color:dodgerblue; font: {style: italic; weight: bold; size: 1.1em; }}
 }
 #header-container { margin: 10px 0; float: left; font-variant: small-caps; color: rgb(18,18,128); font-weight: bold; font-size: 18px;
     a div { float: left; text-align: center; margin-right: 12px;  height: 124px; width: 180px;}
@@ -45,10 +46,10 @@ body { padding-top: 0; margin-top: 0; margin-left: 0; }
 #high-five { background-image: url("../images/high-five-thumbnail-100x100.png"); }
 #margaret-hunt-hill { background-image: url("../images/margaret-hunt-hill-thumbnail-100x100.png"); }  
 #downtown-dallas { background-image: url("../images/downtown-dallas-thumbnail-100x100.png"); } 
-#legend { border: 2px solid red; background-color: rgb(255,255,0); width: 220px; padding: 2px 4px 4px 4px; font-size: .75em;}
+#legend {  position: absolute; top: 10px; left: 344px;  border: 2px solid red; background-color: rgb(255,255,0); width: 220px; padding: 2px 4px 4px 4px; font-size: .75em;}
 
 #book-area { width: 696px;   //Override in media rule
-             background-color: rgb(242, 246, 254); margin: 10px 0; 
+             padding: 10px 0; 
     .heading {  font-size: 1.7em; color: rgb(18,18,128); font-variant: small-caps; width: 100%; text-align: center; font-weight: bold; letter-spacing:1px; }
     .sub-heading { width: 100%; text-align: center; color:dodgerblue; font: {style: italic; weight: bold; size: 1.2em; }}
     > table {
@@ -104,7 +105,7 @@ body { padding-top: 0; margin-top: 0; margin-left: 0; }
         a div { margin-top: 15px; height: auto; }
     }
     .header-old-highway-maps, .header-aerial { background:none; }
-    #right-pane { width: 700px; background-color: #fee0e0; 
+    #right-pane { width: 700px; 
         > div:first-child { width: 250px; }
         > div { width: 220px; } 
     }

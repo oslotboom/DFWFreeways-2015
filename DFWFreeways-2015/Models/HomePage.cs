@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Configuration;
 
 namespace DFWFreeways.Models
 {
@@ -23,6 +24,7 @@ namespace DFWFreeways.Models
 
         //Constructor, initialize values
         public HomePage() {
+            PdfPath = ConfigurationManager.AppSettings["PdfServer"];
             Excerpts = new List<KeyValuePair<string, List<DownloadItem>>>();
             InitializeChapters();
             InitializeExcerptsRegional();
@@ -129,7 +131,7 @@ namespace DFWFreeways.Models
             DownloadItem[] excerpts = { ExFWMixmaster, ExFWLancaster, ExFW30, ExFW820, ExFW35WS, ExFWDowntownLoop };
 
             ExcerptsFortWorth = new List<DownloadItem>(excerpts);
-            Excerpts.Add(new KeyValuePair<string, List<DownloadItem>>("FortWorth", ExcerptsFortWorth));
+            Excerpts.Add(new KeyValuePair<string, List<DownloadItem>>("Fort Worth", ExcerptsFortWorth));
 
         }
 
@@ -156,7 +158,7 @@ namespace DFWFreeways.Models
                     new Link("I-20", "LBJ Freeway","i20-dallas"),
                     new Link("I-30", "R.L. Thornton Freeway East","i30-dallas"),
                     new Link("I-35E North", "Stemmons Freeway","i35e-north"),
-                    new Link("I-35E South", "R.L. Thornton Freeway South","i35e-south"),
+                    new Link("I-35E South", "Thornton Freeway South","i35e-south"),
                     new Link("I-45", "Schepps Freeway","i45"),
                     new LinkPlaceholder("I-345", "Downtown","i345"),
                     new Link("I-635", "LBJ Freeway","i635"),
@@ -165,7 +167,7 @@ namespace DFWFreeways.Models
                     new Link("US 80", "","us80"),
                     new Link("US 175", "CF Hawn, SM Wright Freeways","us175"),
                     new Link("SH 114", "Carpenter Freeway","sh114"),
-                    new Link("SH 183", "Carpenter Freeway, Airport Freeway","sh183"),
+                    new Link("SH 183", "Airport, Carpenter Freeways","sh183"),
                     new Link("Bush Turnpike", "SH 190 and SH 161","bush"),
                     new Link("Dallas North Tollway", "","dnt"),
                     new Link("SH 121", "including Sam Rayburn Turnpike","sh121"),
@@ -201,8 +203,7 @@ namespace DFWFreeways.Models
                     }),
                 new KeyValuePair<string, List<Link>> ("Non-Highway", 
                 new List<Link>{
-                    new Link("Chihuly at Dallas Arboretum", "2012","chihuly"),
-                    new Link("Killers concert", "2014 at Reunion","killers")
+                    new LinkPhotoPage("Chihuly at Dallas Arboretum", "2012","chihuly-dallas-arboretum")
                     }),
                 };
             
@@ -280,6 +281,13 @@ namespace DFWFreeways.Models
         public LinkPlaceholder(string displayText, string description, string url) : base(displayText, description, url)
         {
         }
+    }
 
+    public class LinkPhotoPage : Link
+    {
+        public LinkPhotoPage(string displayText, string description, string url)
+            : base(displayText, description, url)
+        {
+        }
     }
 }

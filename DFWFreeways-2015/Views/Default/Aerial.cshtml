@@ -1,7 +1,8 @@
 ﻿@{
-    ViewBag.Title = "Aerial";
+    @model DFWFreeways.Models.AerialGalleryList
+
+    ViewBag.Title = @Model.HeadTitle;
 }
-@model DFWFreeways.Models.AerialGalleryList
 
 @section headerSection{
     @Styles.Render("~/Content/css-gallery")
@@ -42,7 +43,7 @@
 </div>
 
 <div class="top-text">@Model.Text</div>
-
+<div>These aerial views may be used by anyone for any purpose, including web and print.</div>
 <div id="click-message">Click on thumbnails to see larger image, additional image information, and additional image sizes available for viewing.</div>
 <div id="tile-container">
     @foreach (DFWFreeways.Models.AerialGalleryItem item in Model.ItemList)

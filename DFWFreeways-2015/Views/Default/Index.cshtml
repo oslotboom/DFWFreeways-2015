@@ -23,7 +23,8 @@
 
         <div id="header-title">
             <div><img src="@Url.Content("~/images/DFW-Freeways-Text-485.png")" /></div>
-            <div>Home of the 2014 ebook <span>Dallas-Fort Worth Freeways, Texas-Sized Ambition</span>, available for free download below. Also featuring extensive aerial and ground photography, plus historical information and a large collection of digitized old highway maps.</div>
+            <div><span class="announce">New look and more photos!</span> Over 1100 new photos added. (May 25, 2015)</div>
+            <div>Home of the 2014 ebook <span class="semibold">Dallas-Fort Worth Freeways, Texas-Sized Ambition</span>, available for free download below. Also featuring extensive photography, historical information and a large collection of digitized old highway maps.</div>
         </div>
         <div id="header-container">
             <a href="@Url.Action("maps")">
@@ -36,56 +37,65 @@
             </a>
         </div>
         <div id="map">
-            <img src="@Url.Content("~/images/DFW_location_map-2015-web-700x500.png")" />
+            @Html.Partial("_Map")
+
+
+            @*<img src="@Url.Content("~/images/DFW_location_map-2015-web-700x500.png")" />*@
             <div id="map-inset">
-                     <a href="/">
-                        <div id="high-five" class="map-inset">
-                            <div>High Five</div>
+                <a href="@Url.Action("aerial", new { id= "us75" , detail="i635"})" >
+                    <div id="high-five" class="map-inset">
+                    <div>High Five</div>
+                    </div>
+                </a>
+
+                <a href="@Url.Action("aerial", new { id= "spur366" , detail="margaret-hunt-hill-bridge"})">
+                    <div id="margaret-hunt-hill" class="map-inset">
+                        <div>
+                            Margaret Hunt Hill Bridge
                         </div>
-                    </a>
-                
-                    <a href="/">
-                        <div id="margaret-hunt-hill" class="map-inset">
-                            <div>
-                                Margaret Hunt Hill Bridge
-                            </div>
+                    </div>
+                </a>
+                <a href="@Url.Action("aerial", new { id= "downtown" , detail="gallery"})">
+                    <div id="downtown-dallas" class="map-inset">
+                        <div>
+                            Downtown Dallas
                         </div>
-                    </a>
-                    <a href="/">
-                        <div id="downtown-dallas" class="map-inset">
-                            <div>
-                                Downtown Dallas
-                            </div>
-                            </div>
-                    </a>
-                    <div id="legend">Click on pink areas for aerial photos.<br />Click on highway shields for info and photos</div>
-        </div>
+                    </div>
+                </a>
+                @*<div id="legend">Click on pink areas for aerial photos.<br />Click on highway shields for info and photos</div>*@
+            </div>
+            <div id="legend">Click on pink areas for aerial photos.<br />Click on highway shields for info and photos</div>
         </div>
         <div id="right-pane" class="clearfix">
-            
-                
-                            @foreach (KeyValuePair<string, List<DFWFreeways.Models.Link>> linkGroup in Model.Links)
+
+
+            @foreach (KeyValuePair<string, List<DFWFreeways.Models.Link>> linkGroup in Model.Links)
+            {
+                <div class="link-group">
+                    <div>@linkGroup.Key</div>
+
+                    @foreach (DFWFreeways.Models.Link link in linkGroup.Value)
+                    {
+                        <div>
+                            @if (link.GetType().Name == "Link")
                             {
-                                <div class="link-group">
-                                    <div>@linkGroup.Key</div>
-
-                                    @foreach (DFWFreeways.Models.Link link in linkGroup.Value)
-                                    {
-                                        <div>
-                                            @if (link.GetType().Name == "Link") { 
-                                            <a href="@Url.Action("freeway", new { id=link.Url})">@link.DisplayText</a> @link.Description
-                                            }
-                                            else
-                                            {<span class="bold">@link.DisplayText</span> <text> @link.Description</text>}
-                                        </div>
-
-                                    }
-                                </div>
+                                <a href="@Url.Action("freeway", new { id=link.Url})">@link.DisplayText</a> @link.Description
                             }
+                            else if (link.GetType().Name == "LinkPhotoPage")
+                            {
+                                <a href="@Url.Action("photos", new { id=link.Url})">@link.DisplayText</a> @link.Description
+                            }
+                            else
+                            {<span class="bold">@link.DisplayText</span> <text> @link.Description</text>}
+                        </div>
+
+                    }
+                </div>
+            }
 
 
-                               
-            </div>
+
+        </div>
         <div id="book-area">
             <div class="heading">Dallas-Fort Worth Freeways, Texas-Sized Ambition</div>
             <div class="sub-heading">Free Download!</div>
@@ -126,14 +136,19 @@
                                 </div>
                                 <div class="clearfix line-break-narrow">
                                     <div>Press</div>
-                                    <div>&nbsp;Dallas Morning News<br />&nbsp;AIA Dallas Columns</div>
+                                    <div>
+                                        <a href="http://transportationblog.dallasnews.com/2014/05/a-decade-spent-writing-a-book-about-how-dallas-built-its-freeways-and-how-its-freeways-built-dallas.html/">Dallas Morning News</a>
+                                        <br />
+                                        <a href="https://www.aiadallas.org/v/blog-detail/A-Conversation-with-Oscar-Slotboom/i5/">AIA Dallas Columns Magazine</a>
+                                           
+                                    </div>
                                 </div>
                             </div>
                             <div class="book-front">
-                                <img src="@Url.Content("~/images/180x225.png")" />
+                                <img src="@Url.Content("~/images/DFWFreeways-cover-180x223.jpg")" />
                             </div>
                             <div class="book-back">
-                                <img src="@Url.Content("~/images/180x225.png")" />
+                                <img src="@Url.Content("~/images/DFWFreeways-cover-back-180x223.jpg")" />
                             </div>
                             <div>Dallas-Fort Worth has one of the world’s most extensive urban freeway systems. It is the product of the pro-growth ambition of political and business leaders, and has empowered the ambition of real estate developers, big business, the technology industry and entrepreneurs. The North Texas cultural spirit to think big and build big has guided the ongoing growth and expansion of Dallas-Fort Worth freeways, a transportation system which has propelled North Texas to be among the most economically successful regions in the United States in the post-World War II era. Dallas-Fort Worth Freeways documents the origins, politics, influence and resulting urban landscape of North Texas freeways. </div>
 
@@ -158,7 +173,8 @@
                                     <table class="download-info">
                                         <tr>
                                             <td>@Model.CompleteBook.PageCount pages</td>
-                                            <td><b><a href="@(Url.Action("QuickView/" + @Model.CompleteBook.QuickViewFolder) + "?startOdd=" + @Model.CompleteBook.StartOdd.ToString() + "&pdfSize=" + Url.Encode(@Model.CompleteBook.PdfSizeMB) + "&pdfFile=" + Url.Encode(@Model.CompleteBook.PdfFile))" title="Fast download, lower quality">Quick View</a></b></td>
+                                            <td><b><a href="@(Url.Action(Model.CompleteBook.QuickViewFolder, "book", 
+                                            new {startOdd=@Model.CompleteBook.StartOdd.ToString(),pdfSize=@Url.Encode(@Model.CompleteBook.PdfSizeMB),pdfFile=@Url.Encode(Model.CompleteBook.PdfFile)}))" title="Fast download, lower quality">Quick View</a></b></td>
                                             <td><b><a target="_blank" href="@(Model.PdfPath + Model.CompleteBook.PdfFile)" title="Large file, high quality">PDF, @Model.CompleteBook.PdfSizeMB</a></b></td>
                                         </tr>
                                     </table>
@@ -166,38 +182,40 @@
                             </tr>
                         </table>
 
-                            <div class="list-heading">Chapters</div>
-                            <table id="book-download">
-                                @foreach (DFWFreeways.Models.DownloadItem chapter in Model.Chapters)
-                                {
+                        <div class="list-heading">Chapters</div>
+                        <table id="book-download">
+                            @foreach (DFWFreeways.Models.DownloadItem chapter in Model.Chapters)
+                            {
 
-                                    <tr>
-                                        <td>
-                                            <table id="chapter-name">
-                                                <tr>
-                                                    <td>@chapter.ChapterNumber</td>
-                                                    <td>@chapter.Title</td>
-                                                </tr>
-                                            </table>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <table class="download-info">
-                                                <tr>
-                                                    <td>@chapter.PageCount pages</td>
-                                                    <td><b><a href="@(Url.Action("QuickView/" + chapter.QuickViewFolder) + "?startOdd=" + chapter.StartOdd.ToString() + "&pdfSize=" + Url.Encode(chapter.PdfSizeMB) + "&pdfFile=" + Url.Encode(chapter.PdfFile))" title="Fast download, lower quality">Quick View</a></b></td>
-                                                    <td><b><a target="_blank" href="@(Model.PdfPath + chapter.PdfFile)" title="Large file, high quality">PDF, @chapter.PdfSizeMB</a></b></td>
-                                                </tr>
-                                            </table>
-                                        </td>
-                                    </tr>
+                                <tr>
+                                    <td>
+                                        <table id="chapter-name">
+                                            <tr>
+                                                <td>@chapter.ChapterNumber</td>
+                                                <td>@chapter.Title</td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <table class="download-info">
+                                            <tr>
+                                                <td>@chapter.PageCount pages</td>
+                                                <td><b><a href="@(Url.Action(chapter.QuickViewFolder, "book", 
+                                            new {startOdd=chapter.StartOdd.ToString(),pdfSize=@Url.Encode(chapter.PdfSizeMB),pdfFile=@Url.Encode(chapter.PdfFile)}))" title="Fast download, lower quality">Quick View</a></b></td>
 
-                                }
+                                                <td><b><a target="_blank" href="@(Model.PdfPath + chapter.PdfFile)" title="Large file, high quality">PDF, @chapter.PdfSizeMB</a></b></td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
 
-                            </table>
+                            }
 
-</td>
+                        </table>
+
+                    </td>
                     <td>
                         <div class="list-heading">Excerpts</div>
                         <table id="book-excerpt">
@@ -206,26 +224,32 @@
                                 <tr>
                                     <td class="excerpt-group">@excerptGroup.Key</td>
                                 </tr>
-                                    foreach (DFWFreeways.Models.DownloadItem excerpt in excerptGroup.Value)
-                                    {
+                                foreach (DFWFreeways.Models.DownloadItem excerpt in excerptGroup.Value)
+                                {
 
-                                        <tr>
-                                            <td class="excerpt-description">
-                                                @excerpt.Title
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="excerpt-download">
-                                                <table class="download-info">
-                                                    <tr>
-                                                        <td>@excerpt.PageCount pages</td>
-                                                        <td><b><a href="@(Url.Action("QuickView/" + excerpt.QuickViewFolder) + "?startOdd=" + excerpt.StartOdd.ToString())" >Quick View</a></b></td>
-                                                    </tr>
-                                                </table>
-                                            </td>
-                                        </tr>
+                                    <tr>
+                                        <td class="excerpt-description">
+                                            @excerpt.Title
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="excerpt-download">
+                                            <table class="download-info">
+                                                <tr>
+                                                    <td>@excerpt.PageCount pages</td>
+                                                    <td>
+                                                        <b>
+                                                            <a href="@(Url.Action(excerpt.QuickViewFolder, "book", new { startOdd = excerpt.StartOdd.ToString() }))" >Quick View</a>
+                                                        </b>
+                                                    </td>
 
-                                    }
+
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+
+                                }
                             }
                         </table>
 
@@ -233,8 +257,8 @@
 
 
 
-                        </tr>
-                    </table>
+                </tr>
+            </table>
 
 
 
@@ -243,5 +267,8 @@
     </div>
 
 </body>
+
+
+
 </html>
 

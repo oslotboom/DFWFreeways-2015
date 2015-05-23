@@ -26,7 +26,12 @@ namespace DFWFreeways_2015
                 constraints: new { id = @"(?i)^i\d\d\d?(e|w)?(-(north|south|east|west|dallas|landry|fort-worth))?|us\d\d\d?(-(north|south))?|sh\d\d\d?(-(north|south|east|west|dallas|irving))?|loop\d\d|dnt|bush|chisholm-trail-parkway|spur\d\d\d$" }
             );
 
-
+            routes.MapRoute(
+                name: "Photo Page",
+                url: "photos/{id}",
+                defaults: new { controller = "Default", action = "Photos" }
+            );
+            
             //routes.MapRoute(
             //    name: "Aerial",
             //    url: "aerial",

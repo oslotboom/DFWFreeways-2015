@@ -10,10 +10,10 @@ namespace DFWFreeways.Models
 
         public static List<AerialGalleryItem> bush_sh114_images()
         {
-            return sh114_irving_bush_images();
+            return sh114_bush_images();
         }
 
-        public static List<AerialGalleryItem> sh114_irving_bush_images()
+        public static List<AerialGalleryItem> sh114_bush_images()
         {
 
             return new List<AerialGalleryItem>() {

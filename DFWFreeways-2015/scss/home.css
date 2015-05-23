@@ -35,9 +35,14 @@ body {
   margin: 10px 0;
   float: left;
   width: 520px; }
-  #header-title span {
+  #header-title .semibold {
     font-weight: bold;
     font-family: 'Segoe UI Semibold', 'Segoe UI', sans-serif; }
+  #header-title .announce {
+    color: dodgerblue;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1.1em; }
 
 #header-container {
   margin: 10px 0;
@@ -109,6 +114,9 @@ body {
   background-image: url("../images/downtown-dallas-thumbnail-100x100.png"); }
 
 #legend {
+  position: absolute;
+  top: 10px;
+  left: 344px;
   border: 2px solid red;
   background-color: yellow;
   width: 220px;
@@ -117,8 +125,7 @@ body {
 
 #book-area {
   width: 696px;
-  background-color: #f2f6fe;
-  margin: 10px 0; }
+  padding: 10px 0; }
   #book-area .heading {
     font-size: 1.7em;
     color: #121280;
@@ -241,8 +248,7 @@ body {
     background: none; }
 
   #right-pane {
-    width: 700px;
-    background-color: #fee0e0; }
+    width: 700px; }
     #right-pane > div:first-child {
       width: 250px; }
     #right-pane > div {

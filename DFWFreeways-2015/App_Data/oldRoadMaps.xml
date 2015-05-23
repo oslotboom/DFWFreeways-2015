@@ -1000,20 +1000,6 @@
           </links>
         </item>
         <item>
-          <name>Northeast Fort Worth</name>
-          <description></description>
-          <links>
-            <link text="Large">1957-ashburn-fort-worth-northeast.jpg</link>
-          </links>
-        </item>
-        <item>
-          <name>Northeast Fort Worth</name>
-          <description></description>
-          <links>
-            <link text="Large">1957-ashburn-fort-worth-northeast.jpg</link>
-          </links>
-        </item>
-        <item>
           <name>South Fort Worth</name>
           <description>The southwest section of the loop is identified as being under construction.</description>
           <links>
@@ -1689,7 +1675,6 @@
 					<description>Only a few gaps remain in the north Texas interstate system</description>
 					<links>
 						<link text="Med">1968_phillips_ne_texas_med.jpg</link>
-						<link text="Large"></link>
 					</links>
 				</item>
 				<item>
@@ -1836,7 +1821,7 @@
 			<title>1973 Texas, Exxon</title>
 			<description>The great freeway-building binge of the 1960s was over, but there were still plenty of
 			missing links and unbuilt freeways that would need to wait for funding in an era of greatly diminished resources for highway construction.
-			As highway construction slowed, my observation is that map companies updated their maps less frequently and therefore maps were more susception to error.
+			As highway construction slowed, my observation is that map companies updated their maps less frequently and therefore maps were more likely to have errors or be out-of-date.
 			However, this 1973 Exxon map is quite accurate.</description>
 			<items>
 
@@ -1866,7 +1851,7 @@
 					</links>
 				</item>
 				<item>
-					<name>Texas Interstates</name>
+					<name>Central Texas</name>
 					<description>This view shows the main population center of Texas and shows all interstates completed except for a section of I-20 west of Fort Worth. I-45 between
 					Dallas and Houston was completed in 1971. The last section of I-10 between Houston and San Antonio, from Waelder to TX 304, was completed in March 1972.</description>
 					<links>

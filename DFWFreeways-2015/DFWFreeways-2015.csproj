@@ -133,6 +133,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aerial_Initialize\downtown-gallery.cs" />
     <Compile Include="Aerial_Initialize\gallery-all.cs" />
     <Compile Include="Aerial_Initialize\bush-all.cs" />
     <Compile Include="Aerial_Initialize\bush-carrollton.cs" />
@@ -358,6 +359,7 @@
     <Content Include="App_Data\us287-south.json" />
     <Content Include="App_Data\us287-south-driving.json" />
     <Content Include="App_Data\us287-south-roadside.json" />
+    <Content Include="PhotoPages\chihuly-dallas-arboretum.json" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -489,9 +491,10 @@
     <Content Include="scss\oldHighwayMaps.css.map">
       <DependentUpon>oldHighwayMaps.css</DependentUpon>
     </Content>
+    <Content Include="Views\Shared\_Map.cshtml" />
+    <Content Include="Views\Default\PageNotFound.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="images\aerial\" />
     <Folder Include="images\book\" />
     <Folder Include="images\shields\" />
   </ItemGroup>

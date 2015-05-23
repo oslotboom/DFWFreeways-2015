@@ -10,11 +10,11 @@ namespace DFWFreeways.Models
 
         public static List<AerialGalleryItem> sh114_all_images()
         {
-            List<AerialGalleryItem> itemList = new List<AerialGalleryItem>(AerialGalleryList.sh114_irving_las_colinas_images());
-            itemList.AddRange(AerialGalleryList.sh114_irving_bush_images());
+            List<AerialGalleryItem> itemList = new List<AerialGalleryItem>(AerialGalleryList.sh114_las_colinas_images());
+            itemList.AddRange(AerialGalleryList.sh114_bush_images());
             itemList.AddRange(AerialGalleryList.sh114_westlake_images());
             itemList.AddRange(AerialGalleryList.sh114_sh170_images());
-            itemList.AddRange(AerialGalleryList.sh114_irving_diamond_images());
+            itemList.AddRange(AerialGalleryList.sh114_diamond_images());
             return itemList;
         }
 

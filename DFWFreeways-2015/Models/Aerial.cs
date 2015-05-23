@@ -85,6 +85,7 @@ namespace DFWFreeways.Models
         public string FileServer { get; set; }
         public string FolderPath { get; set; }
         public PageHeader PageHeader { get; set; }
+        public string HeadTitle { get; set; }
         public string Text { get; set; }
         public List<AerialGalleryItem> ItemList { get; set; }
 
@@ -96,11 +97,13 @@ namespace DFWFreeways.Models
             FolderPath = folderPath + "/";
         }
 
-        public AerialGalleryList(string fileServer, string folderPath, PageHeader pageheader)
+        public AerialGalleryList(string fileServer, string folderPath, string headTitle, PageHeader pageheader)
         {
             FileServer = fileServer;
             FolderPath = folderPath + "/";
+            HeadTitle = headTitle;
             PageHeader = pageheader;
+
         }
 
         private static string GetShieldPath(string id)
@@ -110,134 +113,136 @@ namespace DFWFreeways.Models
 
         public static string[] Descriptions(string page)
         {
-            string[] info = new string[4];
-            //fields are title, subtitle, return Url text, last updated
+            string[] info = new string[5];
+            //fields are title, subtitle, return Url text, last updated, Html page title - blank if regular title is used (on page tab identifier)
             switch (page)
             {
-                case "gallery": info = new string[] { "Aerial Gallery", "", "", "June 1, 2015" }; break;
-                case "i35e_north_all": info = new string[] { "I-35E North All Aerials", "", "I-35E North", "June 1, 2015" }; break;
-                case "i35e_north_i35e_i635": info = new string[] { "I-35E at I-635", "", "I-35E North", "June 1, 2015" }; break;
-                case "i35e_north_american_airlines_center": info = new string[] { "American Airlines Center", "", "I-35E North", "June 1, 2015" }; break;
-                case "i35e_north_market_center": info = new string[] { "I-35E at Dallas Market Center", "", "I-35E North", "June 1, 2015" }; break;
-                case "i35e_north_i35e_sh121": info = new string[] { "I-35E at SH 121/Sam Rayburn Turnpike", "", "I-35E North", "June 1, 2015" }; break;
-                case "i35e_north_i35e_bush": info = new string[] { "I-35E at Bush Turnpike", "", "I-35E North", "June 1, 2015" }; break;
-                case "bush_bush_i35e": info = new string[] { "Bush Turnpike at I-35E", "", "Bush Turnpike", "June 1, 2015" }; break;
-                case "i20_dallas_all": info = new string[] { "I-20 All Aerials", "", "I-20 Dallas", "June 1, 2015" }; break;
-                case "i20_dallas_i20_i35e": info = new string[] { "I-20 at I-35E", "", "I-20 Dallas", "June 1, 2015" }; break;
-                case "i20_dallas_i20_us67": info = new string[] { "I-20 at US 67", "", "I-20 Dallas", "June 1, 2015" }; break;
-                case "i20_dallas_i20_i45": info = new string[] { "I-20 at I-45", "", "I-20 Dallas", "June 1, 2015" }; break;
-                case "i20_dallas_i20_us175": info = new string[] { "I-20 at US 175", "", "I-20 Dallas", "June 1, 2015" }; break;
-                case "i20_dallas_i20_spur408": info = new string[] { "I-20 at Spur 408", "", "I-20 Dallas", "June 1, 2015" }; break;
-                case "i20_dallas_i20_i635": info = new string[] { "I-20 at I-635", "", "I-20 Dallas", "June 1, 2015" }; break;
-                case "i30_dallas_all": info = new string[] { "All I-30 Aerials", "", "I-30 Dallas", "June 1, 2015" }; break;
-                case "i30_dallas_white_rock_lake": info = new string[] { "White Rock Lake", "", "I-30 Dallas", "June 1, 2015" }; break;
-                case "i30_dallas_downtown": info = new string[] { "I-30 at I-45 and the Downtown Canyon", "", "I-30 Dallas", "June 1, 2015" }; break;
-                case "i30_dallas_us80": info = new string[] { "I-30 at US 80", "", "I-30 Dallas", "June 1, 2015" }; break;
-                case "i30_dallas_i635": info = new string[] { "I-30 at I-635", "", "I-30 Dallas", "June 1, 2015" }; break;
-                case "i30_dallas_east_dallas": info = new string[] { "I-30 in East Dallas", "", "I-30 Dallas", "June 1, 2015" }; break;
-                case "i45_all": info = new string[] { "All I-45 Aerials", "", "I-45", "June 1, 2015" }; break;
-                case "i45_dallas": info = new string[] { "I-45 in Dallas", "", "I-45", "June 1, 2015" }; break;
-                case "i45_i30": info = new string[] { "I-45 at I-30", "", "I-45", "June 1, 2015" }; break;
-                case "i45_i20": info = new string[] { "I-45 at I-20", "", "I-45", "June 1, 2015" }; break;
-                case "i35e_south_all": info = new string[] { "I-35E South All Aerials", "", "I-35E South", "June 1, 2015" }; break;
-                case "i35e_south_i20": info = new string[] { "I-35E at I-20", "", "I-35E South", "June 1, 2015" }; break;
-                case "i35e_south_downtown": info = new string[] { "I-35E at the Trinity River, Downtown", "", "I-35E South", "June 1, 2015" }; break;
-                case "i635_us75": info = new string[] { "I-635 at US 75", "The High Five Interchange", "I-635", "June 1, 2015" }; break;
-                case "i635_bush": info = new string[] { "I-635 at Bush Turnpike", "", "I-635", "June 1, 2015" }; break;
-                case "i635_i35e": info = new string[] { "I-635 at I-35E Stemmons Freeway", "", "I-635", "June 1, 2015" }; break;
-                case "i635_dnt": info = new string[] { "I-635 at the Dallas North Tollway", "Photos obsolete, for historical reference", "I-635", "June 1, 2015" }; break;
-                case "i635_i30": info = new string[] { "I-635 at I-30", "", "I-635", "June 1, 2015" }; break;
-                case "i635_us80": info = new string[] { "I-635 at US 80", "", "I-635", "June 1, 2015" }; break;
-                case "i635_i20": info = new string[] { "I-635 at Preston Road", "", "I-635", "June 1, 2015" }; break;
-                case "i635_preston": info = new string[] { "I-635 at Preston Road", "Original Freeway Before the LBJ Express", "I-635", "June 1, 2015" }; break;
-                case "i635_farmers_branch": info = new string[] { "I-635 Farmers Branch", "Original Freeway Before the LBJ Express", "I-635", "June 1, 2015" }; break;
-                case "i635_garland": info = new string[] { "I-635 in Garland", "", "I-635", "June 1, 2015" }; break;
-                case "us67_i20": info = new string[] { "US 67 at I-20", "", "US 67", "June 1, 2015" }; break;
-                case "us75_all": info = new string[] { "US 75 All Aerials", "", "US 75", "June 1, 2015" }; break;
-                case "us75_i635": info = new string[] { "US 75 at I-635 LBJ Freeway", "", "US 75", "June 1, 2015" }; break;
-                case "us75_dallas": info = new string[] { "US 75 in Dallas South of Loop 12", "", "US 75", "June 1, 2015" }; break;
-                case "us75_loop12": info = new string[] { "US 75 from Mockingbird to Loop 12", "", "US 75", "June 1, 2015" }; break;
-                case "us75_bush": info = new string[] { "US 75 at the Bush Turnpike and the Telecom Corridor", "", "US 75", "June 1, 2015" }; break;
-                case "us80_all": info = new string[] { "US 80 All Aerials", "", "US 80", "June 1, 2015" }; break;
-                case "us80_i635": info = new string[] { "US 80 at I-635", "", "US 80", "June 1, 2015" }; break;
-                case "us80_i30": info = new string[] { "US 80 at I-30", "", "US 80", "June 1, 2015" }; break;
-                case "us175_all": info = new string[] { "US 175 All Aerials", "", "US 175", "June 1, 2015" }; break;
-                case "us175_dallas": info = new string[] { "S.M. Wright Freeway", "", "US 175", "June 1, 2015" }; break;
-                case "us175_i20": info = new string[] { "US 175 at I-20", "", "US 175", "June 1, 2015" }; break;
-                case "sh183_diamond": info = new string[] { "SH 183 at the Texas Stadium site", "All Photos for Historical Reference", "SH 183 Dallas", "June 1, 2015" }; break;
-                case "sh114_diamond": info = new string[] { "SH 114 at the Texas Stadium site", "All Photos for Historical Reference", "SH 114", "June 1, 2015" }; break;
-                case "sh114_all": info = new string[] { "All SH 114 Aerials", "", "SH 114", "June 1, 2015" }; break;
-                case "sh114_las_colinas": info = new string[] { "SH 114 at Las Colinas", "", "SH 114", "June 1, 2015 (create)" }; break;
-                case "sh114_bush": info = new string[] { "SH 114 at the Bush Turnpike", "", "SH 114", "June 1, 2015" }; break;
-                case "sh114_texas_motor_speedway": info = new string[] { "SH 114 at the Texas Motor Speedway", "", "SH 114", "June 1, 2015" }; break;
-                case "sh114_westlake": info = new string[] { "SH 114 at Solana in Westlake", "", "SH 114", "June 1, 2015 (create)" }; break;
-                case "sh114_sh170": info = new string[] { "SH 114 at SH 170", "", "SH 114", "June 1, 2015 (create)" }; break;
-                case "bush_i30": info = new string[] { "Bush Turnpike at I-30", "", "Bush Turnpike", "June 1, 2015" }; break;
-                case "bush_sh114": info = new string[] { "Bush Turnpike at SH 114 Carpenter Freeway", "", "Bush Turnpike", "June 1, 2015" }; break;
-                case "bush_i635": info = new string[] { "Bush Turnpike at I-635 LBJ Freeway", "", "Bush Turnpike", "June 1, 2015" }; break;
-                case "bush_i35e": info = new string[] { "Bush Turnpike at I-35E Stemmons Freeway", "", "Bush Turnpike", "June 1, 2015" }; break;
-                case "bush_carrollton": info = new string[] { "Bush Turnpike in Carrollton", "", "Bush Turnpike", "June 1, 2015" }; break;
-                case "bush_dnt": info = new string[] { "Bush Turnpike at the Dallas North Tollway", "", "Bush Turnpike", "June 1, 2015" }; break;
-                case "bush_plano": info = new string[] { "Bush Turnpike in Plano and Richardson", "", "Bush Turnpike", "June 1, 2015" }; break;
-                case "bush_us75": info = new string[] { "Bush Turnpike at US 75 Central Expressway", "", "Bush Turnpike", "June 1, 2015" }; break;
-                case "spur366_all": info = new string[] { "Woodall Rodgers Freeway All Aerials", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)" }; break;
-                case "spur366_margaret_hunt_hill_bridge": info = new string[] { "Margaret Hunt Hill Bridge", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)" }; break;
-                case "spur366_bridge_construction": info = new string[] { "Margaret Hunt Hill Bridge Construction", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)" }; break;
-                case "spur366_2012": info = new string[] { "Klyde Warren Park Nearly Complete", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)" }; break;
-                case "spur366_pre_klyde_warren": info = new string[] { "Before Klyde Warren Park", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)" }; break;
-                case "dnt_all": info = new string[] { "All Dallas North Tollway Aerials", "", "Dallas North Tollway", "June 1, 2015 (create)" }; break;
-                case "dnt_sh121": info = new string[] { "At SH 121 and the Legacy Area", "", "Dallas North Tollway", "June 1, 2015 (create)" }; break;
-                case "dnt_plano": info = new string[] { "In Plano", "", "Dallas North Tollway", "June 1, 2015 (create)" }; break;
-                case "dnt_bush": info = new string[] { "At Bush Turnpike", "", "Dallas North Tollway", "June 1, 2015 (review, add photo)" }; break;
-                case "dnt_addison": info = new string[] { "In Addison", "", "Dallas North Tollway", "June 1, 2015 (review, add photo)" }; break;
-                case "dnt_i635": info = new string[] { "At I-635 LBJ Freeway", "Interchange Modifications completed in 2015", "Dallas North Tollway", "June 1, 2015 (review, add photo)" }; break;
-                case "dnt_loop12": info = new string[] { "At Loop 12", "", "Dallas North Tollway", "June 1, 2015 (review, add photo)" }; break;
-                case "dnt_park_cities": info = new string[] { "At Mockingbird Lane", "", "Dallas North Tollway", "June 1, 2015 (review, add photo)" }; break;
-                case "sh121_all": info = new string[] { "All SH 121 Aerials", "", "SH 121/Sam Rayburn Turnpike", "June 1, 2015 (create)" }; break;
-                case "sh121_dnt": info = new string[] { "At the Dallas North Tollway", "", "SH 121/Sam Rayburn Turnpike", "June 1, 2015 (create)" }; break;
-                case "sh121_colony": info = new string[] { "Construction in the Colony area", "", "SH 121", "June 1, 2015 (review and update caption)" }; break;
-                case "sh121_i35e": info = new string[] { "At I-35E Stemmons Freeway", "", "SH 121", "June 1, 2015 (update)" }; break;
-                case "loop12_diamond": info = new string[] { "Loop 12 at the Texas Stadium site", "All Photos for Historical Reference", "Loop 12", "June 1, 2015" }; break;
-                case "loop12_all": info = new string[] { "All Loop 12 Photos", "", "Loop 12", "June 1, 2015" }; break;
-                case "loop12_trinity": info = new string[] { "Trinity River Crossing", "", "Loop 12", "June 1, 2015" }; break;
-                case "loop12_davis": info = new string[] { "At Davis/Jefferson Streets", "", "Loop 12", "June 1, 2015" }; break;
-                case "loop12_i30": info = new string[] { "At I-30 Landry Highway", "", "Loop 12", "June 1, 2015" }; break;
-                case "spur408_all": info = new string[] { "All Spur 408 Aerials", "", "Spur 408", "June 1, 2015" }; break;
-                case "spur408_freeway": info = new string[] { "Aerial views", "", "Spur 408", "June 1, 2015" }; break;
-                case "spur408_i20": info = new string[] { "At I-20", "", "Spur 408", "June 1, 2015" }; break;
-                case "i30_landry_all": info = new string[] { "All Aerials for I-30 Tom Landry Highway", "", "I-30 Landry Highway", "June 1, 2015" }; break;
-                case "i30_landry_sh360": info = new string[] { "I-30 at SH 360", "Six Flags Over Texas", "I-30 Landry Highway", "June 1, 2015" }; break;
-                case "i30_landry_stadiums": info = new string[] { "Arlington Stadiums", "", "I-30 Landry Highway", "June 1, 2015" }; break;
-                case "i30_landry_bush": info = new string[] { "I-30 at Bush Turnpike", "", "I-30 Landry Highway", "June 1, 2015" }; break;
-                case "i30_landry_loop12": info = new string[] { "I-30 at Loop 12", "", "I-30 Landry Highway", "June 1, 2015" }; break;
-                case "i30_landry_i820_east": info = new string[] { "I-30 at I-820 East", "", "I-30 Landry Highway", "June 1, 2015" }; break;
-                case "i30_landry_i35w": info = new string[] { "I-30 at I35W", "The Fort Worth Mixmaster", "I-30 Landry Highway", "June 1, 2015" }; break;
-                case "i30_landry_lone_star": info = new string[] { "Lone Star Park Horse Track", "", "I-30 Landry Highway", "June 1, 2015" }; break;
-                case "i30_landry_trinity": info = new string[] { "Original Trinity River Bridge", "For Historical Reference", "I-30 Landry Highway", "June 1, 2015" }; break;
-                case "sh360_i30": info = new string[] { "SH 360 at I-30 and Six Flags", "", "SH 360", "June 1, 2015" }; break;
-                case "i20_west_all": info = new string[] { "I-20 All Aerials", "Fort Worth", "I-20 Fort Worth", "June 1, 2015 (create)" }; break;
-                case "i20_west_i35w": info = new string[] { "I-20 at I-35W", "South Fort Worth", "I-20 Fort Worth", "June 1, 2015 (create)" }; break;
-                case "i20_west_fort_worth": info = new string[] { "I-20 South Fort Worth", "", "I-20 Fort Worth", "June 1, 2015 (create)" }; break;
-                case "i20_west_i820": info = new string[] { "I-20 at I-820", "Southwest Fort Worth", "I-20 Fort Worth", "June 1, 2015 (create)" }; break;
-                case "i35w_all": info = new string[] { "All I-35W Aerials", "", "I-35W", "June 1, 2015 (create)" }; break;
-                case "i35w_i20": info = new string[] { "I-35W at I-20", "South Fort Worth", "I-35W", "June 1, 2015 (create)" }; break;
-                case "i35w_i30": info = new string[] { "I-35W at I-30", "Fort Worth Mixmaster", "I-35W", "June 1, 2015 (create)" }; break;
-                case "i35w_i820": info = new string[] { "I-35W at I-820", "North Fort Worth", "I-35W", "June 1, 2015 (create)" }; break;
-                case "i35w_alliance": info = new string[] { "I-35W at Alliance", "North Fort Worth", "I-35W", "June 1, 2015 (create)" }; break;
-                case "i35w_texas_motor_speedway": info = new string[] { "I-35W at Alliance", "North Fort Worth", "I-35W", "June 1, 2015 (create)" }; break;
-                case "i30_fort_worth_all": info = new string[] { "All I-30 Fort Worth Aerials", "", "I-30 Fort Worth", "June 1, 2015 (create)" }; break;
-                case "i30_fort_worth_downtown": info = new string[] { "I-30 Downtown Fort Worth", "", "I-30 Fort Worth", "June 1, 2015 (create)" }; break;
-                case "i30_fort_worth_i35w": info = new string[] { "I-30 at I-35W", "The Fort Worth Mixmaster", "I-30 Fort Worth", "June 1, 2015 (create)" }; break;
-                case "i30_fort_worth_arlington": info = new string[] { "I-30 West Fort Worth", "Arlington Heights Area", "I-30 Fort Worth", "June 1, 2015 (create)" }; break;
-                case "i30_fort_worth_i820": info = new string[] { "I-30 at I-820", "West Fort Worth", "I-30 Fort Worth", "June 1, 2015 (create)" }; break;
-                case "chisholm_trail_parkway_fort_worth": info = new string[] { "At I-20", "Prior to Interchange Construction", "Chisholm Trail Parkway", "June 1, 2015 (create)" }; break;
-                case "i820_all": info = new string[] { "All I-820 Aerials", "", "I-820", "June 1, 2015 (create)" }; break;
-                case "i820_i30_west": info = new string[] { "At I-30 West", "", "I-820", "June 1, 2015 (create)" }; break;
-                case "i820_i30_east": info = new string[] { "At I-30 East", "", "I-820", "June 1, 2015 (create)" }; break;
-                case "i820_i35w": info = new string[] { "At I-35W", "North Fort Worth", "I-820", "June 1, 2015 (create)" }; break;
-                case "us287_south_freeway": info = new string[] { "US 287 MLK Freeway", "At Erath Street", "US 287 South", "June 1, 2015 (create)" }; break;
-                case "sh199_frontage": info = new string[] { "SH 199", "Lake Worth", "SH 199", "June 1, 2015 (create)" }; break;
-                case "sh170_frontage": info = new string[] { "SH 170", "Alliance Area", "SH 170", "June 1, 2015 (create)" }; break;
+                case "gallery": info = new string[] { "Aerial Gallery", "2005-2012", "", "June 1, 2015","","Dallas-Fort Worth" }; break;
+                case "i35e_north_all": info = new string[] { "I-35E North All Aerials", "", "I-35E North", "June 1, 2015","I-35E Stemmons Freeway" }; break;
+                case "i35e_north_i35e_i635": info = new string[] { "I-35E at I-635", "", "I-35E North", "June 1, 2015", "" }; break;
+                case "i35e_north_american_airlines_center": info = new string[] { "American Airlines Center", "", "I-35E North", "June 1, 2015", "" }; break;
+                case "i35e_north_market_center": info = new string[] { "I-35E at Dallas Market Center", "", "I-35E North", "June 1, 2015", "Dallas Market Center" }; break;
+                case "i35e_north_i35e_sh121": info = new string[] { "I-35E at SH 121/Sam Rayburn Turnpike", "", "I-35E North", "June 1, 2015","I35E at SH 121" }; break;
+                case "i35e_north_i35e_bush": info = new string[] { "I-35E at Bush Turnpike", "", "I-35E North", "June 1, 2015","" }; break;
+                case "bush_bush_i35e": info = new string[] { "Bush Turnpike at I-35E", "", "Bush Turnpike", "June 1, 2015", "" }; break;
+                case "i20_dallas_all": info = new string[] { "I-20 All Aerials", "", "I-20 Dallas", "June 1, 2015","I-20 Dallas", "I-20 Dallas" }; break;
+                case "i20_dallas_i20_i35e": info = new string[] { "I-20 at I-35E", "", "I-20 Dallas", "June 1, 2015", "I-20 at I-35E", "" }; break;
+                case "i20_dallas_i20_us67": info = new string[] { "I-20 at US 67", "", "I-20 Dallas", "June 1, 2015", "I-20 at US 67", "" }; break;
+                case "i20_dallas_i20_i45": info = new string[] { "I-20 at I-45", "", "I-20 Dallas", "June 1, 2015", "I-20 at I-45", "" }; break;
+                case "i20_dallas_i20_us175": info = new string[] { "I-20 at US 175", "", "I-20 Dallas", "June 1, 2015","" }; break;
+                case "i20_dallas_i20_spur408": info = new string[] { "I-20 at Spur 408", "", "I-20 Dallas", "June 1, 2015","" }; break;
+                case "i20_dallas_i20_i635": info = new string[] { "I-20 at I-635", "", "I-20 Dallas", "June 1, 2015","" }; break;
+                case "i30_dallas_all": info = new string[] { "All I-30 Aerials", "", "I-30 Dallas", "June 1, 2015","I-30 Dallas" }; break;
+                case "i30_dallas_white_rock_lake": info = new string[] { "White Rock Lake", "", "I-30 Dallas", "June 1, 2015","" }; break;
+                case "i30_dallas_downtown": info = new string[] { "I-30 at I-45 and the Downtown Canyon", "", "I-30 Dallas", "June 1, 2015", "I-30 at I-45" }; break;
+                case "i30_dallas_us80": info = new string[] { "I-30 at US 80", "", "I-30 Dallas", "June 1, 2015","" }; break;
+                case "i30_dallas_i635": info = new string[] { "I-30 at I-635", "", "I-30 Dallas", "June 1, 2015","" }; break;
+                case "i30_dallas_east_dallas": info = new string[] { "I-30 in East Dallas", "", "I-30 Dallas", "June 1, 2015","" }; break;
+                case "i30_dallas_garland": info = new string[] { "I-30 in Garland", "", "I-30 Dallas", "June 1, 2015","" }; break;
+                case "i45_all": info = new string[] { "All I-45 Aerials", "", "I-45", "June 1, 2015","I-45 Dallas" }; break;
+                case "i45_dallas": info = new string[] { "I-45 in Dallas", "", "I-45", "June 1, 2015","" }; break;
+                case "i45_i30": info = new string[] { "I-45 at I-30", "", "I-45", "June 1, 2015","" }; break;
+                case "i45_i20": info = new string[] { "I-45 at I-20", "", "I-45", "June 1, 2015","" }; break;
+                case "i35e_south_all": info = new string[] { "I-35E South All Aerials", "", "I-35E South", "June 1, 2015","I-35E South Dallas" }; break;
+                case "i35e_south_i20": info = new string[] { "I-35E at I-20", "", "I-35E South", "June 1, 2015","" }; break;
+                case "i35e_south_downtown": info = new string[] { "I-35E at the Trinity River, Downtown", "For Historical Reference", "I-35E South", "June 1, 2015","I-35 Downtown Dallas" }; break;
+                case "i635_us75": info = new string[] { "I-635 at US 75", "The High Five Interchange", "I-635", "June 1, 2015","" }; break;
+                case "i635_bush": info = new string[] { "I-635 at Bush Turnpike", "", "I-635", "June 1, 2015","" }; break;
+                case "i635_i35e": info = new string[] { "I-635 at I-35E Stemmons Freeway", "", "I-635", "June 1, 2015", "I-635 at I-35E" }; break;
+                case "i635_dnt": info = new string[] { "I-635 at the Dallas North Tollway", "Photos obsolete, for historical reference", "I-635", "June 1, 2015","" }; break;
+                case "i635_i30": info = new string[] { "I-635 at I-30", "", "I-635", "June 1, 2015","" }; break;
+                case "i635_us80": info = new string[] { "I-635 at US 80", "", "I-635", "June 1, 2015","" }; break;
+                case "i635_i20": info = new string[] { "I-635 at I-20", "", "I-635", "June 1, 2015","" }; break;
+                case "i635_preston": info = new string[] { "I-635 at Preston Road", "Original Freeway Before the LBJ Express", "I-635", "June 1, 2015","" }; break;
+                case "i635_farmers_branch": info = new string[] { "I-635 Farmers Branch", "Original Freeway Before the LBJ Express", "I-635", "June 1, 2015","" }; break;
+                case "i635_garland": info = new string[] { "I-635 in Garland", "", "I-635", "June 1, 2015","" }; break;
+                case "us67_i20": info = new string[] { "US 67 at I-20", "", "US 67", "June 1, 2015","" }; break;
+                case "us75_all": info = new string[] { "US 75 All Aerials", "", "US 75", "June 1, 2015","US 75 Central Expressway" }; break;
+                case "us75_i635": info = new string[] { "US 75 at I-635 LBJ Freeway", "The High Five Interchange", "US 75", "June 1, 2015","" }; break;
+                case "us75_dallas": info = new string[] { "US 75 in Dallas South of Loop 12", "", "US 75", "June 1, 2015","US 75 in Dallas" }; break;
+                case "us75_loop12": info = new string[] { "US 75 from Mockingbird to Loop 12", "", "US 75", "June 1, 2015", "US 75 in Dallas" }; break;
+                case "us75_bush": info = new string[] { "US 75 at the Bush Turnpike", "Telecom Corridor", "US 75", "June 1, 2015","" }; break;
+                case "us80_all": info = new string[] { "US 80 All Aerials", "", "US 80", "June 1, 2015","US 80 in Dallas" }; break;
+                case "us80_i635": info = new string[] { "US 80 at I-635", "", "US 80", "June 1, 2015","" }; break;
+                case "us80_i30": info = new string[] { "US 80 at I-30", "", "US 80", "June 1, 2015","" }; break;
+                case "us175_all": info = new string[] { "US 175 All Aerials", "", "US 175", "June 1, 2015","" }; break;
+                case "us175_dallas": info = new string[] { "S.M. Wright Freeway", "", "US 175", "June 1, 2015","" }; break;
+                case "us175_i20": info = new string[] { "US 175 at I-20", "", "US 175", "June 1, 2015","" }; break;
+                case "sh183_diamond": info = new string[] { "SH 183 at the Texas Stadium site", "All Photos for Historical Reference", "SH 183 Dallas", "June 1, 2015","Texas Stadium" }; break;
+                case "sh114_diamond": info = new string[] { "SH 114 at the Texas Stadium site", "All Photos for Historical Reference", "SH 114", "June 1, 2015","Texas Stadium" }; break;
+                case "sh114_all": info = new string[] { "All SH 114 Aerials", "", "SH 114", "June 1, 2015","SH 114 North Texas" }; break;
+                case "sh114_las_colinas": info = new string[] { "SH 114 at Las Colinas", "", "SH 114", "June 1, 2015 (create)","" }; break;
+                case "sh114_bush": info = new string[] { "SH 114 at the Bush Turnpike", "", "SH 114", "June 1, 2015","" }; break;
+                case "sh114_texas_motor_speedway": info = new string[] { "SH 114 at the Texas Motor Speedway", "", "SH 114", "June 1, 2015","Texas Motor Speedway" }; break;
+                case "sh114_westlake": info = new string[] { "SH 114 at Solana in Westlake", "", "SH 114", "June 1, 2015 (create)","Solana in Westlake" }; break;
+                case "sh114_sh170": info = new string[] { "SH 114 at SH 170", "", "SH 114", "June 1, 2015 (create)","" }; break;
+                case "bush_i30": info = new string[] { "Bush Turnpike at I-30", "", "Bush Turnpike", "June 1, 2015","" }; break;
+                case "bush_sh114": info = new string[] { "Bush Turnpike at SH 114 Carpenter Freeway", "", "Bush Turnpike", "June 1, 2015","Bush Turnpike at SH 114" }; break;
+                case "bush_i635": info = new string[] { "Bush Turnpike at I-635 LBJ Freeway", "", "Bush Turnpike", "June 1, 2015", "Bush Turnpike at I-635" }; break;
+                case "bush_i35e": info = new string[] { "Bush Turnpike at I-35E Stemmons Freeway", "", "Bush Turnpike", "June 1, 2015", "Bush Turnpike at I-35E" }; break;
+                case "bush_carrollton": info = new string[] { "Bush Turnpike in Carrollton", "", "Bush Turnpike", "June 1, 2015","" }; break;
+                case "bush_dnt": info = new string[] { "Bush Turnpike at the Dallas North Tollway", "", "Bush Turnpike", "June 1, 2015","" }; break;
+                case "bush_plano": info = new string[] { "Bush Turnpike in Plano and Richardson", "", "Bush Turnpike", "June 1, 2015","Bush Turnpike" }; break;
+                case "bush_us75": info = new string[] { "Bush Turnpike at US 75 Central Expressway", "", "Bush Turnpike", "June 1, 2015","" }; break;
+                case "spur366_all": info = new string[] { "Woodall Rodgers Freeway All Aerials", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)", "Woodall Rodgers Freeway" }; break;
+                case "spur366_margaret_hunt_hill_bridge": info = new string[] { "Margaret Hunt Hill Bridge", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)","" }; break;
+                case "spur366_bridge_construction": info = new string[] { "Margaret Hunt Hill Bridge Construction", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)","" }; break;
+                case "spur366_2012": info = new string[] { "Klyde Warren Park Nearly Complete", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)", "Klyde Warren Park" }; break;
+                case "spur366_pre_klyde_warren": info = new string[] { "Before Klyde Warren Park", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)","" }; break;
+                case "dnt_all": info = new string[] { "All Dallas North Tollway Aerials", "", "Dallas North Tollway", "June 1, 2015 (create)","Dallas North Tollway" }; break;
+                case "dnt_sh121": info = new string[] { "At SH 121 and the Legacy Area", "", "Dallas North Tollway", "June 1, 2015 (create)","Dallas North Tollway Legacy" }; break;
+                case "dnt_plano": info = new string[] { "In Plano", "", "Dallas North Tollway", "June 1, 2015 (create)","Dallas North Tollway in Plano" }; break;
+                case "dnt_bush": info = new string[] { "At Bush Turnpike", "", "Dallas North Tollway", "June 1, 2015 (review, add photo)","Dallas North Tollway at Bush Turnpike" }; break;
+                case "dnt_addison": info = new string[] { "In Addison", "", "Dallas North Tollway", "June 1, 2015 (review, add photo)","Dallas North Tollway in Addison" }; break;
+                case "dnt_i635": info = new string[] { "At I-635 LBJ Freeway", "Interchange Modifications completed in 2015", "Dallas North Tollway", "June 1, 2015 (review, add photo)","Dallas North Tollway at I-635" }; break;
+                case "dnt_loop12": info = new string[] { "At Loop 12", "", "Dallas North Tollway", "June 1, 2015 (review, add photo)","Dallas North Tollway" }; break;
+                case "dnt_park_cities": info = new string[] { "At Mockingbird Lane", "", "Dallas North Tollway", "June 1, 2015 (review, add photo)", "Dallas North Tollway" }; break;
+                case "sh121_all": info = new string[] { "All SH 121 Aerials", "", "SH 121/Sam Rayburn Turnpike", "June 1, 2015 (create)","SH 121 North Texas" }; break;
+                case "sh121_dnt": info = new string[] { "At the Dallas North Tollway", "", "SH 121/Sam Rayburn Turnpike", "June 1, 2015 (create)","SH 121 at the Dallas North Tollway" }; break;
+                case "sh121_colony": info = new string[] { "Construction in the Colony area", "April 2005", "SH 121", "June 1, 2015 (review and update caption)","SH 121 Constructin" }; break;
+                case "sh121_i35e": info = new string[] { "At I-35E Stemmons Freeway", "", "SH 121", "June 1, 2015 (update)","SH 121 at I-35E" }; break;
+                case "loop12_diamond": info = new string[] { "Loop 12 at the Texas Stadium site", "All Photos for Historical Reference", "Loop 12", "June 1, 2015","Texas Stadium" }; break;
+                case "loop12_all": info = new string[] { "All Loop 12 Photos", "", "Loop 12", "June 1, 2015","Loop 12 Dallas" }; break;
+                case "loop12_trinity": info = new string[] { "Trinity River Crossing", "", "Loop 12", "June 1, 2015","Loop 12 Trinity River crossing" }; break;
+                case "loop12_davis": info = new string[] { "At Davis/Jefferson Streets", "", "Loop 12", "June 1, 2015","Loop12" }; break;
+                case "loop12_i30": info = new string[] { "At I-30 Landry Highway", "", "Loop 12", "June 1, 2015","Loop 12 at I-30" }; break;
+                case "spur408_all": info = new string[] { "All Spur 408 Aerials", "", "Spur 408", "June 1, 2015","Spur 408" }; break;
+                case "spur408_freeway": info = new string[] { "Aerial views", "", "Spur 408", "June 1, 2015","Spur 408" }; break;
+                case "spur408_i20": info = new string[] { "At I-20", "", "Spur 408", "June 1, 2015","Spur 408 at I-20" }; break;
+                case "i30_landry_all": info = new string[] { "All Aerials for I-30 Tom Landry Highway", "", "I-30 Landry Highway", "June 1, 2015","I-30 Tom Landry Highway" }; break;
+                case "i30_landry_sh360": info = new string[] { "I-30 at SH 360", "Six Flags Over Texas", "I-30 Landry Highway", "June 1, 2015","Six Flags Over Texas" }; break;
+                case "i30_landry_stadiums": info = new string[] { "Arlington Stadiums", "", "I-30 Landry Highway", "June 1, 2015","" }; break;
+                case "i30_landry_bush": info = new string[] { "I-30 at Bush Turnpike", "", "I-30 Landry Highway", "June 1, 2015","" }; break;
+                case "i30_landry_loop12": info = new string[] { "I-30 at Loop 12", "", "I-30 Landry Highway", "June 1, 2015","" }; break;
+                case "i30_landry_i820_east": info = new string[] { "I-30 at I-820 East", "", "I-30 Landry Highway", "June 1, 2015","" }; break;
+                case "i30_landry_i35w": info = new string[] { "I-30 at I35W", "The Fort Worth Mixmaster", "I-30 Landry Highway", "June 1, 2015","" }; break;
+                case "i30_landry_lone_star": info = new string[] { "Lone Star Park Horse Track", "", "I-30 Landry Highway", "June 1, 2015","" }; break;
+                case "i30_landry_trinity": info = new string[] { "Original Trinity River Bridge", "For Historical Reference", "I-30 Landry Highway", "June 1, 2015","I-30 Original Trinity bridges" }; break;
+                case "sh360_i30": info = new string[] { "SH 360 at I-30 and Six Flags", "", "SH 360", "June 1, 2015","Six Flags Over Texas" }; break;
+                case "i20_west_all": info = new string[] { "I-20 All Aerials", "Fort Worth", "I-20 Fort Worth", "June 1, 2015 (create)","I-20 Fort Worth" }; break;
+                case "i20_west_i35w": info = new string[] { "I-20 at I-35W", "South Fort Worth", "I-20 Fort Worth", "June 1, 2015 (create)","" }; break;
+                case "i20_west_fort_worth": info = new string[] { "I-20 South Fort Worth", "", "I-20 Fort Worth", "June 1, 2015 (create)","" }; break;
+                case "i20_west_i820": info = new string[] { "I-20 at I-820", "Southwest Fort Worth", "I-20 Fort Worth", "June 1, 2015 (create)","" }; break;
+                case "i35w_all": info = new string[] { "All I-35W Aerials", "", "I-35W", "June 1, 2015 (create)","I-35W Fort Worth" }; break;
+                case "i35w_i20": info = new string[] { "I-35W at I-20", "South Fort Worth", "I-35W", "June 1, 2015 (create)","" }; break;
+                case "i35w_i30": info = new string[] { "I-35W at I-30", "Fort Worth Mixmaster", "I-35W", "June 1, 2015 (create)","" }; break;
+                case "i35w_i820": info = new string[] { "I-35W at I-820", "North Fort Worth", "I-35W", "June 1, 2015 (create)","" }; break;
+                case "i35w_alliance": info = new string[] { "I-35W at Alliance", "North Fort Worth", "I-35W", "June 1, 2015 (create)","" }; break;
+                case "i35w_texas_motor_speedway": info = new string[] { "I-35W at Texas Motor Speedway", "North Fort Worth", "I-35W", "June 1, 2015 (create)","Texas Motor Speedway" }; break;
+                case "i30_fort_worth_all": info = new string[] { "All I-30 Fort Worth Aerials", "", "I-30 Fort Worth", "June 1, 2015 (create)","I-30 Fort Worth" }; break;
+                case "i30_fort_worth_downtown": info = new string[] { "I-30 Downtown Fort Worth", "", "I-30 Fort Worth", "June 1, 2015 (create)","" }; break;
+                case "i30_fort_worth_i35w": info = new string[] { "I-30 at I-35W", "The Fort Worth Mixmaster", "I-30 Fort Worth", "June 1, 2015 (create)","" }; break;
+                case "i30_fort_worth_arlington": info = new string[] { "I-30 West Fort Worth", "Arlington Heights Area", "I-30 Fort Worth", "June 1, 2015 (create)","" }; break;
+                case "i30_fort_worth_i820": info = new string[] { "I-30 at I-820", "West Fort Worth", "I-30 Fort Worth", "June 1, 2015 (create)","" }; break;
+                case "chisholm_trail_parkway_fort_worth": info = new string[] { "At I-20", "Prior to Interchange Construction", "Chisholm Trail Parkway", "June 1, 2015 (create)","I-20 at present-day Chisholm Trail Parkway" }; break;
+                case "i820_all": info = new string[] { "All I-820 Aerials", "", "I-820", "June 1, 2015 (create)","Loop 820 Fort Worth" }; break;
+                case "i820_i30_west": info = new string[] { "At I-30 West", "", "I-820", "June 1, 2015 (create)","I-820 at I-30 west" }; break;
+                case "i820_i30_east": info = new string[] { "At I-30 East", "", "I-820", "June 1, 2015 (create)", "I-820 at I-30 east" }; break;
+                case "i820_i35w": info = new string[] { "At I-35W", "North Fort Worth", "I-820", "June 1, 2015 (create)","I-820 at I-35W" }; break;
+                case "us287_south_freeway": info = new string[] { "US 287 MLK Freeway", "At Erath Street", "US 287 South", "June 1, 2015 (create)","" }; break;
+                case "sh199_frontage": info = new string[] { "SH 199", "Lake Worth", "SH 199", "June 1, 2015 (create)","" }; break;
+                case "sh170_frontage": info = new string[] { "SH 170", "Alliance Area", "SH 170", "June 1, 2015 (create)", "" }; break;
+                case "downtown_gallery": info = new string[] { "Downtown Dallas Aerial Views", "2005, 2009 and 2012", "", "June 1, 2015 (create)", "" }; break;
             }
             return info;
         }
@@ -272,6 +277,7 @@ namespace DFWFreeways.Models
                 case "sh199_frontage": text = "This section of SH 199 just west of I-820 is in a frontage road configuration. As of 2015 the construction of the main lanes is not scheduled. Further west, SH 199 has sections with freeway main lanes."; break;
                 case "sh170_frontage": text = "The SH 170 frontage roads opened in 1992. The main lanes are planned to be tolled. As of a May 2015 progress report on the NTTA web site, the construction date remains to be determined."; break;
                 case "us175_dallas": text = "The S.M Wright Freeway is scheduled to be removed and replaced with an arterial street by around 2020. A new freeway section will be built to connect to I-45."; break;
+                case "i35e_south_downtown": text = "New bridges were built 2014-2017 and these photos are obsolete. These photos are for historical reference."; break;
 
             }
             return text;

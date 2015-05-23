@@ -8,14 +8,6 @@ namespace DFWFreeways.Models
 {
     public partial class AerialGalleryList
     {
-        //public static AerialGalleryList i35e_north_american_airlines_center(string fileServer, string folderPath)
-        //{
-        //    AerialGalleryList aerialGalleryList = new AerialGalleryList(fileServer, folderPath);
-        //    aerialGalleryList.PageHeader = new PageHeader("American Airlines Center", "", GetShieldPath("i35e"), "i35e-north", "I-35E North", "May 4, 2015 (created)");
-
-        //    aerialGalleryList.ItemList = i35e_north_american_airlines_center_images();
-        //    return aerialGalleryList;
-        //}
 
         public static List<AerialGalleryItem> i35e_north_american_airlines_center_images()
         {
@@ -43,11 +35,21 @@ namespace DFWFreeways.Models
                     "American Airlines Center, looking northeast",
                     "American Airlines Center",
                     "Looking northeast. Most of the parking lot around the AAC has been developed since this photo."),
+                new AerialGalleryItem(new DateTime(2005,5,30),"","5a_aac_looking_n_2005-05-30_900.jpg", "", "aerial", 
+                    "American Airlines Center",
+                    "American Airlines Center, looking north",
+                    "American Airlines Center",
+                    "Looking north with the W Hotel under construction."),
                 new AerialGalleryItem(new DateTime(2012,4,6),"20120406_3330.JPG","20120406_3330-700.jpg", "20120406_3330-1700.jpg", "aerial", 
                     "W Hotel and residences",
                     "W Hotel and residences, looking east",
                     "W Hotel and residences",
                     "W Hotel and residences just south of the AAC, looking east")
+
+
+
+
+                    
 
             };
     }

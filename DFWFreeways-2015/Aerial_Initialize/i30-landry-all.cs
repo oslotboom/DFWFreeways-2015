@@ -511,23 +511,25 @@ namespace DFWFreeways.Models
                     "I-30 original Trinity River bridge",
                     "I-30 original Trinity River bridge, looking west",
                     "I-30 original Trinity River bridge",
-                    "Looking west."),
+                    "Looking west.",
+                    new AerialStatus ("2015", "Obsolete", "A new, wider bridge was built 2014-2017" )),
                 new AerialGalleryItem(new DateTime(2005,5,30),"", "22a_i30_downtown_dallas_2005-05-30_900.jpg","22a_i30_downtown_dallas_2005-05-30_2649x1449.png", "aerial", 
                     "I-30 original Trinity River bridge",
                     "I-30 original Trinity River bridge, looking west",
                     "I-30 original Trinity River bridge",
-                    "Looking west."),
+                    "Looking west.",
+                    new AerialStatus ("2015", "Obsolete", "A new, wider bridge was built 2014-2017" )),
                 new AerialGalleryItem(new DateTime(2011,4,16),"20110416_aerial_0446.JPG", "20110416_aerial_0446-1050.jpg","20110416_aerial_0446-2560.jpg", "aerial", 
                     "I-30 original Trinity River bridge",
                     "I-30 original Trinity River bridge, looking west",
                     "I-30 original Trinity River bridge",
-                    "Looking west."),
+                    "Looking west.",
+                    new AerialStatus ("2015", "Obsolete", "A new, wider bridge was built 2014-2017" )),
                 new AerialGalleryItem(new DateTime(2011,4,16),"20110416_aerial_0443.JPG", "20110416_aerial_0443-1050.jpg","20110416_aerial_0443-2560.jpg", "aerial", 
                     "I-30 at Hampton",
                     "I-30 at Hampton, looking east",
                     "I-30 at Hampton",
-                    "Looking east along I-30 at Hampton")
-
+                    "Looking east along I-30 at Hampton"),
             };
         }
 
