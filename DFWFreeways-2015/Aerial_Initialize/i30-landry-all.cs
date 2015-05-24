@@ -198,7 +198,7 @@ namespace DFWFreeways.Models
                     "Bush Turnpike north of I-30",
                     "Bush Turnpike north of I-30, looking north",
                     "Bush Turnpike north of I-30",
-                    "Looking north along the Bush Turnpike north of I-30."),
+                    "Looking north along the Bush Turnpike north of I-30. The neighborhood on the left side initiated the lawsuit which lasted 17 years."),
                 new AerialGalleryItem(new DateTime(2011,4,16),"20110416_aerial_0347.JPG","20110416_aerial_0347-1050.jpg", "20110416_aerial_0347-2560.jpg", "aerial", 
                     "Bush Turnpike north of I-30",
                     "Bush Turnpike north of I-30, looking north",

@@ -9,7 +9,7 @@
         "lastUpdated": "Created March 8, 2009. Last updated June 1, 2015 (review and update captions)"
     },
     "map": "",
-    "text": "This includes about two miles of the Sam Rayburn Turnpike, and then the main lanes become the untolled SH 121. 2015 update: Several projects have most of the photos below obsolete. The obsolete images are indicated.",
+    "text": "This includes about two miles of the Sam Rayburn Turnpike, and then the main lanes become the untolled SH 121. 2015 update: Several projects have made most of the photos below obsolete. The obsolete images are indicated.",
     "images":
     [
         {
@@ -54,7 +54,7 @@
         },
         {
             "file": "121_driving_20070729_IMG_8388_at_denton_tap.jpg",
-            "caption": "At Denton Tap Road",
+            "caption": "At Denton Tap Road.",
             "imageDate": "4-Aug-2007"
         },
         {
@@ -92,7 +92,7 @@
         },
         {
             "file": "121_driving_20070729_IMG_8396_at_freeport_parkway.jpg",
-            "caption": "Approaching the signalized intersection at Freeport Parkway. Work is in progress in 2009 to construct an\r\n\t\t\t\t\toverpass at this location.",
+            "caption": "Approaching the signalized intersection at Freeport Parkway. This location was upgraded to a freeway in 2009.",
             "imageDate": "4-Aug-2007",
             "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The highway was made into a freeway in 2009. In 2015 work is in progress to expand the freeway." }
         },
@@ -104,7 +104,7 @@
         },
         {
             "file": "121_driving_20070729_IMG_8403_at_sandy_lake.jpg",
-            "caption": "Another signalized intersection at Sandy Lake Road. In 2009 work is in progress to construct an overpass.",
+            "caption": "Another signalized intersection at Sandy Lake Road which was upgraded to a freeway in 2009.",
             "imageDate": "4-Aug-2007",
             "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The highway was made into a freeway in 2009. In 2015 work is in progress to expand the freeway." }
         },
@@ -143,7 +143,6 @@
             "caption": "South of I-635",
             "imageDate": "4-Aug-2007",
             "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The freeway was widened as part of the DFW Connector project, completed in 2013." }
-            "v"
         },
         {
             "file": "121_driving_20070804_IMG_8420_at_114.jpg",

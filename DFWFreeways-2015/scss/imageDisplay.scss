@@ -38,8 +38,7 @@ body { padding-top: 0; margin-top: 0; margin-left: 0; }
     .image { display: inline-block; width: $small-thumbnail; max-height: $small-thumbnail; 
              &:hover { cursor: pointer;}
     }
-    /*img {max-width: 100%;}
-    .caption-block { display: none;}*/
+    img {max-height: $small-thumbnail;}
 }
 
 
@@ -47,8 +46,7 @@ body { padding-top: 0; margin-top: 0; margin-left: 0; }
     .image { display: inline-block; width: $medium-thumbnail; max-height: $medium-thumbnail; 
                           &:hover { cursor: pointer;}
     }
-    /*img {max-width: 100%;}
-    .caption-block { display: none;}*/
+    img {max-height: $medium-thumbnail;}
 }
 
 //This is for showing all images at full size
@@ -60,10 +58,8 @@ body { padding-top: 0; margin-top: 0; margin-left: 0; }
 
 //This is for showing an individual image while the rest remain in thumbnail mode
 .expanded {
-    /*.image { display: block; max-height: none; width: 100%; }*/
        display: block !important;
     max-height: none !important;
-    /*clear: both;*/
      width: 100% !important; 
     .caption-block { display: block !important;}
     padding: 15px 0; 

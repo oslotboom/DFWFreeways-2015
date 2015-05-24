@@ -1,0 +1,91 @@
+﻿{
+    "folderPath": "",
+    "title": "US 75 historical photos",
+    "pageHeader":
+    {
+        "title": "Historical Photos",
+        "subTitle": "",
+        "urlParentText": "US 75",
+        "lastUpdated": "June 1, 2015 (review only)"
+    },
+    "map": "",
+    "text": "",
+    "images":
+    [
+        {
+            "file": "75n_19460000_photo_surveying_at_hall_950_IMG_2104.jpg",
+            "highResolution": "75n_19460000_photo_surveying_at_hall_2478_IMG_2104.jpg",
+            "caption": "The alignment of Central Expressway followed the corridor of the  Houston & Texas Central Railroad from Bryan Street downtown to Mockingbird. This 1946 photo shows the original railroad, which was removed when freeway construction began. The name Central Expressway comes from the word Central in the railroad name.",
+            "imageDate": "17-November-2002"
+        },
+        {
+            "file": "75n_19460000_photo_surveying_IMG_2082.jpg",
+            "caption": "Surveying along the Houston & Texas Central Railroad, circa 1946.  (Source: Dallas Public Library)"
+        },
+        {
+            "file": "75n_19470000_photo_aerial_construction_950_IMG_2110.jpg",
+            "highResolution": "75n_19470000_photo_aerial_construction_1900_IMG_2110.jpg",
+            "caption": "Aerial view of construction just north of downtown, 1947. (Source: Dallas Public Library)"
+        },
+        {
+            "file": "75n_194800_photo_construction_at_haskell_IMG_2079.jpg",
+            "caption": "Construction at Haskell, 1948. Nearly all the overpasses on the original Central Expressway were built of cast-in-place concrete with an arched design. Haskell was perhaps the only overpass to be built with the steel beam method, possibly because steel was in short supply. (Source: Dallas Public Library)"
+        },
+        {
+            "file": "75n_19490000_photo_construction_at_haskell_IMG_2095.jpg",
+            "caption": "Construction at Haskell, 1949. (Source: Dallas Public Library) "
+        },
+        {
+            "file": "75n_19480000_photo_excavation_950_IMG_2089.jpg",
+            "highResolution": "75n_19480000_photo_excavation_2526_IMG_2089.jpg",
+            "caption": "Excavation, 1948. (Source: Dallas Public Library)"
+        },
+        {
+            "file": "75n_19480824_const_at_haskell_IMG_2093.jpg",
+            "caption": "Construction, 24-August-1948. This is possibly at Fitzhugh.(Source: Dallas Public Library)"
+        },
+        {
+            "file": "75n_194900_photo_construction_at_ross_950_IMG_2102.jpg",
+            "highResolution": "75n_194900_photo_construction_at_ross_hires__IMG_2102.jpg",
+            "caption": "Construction at Ross, 1949. (Source: Dallas Public Library)"
+        },
+        {
+            "file": "75n_19500000_photo_const_at_mockingbird_looking_n_950_IMG_2085.jpg",
+            "highResolution": "75n_19500000_photo_const_at_mockingbird_looking_n_2500_IMG_2085.jpg",
+            "caption": "Construction at Mockingbird looking north, 1950, with the railroad crossing ahead. The railroad no longer exists and the crossing was removed during the reconstruction in the 1990s. Further south the abandoned railroad corridor was turned into the Katy Trail.  (Source: Dallas Public Library) "
+        },
+        {
+            "file": "75n_19530000_const_at_mockingbird_IMG_2091.jpg",
+            "caption": "Another view of the railroad crossing just south of Mockingbird. (Source: Dallas Public Library) "
+        },
+        {
+            "file": "75n_19501110_photo_track_removal_IMG_2081.jpg",
+            "caption": "Railroad track work at Mockingbird, dated 10-January-1950. Although this photo was captioned by the Dallas Library  as \"removing trackage along the route of central expressway\", a DFWFreeways.com reader pointed out that the photo clearly indicates the installation of new track, as evidenced by the new railroad ties, lack of discarded spikes, and lack of alignment of the ties (an existing track's ties would be aligned). So this is almost certainly the new alignment of track built to the east of the freeway from Mockingbird northward to around Lovers Lane. The new alignment allowed the right-of-way of the old alignment to be used for the freeway. The freeway at this location opened on April 15, 1953. The opening was delayed about a year due to a shortage of steel for the railroad bridge over Central Expressway. (Source: Dallas Public Library) "
+        },
+        {
+            "file": "75n_19540000_photo_looking_s_at_lovers_IMG_2076.jpg",
+            "caption": "Driver's view of the freeway near Lovers Lane, looking south, dated 1954. Notice the lack of a center guardrail. (Source: Dallas Public Library) "
+        },
+        {
+            "file": "75n_19550721_photo_near_lovers_950_IMG_2087.jpg",
+            "highResolution": "75n_19550000_photo_highway_view_IMG_2087.jpg",
+            "caption": "Driver's view dated 1955. This is between Mockingbird and Loop 12. (Source: Dallas Public Library)"
+        },
+        {
+            "file": "75n_19550000circa_new_section_IMG_2101.jpg",
+            "caption": "New section of US 75, dated 1955. This is somewhere north of Loop 12.  (Source: Dallas Public Library)"
+        },
+        {
+            "file": "75n_19550100_am_traffic_at_haskell_950_IMG_2109.jpg",
+            "highResolution": "75n_19550100_am_traffic_at_haskell_2775_IMG_2109.jpg",
+            "caption": "Morning traffic at Haskell, 1955. This provides a good view of a typical onramp of the original Central Expressway with no merging space at all, hence the expression Central suicide onramps. (Source: Dallas Public Library)"
+        },
+        {
+            "file": "75n_19560000_at_fitzhugh_950_IMG_2107.jpg",
+            "highResolution": "75n_19560000_at_fitzhugh_2910_IMG_2107.jpg",
+            "caption": "At Fitzhugh, 1956.  (Source: Dallas Public Library)"
+        }
+
+    ]
+
+}

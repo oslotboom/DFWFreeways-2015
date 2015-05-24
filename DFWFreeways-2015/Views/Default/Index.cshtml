@@ -14,8 +14,8 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title></title>
-    <link rel="stylesheet" type="text/css" href="css/responsive.css">
+    <title>Dallas-Fort Worth Freeways</title>
+    <meta name="description" content="Download the ebook Dallas-Fort Worth Freeways, Texas-Sized Ambition. Includes information profiles for all North Texas Freeways, aerial and ground photography, and old highway maps." />
 </head>
 <body>
 
@@ -224,6 +224,7 @@
                                 <tr>
                                     <td class="excerpt-group">@excerptGroup.Key</td>
                                 </tr>
+
                                 foreach (DFWFreeways.Models.DownloadItem excerpt in excerptGroup.Value)
                                 {
 
@@ -238,8 +239,12 @@
                                                 <tr>
                                                     <td>@excerpt.PageCount pages</td>
                                                     <td>
+
                                                         <b>
-                                                            <a href="@(Url.Action(excerpt.QuickViewFolder, "book", new { startOdd = excerpt.StartOdd.ToString() }))" >Quick View</a>
+                                                            @if (excerpt.QuickViewFolder=="ExIllustration")
+                                                            {<a href="@Url.Content("~/dfwfreeways-book-art-cartoons.htm")">Quick View</a>}
+                                                            else
+                                                            {<a href="@(Url.Action(excerpt.QuickViewFolder, "book", new { startOdd = excerpt.StartOdd.ToString() }))">Quick View</a>}
                                                         </b>
                                                     </td>
 

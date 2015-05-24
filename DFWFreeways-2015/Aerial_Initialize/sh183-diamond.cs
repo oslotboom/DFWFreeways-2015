@@ -11,16 +11,16 @@ namespace DFWFreeways.Models
 
         public static List<AerialGalleryItem> loop12_diamond_images()
         {
-            return sh183_dallas_diamond_images();
+            return sh183_diamond_images();
         }
 
         public static List<AerialGalleryItem> sh114_diamond_images()
         {
-            return sh183_dallas_diamond_images();
+            return sh183_diamond_images();
         }
 
 
-        public static List<AerialGalleryItem> sh183_dallas_diamond_images()
+        public static List<AerialGalleryItem> sh183_diamond_images()
         {
 
             return new List<AerialGalleryItem>() {

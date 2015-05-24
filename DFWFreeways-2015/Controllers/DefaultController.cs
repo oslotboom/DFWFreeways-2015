@@ -139,34 +139,6 @@ namespace DFWFreeways.Controllers
 
             QuickViewPage quickViewPage = new QuickViewPage();
 
-
-            ////if (viewItem == "Dallas-Fort-Worth-Freeways-Book")
-            ////{
-            ////    quickViewPage.Title = "Dallas-Fort Worth Freeways, the Complete Book";
-            ////    ViewBag.Title = quickViewPage.Title;
-            ////}
-            ////else
-            ////{
-            ////    string title =    QuickViewHeadings.Where(r => r.Key==viewItem).FirstOrDefault().Value; 
-            ////    //Get the chapter or excerpt name info for this id code
-            ////    using (DFWFreewaysDBEntities db = new DFWFreewaysDBEntities())
-            ////    {
-            ////        RatingItem ratingItem = db.RatingItems.Where(i => i.itemCode == viewItem).FirstOrDefault();
-
-            ////        if (ratingItem == null)
-            ////        {
-            ////            if (viewItem == "ChCoverContents")
-            ////                quickViewPage.Title = "Cover, Contents and Foreword";
-            ////            else if (viewItem == "ChIndexAuthor")
-            ////                quickViewPage.Title = "Index and About the Author";
-            ////        }
-            ////        else
-            ////            quickViewPage.Title = ratingItem.descriptionShort;
-            ////    }
-            ////    ViewBag.Title = "Dallas-Fort Worth Freeways " + quickViewPage.Title;
-            ////}
-
-
             quickViewPage.PdfPath = System.Web.Configuration.WebConfigurationManager.AppSettings["PdfServer"].ToString();
             quickViewPage.PdfFile = pdfFile;
             quickViewPage.PdfSize = pdfSize;
@@ -231,8 +203,37 @@ namespace DFWFreeways.Controllers
         }
 
 
+        public ActionResult Error404()
+        {
+            
+            string requestedUrl = "";
+            string requestedURLServer = Request.Url.GetLeftPart(UriPartial.Authority); // may not have port number
+            if (Request.QueryString["aspxerrorpath"] != null && !String.IsNullOrEmpty(Request.QueryString["aspxerrorpath"]))
+            {
+                requestedUrl = Request.QueryString["aspxerrorpath"].ToString();
+            }
+            else
+            {
+                string[] parts = Request.RawUrl.Split(';');
+                if (parts.Length > 1)
+                    requestedUrl = parts[parts.Length - 1];
+            }
+            if (!String.IsNullOrEmpty(requestedUrl))
+            {
+                string redirectUrl = GetRedirectUrl(requestedUrl);
+                if (!String.IsNullOrEmpty(redirectUrl))
+                    return Redirect(redirectUrl);
+            }
+
+            return View("PageNotFound");
+        }
+
         public ActionResult PageNotFound()
         {
+            string requestedUrl = Request.Url.PathAndQuery;
+            string redirectUrl = GetRedirectUrl(requestedUrl);
+            if (!String.IsNullOrEmpty(redirectUrl))
+                return Redirect(redirectUrl);
             return View();
         }
 
@@ -290,6 +291,22 @@ namespace DFWFreeways.Controllers
                     return"";
                     break;
             }
+        }
+
+        private string GetRedirectUrl(string request)
+        {
+            request = request.ToLower();
+            string redirectPath = "";
+            if (request.Contains("oldroadmaps"))
+                redirectPath = Url.Action("maps");
+            else if (request.Contains("downtown_dallas.aspx"))
+                redirectPath = Url.Action("aerial", new { id = "downtown", detail = "gallery" });
+            else if (request.Contains("highwayinfo/highwayinfohome.aspx"))
+                redirectPath = Url.Action("index");
+            else if (request.Contains("highwayInfoHome.aspx?highway=75n"))
+                redirectPath = Url.Action("freeway", new { id = "us75" });
+
+            return redirectPath;
         }
     }
 }

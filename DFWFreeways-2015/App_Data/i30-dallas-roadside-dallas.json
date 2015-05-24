@@ -8,7 +8,7 @@
         "lastUpdated": "May 12, 2015"
     },
     "map": "30e.gif",
-    "text": "June 2015 photo status: There have been no improvements to I-30 since the photos below were taken in 2007, so these photos are still accurate.",
+    "text": "June 2015 photo status: The only improvement to this section of I-30 since these photos were taken is the interchange at the Bush Turnpike. All photos except the photo at the Bush Turnpike area are still accurate.",
     "images":
         [
             {
@@ -27,7 +27,9 @@
                 "file": "IMG_4964_30_at_bass_pro_950_20070415.jpg",
                 "highResolution": "IMG_4964_30_at_bass_pro_2048_20070415.jpg",
                 "caption": "At Bass Pro Road, looking west.",
-                "imageDate": "15-April-2007"
+                "imageDate": "15-April-2007",
+                "imageStatus": { "statusDate": "2015", "status": "Partially Obsolete", "note": "The interchange for the Bush Turnpike was built in the area ahead, opening in 2011." }
+
             },
             {
                 "file": "IMG_4970 _30_zion_950_20070415.jpg",

@@ -211,6 +211,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Helpers\404.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="Helpers\XsltTransform.cs" />
     <Compile Include="Models\Aerial.cs" />
     <Compile Include="Models\FreewayPage.cs" />
@@ -305,6 +308,7 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="css\oldHighwayMaps.css" />
+    <Content Include="dfwfreeways-book-art-cartoons.htm" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -360,6 +364,7 @@
     <Content Include="App_Data\us287-south-driving.json" />
     <Content Include="App_Data\us287-south-roadside.json" />
     <Content Include="PhotoPages\chihuly-dallas-arboretum.json" />
+    <Content Include="App_Data\us75-historical.json" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -493,6 +498,7 @@
     </Content>
     <Content Include="Views\Shared\_Map.cshtml" />
     <Content Include="Views\Default\PageNotFound.cshtml" />
+    <Content Include="Views\Default\Error404.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="images\book\" />

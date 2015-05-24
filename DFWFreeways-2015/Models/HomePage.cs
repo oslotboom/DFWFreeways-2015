@@ -91,9 +91,10 @@ namespace DFWFreeways.Models
         private void InitializeExcerptsRegional()
         {
             //Build the list of Excerpts
+            DownloadItem Illustratiions = new DownloadItem("", "", "Illustrations and Cartoons", "12", "", "ExIllustration", "", false);
             DownloadItem ExControversy = new DownloadItem("", "", "Controversy, includes a ranking of top controversies", "6", "1 MB", "ExControversy", "", false);
-            DownloadItem ExCancelations = new DownloadItem("", "", "Canceled Freeways", "6", "1 MB", "ExCancelations", "",  false);
-            DownloadItem[] excerpts = { ExCancelations, ExControversy };
+            DownloadItem ExCancelations = new DownloadItem("", "", "Canceled Freeways", "6", "1 MB", "ExCancelations", "", false);
+            DownloadItem[] excerpts = { ExCancelations, ExControversy, Illustratiions};
             ExcerptsRegional = new List<DownloadItem>(excerpts);
             Excerpts.Add(new KeyValuePair<string, List<DownloadItem>>("Regional", ExcerptsRegional));
         }

@@ -146,10 +146,11 @@ namespace DFWFreeways.Models
                 case "i35e_south_all": info = new string[] { "I-35E South All Aerials", "", "I-35E South", "June 1, 2015","I-35E South Dallas" }; break;
                 case "i35e_south_i20": info = new string[] { "I-35E at I-20", "", "I-35E South", "June 1, 2015","" }; break;
                 case "i35e_south_downtown": info = new string[] { "I-35E at the Trinity River, Downtown", "For Historical Reference", "I-35E South", "June 1, 2015","I-35 Downtown Dallas" }; break;
-                case "i635_us75": info = new string[] { "I-635 at US 75", "The High Five Interchange", "I-635", "June 1, 2015","" }; break;
-                case "i635_bush": info = new string[] { "I-635 at Bush Turnpike", "", "I-635", "June 1, 2015","" }; break;
-                case "i635_i35e": info = new string[] { "I-635 at I-35E Stemmons Freeway", "", "I-635", "June 1, 2015", "I-635 at I-35E" }; break;
-                case "i635_dnt": info = new string[] { "I-635 at the Dallas North Tollway", "Photos obsolete, for historical reference", "I-635", "June 1, 2015","" }; break;
+                case "i635_all": info = new string[] { "All I-635 Aerials", "", "I-635", "June 1, 2015", "" }; break;
+                case "i635_us75": info = new string[] { "I-635 at US 75", "The High Five Interchange", "I-635", "June 1, 2015", "" }; break;
+                case "i635_bush": info = new string[] { "I-635 at Bush Turnpike", "", "I-635", "June 1, 2015", "" }; break;
+                case "i635_i35e": info = new string[] { "I-635 at I-35E Stemmons Freeway", "Original Interchange, prior to the LBJ Express", "I-635", "June 1, 2015", "I-635 at I-35E" }; break;
+                case "i635_dnt": info = new string[] { "I-635 at the Dallas North Tollway", "Before the LBJ Express", "I-635", "June 1, 2015","" }; break;
                 case "i635_i30": info = new string[] { "I-635 at I-30", "", "I-635", "June 1, 2015","" }; break;
                 case "i635_us80": info = new string[] { "I-635 at US 80", "", "I-635", "June 1, 2015","" }; break;
                 case "i635_i20": info = new string[] { "I-635 at I-20", "", "I-635", "June 1, 2015","" }; break;
@@ -176,8 +177,9 @@ namespace DFWFreeways.Models
                 case "sh114_texas_motor_speedway": info = new string[] { "SH 114 at the Texas Motor Speedway", "", "SH 114", "June 1, 2015","Texas Motor Speedway" }; break;
                 case "sh114_westlake": info = new string[] { "SH 114 at Solana in Westlake", "", "SH 114", "June 1, 2015 (create)","Solana in Westlake" }; break;
                 case "sh114_sh170": info = new string[] { "SH 114 at SH 170", "", "SH 114", "June 1, 2015 (create)","" }; break;
-                case "bush_i30": info = new string[] { "Bush Turnpike at I-30", "", "Bush Turnpike", "June 1, 2015","" }; break;
-                case "bush_sh114": info = new string[] { "Bush Turnpike at SH 114 Carpenter Freeway", "", "Bush Turnpike", "June 1, 2015","Bush Turnpike at SH 114" }; break;
+                case "bush_all": info = new string[] { "All Bush Turnpike Aerials", "", "Bush Turnpike", "June 1, 2015", "" }; break;
+                case "bush_i30": info = new string[] { "Bush Turnpike at I-30", "", "Bush Turnpike", "June 1, 2015", "" }; break;
+                case "bush_sh114": info = new string[] { "Bush Turnpike at SH 114 Carpenter Freeway", "", "Bush Turnpike", "June 1, 2015", "Bush Turnpike at SH 114" }; break;
                 case "bush_i635": info = new string[] { "Bush Turnpike at I-635 LBJ Freeway", "", "Bush Turnpike", "June 1, 2015", "Bush Turnpike at I-635" }; break;
                 case "bush_i35e": info = new string[] { "Bush Turnpike at I-35E Stemmons Freeway", "", "Bush Turnpike", "June 1, 2015", "Bush Turnpike at I-35E" }; break;
                 case "bush_carrollton": info = new string[] { "Bush Turnpike in Carrollton", "", "Bush Turnpike", "June 1, 2015","" }; break;
@@ -278,6 +280,9 @@ namespace DFWFreeways.Models
                 case "sh170_frontage": text = "The SH 170 frontage roads opened in 1992. The main lanes are planned to be tolled. As of a May 2015 progress report on the NTTA web site, the construction date remains to be determined."; break;
                 case "us175_dallas": text = "The S.M Wright Freeway is scheduled to be removed and replaced with an arterial street by around 2020. A new freeway section will be built to connect to I-45."; break;
                 case "i35e_south_downtown": text = "New bridges were built 2014-2017 and these photos are obsolete. These photos are for historical reference."; break;
+                case "sh114_sh170": text = "All traffic lanes in this project were open in early 2014."; break;
+                case "sh114_diamond": text = "Texas Stadium was imploded and cleared in April 2010. The first major expansion project along SH 114 in this area was completed in 2012. Additional work at SH 114 and SH 183 began in 2015."; break;
+                case "sh183_diamond": text = "Texas Stadium was imploded and cleared in April 2010. The first major expansion project along SH 114 in this area was completed in 2012. Expansion of SH 183 began in 2015."; break;
 
             }
             return text;
