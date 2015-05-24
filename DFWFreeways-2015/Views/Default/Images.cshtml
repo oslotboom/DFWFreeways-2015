@@ -35,8 +35,6 @@
                 $("#expand-collapse-instruction").hide("fast");
 
                 $(".image img").each(function () { $(this).attr("onclick", null); });
-
-
             }
         }
 
@@ -53,15 +51,13 @@
             $element = $(element);
             $elementDiv = $element.closest("div");
 
-            $elementDiv.fadeTo("slow", 0, function () {
+            $elementDiv.fadeTo("fast", 0, function () {
                 $elementDiv.toggleClass("expanded");
-                $elementDiv.fadeTo("slow", 1);
+                $elementDiv.fadeTo("fast", 1);
             });
 
         }
     </script>
-
-
 }
 
 <div id="page-container">
@@ -103,7 +99,7 @@
                     {
                         <a target="_blank" href="@(Model.FolderPath + image.HighResolution)">High resolution</a>
                     }
-                    @image.Caption
+                    @Html.Raw(image.Caption)
                     @{if (!String.IsNullOrEmpty(image.ImageDate))
                       {
                         <text>(Photo date: </text>@(image.ImageDate)<text>)</text>

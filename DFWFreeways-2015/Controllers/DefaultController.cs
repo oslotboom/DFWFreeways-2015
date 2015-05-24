@@ -77,7 +77,6 @@ namespace DFWFreeways.Controllers
                             property.Pdf = ConfigurationManager.AppSettings["PdfServer"] + property.Pdf;
                         }
                 }
-                //var imagePage = Deserialize<ImagePage>(bytes);
 
                 return View(freewayHome);
             }
@@ -106,7 +105,6 @@ namespace DFWFreeways.Controllers
         {
 
             string id = (string)this.ControllerContext.RouteData.Values["id"];
-
 
                 PhotoPage photoPage = new PhotoPage();
                 string cloudFolderPath = ConfigurationManager.AppSettings["GoogleDrive"] +  "photos/" + id + "/";
@@ -187,7 +185,7 @@ namespace DFWFreeways.Controllers
 
         }
 
-        // GET: Book
+        // GET: Maps
         public ActionResult Maps()
         {
             string xmlFile = Server.MapPath("~/App_Data/oldRoadMaps.xml");
@@ -201,7 +199,6 @@ namespace DFWFreeways.Controllers
 
             return View(model);
         }
-
 
         public ActionResult Error404()
         {

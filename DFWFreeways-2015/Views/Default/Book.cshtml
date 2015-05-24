@@ -5,16 +5,6 @@
     @model DFWFreeways.Models.QuickViewPage
 }
 
-@*@{
-    //imageString is a comma-separated list of all the images to be displayed. This string is used by the client script
-    string imageString = "";
-    foreach (DFWFreeways.Models.QuickViewItem quickViewPage in Model.Pages)
-    {
-        imageString += "'" + Url.Content("~/" + Model.ImagePath + quickViewPage.FilePath) + "',";
-    }
-    imageString = imageString.Substring(0, imageString.Length - 1);
-
-}*@
 
 @section headerSection{
 

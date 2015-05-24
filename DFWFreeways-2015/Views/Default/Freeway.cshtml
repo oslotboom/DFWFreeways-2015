@@ -2,79 +2,22 @@
 
     @model DFWFreeways.Models.FreewayHome
     ViewBag.Title = @Model.Title;
-
 }
-
 
 
 @section headerSection{
-
     @Styles.Render("~/Content/css-freeway")
-
 }
-
-
-
 
 
 <div class="container">
 
-    @*<div class="header">
-        <div><img src="@Url.Content(Model.IconShield)" /> </div>
-        <div class="title">
-            @Model.Title
-            <br />
-            @Model.Subtitle
-        </div>
-
-        <div>
-            <nobr><a href="@Url.Action("index")">Site Home</a></nobr>
-        </div>
-    </div>
-    <div id="last-update">Page last updated or reviewed: <span>@Model.LastUpdated</span></div>*@
     @Html.Partial("_PageHeader", Model.PageHeader)
-    @*<div class="row">
-
-        <div class="col-xs-12 col-sm-9">
-
-            <div><img src="@Model.IconShield" /></div>
-
-            <div>@Model.Title</div>
-
-        </div>
-
-        <div class="col-xs-12 col-md-3"></div>
-
-    </div>*@
-
-
-
-    @*<div class="row">
-
-        <div class="col-xs-12 col-sm-6">
-
-            <img src="@Model.Map" alt="map" />
-
-        </div>
-
-        <div class="col-xs-12 col-sm-6">
-
-            <img src="@Model." alt="Typical view" />
-
-        </div>
-
-    </div>*@
-
-
 
     <div class="row">
-
         <div class="col-xs-12 text">
-
             @Html.Raw(Model.Text)
-
         </div>
-
     </div>
     <div class="row">
         @foreach (DFWFreeways.Models.Feature feature in @Model.Features)
@@ -170,73 +113,5 @@
 
         }
     </div>
-    @*<div class="row">
-
-            <div class="col-xs-12 col-sm-6 col-md-4">
-
-                <div><img src="~/images/83x83.png" /></div>
-
-                <table>
-                    <tbody>
-                        <tr><td>Limit 1 to Limit 2</td></tr>
-                        <tr><td>Limit 2 to Limit 3</td></tr>
-                        <tr><td>Limit 3 to Limit 4</td></tr>
-                    </tbody>
-                </table>
-                another item below
-                <div class="visible-sm">visible-sm</div>
-                <div class="visible-sm-block">visible-sm-block</div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-4">
-
-                <div><img src="~/images/83x83.png" /></div>
-
-                <div>
-
-                    <div>Item 1 to Limit 2</div>
-
-                    <div>Item 2 to Limit 3</div>
-
-                    <div>Item 3 to Limit 4</div>
-
-                </div>
-            </div>
-            <div class="clearfix visible-sm-block"></div>
-
-
-            <div class="col-xs-12 col-sm-6 col-md-4">
-
-                <div><img src="~/images/83x83.png" /></div>
-
-
-                <table>
-                    <tbody>
-                        <tr><td>Limit 1 to Limit 2</td></tr>
-                        <tr><td>Limit 2 to Limit 3</td></tr>
-                        <tr><td>Limit 3 to Limit 4</td></tr>
-                    </tbody>
-                </table>
-
-            </div>
-
-        </div>
-
-        <div class="row">
-
-            <div class="col-xs-12 col-sm-6 col-md-4"></div>
-
-            <div class="col-xs-12 col-sm-6 col-md-4"></div>
-
-            <div class="col-xs-12 col-sm-6 col-md-4"></div>
-
-        </div>
-
-        <div class="row">
-
-            <div class="col-xs-12 col-sm-6 col-md-4"></div>
-
-
-
-        </div>*@
 
 </div>

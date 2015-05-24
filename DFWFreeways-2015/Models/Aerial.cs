@@ -273,7 +273,7 @@ namespace DFWFreeways.Models
                 case "dnt_sh121": text = "The interchange was completed in November 2011."; break;
                 case "sh121_dnt": text = "The interchange was completed in November 2011."; break;
                 case "loop12_diamond": text = "All these photos are now obsolete due to the implosion of Texas Stadium in 2010, expansion of the freeways and TxDOT's construction staging yard at the stadium site. TxDOT now calls the area the Diamond Interchange, although I have not heard any other organization use that name."; break;
-                case "i30_landry_sh360": text = "All these photos are now obsolete due to construction of the 4-level interchange at SH 360, which was underway in 2016."; break;
+                case "i30_landry_sh360": text = "Most of these photos are now obsolete due to construction of the 4-level interchange at SH 360, which was underway in 2016."; break;
                 case "i30_landry_trinity": text = "Construction began on the new bridge in 2014. The new bridge will feature two pedestrian bridges with long-span signature arches."; break;
                 case "chisholm_trail_parkway_fort_worth": text = "These views show the location where the interchange at I-20 and the Chisholm Trail Parkway was built, opened in 2014."; break;
                 case "sh199_frontage": text = "This section of SH 199 just west of I-820 is in a frontage road configuration. As of 2015 the construction of the main lanes is not scheduled. Further west, SH 199 has sections with freeway main lanes."; break;
@@ -283,6 +283,9 @@ namespace DFWFreeways.Models
                 case "sh114_sh170": text = "All traffic lanes in this project were open in early 2014."; break;
                 case "sh114_diamond": text = "Texas Stadium was imploded and cleared in April 2010. The first major expansion project along SH 114 in this area was completed in 2012. Additional work at SH 114 and SH 183 began in 2015."; break;
                 case "sh183_diamond": text = "Texas Stadium was imploded and cleared in April 2010. The first major expansion project along SH 114 in this area was completed in 2012. Expansion of SH 183 began in 2015."; break;
+                case "sh360_i30": text = "Most of these photos are now obsolete due to construction of the 4-level interchange at I-30 and SH 360, which was underway in 2016."; break;
+                case "i820_i35w": text = "This interchange and adjacent sections of I-35W have been fully rebuilt and expanded for the Tarrant County Express project, with construction in the 2014-2017 period."; break;
+                case "i35w_i820": text = "This interchange and adjacent sections of I-35W have been fully rebuilt and expanded for the Tarrant County Express project, with construction in the 2014-2017 period."; break;
 
             }
             return text;

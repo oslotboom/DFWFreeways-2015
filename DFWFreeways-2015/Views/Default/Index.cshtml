@@ -1,169 +1,193 @@
-﻿
-@{
-    ViewBag.Title = "Index";
+﻿@{
+    ViewBag.Title = "Dallas Fort Worth Freeways";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 @model DFWFreeways.Models.HomePage
 
 @section headerSection {
     @Styles.Render("~/Content/css-home")
-
+    <meta name="description" content="Dallas-Fort Worth Freeways, download free ebook, view photography and old highway maps" />
 }
 
 
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <title>Dallas-Fort Worth Freeways</title>
-    <meta name="description" content="Download the ebook Dallas-Fort Worth Freeways, Texas-Sized Ambition. Includes information profiles for all North Texas Freeways, aerial and ground photography, and old highway maps." />
-</head>
-<body>
+<div id="content">
 
-    <div id="content">
-
-        <div id="header-title">
-            <div><img src="@Url.Content("~/images/DFW-Freeways-Text-485.png")" /></div>
-            <div><span class="announce">New look and more photos!</span> Over 1100 new photos added. (May 25, 2015)</div>
-            <div>Home of the 2014 ebook <span class="semibold">Dallas-Fort Worth Freeways, Texas-Sized Ambition</span>, available for free download below. Also featuring extensive photography, historical information and a large collection of digitized old highway maps.</div>
-        </div>
-        <div id="header-container">
-            <a href="@Url.Action("maps")">
-                <div class="header-old-highway-maps">
-                    Old Highway Maps
-                </div>
-            </a>
-            <a href="@Url.Action("aerial")">
-                <div class="header-aerial">Aerial Gallery</div>
-            </a>
-        </div>
-        <div id="map">
-            @Html.Partial("_Map")
-
-
-            @*<img src="@Url.Content("~/images/DFW_location_map-2015-web-700x500.png")" />*@
-            <div id="map-inset">
-                <a href="@Url.Action("aerial", new { id= "us75" , detail="i635"})" >
-                    <div id="high-five" class="map-inset">
-                    <div>High Five</div>
-                    </div>
-                </a>
-
-                <a href="@Url.Action("aerial", new { id= "spur366" , detail="margaret-hunt-hill-bridge"})">
-                    <div id="margaret-hunt-hill" class="map-inset">
-                        <div>
-                            Margaret Hunt Hill Bridge
-                        </div>
-                    </div>
-                </a>
-                <a href="@Url.Action("aerial", new { id= "downtown" , detail="gallery"})">
-                    <div id="downtown-dallas" class="map-inset">
-                        <div>
-                            Downtown Dallas
-                        </div>
-                    </div>
-                </a>
-                @*<div id="legend">Click on pink areas for aerial photos.<br />Click on highway shields for info and photos</div>*@
+    <div id="header-title">
+        <div><img src="@Url.Content("~/images/DFW-Freeways-Text-485.png")" /></div>
+        <div><span class="announce">New look and more photos!</span> May 25, 2015: Over 1100 new photos added.</div>
+        <div>Home of the 2014 ebook <span class="semibold">Dallas-Fort Worth Freeways, Texas-Sized Ambition</span>, available for free download below. Also featuring extensive photography, historical information and a large collection of digitized old highway maps.</div>
+    </div>
+    <div id="header-container">
+        <a href="@Url.Action("maps")">
+            <div class="header-old-highway-maps">
+                Old Highway Maps
             </div>
-            <div id="legend">Click on pink areas for aerial photos.<br />Click on highway shields for info and photos</div>
-        </div>
-        <div id="right-pane" class="clearfix">
+        </a>
+        <a href="@Url.Action("aerial")">
+            <div class="header-aerial">Aerial Gallery</div>
+        </a>
+    </div>
+    <div id="map">
+        @Html.Partial("_Map")
 
 
-            @foreach (KeyValuePair<string, List<DFWFreeways.Models.Link>> linkGroup in Model.Links)
-            {
-                <div class="link-group">
-                    <div>@linkGroup.Key</div>
-
-                    @foreach (DFWFreeways.Models.Link link in linkGroup.Value)
-                    {
-                        <div>
-                            @if (link.GetType().Name == "Link")
-                            {
-                                <a href="@Url.Action("freeway", new { id=link.Url})">@link.DisplayText</a> @link.Description
-                            }
-                            else if (link.GetType().Name == "LinkPhotoPage")
-                            {
-                                <a href="@Url.Action("photos", new { id=link.Url})">@link.DisplayText</a> @link.Description
-                            }
-                            else
-                            {<span class="bold">@link.DisplayText</span> <text> @link.Description</text>}
-                        </div>
-
-                    }
+        @*<img src="@Url.Content("~/images/DFW_location_map-2015-web-700x500.png")" />*@
+        <div id="map-inset">
+            <a href="@Url.Action("aerial", new { id= "us75" , detail="i635"})">
+                <div id="high-five" class="map-inset">
+                    <div>High Five</div>
                 </div>
-            }
+            </a>
 
-
-
+            <a href="@Url.Action("aerial", new { id= "spur366" , detail="margaret-hunt-hill-bridge"})">
+                <div id="margaret-hunt-hill" class="map-inset">
+                    <div>
+                        Margaret Hunt Hill Bridge
+                    </div>
+                </div>
+            </a>
+            <a href="@Url.Action("aerial", new { id= "downtown" , detail="gallery"})">
+                <div id="downtown-dallas" class="map-inset">
+                    <div>
+                        Downtown Dallas
+                    </div>
+                </div>
+            </a>
+            @*<div id="legend">Click on pink areas for aerial photos.<br />Click on highway shields for info and photos</div>*@
         </div>
-        <div id="book-area">
-            <div class="heading">Dallas-Fort Worth Freeways, Texas-Sized Ambition</div>
-            <div class="sub-heading">Free Download!</div>
-            <div>Featuring complete historical information and comprehensive photography for North Texas freeways.</div>
+        <div id="legend">Click on pink areas for aerial photos.<br />Click on highway shields for info and photos</div>
+    </div>
+    <div id="right-pane" class="clearfix">
 
-            <table>
-                <tr>
-                    <td>
-                        <div id="book-info-container">
-                            <div class="book-info">
-                                <div class="clearfix one-line">
-                                    <div>Released</div>
-                                    <div>&nbsp;May 2014</div>
-                                </div>
-                                <div class="clearfix one-line">
-                                    <div>Pages</div>
-                                    <div>&nbsp;541</div>
-                                </div>
-                                <div class="clearfix one-line">
-                                    <div>Illustrations</div>
-                                    <div>&nbsp;887</div>
-                                </div>
-                                <div class="clearfix one-line">
-                                    <div>eBook</div>
-                                    <div>&nbsp;Free</div>
-                                </div>
-                                <div class="clearfix line-break-narrow">
-                                    <div>Printed book price</div>
-                                    <div>&nbsp;List: $150<br />&nbsp;Amazon: $100</div>
-                                </div>
-                                <div class="clearfix line-break-narrow">
-                                    <div>ISBN</div>
-                                    <div>&nbsp;978-0974160511</div>
-                                </div>
-                                <div class="clearfix line-break-narrow">
-                                    <div>Quantity Printed&nbsp;</div>
-                                    <div>&nbsp;160</div>
-                                </div>
-                                <div class="clearfix line-break-narrow">
-                                    <div>Press</div>
-                                    <div>
-                                        <a href="http://transportationblog.dallasnews.com/2014/05/a-decade-spent-writing-a-book-about-how-dallas-built-its-freeways-and-how-its-freeways-built-dallas.html/">Dallas Morning News</a>
-                                        <br />
-                                        <a href="https://www.aiadallas.org/v/blog-detail/A-Conversation-with-Oscar-Slotboom/i5/">AIA Dallas Columns Magazine</a>
-                                           
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="book-front">
-                                <img src="@Url.Content("~/images/DFWFreeways-cover-180x223.jpg")" />
-                            </div>
-                            <div class="book-back">
-                                <img src="@Url.Content("~/images/DFWFreeways-cover-back-180x223.jpg")" />
-                            </div>
-                            <div>Dallas-Fort Worth has one of the world’s most extensive urban freeway systems. It is the product of the pro-growth ambition of political and business leaders, and has empowered the ambition of real estate developers, big business, the technology industry and entrepreneurs. The North Texas cultural spirit to think big and build big has guided the ongoing growth and expansion of Dallas-Fort Worth freeways, a transportation system which has propelled North Texas to be among the most economically successful regions in the United States in the post-World War II era. Dallas-Fort Worth Freeways documents the origins, politics, influence and resulting urban landscape of North Texas freeways. </div>
 
+        @foreach (KeyValuePair<string, List<DFWFreeways.Models.Link>> linkGroup in Model.Links)
+        {
+            <div class="link-group">
+                <div>@linkGroup.Key</div>
+
+                @foreach (DFWFreeways.Models.Link link in linkGroup.Value)
+                {
+                    <div>
+                        @if (link.GetType().Name == "Link")
+                        {
+                            <a href="@Url.Action("freeway", new { id=link.Url})">@link.DisplayText</a> @link.Description
+                        }
+                        else if (link.GetType().Name == "LinkPhotoPage")
+                        {
+                            <a href="@Url.Action("photos", new { id=link.Url})">@link.DisplayText</a> @link.Description
+                        }
+                        else
+                        {<span class="bold">@link.DisplayText</span> <text> @link.Description</text>}
+                    </div>
+
+                }
+            </div>
+        }
+
+
+
+    </div>
+    <div id="book-area">
+        <div class="heading">Dallas-Fort Worth Freeways, Texas-Sized Ambition</div>
+        <div class="sub-heading">Free Download!</div>
+        <div>Featuring complete historical information and comprehensive photography for North Texas freeways.</div>
+
+        <table>
+            <tr>
+                <td>
+                    <div id="book-info-container">
+                        <div class="book-info">
+                            <div class="clearfix one-line">
+                                <div>Released</div>
+                                <div>&nbsp;May 2014</div>
+                            </div>
+                            <div class="clearfix one-line">
+                                <div>Pages</div>
+                                <div>&nbsp;541</div>
+                            </div>
+                            <div class="clearfix one-line">
+                                <div>Illustrations</div>
+                                <div>&nbsp;887</div>
+                            </div>
+                            <div class="clearfix one-line">
+                                <div>eBook</div>
+                                <div>&nbsp;Free</div>
+                            </div>
+                            <div class="clearfix line-break-narrow">
+                                <div>Printed book price</div>
+                                <div>&nbsp;List: $150<br />&nbsp;Amazon: $100</div>
+                            </div>
+                            <div class="clearfix line-break-narrow">
+                                <div>ISBN</div>
+                                <div>&nbsp;978-0974160511</div>
+                            </div>
+                            <div class="clearfix line-break-narrow">
+                                <div>Quantity Printed&nbsp;</div>
+                                <div>&nbsp;160</div>
+                            </div>
+                            <div class="clearfix line-break-narrow">
+                                <div>Press</div>
+                                <div>
+                                    <a href="http://transportationblog.dallasnews.com/2014/05/a-decade-spent-writing-a-book-about-how-dallas-built-its-freeways-and-how-its-freeways-built-dallas.html/">Dallas Morning News</a>
+                                    <br />
+                                    <a href="https://www.aiadallas.org/v/blog-detail/A-Conversation-with-Oscar-Slotboom/i5/">AIA Dallas Columns Magazine</a>
+
+                                </div>
+                            </div>
                         </div>
-                    </td>
+                        <div class="book-front">
+                            <img src="@Url.Content("~/images/DFWFreeways-cover-180x223.jpg")" />
+                        </div>
+                        <div class="book-back">
+                            <img src="@Url.Content("~/images/DFWFreeways-cover-back-180x223.jpg")" />
+                        </div>
+                        <div>Dallas-Fort Worth has one of the world’s most extensive urban freeway systems. It is the product of the pro-growth ambition of political and business leaders, and has empowered the ambition of real estate developers, big business, the technology industry and entrepreneurs. The North Texas cultural spirit to think big and build big has guided the ongoing growth and expansion of Dallas-Fort Worth freeways, a transportation system which has propelled North Texas to be among the most economically successful regions in the United States in the post-World War II era. Dallas-Fort Worth Freeways documents the origins, politics, influence and resulting urban landscape of North Texas freeways. </div>
 
-                    <td>
-                        <div class="list-heading">Complete Book</div>
-                        <table id="complete-book-download">
+                    </div>
+                </td>
+
+                <td>
+                    <div class="list-heading">Complete Book</div>
+                    <table id="complete-book-download">
+                        <tr>
+                            <td>
+                                <table id="complete-book">
+                                    <tr>
+                                        <td></td>
+                                        <td>@Model.CompleteBook.Title</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <table class="download-info">
+                                    <tr>
+                                        <td>@Model.CompleteBook.PageCount pages</td>
+                                        <td>
+                                            <b>
+                                                <a href="@(Url.Action(Model.CompleteBook.QuickViewFolder, "book",
+                                            new {startOdd=@Model.CompleteBook.StartOdd.ToString(),pdfSize=@Url.Encode(@Model.CompleteBook.PdfSizeMB),pdfFile=@Url.Encode(Model.CompleteBook.PdfFile)}))" title="Fast download, lower quality">Quick View</a>
+                                            </b>
+                                        </td>
+                                        <td><b><a target="_blank" href="@(Model.PdfPath + Model.CompleteBook.PdfFile)" title="Large file, high quality">PDF, @Model.CompleteBook.PdfSizeMB</a></b></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+
+                    <div class="list-heading">Chapters</div>
+                    <table id="book-download">
+                        @foreach (DFWFreeways.Models.DownloadItem chapter in Model.Chapters)
+                        {
+
                             <tr>
                                 <td>
-                                    <table id="complete-book">
+                                    <table id="chapter-name">
                                         <tr>
-                                            <td></td>
-                                            <td>@Model.CompleteBook.Title</td>
+                                            <td>@chapter.ChapterNumber</td>
+                                            <td>@chapter.Title</td>
                                         </tr>
                                     </table>
                                 </td>
@@ -172,108 +196,76 @@
                                 <td>
                                     <table class="download-info">
                                         <tr>
-                                            <td>@Model.CompleteBook.PageCount pages</td>
-                                            <td><b><a href="@(Url.Action(Model.CompleteBook.QuickViewFolder, "book", 
-                                            new {startOdd=@Model.CompleteBook.StartOdd.ToString(),pdfSize=@Url.Encode(@Model.CompleteBook.PdfSizeMB),pdfFile=@Url.Encode(Model.CompleteBook.PdfFile)}))" title="Fast download, lower quality">Quick View</a></b></td>
-                                            <td><b><a target="_blank" href="@(Model.PdfPath + Model.CompleteBook.PdfFile)" title="Large file, high quality">PDF, @Model.CompleteBook.PdfSizeMB</a></b></td>
+                                            <td>@chapter.PageCount pages</td>
+                                            <td>
+                                                <b>
+                                                    <a href="@(Url.Action(chapter.QuickViewFolder, "book",
+                                            new {startOdd=chapter.StartOdd.ToString(),pdfSize=@Url.Encode(chapter.PdfSizeMB),pdfFile=@Url.Encode(chapter.PdfFile)}))" title="Fast download, lower quality">Quick View</a>
+                                                </b>
+                                            </td>
+
+                                            <td><b><a target="_blank" href="@(Model.PdfPath + chapter.PdfFile)" title="Large file, high quality">PDF, @chapter.PdfSizeMB</a></b></td>
                                         </tr>
                                     </table>
                                 </td>
                             </tr>
-                        </table>
 
-                        <div class="list-heading">Chapters</div>
-                        <table id="book-download">
-                            @foreach (DFWFreeways.Models.DownloadItem chapter in Model.Chapters)
+                        }
+
+                    </table>
+
+                </td>
+                <td>
+                    <div class="list-heading">Excerpts</div>
+                    <table id="book-excerpt">
+                        @foreach (KeyValuePair<string, List<DFWFreeways.Models.DownloadItem>> excerptGroup in Model.Excerpts)
+                        {
+                            <tr>
+                                <td class="excerpt-group">@excerptGroup.Key</td>
+                            </tr>
+
+                            foreach (DFWFreeways.Models.DownloadItem excerpt in excerptGroup.Value)
                             {
 
                                 <tr>
-                                    <td>
-                                        <table id="chapter-name">
-                                            <tr>
-                                                <td>@chapter.ChapterNumber</td>
-                                                <td>@chapter.Title</td>
-                                            </tr>
-                                        </table>
+                                    <td class="excerpt-description">
+                                        @excerpt.Title
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>
+                                    <td class="excerpt-download">
                                         <table class="download-info">
                                             <tr>
-                                                <td>@chapter.PageCount pages</td>
-                                                <td><b><a href="@(Url.Action(chapter.QuickViewFolder, "book", 
-                                            new {startOdd=chapter.StartOdd.ToString(),pdfSize=@Url.Encode(chapter.PdfSizeMB),pdfFile=@Url.Encode(chapter.PdfFile)}))" title="Fast download, lower quality">Quick View</a></b></td>
+                                                <td>@excerpt.PageCount pages</td>
+                                                <td>
 
-                                                <td><b><a target="_blank" href="@(Model.PdfPath + chapter.PdfFile)" title="Large file, high quality">PDF, @chapter.PdfSizeMB</a></b></td>
+                                                    <b>
+                                                        @if (excerpt.QuickViewFolder == "ExIllustration")
+                                                        {
+                                                        <a href="@Url.Action("photos", new { id="illustrations"})">Quick View</a>}
+                                                        else
+                                                        {<a href="@(Url.Action(excerpt.QuickViewFolder, "book", new { startOdd = excerpt.StartOdd.ToString() }))">Quick View</a>}
+                                                    </b>
+                                                </td>
+
+
                                             </tr>
                                         </table>
                                     </td>
                                 </tr>
 
                             }
+                        }
+                    </table>
 
-                        </table>
+                </td>
 
-                    </td>
-                    <td>
-                        <div class="list-heading">Excerpts</div>
-                        <table id="book-excerpt">
-                            @foreach (KeyValuePair<string, List<DFWFreeways.Models.DownloadItem>> excerptGroup in Model.Excerpts)
-                            {
-                                <tr>
-                                    <td class="excerpt-group">@excerptGroup.Key</td>
-                                </tr>
-
-                                foreach (DFWFreeways.Models.DownloadItem excerpt in excerptGroup.Value)
-                                {
-
-                                    <tr>
-                                        <td class="excerpt-description">
-                                            @excerpt.Title
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td class="excerpt-download">
-                                            <table class="download-info">
-                                                <tr>
-                                                    <td>@excerpt.PageCount pages</td>
-                                                    <td>
-
-                                                        <b>
-                                                            @if (excerpt.QuickViewFolder=="ExIllustration")
-                                                            {<a href="@Url.Content("~/dfwfreeways-book-art-cartoons.htm")">Quick View</a>}
-                                                            else
-                                                            {<a href="@(Url.Action(excerpt.QuickViewFolder, "book", new { startOdd = excerpt.StartOdd.ToString() }))">Quick View</a>}
-                                                        </b>
-                                                    </td>
-
-
-                                                </tr>
-                                            </table>
-                                        </td>
-                                    </tr>
-
-                                }
-                            }
-                        </table>
-
-                    </td>
-
-
-
-                </tr>
-            </table>
-
-
-
-        </div>
+            </tr>
+        </table>
 
     </div>
 
-</body>
+</div>
 
 
-
-</html>
 

@@ -53,6 +53,7 @@ body { padding-top: 0; margin-top: 0; margin-left: 0; }
 .full {
     .image { width: auto; max-height: none; display: block !important; padding-bottom: 20px; }
     .caption-block { display: block !important;}
+    img {max-height: none;}
 
 }
 
@@ -63,6 +64,7 @@ body { padding-top: 0; margin-top: 0; margin-left: 0; }
      width: 100% !important; 
     .caption-block { display: block !important;}
     padding: 15px 0; 
+    img {    max-height: none !important;}
 }
 
 .button-list { padding: 10px 0 18px 0;

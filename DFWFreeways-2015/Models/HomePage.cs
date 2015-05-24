@@ -34,7 +34,7 @@ namespace DFWFreeways.Models
 
             InitializeLinks();
 
-            CompleteBook = new DownloadItem("Dallas-Fort-Worth_Freeways_book-20140610.pdf", "", "Dallas-Fort Worth Freeways, Texas-Sized Ambition", "541", "124 MB", "CompleteBook", "",  true);
+            CompleteBook = new DownloadItem("Dallas-Fort-Worth_Freeways_book-20140803.pdf", "", "Dallas-Fort Worth Freeways, Texas-Sized Ambition", "541", "124 MB", "CompleteBook", "",  true);
 
         }
 

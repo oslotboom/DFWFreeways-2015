@@ -11,133 +11,136 @@
     "text": "After the sign photos, these photos start at the north end at TX 121 near DFW Airport, and proceed south to Mansfield. 2015 status: Nearly all of these photos are still accurate depictions. Obsolete photos are noted.",
     "images":
     [
-                        {
-                            "file": "360_roadside_20071028_IMG_9577_sign.jpg",
-                            "caption": "This sign at Division Road shows the freeway name. The palm tree behind the sign is the subject of an interesting side-story on page 454 of the book, \"The Heartwarming Story of the Division Street Palm\".",
-                            "imageDate": "28-October-2007",
-                            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The sign and palm tree were removed when the freeway was rebuilt and expanded, from 2009 to 2012. The palm tree was relocated to Carrollton." }
+        {
+            "file": "360_roadside_20071028_IMG_9577_sign.jpg",
+            "caption": "This sign at Division Road shows the freeway name. The palm tree behind the sign is the subject of an interesting side-story on page 454 of the book, \"The Heartwarming Story of the Division Street Palm\".",
+            "imageDate": "28-October-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The sign and palm tree were removed when the freeway was rebuilt and expanded, from 2009 to 2012. The palm tree was relocated to Carrollton." }
 
-                        },
-                        {
-                            "file": "360_roadside_20071028_IMG_9581_watson_sign.jpg",
-                            "caption": "The freeway alignment through Arlington was originally Watson School Road. The frontage road is still designated with the original name.",
-                            "imageDate": "28-October-2007"
-                        },
-                        {
-                            "file": "360_roadside_20070428_IMG_6031_at_121.jpg",
-                            "caption": "Looking north along the northbound lanes with the merge with TX 121 ahead.",
-                            "highResolution": "360_roadside_20070428_IMG_6031_at_121_2048.jpg",
-                            "imageDate": "28-April-2007"
-                        },
-                        {
-                            "file": "360_roadside_20070428_IMG_6029_frontage_at_stone_myers.jpg",
-                            "caption": "Looking north along the northbound frontage road with the freeway terminus at SH 121 just ahead.",
-                            "imageDate": "28-April-2007"
-                        },
-                        {
-                            "file": "360_roadside_20070428_IMG_6027_stone_myers.jpg",
-                            "caption": "At Stone Myers, looking northbound.",
-                            "imageDate": "28-April-2007"
-                        },
-                        {
-                            "file": "360_roadside_20070428_IMG_6024_lookin_n_at_glade.jpg",
-                            "caption": "Looking north from the Glade road overpass",
-                            "imageDate": "28-April-2007"
-                        },
-                        {
-                            "file": "360_roadside_20070428_IMG_6021_looking_n_from_glade.jpg",
-                            "caption": "Another view looking north from the Glade road overpass.",
-                            "imageDate": "28-April-2007"
-                        },
-                        {
-                            "file": "360_roadside_20070428_IMG_6017_looking_n_at_mid_cities.jpg",
-                            "caption": "Looking north from the Mid-Cities Blvd overpass",
-                            "imageDate": "28-April-2007"
-                        },
-                        {
-                            "file": "360_roadside_IMG_6273_20070429_looking_n_at_faa.jpg",
-                            "caption": "Looking north from FAA road, just south of the interchange with SH 183",
-                            "imageDate": "29-April-2007"
-                        },
-                        {
-                            "file": "360_roadside_IMG_6274_20070429_looking_s_at_faa.jpg",
-                            "caption": "Looking south at FAA road",
-                            "imageDate": "29-April-2007"
-                        },
-                        {
-                            "file": "360_roadside_20070623_IMG_7685_at_riverside.jpg",
-                            "caption": "Looking north near Riverside",
-                            "imageDate": "23-June-2007"
-                        },
-                        {
-                            "file": "360_roadside_20071028_IMG_9573_post_and_paddock.jpg",
-                            "caption": "Looking north at Post and Paddock",
-                            "imageDate": "28-Oct-2007"
-                        },
-                        {
-                            "file": "360_roadside_20070623_IMG_7683_looking_n_at_carrier.jpg",
-                            "caption": "Looking north at Carrier Parkway, with law enforcement positioned to make a bust",
-                            "imageDate": "23-June-2007"
-                        },
-                        {
-                            "file": "360_roadside_20070623_IMG_7681_looking_n_at_av_k.jpg",
-                            "caption": "Looking north at Avenue K, with Bell Helicopter on the right.",
-                            "imageDate": "23-June-2007"
-                        },
-                        {
-                            "file": "360_roadside_20070623_IMG_7679_looking_s_at_av_k.jpg",
-                            "caption": "Looking south at Avenue K",
-                            "imageDate": "23-June-2007"
-                        },
-                        {
-                            "file": "360_roadside_20071028_IMG_9575_at_division.jpg",
-                            "caption": "Looking north at Division Street, near the General Motors assembly plant, showing the original freeway. This section has been rebuilt and widened since the photo was taken.",
-                            "imageDate": "28-Oct-2007",
-                            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section was rebuilt and widened, completed around 2013." }
-                        },
-                        {
-                            "file": "360_roadside_20071028_IMG_9578_at_mitchell.jpg",
-                            "caption": "At Mitchell street in Arlington",
-                            "imageDate": "28-Oct-2007"
-                        },
-                        {
-                            "file": "360_roadside_20070623_IMG_7648_at_i20.jpg",
-                            "caption": "Looking south at the four-level interchange at I-20",
-                            "highResolution": "360_roadside_20070623_IMG_7648_at_i20_2048.jpg",
-                            "imageDate": "23-June-2007"
-                        },
-                        {
-                            "file": "360_roadside_20070616_IMG_7612_at_i20.jpg",
-                            "caption": "Another view of the interchange at I-20, looking south",
-                            "imageDate": "16-June-2007"
-                        },
-                        {
-                            "file": "360_roadside_20070623_IMG_7668_freeway_end.jpg",
-                            "caption": "End of the main lanes north of Sublett Road. In February 2015 TxDOT approved a $300 million plan to extend the main lanes southward as a toll road.",
-                            "imageDate": "23-June-2007",
-                            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Construction of the tolled extension began in 2015." }
-                        },
-                        {
-                            "file": "360_roadside_20070623_IMG_7667_freeway_end.jpg",
-                            "caption": "Another view of the end of the concrete of the main lanes.",
-                            "imageDate": "23-June-2007",
-                            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Construction of the tolled extension began in 2015." }
-                        },
-                        {
-                            "file": "360_roadside_20070623_IMG_7663_nb_frontage_at_new_york.jpg",
-                            "caption": "Stop sign on the frontage road at New York street.",
-                            "imageDate": "23-June-2007"
-                        },
-                        {
-                            "file": "360_roadside_20070623_IMG_7655 _sb_feeder_s_of_new_york.jpg",
-                            "caption": "Looking north along the southbound frontage road south of New York street.",
-                            "imageDate": "23-June-2007"
-                        },
-                        {
-                            "file": "360_roadside_20070623_IMG_7661_nb_feeder_near_broad.jpg",
-                            "caption": "Frontage road near Broad Street",
-                            "imageDate": "23-June-2007"
-                        }
+        },
+        {
+            "file": "360_roadside_20071028_IMG_9581_watson_sign.jpg",
+            "caption": "The freeway alignment through Arlington was originally Watson School Road. The frontage road is still designated with the original name.",
+            "imageDate": "28-October-2007"
+        },
+        {
+            "file": "360_roadside_20070428_IMG_6031_at_121.jpg",
+            "caption": "Looking north along the northbound lanes with the merge with TX 121 ahead.",
+            "highResolution": "360_roadside_20070428_IMG_6031_at_121_2048.jpg",
+            "imageDate": "28-April-2007"
+        },
+        {
+            "file": "360_roadside_20070428_IMG_6029_frontage_at_stone_myers.jpg",
+            "caption": "Looking north along the northbound frontage road with the freeway terminus at SH 121 just ahead.",
+            "imageDate": "28-April-2007"
+        },
+        {
+            "file": "360_roadside_20070428_IMG_6027_stone_myers.jpg",
+            "caption": "At Stone Myers, looking northbound.",
+            "imageDate": "28-April-2007"
+        },
+        {
+            "file": "360_roadside_20070428_IMG_6024_lookin_n_at_glade.jpg",
+            "caption": "Looking north from the Glade road overpass",
+            "imageDate": "28-April-2007"
+        },
+        {
+            "file": "360_roadside_20070428_IMG_6021_looking_n_from_glade.jpg",
+            "caption": "Another view looking north from the Glade road overpass.",
+            "imageDate": "28-April-2007"
+        },
+        {
+            "file": "360_roadside_20070428_IMG_6017_looking_n_at_mid_cities.jpg",
+            "caption": "Looking north from the Mid-Cities Blvd overpass",
+            "imageDate": "28-April-2007"
+        },
+        {
+            "file": "360_roadside_IMG_6273_20070429_looking_n_at_faa.jpg",
+            "caption": "Looking north from FAA road, just south of the interchange with SH 183",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "360_roadside_IMG_6274_20070429_looking_s_at_faa.jpg",
+            "caption": "Looking south at FAA road",
+            "imageDate": "29-April-2007"
+        },
+        {
+            "file": "360_roadside_20070623_IMG_7685_at_riverside.jpg",
+            "caption": "Looking north near Riverside",
+            "imageDate": "23-June-2007"
+        },
+        {
+            "file": "360_roadside_20071028_IMG_9573_post_and_paddock.jpg",
+            "caption": "Looking north at Post and Paddock",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "360_roadside_20070623_IMG_7683_looking_n_at_carrier.jpg",
+            "caption": "Looking north at Carrier Parkway, with law enforcement positioned to make a bust",
+            "imageDate": "23-June-2007"
+        },
+        {
+            "file": "360_roadside_20070623_IMG_7681_looking_n_at_av_k.jpg",
+            "caption": "Looking north at Avenue K, with Bell Helicopter on the right.",
+            "imageDate": "23-June-2007"
+        },
+        {
+            "file": "360_roadside_20070623_IMG_7679_looking_s_at_av_k.jpg",
+            "caption": "Looking south at Avenue K",
+            "imageDate": "23-June-2007"
+        },
+        {
+            "file": "360_roadside_20071028_IMG_9575_at_division.jpg",
+            "caption": "Looking north at Division Street, near the General Motors assembly plant, showing the original freeway. This section has been rebuilt and widened since the photo was taken.",
+            "imageDate": "28-Oct-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section was rebuilt and widened, completed around 2013." }
+        },
+        {
+            "file": "360_roadside_20071028_IMG_9578_at_mitchell.jpg",
+            "caption": "At Mitchell street in Arlington",
+            "imageDate": "28-Oct-2007"
+        },
+        {
+            "file": "360_roadside_20070623_IMG_7648_at_i20.jpg",
+            "caption": "Looking south at the four-level interchange at I-20",
+            "highResolution": "360_roadside_20070623_IMG_7648_at_i20_2048.jpg",
+            "imageDate": "23-June-2007"
+        },
+        {
+            "file": "360_roadside_20070616_IMG_7612_at_i20.jpg",
+            "caption": "Another view of the interchange at I-20, looking south",
+            "imageDate": "16-June-2007"
+        },
+        {
+            "file": "360_roadside_20070623_IMG_7668_freeway_end.jpg",
+            "caption": "End of the main lanes north of Sublett Road. In February 2015 TxDOT approved a $300 million plan to extend the main lanes southward as a toll road.",
+            "imageDate": "23-June-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Construction of the tolled extension began in 2015." }
+        },
+        {
+            "file": "360_roadside_20070623_IMG_7667_freeway_end.jpg",
+            "caption": "Another view of the end of the concrete of the main lanes.",
+            "imageDate": "23-June-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Construction of the tolled extension began in 2015." }
+        },
+        {
+            "file": "360_roadside_20070623_IMG_7663_nb_frontage_at_new_york.jpg",
+            "caption": "Stop sign on the frontage road at New York street.",
+            "imageDate": "23-June-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Construction of the tolled main lanes began in 2015." }
+        },
+        {
+            "file": "360_roadside_20070623_IMG_7655 _sb_feeder_s_of_new_york.jpg",
+            "caption": "Looking north along the southbound frontage road south of New York street.",
+            "imageDate": "23-June-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Construction of the tolled main lanes began in 2015." }
+        },
+        {
+            "file": "360_roadside_20070623_IMG_7661_nb_feeder_near_broad.jpg",
+            "caption": "Frontage road near Broad Street",
+            "imageDate": "23-June-2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Construction of the tolled main lanes began in 2015." }
+        }
 
 
     ]

@@ -157,6 +157,8 @@ body {
   padding-bottom: 20px; }
 .full .caption-block {
   display: block !important; }
+.full img {
+  max-height: none; }
 
 .expanded {
   display: block !important;
@@ -165,6 +167,8 @@ body {
   padding: 15px 0; }
   .expanded .caption-block {
     display: block !important; }
+  .expanded img {
+    max-height: none !important; }
 
 .button-list {
   padding: 10px 0 18px 0; }
