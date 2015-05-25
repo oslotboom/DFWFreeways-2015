@@ -16,6 +16,7 @@ namespace DFWFreeways.Controllers
     public class DefaultController : Controller
     {
         // GET: Default
+        [OutputCache(Duration = 259200, VaryByParam = "none")]
         public ActionResult Index()
         {
             HomePage homePage = new HomePage();
@@ -186,6 +187,7 @@ namespace DFWFreeways.Controllers
         }
 
         // GET: Maps
+        [OutputCache(Duration = 504800, VaryByParam = "none")]
         public ActionResult Maps()
         {
             string xmlFile = Server.MapPath("~/App_Data/oldRoadMaps.xml");
