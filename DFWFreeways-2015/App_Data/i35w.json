@@ -4,7 +4,7 @@
     {
         "title": "I-35W",
         "subTitle": "Fort Worth",
-        "lastUpdated": "June 1, 2015"
+        "lastUpdated": "September 12, 2020 (add driver's views)"
     },
     "Title": "I-35W Fort Worth",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -15,22 +15,30 @@
             "FeatureType": "Roadside",
             "FeatureProperties": [ ]
         },
-        {
-            "FeatureType": "DriversViews",
-            "FeatureProperties": [ ]
-        },
+      {
+        "FeatureType": "DriversViews",
+        "FeatureProperties": [
+          {
+            "AnchorText": "North Tarrant Express toll lanes",
+            "AnchorUrl": "driving-nte-nb"
+          }
+        ]
+      },
         {
             "FeatureType": "Book",
             "FeatureProperties":
             [
                 { "BookText": "I-35W South Freeway", "Quickview": "ExFW35WS?startOdd=True", "Pdf": "" },
-                { "BookText": "Fort Worth Mixmaster", "Quickview": "ExFWMixmaster?startOdd=False", "Pdf": "" },        
+                { "BookText": "Fort Worth Mixmaster", "Quickview": "ExFWMixmaster?startOdd=False", "Pdf": "" },
                 { "BookText": "Chapter 11: Fort Worth Freeways", "Quickview": "ChFortWorthFreeways?startOdd=False&pdfSize=17+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-11-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-11-20140803.pdf" }
             ]
         },
         {
             "FeatureType": "Construction",
-            "FeatureProperties": [ ]
+            "FeatureProperties": [ 
+                { "AnchorText": "Driving tour March 2016", "AnchorUrl": "construction-2016-march" },
+                { "AnchorText": "Driving tour November 2016", "AnchorUrl": "construction-2016-nov" }
+            ]
         },
         {
             "FeatureType": "Aerial",
@@ -42,7 +50,7 @@
                 { "AnchorText": "At Loop 820, north Fort Worth", "AnchorUrl": "i820" },
                 { "AnchorText": "At Alliance Airport", "AnchorUrl": "alliance" },
                 { "AnchorText": "Texas Motor Speedway", "AnchorUrl": "texas-motor-speedway" }
-           ]
+            ]
         },
         {
             "FeatureType": "Historical",

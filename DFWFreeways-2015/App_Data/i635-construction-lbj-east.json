@@ -1,0 +1,57 @@
+﻿{
+  "folderPath": "",
+  "title": "I-635 Dallas LBJ East construction photos",
+  "pageHeader": {
+    "title": "Construction Photos, LBJ East",
+    "urlParentText": "I-635",
+    "lastUpdated": "Created June 23, 2021"
+  },
+  "map": "",
+  "text": "The $1.7 billion LBJ East project is rebuilding the freeway main lanes between IH 30 and US 75, and rebuilding the interchange at Interstate 30. The official web site, 635east.com, is regularly updated with high-quality aerial photos.",
+  "images": [
+    {
+      "file": "20210619-21_099-1100.jpg",
+      "highResolution": "20210619-21_099-3000.jpg",
+      "caption": "Looking north-northwest along LBJ Freeway at the Interstate 30 interchange. A temporary tower was in place for positioning of steel beams, which are visible on the left side of the photo.",
+      "imageDate": "19-June-2021"
+    },
+    {
+      "file": "20210619-21_104-800.jpg",
+      "highResolution": "20210619-21_104-1600.jpg",
+      "caption": "A view of the beam placement scaffold.",
+      "imageDate": "19-June-2021"
+    },
+    {
+      "file": "20210619-21_103-1100.jpg",
+      "highResolution": "20210619-21_103-3000.jpg",
+      "caption": "Looking west along the eastbound IH-30 feeder road.",
+      "imageDate": "19-June-2021"
+    },
+    {
+      "file": "20210619-21_102-1100.jpg",
+      "highResolution": "",
+      "caption": "Looking south at connection ramps for northbound IH-635",
+      "imageDate": "19-June-2021"
+    },
+    {
+      "file": "20210619-21_097-1100.jpg",
+      "highResolution": "20210619-21_097-3000.jpg",
+      "caption": "Looking southeast at the connection ramps for northbound IH-635",
+      "imageDate": "19-June-2021"
+    },
+    {
+      "file": "20210619-21_109-1100.jpg",
+      "highResolution": "20210619-21_109-3000.jpg",
+      "caption": "Driving northbound on LBJ Freeway.",
+      "imageDate": "19-June-2021"
+    },
+    {
+      "file": "20210619-21_111-1100.jpg",
+      "highResolution": "20210619-21_111-3000.jpg",
+      "caption": "Driving northbound on LBJ Freeway.",
+      "imageDate": "19-June-2021"
+    }
+
+  ]
+
+}

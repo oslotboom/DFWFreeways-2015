@@ -4,7 +4,7 @@
     {
         "title": "Spur 366",
         "subTitle": "Woodall Rodgers Freeway",
-        "lastUpdated": "June 1, 2015"
+        "lastUpdated": "February 8, 2018 (review and update)"
     },
     "Title": "Woodall Rodgers Freeway, Spur 366",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -20,7 +20,7 @@
                 { "AnchorText": "2006 freeway views, before the park and bridge", "AnchorUrl": "roadside-original-freeway" },
                 { "AnchorText": "Bridge site, before construction", "AnchorUrl": "roadside-bridge-site" },
                 { "AnchorText": "Buildings cleared for the bridge", "AnchorUrl": "roadside-bridge-clearance"},
-                { "AnchorText": "Continental Avenue pedestrian bridge", "AnchorUrl": "roadside-continental"}
+                { "AnchorText": "Ron Kirk pedestrian bridge (Continental Ave)", "AnchorUrl": "roadside-continental"}
 
             ]
         },

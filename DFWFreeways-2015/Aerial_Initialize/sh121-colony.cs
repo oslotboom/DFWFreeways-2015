@@ -32,7 +32,7 @@ namespace DFWFreeways.Models
                     "JC Penney headquarters",
                     "JC Penney headquarters, looking northeast",
                     "JC Penney headquarters",
-                    "JC Penney headquarters, looking northeast. In 2015 the area behind and to the left (north) of the JC Penney building is being developed with large new offices for Toyota USA, Fedex Office and Liberty Mutual Insurance.")
+                    "JC Penney headquarters, looking northeast. In 2017 construction was completed on huge commercial projects in the area behind and to the left (north) of the JC Penney building, including Legacy West and Toyota North America headquarters.")
             
             };
         }

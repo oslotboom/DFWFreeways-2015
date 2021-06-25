@@ -157,7 +157,7 @@ namespace DFWFreeways.Models
                     "Texas Rangers Ballpark",
                     "Texas Rangers Ballpark, looking west",
                     "Texas Rangers Ballpark",
-                    "Looking west.")
+                    "Looking west. In 2017 construction began on the new Rangers stadium on the parking lot just left (south) of the existing stadium.")
          
             };
         }
@@ -240,7 +240,8 @@ namespace DFWFreeways.Models
                     "I-30 at Loop12",
                     "I-30 at Loop12, looking east",
                     "I-30 at Loop12",
-                    "Looking east along I-30, west of the Loop 12 interchange.")
+                    "Looking east along I-30, west of the Loop 12 interchange.",
+                    new AerialStatus ("2018", "Modified", "HOT lanes were added in the unused concrete in the middle of the freeway." ))
 
             };
         }
@@ -420,7 +421,8 @@ namespace DFWFreeways.Models
                     "I-30 at I-35W",
                     "I-30 at I-35W, looking north",
                     "I-30 at I-35W",
-                    "Looking north along I-35W."),
+                    "Looking north along I-35W.",
+                    new AerialStatus ("2018", "Obsolete", "I-35W was rebuilt and expanded during the The North Tarrant Express project, completed in 2019." )),
                 new AerialGalleryItem(new DateTime(2009,9,28),"20090928_ft_worth_289.JPG","20090928_ft_worth_289-1050.jpg", "20090928_ft_worth_289-2560.jpg", "aerial", 
                     "I-30 at I-35W",
                     "I-30 at I-35W, looking east",
@@ -512,19 +514,19 @@ namespace DFWFreeways.Models
                     "I-30 original Trinity River bridge, looking west",
                     "I-30 original Trinity River bridge",
                     "Looking west.",
-                    new AerialStatus ("2015", "Obsolete", "A new, wider bridge was built 2014-2017" )),
+                    new AerialStatus ("2018", "Historical Archive", "A new, wider bridge was built 2014-2017. The bridge shown in this photo was demolished." )),
                 new AerialGalleryItem(new DateTime(2005,5,30),"", "22a_i30_downtown_dallas_2005-05-30_900.jpg","22a_i30_downtown_dallas_2005-05-30_2649x1449.png", "aerial", 
                     "I-30 original Trinity River bridge",
                     "I-30 original Trinity River bridge, looking west",
                     "I-30 original Trinity River bridge",
                     "Looking west.",
-                    new AerialStatus ("2015", "Obsolete", "A new, wider bridge was built 2014-2017" )),
+                    new AerialStatus ("2018", "Historical Archive", "A new, wider bridge was built 2014-2017. The bridge shown in this photo was demolished." )),
                 new AerialGalleryItem(new DateTime(2011,4,16),"20110416_aerial_0446.JPG", "20110416_aerial_0446-1050.jpg","20110416_aerial_0446-2560.jpg", "aerial", 
                     "I-30 original Trinity River bridge",
                     "I-30 original Trinity River bridge, looking west",
                     "I-30 original Trinity River bridge",
                     "Looking west.",
-                    new AerialStatus ("2015", "Obsolete", "A new, wider bridge was built 2014-2017" )),
+                    new AerialStatus ("2018", "Historical Archive", "A new, wider bridge was built 2014-2017. The bridge shown in this photo was demolished." )),
                 new AerialGalleryItem(new DateTime(2011,4,16),"20110416_aerial_0443.JPG", "20110416_aerial_0443-1050.jpg","20110416_aerial_0443-2560.jpg", "aerial", 
                     "I-30 at Hampton",
                     "I-30 at Hampton, looking east",

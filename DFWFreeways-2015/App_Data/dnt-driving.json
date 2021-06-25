@@ -6,10 +6,10 @@
         "title": "Driving Views",
         "subTitle":  " downtown to Dallas North Tollway",
         "urlParentText": "Dallas North Tollway",
-        "lastUpdated": "Created November 1, 2007. Last updated June 1, 2015 (review and update captions)"
+        "lastUpdated": "Created November 1, 2007. Last updated February 5, 2018 (review and update captions)"
     },
     "map": "dnt_driving_map_380.gif",
-    "text": "2015 status: Changes have been minimal since these photos were taken and most of these photos are still up-to-date. In the Addison area some auxiliary lanes have been added between Belt Line Road and Bush Turnpike.",
+    "text": "2018 status: There have been minor changes since these photos were taken. Between downtown and LBJ Freeway (IH 635), the concrete median barrier was replaced in 2017-2018. In the Addison area some auxiliary lanes have been added between Belt Line Road and Bush Turnpike.",
     "images":
     [
         {
@@ -44,7 +44,7 @@
         },
         {
             "file": "dnt_driving_20070415_IMG_5187.jpg",
-            "caption": "Going northbound to I-635, the Dallas North Tollway has very little variety and basically looks the same along the entire section. The corridor is narrow, 100 feet wide, corresponding to the width of the Cotton Belt railroad corridor which was used for the tollway right-of-way. The tollway drops below grade level for all intersections except three and noise barriers line the corridorfor most of the distance. ",
+            "caption": "Going northbound to I-635, the Dallas North Tollway has very little variety and basically looks the same along the entire section. The corridor is narrow, 100 feet wide, corresponding to the width of the Cotton Belt railroad corridor which was used for the tollway right-of-way. The tollway drops below grade level for all intersections except three and noise barriers line the corridor for most of the distance. ",
             "imageDate": "15-April-2007"
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "file": "dnt_driving_20070415_IMG_5196_at_nw_highway.jpg",
-            "caption": "There is a cluster of mid-rise structure at Loop 12/Northwest Highway.",
+            "caption": "There is a cluster of mid-rise structures at Loop 12/Northwest Highway.",
             "imageDate": "15-April-2007"
         },
         {
@@ -131,7 +131,7 @@
             "file": "dnt_driving_20070415_IMG_5211_at_635.jpg",
             "caption": "",
             "imageDate": "15-April-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Modificatins occurred", "note": "I-635 was widened for the LBJ Express project, completed in 2015. The appearance of the widened overpass is very similar to the original overpass shown here." }
+            "imageStatus": { "statusDate": "2015", "status": "Modified", "note": "I-635 was widened for the LBJ Express project, completed in 2015. The appearance of the widened overpass is very similar to the original overpass shown here." }
 
         },
         {
@@ -162,12 +162,14 @@
         {
             "file": "dnt_driving_20070602_IMG_7029_frankford.jpg",
             "caption": "At the Frankford exit.",
-            "imageDate": "2-June-2007"
+            "imageDate": "2-June-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "In 2017 the right shoulder was converted to a traffic lane." }
         },
         {
             "file": "dnt_driving_20070603_IMG_7303_frankford.jpg",
             "caption": "The Bush Turnpike is just ahead.",
-            "imageDate": "15-April-2007"
+            "imageDate": "15-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "In 2017 the right shoulder was converted to a traffic lane." }
         },
         {
             "file": "dnt_driving_20070603_IMG_7304_approaching_bush.jpg",

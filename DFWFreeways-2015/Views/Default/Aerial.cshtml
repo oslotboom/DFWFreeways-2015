@@ -68,7 +68,7 @@
                     Photo date: @item.ImageDate.ToShortDateString().
                     @if (item.Status != null)
                     {
-                        @(item.Status.StatusDate + " Status: ");
+                        <span>@(item.Status.StatusDate + " Status: ")</span>
                         <span>@item.Status.Status</span>
                         @(item.Status.Note);
                     }

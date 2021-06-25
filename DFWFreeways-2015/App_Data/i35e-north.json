@@ -4,12 +4,12 @@
     {
         "title": "Interstate 35E North",
         "subTitle": "Stemmons Freeway",
-        "lastUpdated": "April 12, 2015"
+        "lastUpdated": "June 24, 2021"
     },
     "Title": "Interstate 35E Stemmons Freeway",
     "Map": "i35e-north.png",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
-    "Text": "A $1.4 billion expansion of Stemmons Freeway between Interstate 635 and Denton is in progress from 2014 to 2017. Other expansions in the corridor are planned but not scheduled as of 2015.",
+    "Text": "A $1.4 billion expansion of Stemmons Freeway between Interstate 635 and Denton was completed in 2017. The project was phase 1 of the planned ultimate corridor design. The new collector-distributor lanes between the Bush Turnpike (SH 190) and Rayburn Turnpike (SH 121) are hugely beneficial, as is the new Lake Lewisville bridge. But other parts of the project were built to low standards with narrow lanes. Work on the secton between IH 635 and the Bush Turnpike is scheduled to begin in 2021.",
     "Features":
     [
         {
@@ -18,7 +18,7 @@
         },
         {
             "FeatureType": "DriversViews",
-            "FeatureProperties": [ ]
+            "FeatureProperties": [ { "AnchorText": "Belt Line to Lewisville", "AnchorUrl": "driving-lewisville" } ]
         },
         {
             "FeatureType": "Book",
@@ -41,8 +41,16 @@
             "FeatureProperties":
             [
                 { "AnchorText": "Elevated Toll Lanes, March 2012", "AnchorUrl": "construction-2012-march" },
-                { "AnchorText": "Lake Lewisville bridge, November 2014", "AnchorUrl": "construction-2014-nov" },
-                { "AnchorText": "Belt Line, January 2015", "AnchorUrl": "construction-2015-jan" }
+                { "AnchorText": "Lake Lewisville bridge: 2014, 2016 and 2017", "AnchorUrl": "construction-2014-nov" },
+                { "AnchorText": "Belt Line, January 2015", "AnchorUrl": "construction-2015-jan" },
+              {
+                "AnchorText": "At SH 121, 2014, 2015 and 2016",
+                "AnchorUrl": "construction-121"
+              },
+              {
+                "AnchorText": "Downtown Collector, 2020-21",
+                "AnchorUrl": "construction-downtown-collector"
+              }
             ]
         },
         {

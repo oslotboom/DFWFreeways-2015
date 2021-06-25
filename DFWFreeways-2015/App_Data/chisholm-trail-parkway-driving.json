@@ -6,10 +6,10 @@
         "title": "Chisholm Trail Parkway Driving Views",
         "subTitle": "Northbound, Cleburne to Downtown Fort Worth",
         "urlParentText": "Chisholm Trail Parkway",
-        "lastUpdated": "June 1, 2015 (create)"
+        "lastUpdated": "June 1, 2015 (create); April 18, 2016 (use new photos at north end)"
     },
     "map": "",
-    "text": "The interchange at I-30 in downtown Fort Worth was still not fully complete when I took these photos in November 2014.",
+    "text": "The Chisholm Trail Parkway opened in May 2014. There was still construction in progress at the I-30 interchange in 2014, and all work was completed in 2015. In April 2016 I added photos of the completed project approaching I-30.",
     "images":
     [
         {
@@ -163,34 +163,49 @@
             "imageDate": "9-November-2014"
         },
         {
-            "file": "20141109_6583-1100.jpg",
-            "caption": "Approaching the I-30 interchange. Construction work was still in progress at the time of these photos in November 2014.",
-            "imageDate": "9-November-2014"
+            "file": "20160325-27-0297-1100.jpg",
+            "caption": "At Mongomery Street",
+            "imageDate": "26-March-2016"
         },
         {
-            "file": "20141109_6584-1100.jpg",
+            "file": "20160325-27-0298-1100.jpg",
             "caption": "",
-            "imageDate": "9-November-2014"
+            "imageDate": "26-March-2016"
         },
         {
-            "file": "20141109_6585-1050.jpg",
+            "file": "20160325-27-0299-1000.jpg",
             "caption": "",
-            "imageDate": "9-November-2014"
+            "imageDate": "26-March-2016"
         },
         {
-            "file": "20141109_6588-1100.jpg",
+            "file": "20160325-27-0300-1100.jpg",
             "caption": "",
-            "imageDate": "9-November-2014"
+            "imageDate": "26-March-2016"
         },
         {
-            "file": "20141109_6590-1100.jpg",
+            "file": "20160325-27-0302-1100.jpg",
+            "caption": "Notice the architectural enhancements on the left",
+            "imageDate": "26-March-2016"
+        },
+        {
+            "file": "20160325-27-0303-1000.jpg",
             "caption": "",
-            "imageDate": "9-November-2014"
+            "imageDate": "26-March-2016"
         },
         {
-            "file": "20141109_6592-1200.jpg",
-            "caption": "Ahead is the merge into eastbound I-30",
-            "imageDate": "9-November-2014"
+            "file": "20160325-27-0304-1200.jpg",
+            "caption": "",
+            "imageDate": "26-March-2016"
+        },
+        {
+            "file": "20160325-27-0305-1200.jpg",
+            "caption": "",
+            "imageDate": "26-March-2016"
+        },
+        {
+            "file": "20160325-27-0306-1200.jpg",
+            "caption": "Merging into I-30 eastbound just ahead.",
+            "imageDate": "26-March-2016"
         }
 
 

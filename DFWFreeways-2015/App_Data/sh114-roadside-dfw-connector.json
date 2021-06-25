@@ -1,0 +1,62 @@
+﻿{
+    "folderPath": "",
+    "title": "SH 114 DFW Connector photos",
+    "pageHeader":
+    {
+        "title": "DFW Connector",
+        "urlParentText": "SH 114",
+        "lastUpdated": "May 31, 2015 (create)"
+    },
+    "map": "",
+    "text": "The DFW Connector opened in 2013 after a $1.1 billion construction job to widen the existing freeway. It is the widest freeway in North Texas, with around 13 main lanes, 4 toll lanes and a minium of 6 frontage road lanes.",
+    "images":
+    [
+        {
+            "file": "20150531-0058-550.jpg",
+            "caption": "Signage, northbound at Main Street",
+            "imageDate": "31-May-2015"
+        },        
+        {
+            "file": "20150531-0053-750.jpg",
+            "caption": "Architectural enhancement of the retaining wall.",
+            "imageDate": "31-May-2015"
+        },
+        {
+            "file": "20150531-0009-1050.jpg",
+            "highResolution":  "20150531-0009-2560.jpg",
+            "caption": "Looking east from Texan Trail.",
+            "imageDate": "31-May-2015"
+        },
+        {
+            "file": "20150531-0012-1050.jpg",
+            "highResolution":  "20150531-0012-2560.jpg",
+            "caption": "Looking east from Texan Trail.",
+            "imageDate": "31-May-2015"
+        },
+        {
+            "file": "20150531-0025-1050.jpg",
+            "caption": "Looking west from Texan Trail.",
+            "imageDate": "31-May-2015"
+        },
+        {
+            "file": "20150531-0038-1050.jpg",
+            "highResolution":  "20150531-0038-2560.jpg",
+            "caption": "Looking east from Main Street. The vehicles on the right side are going to SH 121 southbound. The left side of the split stays on SH 114 westbound.",
+            "imageDate": "31-May-2015"
+        },
+        {
+            "file": "20150531-0039-1050.jpg",
+            "highResolution":  "20150531-0039-2560.jpg",
+            "caption": "Looking east from Main Street, showing the four tolled managed lanes in the middle.",
+            "imageDate": "31-May-2015"
+        },
+        {
+            "file": "20150531-0044-1050.jpg",
+            "highResolution":  "20150531-0044-2560.jpg",
+            "caption": "Looking east from Main Street along the eastbound lanes.",
+            "imageDate": "31-May-2015"
+        }
+
+    ]
+
+}

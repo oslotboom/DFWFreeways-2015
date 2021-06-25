@@ -17,17 +17,20 @@ namespace DFWFreeways.Models
                     "Bush Turnpike at Rosemeade Parkway",
                     "Bush Turnpike at Rosemeade Parkway, looking southwest",
                     "Bush Turnpike at Rosemeade Parkway",
-                    "Looking southwest at Rosemeade Parkway."),
+                    "Looking southwest at Rosemeade Parkway.",
+                    new AerialStatus ("2018", "Modified", "An additional lane in each direction is being added in the median scheduled for 2019 opening." )),
                 new AerialGalleryItem(new DateTime(2011,4,16),"20110416_aerial_0216.JPG","20110416_aerial_0216-1050.jpg", "20110416_aerial_0216-2560.jpg", "aerial", 
                     "Bush Turnpike at Kelly Blvd",
                     "Bush Turnpike at Kelly Blvd, looking west",
                     "Bush Turnpike at Kelly Blvd",
-                    "Looking west at Kelly Blvd."),
+                    "Looking west at Kelly Blvd.",
+                    new AerialStatus ("2018", "Modified", "An additional lane in each direction is being added in the median scheduled for 2019 opening." )),
                 new AerialGalleryItem(new DateTime(2011,4,16),"20110416_aerial_0218.JPG","20110416_aerial_0218-1050.jpg", "20110416_aerial_0218-2560.jpg", "aerial", 
                     "Bush Turnpike at Kelly Blvd",
                     "Bush Turnpike at Kelly Blvd, looking west",
                     "Bush Turnpike at Kelly Blvd",
-                    "Looking west at Kelly Blvd.")
+                    "Looking west at Kelly Blvd.",
+                    new AerialStatus ("2018", "Modified", "An additional lane in each direction is being added in the median scheduled for 2019 opening." ))
           
             };
         }

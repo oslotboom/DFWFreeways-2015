@@ -4,16 +4,18 @@
     {
         "title": "SH 114",
         "subTitle": "Carpenter Freeway",
-        "lastUpdated": "June 1, 2015"
+        "lastUpdated": "June 24, 2021 (update text)"
     },
     "Title": "SH 114 Carpenter Freeway",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
-    "Text": "Addition of managed lanes (one in each direction) began in 2015. The long-term plan for a major expansion of the freeway is on hold in 2015.",
+    "Text": "2021 status: Most photos shown for SH 114 are out-of-date due to completed improvements, and the photos serve as an archive of the original freeway. New managed lanes (one in each direction) opened in 2017. The long-term plan for a major expansion of the freeway is unfunded and unscheduled as of 2021.",
     "Features":
     [
         {
             "FeatureType": "Roadside",
-            "FeatureProperties": [ { "AnchorText": "Roadside Views", "AnchorUrl": "roadside" } ]
+            "FeatureProperties": [ { "AnchorText": "Roadside Views", "AnchorUrl": "roadside" },
+                                   { "AnchorText": "DFW Connector", "AnchorUrl": "roadside-dfw-connector" }
+            ]
         },
         {
             "FeatureType": "DriversViews",
@@ -31,8 +33,7 @@
         },
         {
             "FeatureType": "Construction",
-            "FeatureProperties":
-            [ ]
+            "FeatureProperties": [ ]
         },
         {
             "FeatureType": "Aerial",

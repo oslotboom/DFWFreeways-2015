@@ -20,7 +20,7 @@ namespace DFWFreeways.Models
         public static List<AerialGalleryItem> i35e_north_market_center_images()
         {
             return new List<AerialGalleryItem>() {
-                new AerialGalleryItem(new DateTime(2012,4,6),"20120406_3275.JPG","20120406_3275-1050.jpg", "20090623_aerial_0007-2560.JPG", "aerial", 
+                new AerialGalleryItem(new DateTime(2012,4,6),"20120406_3275.JPG","20120406_3275-1050.jpg", "20120406_3275-2560.jpg", "aerial", 
                     "I-35E looking southeast at Medical District Drive.",
                     "I-35E Stemmons Freeway looking southeast at Medical District Drive.",
                     "Looking southeast at Medical District Drive",

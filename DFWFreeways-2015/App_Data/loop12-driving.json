@@ -6,10 +6,10 @@
         "title": "Driving Views Northbound",
         "subTitle": "",
         "urlParentText": "Loop 12",
-        "lastUpdated": "Created December 11, 2007. Last updated June 1, 2015 (update captions, add photo)"
+        "lastUpdated": "Created December 11, 2007. Last updated Feb 5, 2018 (update captions)"
     },
     "map": "12_driving_550.gif",
-    "text": "2015 update: Some of the photos below have become obsolete due to changes in the area of the former Texas Stadium, as noted in the image captions. There are long-term plans to widen and modernize the Loop 12 corridor, but the work is not funded or scheduled as of 2015.",
+    "text": "2018 update: Some of the photos below have become obsolete due to changes in the area of the former Texas Stadium, as noted in the image captions. There are long-term plans to widen and modernize the Loop 12 corridor, but the work is not funded or scheduled as of 2021.",
     "images":
     [
 
@@ -31,7 +31,7 @@
         },
         {
             "file": "12_driving_20071028_IMG_9756_at_i30.jpg",
-            "caption": "At Interstate 30. At the time of this photo, construction was in progress to rebuild the I-30 main lanes. There are long-term plans for a modern 4-level interchange at this location, but as of 2015 the interchange construction is not funded or scheduled.",
+            "caption": "At Interstate 30. At the time of this photo, construction was in progress to rebuild the I-30 main lanes. There are long-term plans for a modern 4-level interchange at this location, but as of 2018 the interchange construction is not funded or scheduled.",
             "imageDate": "28-Oct-2007"
         },
         {
@@ -73,31 +73,43 @@
             "file": "12_driving_20071028_IMG_9764_approaching_183.jpg",
             "caption": "Approaching TX 183 with Texas Stadium just ahead.",
             "imageDate": "28-Oct-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Partially Obsolete", "note": "Texas Stadium was imploded and cleared in 2010. The freeway remains the same in 2015." }
+            "imageStatus": { "statusDate": "2021", "status": "Obsolete", "note": "Texas Stadium was imploded and cleared in 2010. In 2021 work began on a new multi-level interchange at SH 183." }
         },
         {
             "file": "12_driving_20071028_IMG_9765_at_183.jpg",
             "caption": "Exit to 183. The interchange at SH 183 features an antiquated and obsolete design with loop connectors and poor geometrics.",
             "imageDate": "28-Oct-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Partially Obsolete", "note": "Texas Stadium was imploded and cleared in 2010. The freeway remains the same in 2015." }
+          "imageStatus": {
+            "statusDate": "2021",
+            "status": "Obsolete",
+            "note": "Texas Stadium was imploded and cleared in 2010. In 2021 work began on a new multi-level interchange at SH 183."
+          }
         },
         {
             "file": "12_driving_20071028_IMG_9766_texas_stadium.jpg",
             "caption": "",
             "imageDate": "28-Oct-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Partially Obsolete", "note": "Texas Stadium was imploded and cleared in 2010. The freeway remains the same in 2015." }
+          "imageStatus": {
+            "statusDate": "2021",
+            "status": "Obsolete",
+            "note": "Texas Stadium was imploded and cleared in 2010. In 2021 work began on a new multi-level interchange at SH 183."
+          }
         },
         {
             "file": "12_driving_20071028_IMG_9767_at_183.jpg",
             "caption": "At TX 183",
             "imageDate": "28-Oct-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "In 2015 the first phase of work began to modernize this interchange. Two direct connection ramps will be added." }
+          "imageStatus": {
+            "statusDate": "2018",
+            "status": "Obsolete",
+            "note": "In 2018 major improvments to this interchange were completed, including widening SH 183 and two new connection ramps. In 2021 work began on a new multi-level interchange at SH 183."
+          }
         },
         {
             "file": "12_driving_20071028_IMG_9768_at_texas_plaza.jpg",
             "caption": "At Texas Plaza.",
             "imageDate": "28-Oct-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section of freeway was rebuilt and widened in 2012 during phase 1 of the Diamond Interchange project." }
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section of freeway was rebuilt and widened in 2012 during phase 1 of the Diamond Interchange project. In 2018 new ramps connecting to SH 183 were added." }
         },
         {
             "file": "12_driving_20071028_IMG_9769_over_114.jpg",
@@ -108,12 +120,14 @@
         {
             "file": "12_driving_20071028_IMG_9770_trinity_bridge.jpg",
             "caption": "On the Trinity River bridge, crossing into Dallas from Irving.",
-            "imageDate": "28-Oct-2007"
+            "imageDate": "28-Oct-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "Managed lanes were added to the freeway in 2018." }
         },
         {
             "file": "12_driving_20071028_IMG_9771_at_nw_hwy.jpg",
             "caption": "At Northwest Highway. This area has a dense concentration of liquor stores, gentlemen's clubs, bars, and restaurants. Eastbound Loop 12 traffic exits here. ",
-            "imageDate": "28-Oct-2007"
+            "imageDate": "28-Oct-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "Managed lanes were added to the freeway in 2018." }
         },
         {
             "file": "12_driving_20071028_IMG_9773_merging_with_35e.jpg",

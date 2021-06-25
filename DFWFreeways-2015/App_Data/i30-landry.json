@@ -4,7 +4,7 @@
     {
         "title": "Interstate 30",
         "subTitle": "Tom Landry Highway",
-        "lastUpdated": "June 1, 2015"
+        "lastUpdated": "May 27, 2019"
     },
     "Title": "Interstate 30 Dallas-Fort Worth",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -43,8 +43,10 @@
         },
         {
             "FeatureType": "Construction",
-            "FeatureProperties": [ 
-                { "AnchorText": "Arlington, 2008-2009", "AnchorUrl": "construction-2009" }
+            "FeatureProperties": [
+                { "AnchorText": "Arlington, 2008-2009", "AnchorUrl": "construction-2009" },
+                { "AnchorText": "SH 360 Interchange, 2016-2022", "AnchorUrl": "construction-360" }
+
             ]
         },
         {

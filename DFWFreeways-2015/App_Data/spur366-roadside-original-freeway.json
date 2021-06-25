@@ -17,7 +17,7 @@
             "highResolution": "IMG_2398_366_st_paul_2048_20061118.jpg",
             "caption": "Looking east at St. Paul. The freeway here was covered with the deck for Klyde Warren Park.",
             "imageDate": "18-Nov-2006",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Klyde Warren Park was built over the freeway at this location." }
+            "imageStatus": { "statusDate": "2015", "status": "Historical Archive", "note": "Klyde Warren Park was built over the freeway at this location." }
 
         },
         {
@@ -25,14 +25,14 @@
             "highResolution": "IMG_2400_366_looking_into_trench_st_paul_2048_20061118.jpg",
             "caption": "At St. Paul, looking northeast from the edge of the trench.",
             "imageDate": "18-Nov-2006",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Klyde Warren Park was built over the freeway at this location." }
+            "imageStatus": { "statusDate": "2015", "status": "Historical Archive", "note": "Klyde Warren Park was built over the freeway at this location." }
         },
         {
             "file": "IMG_2402_366_st_paul_exit_950_20061118.jpg",
             "highResolution": "IMG_2402_366_st_paul_exit_2048_20061118.jpg",
             "caption": "The exit ramp just east of St. Paul. This ramp was removed.",
             "imageDate": "18-Nov-2006",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Klyde Warren Park was built over the freeway at this location and the ramp was removed." }
+            "imageStatus": { "statusDate": "2015", "status": "Historical Archive", "note": "Klyde Warren Park was built over the freeway at this location and the ramp was removed." }
         },
         {
             "file": "IMG_2387_366_pearl_950_20061118.jpg",
@@ -69,14 +69,14 @@
             "highResolution": "366_20061028_kays_building_front_view_wide_2880_IMG_2293.jpg",
             "caption": "This view is on the Spur 366 right-of-way, looking west in the direction of the extension. The Suzanne L. Kays Detention Center was demolished.",
             "imageDate": "28-Oct-2006",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The freeway was extended westward to the Margaret Hunt Hill Bridge." }
+            "imageStatus": { "statusDate": "2015", "status": "Historical Archive", "note": "The freeway was extended westward to the Margaret Hunt Hill Bridge. The building in the background was demolished." }
         },
         {
             "file": "366_20061028_eastbound_start_at_industrial_950_IMG_2287.jpg",
             "highResolution": "366_20061028_eastbound_start_at_industrial_2592_IMG_2287.jpg",
             "caption": "This is the eastbound start of the freeway at Riverfront.",
             "imageDate": "28-Oct-2006",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The freeway was extended westward to the Margaret Hunt Hill Bridge and this entrance no longer exists." }
+            "imageStatus": { "statusDate": "2015", "status": "Historical Archive", "note": "The freeway was extended westward to the Margaret Hunt Hill Bridge and this entrance no longer exists. The building in the background was demolished." }
         }
 
 

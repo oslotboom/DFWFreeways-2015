@@ -95,7 +95,7 @@ table {
     font-size: 1.8em; }
   .header #last-update {
     padding: 0 0 8px 0;
-    font-style: italic; }
+     }
     .header #last-update span {
       font-weight: bold;
       font-style: normal; }
@@ -112,10 +112,8 @@ body {
 
 #last-update {
   padding: 0 0 8px 0;
-  font-style: italic; }
-  #last-update span {
-    font-weight: bold;
-    font-style: normal; }
+}
+
 
 #text {
   padding-bottom: 8px;

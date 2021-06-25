@@ -81,7 +81,7 @@ namespace DFWFreeways.Models
                     "I-35E at I-635, looking south",
                     "I-35E at I-635",
                     "Looking south.",
-                    new AerialStatus ("2015", "Obsolete", "Elevated tolled express lanes have been built on this section of freeway." ) ),
+                    new AerialStatus ("2015", "Obsolete", "Elevated tolled express lanes have been built on this section of freeway. Texas Stadium, visible in the distance, was demolished in 2010." ) ),
                 new AerialGalleryItem(new DateTime(2005,4,11),"","1_635_looking_e_at_trinity_2005-04-11_ADJ_900.jpg", "1_635_looking_e_at_trinity_2005-04-11_ADJ_2774x1737.png", "aerial", 
                     "I-635 west of I-35E",
                     "I-635 west of I-35E, looking east",

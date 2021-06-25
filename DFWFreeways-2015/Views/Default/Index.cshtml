@@ -14,8 +14,27 @@
 
     <div id="header-title">
         <div><img src="@Url.Content("~/images/DFW-Freeways-Text-485.png")" /></div>
-        <div><span class="announce">New look and more photos!</span> May 25, 2015: Over 1100 new photos added.</div>
-        <div>Home of the 2014 ebook <span class="semibold">Dallas-Fort Worth Freeways, Texas-Sized Ambition</span>, available for free download below. Also featuring extensive photography, historical information and a large collection of digitized old highway maps.</div>
+        @*<div><span class="announce">Recent updates:</span> 19-March-2018 &nbsp; Ranger Hill construction photos </div>*@
+        @*<div><span class="announce">Recent updates:</span> 9-Sept-2015 &nbsp; <a href="@Url.Action("freeway", new { id = "i635", detail="roadside-lbj-express" })">LBJ Express</a> &nbsp; &nbsp;<a href="@Url.Action("freeway", new { id= "i635", detail="driving"})">Driving Views</a> </div>*@
+        @*@<div><span class="announce">Recent updates:</span> 19-March-2018 &nbsp; <a href="@Url.Action("freeway", new { id = "i20-west", detail="construction-ranger-hill" })">Ranger Hill construction photos</a>  </div> *@
+        @*<div>
+            <span class="announce">Recent updates:</span> 10-Sept-2017 Photos added
+            <a href="@Url.Action("freeway", new { id = "i35e-north", detail = "driving-lewisville" })">Interstate 35E north Lewisville</a>
+        </div>*@
+        @*<div><span class="announce">Recent updates:</span> 4-June-2017 Construction photos added <a href="@Url.Action("freeway", new { id = "i35w", detail="construction-2016-nov" })">IH-35W North Tarrant Express Construction</a></div>*@
+        @*<div><span class="announce">Recent updates:</span> 27-May-2019 &nbsp; <a href="@Url.Action("freeway", new { id = "i635", detail="roadside-valley-view-mall-demolition" })">Valley View Mall demolition</a></div>*@
+    <div>
+        <span class="announce">Recent updates:</span> 24-June-2021 photos added
+        &nbsp;
+        <a href="@Url.Action("freeway", new { id = "i30-dallas", detail="roadside-pedestrian-bridge" })">1</a>
+        <a href="@Url.Action("freeway", new { id = "i635", detail="construction-lbj-east" })">2</a>  
+        <a href="@Url.Action("freeway", new { id = "i35e-north", detail="construction-downtown-collector" })">3</a>
+        <a href="@Url.Action("freeway", new { id = "us175", detail="construction-removal" })">4</a>
+
+    </div>
+
+
+        <div>Home of the 2014 ebook <span class="semibold">Dallas-Fort Worth Freeways, Texas-Sized Ambition</span>, available for free download below. Also featuring extensive photography, historical information and a large collection of digitized <a href="@Url.Action("maps")"> old highway maps</a>.</div>
     </div>
     <div id="header-container">
         <a href="@Url.Action("maps")">
@@ -58,7 +77,7 @@
         <div id="legend">Click on pink areas for aerial photos.<br />Click on highway shields for info and photos</div>
     </div>
     <div id="right-pane" class="clearfix">
-
+        <span style="display:block; font-size:120%">Contact DFWFreeways.com <a href="Mailto:webmaster@dfwfreeways.com">email</a></span>
 
         @foreach (KeyValuePair<string, List<DFWFreeways.Models.Link>> linkGroup in Model.Links)
         {
@@ -102,6 +121,10 @@
                                 <div>&nbsp;May 2014</div>
                             </div>
                             <div class="clearfix one-line">
+                                <div>Author</div>
+                                <div>&nbsp;Oscar Slotboom</div>
+                            </div>
+                            <div class="clearfix one-line">
                                 <div>Pages</div>
                                 <div>&nbsp;541</div>
                             </div>
@@ -115,7 +138,7 @@
                             </div>
                             <div class="clearfix line-break-narrow">
                                 <div>Printed book price</div>
-                                <div>&nbsp;List: $150<br />&nbsp;Amazon: $100</div>
+                                <div>&nbsp;List: $150</div>
                             </div>
                             <div class="clearfix line-break-narrow">
                                 <div>ISBN</div>
@@ -128,8 +151,8 @@
                             <div class="clearfix line-break-narrow">
                                 <div>Press</div>
                                 <div>
-                                    <a href="http://transportationblog.dallasnews.com/2014/05/a-decade-spent-writing-a-book-about-how-dallas-built-its-freeways-and-how-its-freeways-built-dallas.html/">Dallas Morning News</a>
-                                    <br />
+                                    @*<a href="http://transportationblog.dallasnews.com/2014/05/a-decade-spent-writing-a-book-about-how-dallas-built-its-freeways-and-how-its-freeways-built-dallas.html/">Dallas Morning News</a>
+                                    <br />*@
                                     <a href="https://www.aiadallas.org/v/blog-detail/A-Conversation-with-Oscar-Slotboom/i5/">AIA Dallas Columns Magazine</a>
 
                                 </div>
@@ -242,7 +265,7 @@
                                                     <b>
                                                         @if (excerpt.QuickViewFolder == "ExIllustration")
                                                         {
-                                                        <a href="@Url.Action("photos", new { id="illustrations"})">Quick View</a>}
+                                                            <a href="@Url.Action("photos", new { id="illustrations"})">Quick View</a>}
                                                         else
                                                         {<a href="@(Url.Action(excerpt.QuickViewFolder, "book", new { startOdd = excerpt.StartOdd.ToString() }))">Quick View</a>}
                                                     </b>

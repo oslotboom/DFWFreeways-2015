@@ -3,7 +3,7 @@
     "pageHeader":
     {
         "title": "Interstate 30 in Dallas",
-        "lastUpdated": "June 1, 2015"
+        "lastUpdated": "June 24, 2021"
     },
     "Title": "Interstate 30 Dallas",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -12,7 +12,20 @@
     [
         {
             "FeatureType": "Roadside",
-            "FeatureProperties": [ { "AnchorText": "Lake Ray Hubbard to Dallas", "AnchorUrl": "roadside-dallas" }, { "AnchorText": "Downtown Canyon", "AnchorUrl": "roadside-canyon" } ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "Lake Ray Hubbard to Dallas",
+              "AnchorUrl": "roadside-dallas"
+            },
+            {
+              "AnchorText": "Downtown Canyon",
+              "AnchorUrl": "roadside-canyon"
+            },
+            {
+              "AnchorText": "Margaret McDermott Pedestrian Bridge",
+              "AnchorUrl": "roadside-pedestrian-bridge"
+            }
+          ]
         },
         {
             "FeatureType": "DriversViews",
@@ -29,7 +42,9 @@
         },
         {
             "FeatureType": "Construction",
-            "FeatureProperties": [ ]
+            "FeatureProperties": [ 
+                { "AnchorText": "Horseshoe, 2014-2016", "AnchorUrl": "construction-horseshoe" }
+            ]
         },
         {
             "FeatureType": "Aerial",
@@ -47,7 +62,7 @@
         },
         {
             "FeatureType": "Historical",
-            "FeatureProperties": [{ "AnchorText": "News Reports", "AnchorUrl": "historical" } ]
+            "FeatureProperties": [ { "AnchorText": "News Reports", "AnchorUrl": "historical" } ]
         },
         {
             "FeatureType": "Video",

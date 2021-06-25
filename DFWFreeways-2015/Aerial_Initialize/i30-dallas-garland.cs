@@ -22,7 +22,7 @@ namespace DFWFreeways.Models
                     "I-30 in Garland looking northeast",
                     "I-30 in Garland",
                     "Looking northeast along I-30."),
-                new AerialGalleryItem(new DateTime(2011,4,16),"","30e_lake_hubbard_crossing_sept2008_950.jpg", "30e_lake_hubbard_crossing_sept2008_2112.jpg", "aerial", 
+                new AerialGalleryItem(new DateTime(2008,9,1),"","30e_lake_hubbard_crossing_sept2008_950.jpg", "30e_lake_hubbard_crossing_sept2008_2112.jpg", "aerial", 
                     "I-30 at Lake Ray Hubbard",
                     "I-30 at Lake Ray Hubbard looking northeast",
                     "I-30 in Garland",

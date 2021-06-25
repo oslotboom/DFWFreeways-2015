@@ -1,132 +1,203 @@
 ﻿{
     "folderPath": "",
     "title": "Dallas North Tollway photos",
-    "pageHeader":
-    {
-        "title": "Roadside Views, North of I-635",
-        "urlParentText": "Dallas North Tollway",
-        "lastUpdated": "Created November 1, 2007. Last updated June 1, 2015 (review and update captions)"
-    },
+  "pageHeader": {
+    "title": "Roadside Views, North of I-635",
+    "urlParentText": "Dallas North Tollway",
+    "lastUpdated": "Created November 1, 2007. Updated Feb 5, 2018 (review and update captions). Last updated March 24, 2018 (add photos)"
+  },
     "map": "dnt_roadside_revised_465.gif",
-    "text": "2015 status: There have been some changes to the corridor as of 2015, including construction of the interchange at SH 121, modification of the toll plazas and the addition of auxiliary lanes, as noted in the affected photos. The other views are generally accurate as of 2015. However, work to widen the section between Bush Turnpike and SH 121 is scheduled to begin in 2015.",
-    "images":
-    [
-        {
-            "file": "dnt_20071118_IMG_9822_sign_500.jpg",
-            "caption": "This is the original Dallas North Tollway sign, a distinctive design called the \"Circle D\" which was used from the opening of the tollway in 1968 to its official retirement in 2013. However, I still seemed to see the Circle D sign after 2013 and as of 2015 I don't know if all the Circle D signs have been replaced.",
-            "imageDate": "18-Nov-2007"
-        },
-        {
-            "file": "dnt_2007118_IMG_9810_at_lbj_south_side_950.jpg",
-            "caption": "Looking north from the south side of the interchange at I-635 Lyndon B. Johnson Freeway. The tollway is on the ground level, I-635 is on the middle level, and the frontage road connections are on the upper level. Interstate 635 was widened during the LBJ Express project, completed in 2015, but the Dallas North Toll Road was minimally affected by the project.",
-            "imageDate": "18-Nov-2007"
-        },
-        {
-            "file": "dnt_20071118_IMG_9813_at_lbj_north_side_950.jpg",
-            "highResolution": "dnt_20071118_IMG_9813_at_lbj_north_side_2048.jpg",
-            "caption": "Looking north from the westbound I-635 frontage road. The tollway ahead is very narrow and very congested during rush hour. The Galleria shopping and office complex is on the right.",
-            "imageDate": "18-Nov-2007"
-        },
-        {
-            "file": "dnt_20071118_IMG_9809_n_of_spring_valley_950.jpg",
-            "caption": "Looking north, north of Spring Valley.",
-            "imageDate": "18-Nov-2007"
-        },
-        {
-            "file": "dnt_20071118_IMG_9805_s_of_belt_line_950.jpg",
-            "highResolution": "dnt_20071118_IMG_9805_s_of_belt_line_2601.jpg",
-            "caption": "This view looks north, south of Belt Line. The toll plaza structure was modified when the NTTA toll road system became all-electronic.",
-            "imageDate": "18-Nov-2007"
-        },
-        {
-            "file": "dnt_20071118_IMG_9800_at_belt_line_950.jpg",
-            "caption": "Looking north at Belt Line. The intersection at Belt Line is probably the most severely congested on the Dallas North Tollway, especially in the afternoon. The Frankford intersection is the second most congested.",
-            "imageDate": "18-Nov-2007"
+    "text": "2018 status: There have been substantial changes to the corridor since most of these photos were taken, including construction of the interchange at SH 121, major widening between the Bush Turnpike and Rayburn Turnpike, modification of the toll plazas, and the addition of auxiliary lanes, as noted in the affected photos.",
+  "images": [
+    {
+      "file": "dnt_20071118_IMG_9822_sign_500.jpg",
+      "caption": "This is the original Dallas North Tollway sign, a distinctive design called the \"Circle D\" which was used from the opening of the tollway in 1968 to its official retirement in 2013. However, I still seemed to see the Circle D sign after 2013 and as of 2015 I don't know if all the Circle D signs have been replaced.",
+      "imageDate": "18-Nov-2007"
+    },
+    {
+      "file": "dnt_2007118_IMG_9810_at_lbj_south_side_950.jpg",
+      "caption": "Looking north from the south side of the interchange at I-635 Lyndon B. Johnson Freeway. The tollway is on the ground level, I-635 is on the middle level, and the frontage road connections are on the upper level. Interstate 635 was widened during the LBJ Express project, completed in 2015, but the Dallas North Toll Road was minimally affected by the project.",
+      "imageDate": "18-Nov-2007"
+    },
+    {
+      "file": "dnt_20071118_IMG_9813_at_lbj_north_side_950.jpg",
+      "highResolution": "dnt_20071118_IMG_9813_at_lbj_north_side_2048.jpg",
+      "caption": "Looking north from the westbound I-635 frontage road. The tollway ahead is very narrow and very congested during rush hour. The Galleria shopping and office complex is on the right.",
+      "imageDate": "18-Nov-2007"
+    },
+    {
+      "file": "dnt_20071118_IMG_9809_n_of_spring_valley_950.jpg",
+      "caption": "Looking north, north of Spring Valley.",
+      "imageDate": "18-Nov-2007"
+    },
+    {
+      "file": "dnt_20071118_IMG_9805_s_of_belt_line_950.jpg",
+      "highResolution": "dnt_20071118_IMG_9805_s_of_belt_line_2601.jpg",
+      "caption": "This view looks north, south of Belt Line. The toll plaza structure was modified when the NTTA toll road system became all-electronic.",
+      "imageDate": "18-Nov-2007"
+    },
+    {
+      "file": "dnt_20071118_IMG_9800_at_belt_line_950.jpg",
+      "caption": "Looking north at Belt Line. The intersection at Belt Line is probably the most severely congested on the Dallas North Tollway, especially in the afternoon. The Frankford intersection is the second most congested.",
+      "imageDate": "18-Nov-2007"
 
-        },
-        {
-            "file": "dnt_20070526_IMG_7025_arapaho.jpg",
-            "caption": "The tollway is in a narrow trench underneath Arapaho and the railroad. This view looks south toward Arapaho.",
-            "imageDate": "26-May-2007"
-        },
-        {
-            "file": "dnt_20041002_DSC00020_addison_plaza.jpg",
-            "caption": "Looking north at the toll plaza in Addison near Keller Springs",
-            "imageDate": "2-Oct-2004",
-            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "Most of the toll plaza was removed when the NTTA system became all electronic." }
+    },
+    {
+      "file": "dnt_20070526_IMG_7025_arapaho.jpg",
+      "caption": "The tollway is in a narrow trench underneath Arapaho and the railroad. This view looks south toward Arapaho.",
+      "imageDate": "26-May-2007"
+    },
+    {
+      "file": "dnt_20041002_DSC00020_addison_plaza.jpg",
+      "caption": "Looking north at the toll plaza in Addison near Keller Springs",
+      "imageDate": "2-Oct-2004",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Modified",
+        "note": "The toll plaza was removed when the NTTA system became all electronic."
+      }
 
-        },
-        {
-            "file": "dnt_20070602_IMG_7028_arapaho_toll_plaza.jpg",
-            "highResolution": "dnt_20070602_IMG_7028_arapaho_toll_plaza_2592.jpg",
-            "caption": "Looking south at the Addison toll plaza",
-            "imageDate": "2-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "Most of the toll plaza was removed when the NTTA system became all electronic." }
+    },
+    {
+      "file": "dnt_20070602_IMG_7028_arapaho_toll_plaza.jpg",
+      "highResolution": "dnt_20070602_IMG_7028_arapaho_toll_plaza_2592.jpg",
+      "caption": "Looking south at the Addison toll plaza",
+      "imageDate": "2-June-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Obsolete",
+        "note": "The toll plaza was removed when the NTTA system became all electronic."
+      }
 
-        },
-        {
-            "file": "dnt_20070602_IMG_7030_trinity_mills_950.jpg",
-            "caption": "Looking south at Trinity Mills",
-            "imageDate": "2-June-2007"
-        },
-        {
-            "file": "dnt_20090101_IMG_5834_gasoline_140.jpg",
-            "caption": "At the Frankford intersection on January 1, 2009. Gasoline was around $4.00 per gallon in the summer of 2008 but had dropped to $1.40 per gallon due to the economic crisis and oil price collapse. Gasoline prices have not been at $1.40 per gallon since this photo, although they were around $1.75/gallon in early 2015.",
-            "imageDate": "1-Jan-2009"
-        },
-        {
-            "file": "dnt_20070602_IMG_7035_looking_s_at_bush.jpg",
-            "highResolution": "dnt_20070602_IMG_7035_looking_s_at_bush_highres.jpg",
-            "caption": "Looking south at the Bush Turnpike interchange",
-            "imageDate": "2-June-2007"
-        },
-        {
-            "file": "dnt_20070602_IMG_7036_looking_n_at_plano_pkwy.jpg",
-            "caption": "Looking north at the Bush Turpike interchange, with Plano Parkway just ahead.",
-            "imageDate": "2-June-2007"
-        },
-        {
-            "file": "dnt_20070602_IMG_7038_n_of_park.jpg",
-            "caption": "Looking south north of Park",
-            "imageDate": "2-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "This section is slated to be widened to four lanes in each direction, with work scheduled to begin in 2015." }
+    },
+    {
+      "file": "dnt_20070602_IMG_7030_trinity_mills_950.jpg",
+      "caption": "Looking south at Trinity Mills",
+      "imageDate": "2-June-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Modified",
+        "note": "The exterior shoulder been converted into a traffic lane."
+      }
+    },
+    {
+      "file": "dnt_20090101_IMG_5834_gasoline_140.jpg",
+      "caption": "At the Frankford intersection on January 1, 2009. Gasoline was around $4.00 per gallon in the summer of 2008 but had dropped to $1.40 per gallon due to the economic crisis and oil price collapse. Gasoline prices have not been at $1.40 per gallon since this photo, although they were around $1.75/gallon in early 2015.",
+      "imageDate": "1-Jan-2009"
+    },
+    {
+      "file": "dnt_20070602_IMG_7035_looking_s_at_bush.jpg",
+      "highResolution": "dnt_20070602_IMG_7035_looking_s_at_bush_highres.jpg",
+      "caption": "Looking south at the Bush Turnpike interchange",
+      "imageDate": "2-June-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Modified",
+        "note": "The connection ramps on both sides were widened, completed in 2018."
+      }
+    },
+    {
+      "file": "dnt_20070602_IMG_7036_looking_n_at_plano_pkwy.jpg",
+      "caption": "Looking north at the Bush Turpike interchange, with Plano Parkway just ahead.",
+      "imageDate": "2-June-2007"
+    },
+    {
+      "file": "dnt_20070602_IMG_7038_n_of_park.jpg",
+      "caption": "Looking south north of Park",
+      "imageDate": "2-June-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Modified",
+        "note": "This section was widened to four lanes in each direction, completed in 2018."
+      }
 
-        },
-        {
-            "file": "dnt_20070602_IMG_7042_north_toll_plaza.jpg",
-            "caption": "At the north toll plaza. The guardrail supports have rubber impact absorbers. The Dallas North Tollway is the first\r\n\t\t\t\t\tplace I noticed this type of guardrail design.",
-            "imageDate": "2-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "Most of the toll plaza was removed when the NTTA system became all electronic." }
+    },
+    {
+      "file": "dnt_20070602_IMG_7042_north_toll_plaza.jpg",
+      "caption": "At the north toll plaza. The guardrail supports have rubber impact absorbers. The Dallas North Tollway is the first place I noticed this type of guardrail design.",
+      "imageDate": "2-June-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Modified",
+        "note": "This section was widened to four lanes in each direction, completed in 2018. Most of the toll plaza was removed when the NTTA system became all electronic."
+      }
 
-        },
-        {
-            "file": "DNT_20070603_IMG_7306_looking_s_at_tennyson_950.jpg",
-            "caption": "Looking south from the Tennyson overpass. This is in north Plano at the Legacy development.",
-            "imageDate": "3-June-2007"
-        },
-        {
-            "file": "dnt_20070603_IMG_7310_looking_n_at_tennyson_950.jpg",
-            "highResolution": "dnt_20070603_IMG_7310_looking_n_at_tennyson_2592.jpg",
-            "caption": "Looking north from Tennyson",
-            "imageDate": "3-June-2007"
-        },
-        {
-            "file": "DNT_20070603_IMG_7313_looking_s_at_headquarters.jpg",
-            "caption": "Looking south at Headquarters Drive",
-            "imageDate": "3-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "Connection ramps to the interchange with the Sam Rayburn Turnpike were built at this location, including an elevated ramp on the right side (southbound)." }
+    },
+    {
+      "file": "DNT_20070603_IMG_7306_looking_s_at_tennyson_950.jpg",
+      "caption": "Looking south from the Tennyson overpass. This is in north Plano at the Legacy development.",
+      "imageDate": "3-June-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Substantially Modified",
+        "note": "This section was widened to four lanes in each direction, completed in 2018."
+      }
+    },
+    {
+      "file": "dnt_20070603_IMG_7310_looking_n_at_tennyson_950.jpg",
+      "highResolution": "dnt_20070603_IMG_7310_looking_n_at_tennyson_2592.jpg",
+      "caption": "Looking north from Tennyson",
+      "imageDate": "3-June-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Substantially Modified",
+        "note": "This section was widened to four lanes in each direction, completed in 2018."
+      }
+    },
+    {
+      "file": "DNT_20070603_IMG_7313_looking_s_at_headquarters.jpg",
+      "caption": "Looking south at Headquarters Drive",
+      "imageDate": "3-June-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Substantially Modified",
+        "note": "This section was widened to four lanes in each direction and new connection ramps from SH 121 were added, all work completed in 2018."
+      }
 
-        },
-        {
-            "file": "DNT_20070603_IMG_7316_at_121_950.jpg",
-            "highResolution": "DNT_20070603_IMG_7316_at_121_2900.jpg",
-            "caption": "Looking north with the Highway 121 intersection ahead. At the time of the photo, the tollway ended on the far side of the\r\n\t\t\t\t\toverpass. The northward extension opened on September 28, 2007.",
-            "imageDate": "3-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "A five-level interchange at the Sam Rayburn Turnpike was built just ahead, opening in 2011." }
+    },
+    {
+      "file": "DNT_20070603_IMG_7316_at_121_950.jpg",
+      "highResolution": "DNT_20070603_IMG_7316_at_121_2900.jpg",
+      "caption": "Looking north with the Highway 121 intersection ahead. At the time of the photo, the tollway ended on the far side of the overpass. The northward extension opened on September 28, 2007.",
+      "imageDate": "3-June-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Obsolete",
+        "note": "A five-level interchange at the Sam Rayburn Turnpike was built just ahead, opening in 2011."
+      }
 
-        }
+    },
+    {
+      "file": "20180317-19_DFW-0091-950.jpg",
+      "highResolution": "20180317-19_DFW-0091-2560.jpg",
+      "caption": "Looking north from Headquarters Boulevard toward the SH 121 interchange, which opened in 2011.",
+      "imageDate": "19-March-2018"
+    },
+    {
+      "file": "20180317-19_DFW-0098-950.jpg",
+      "highResolution": "20180317-19_DFW-0098-2560.jpg",
+      "caption": "The northbound frontage road approaching the SH 121 interchange.",
+      "imageDate": "19-March-2018"
+    },
+    {
+      "file": "20180317-19_DFW-0100-150.jpg",
+      "highResolution": "20180317-19_DFW-0100-2560.jpg",
+      "caption": "At the SH 121 interchange, looking north.",
+      "imageDate": "19-March-2018"
+    },
+    {
+      "file": "20180317-19_DFW-0101-950.jpg",
+      "caption": "At the SH 121 interchange, looking southwest.",
+      "imageDate": "19-March-2018"
+    },
+    {
+      "file": "20180317-19_DFW-010-950.jpg",
+      "highResolution": "20180317-19_DFW-0106-2560.jpg",
+      "caption": "At the SH 121 interchange, looking west.",
+      "imageDate": "19-March-2018"
+    }
 
 
-    ]
+  ]
 
 }

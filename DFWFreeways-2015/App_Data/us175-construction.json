@@ -1,0 +1,53 @@
+﻿{
+    "folderPath": "",
+    "title": "US 175 Construction",
+    "pageHeader":
+    {
+        "title": "S.M. Wright Freeway Relocation",
+        "subTitle": "New section between existing US 175 and IH 45",
+        "urlParentText": "US 175",
+        "lastUpdated": "June 4, 2017 (create), Sept 12, 2020 (update status)"
+    },
+    "map": "",
+    "text": "This section of freeway connecting to IH 45 opened in July 2020.",
+    "images":
+    [
+        {
+            "file": "175_20170408_09-0363_1250.jpg",
+            "highResolution": "",
+            "caption": "Looking west near US 175.",
+            "imageDate": "9-April-2017"
+        },
+        {
+            "file": "175_20170408_09-0371-1250.jpg",
+            "highResolution": "",
+            "caption": "Looking west near US 175.",
+            "imageDate": "9-April-2017"
+        },
+        {
+            "file": "175_20170408_09-0360_1250.jpg",
+            "highResolution": "",
+            "caption": "Looking east from South Lamar, with US 175 visible in the distance.",
+            "imageDate": "9-April-2017"
+        },
+        {
+            "file": "175_20170408_09-0373-1250.jpg",
+            "highResolution": "",
+            "caption": "Looking west at South Lamar",
+            "imageDate": "9-April-2017"
+        },
+        {
+            "file": "175_20170408_09-0374_1250.jpg",
+            "highResolution": "",
+            "caption": "Looking west at South Lamar",
+            "imageDate": "9-April-2017"
+        },
+                {
+            "file": "175_20170408_09-0369_1250.jpg",
+            "highResolution": "",
+            "caption": "This is the concrete form with the pattern used on the piers.",
+            "imageDate": "9-April-2017"
+        },
+    ]
+
+}

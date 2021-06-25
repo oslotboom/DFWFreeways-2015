@@ -39,38 +39,45 @@
         {
             "file": "161_20070408_driving_IMG_5977_approaching_plaza.jpg",
             "caption": "Approaching the toll plaza",
-            "imageDate": "8-April-2007"
+          "imageDate": "8-April-2007",
+          "imageStatus": { "statusDate": "2015", "status": "Modified", "note": "The cash lanes for paying tolls were closed when the NTTA system became all electronic." }
+
         },
         {
             "file": "161_20070408_driving_IMG_5979_toll_plaza.jpg",
             "caption": "At the toll plaza",
             "imageDate": "8-April-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The cash lanes for paying tolls were closed when the NTTA system became all electronic." }
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "The cash lanes for paying tolls were closed when the NTTA system became all electronic. The interior shoulder is a peak period temporary-use traffic lane." }
         },
         {
             "file": "161_20070408_driving_IMG_5980_end_toll_sign.jpg",
             "caption": "This sign indicates the end of the tolled section of 161. The highway ahead is a freeway to TX 183.",
-            "imageDate": "8-April-2007"
+            "imageDate": "8-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "The interior shoulder is a peak period temporary-use traffic lane." }
         },
         {
             "file": "161_20070408_driving_IMG_5982.jpg",
             "caption": "",
-            "imageDate": "8-April-2007"
+            "imageDate": "8-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "The interior shoulder is a peak period temporary-use traffic lane." }
         },
         {
             "file": "161_20070408_driving_IMG_5984.jpg",
             "caption": "",
-            "imageDate": "8-April-2007"
+            "imageDate": "8-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "The interior shoulder is a peak period temporary-use traffic lane." }
         },
         {
             "file": "161_20070408_driving_IMG_5985.jpg",
             "caption": "",
-            "imageDate": "8-April-2007"
+            "imageDate": "8-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "The interior shoulder is a peak period temporary-use traffic lane." }
         },
         {
             "file": "161_20070408_driving_IMG_5986.jpg",
             "caption": "The interchange with TX 183 is visible ahead.",
-            "imageDate": "8-April-2007"
+            "imageDate": "8-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "The interior shoulder is a peak period temporary-use traffic lane." }
         },
         {
             "file": "161_20070408_driving_IMG_5990_connecting_to_183.jpg",

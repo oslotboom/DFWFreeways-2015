@@ -5,7 +5,7 @@
     {
         "title": "Driving Southbound, I-635 to I-20",
         "urlParentText": "Bush Turnpike",
-        "lastUpdated": "June 1, 2015 (create)"
+        "lastUpdated": "June 1, 2015 (create); Feb 6, 2018 (review and update)"
     },
     "map": "",
     "text": "These photos were taken on April 15, 2014. They start at I-635 in Irving and proceed south to the end of the turnpike at I-20 in Grand Prairie.",
@@ -49,17 +49,20 @@
         {
             "file": "20140415_0027-1100.jpg",
             "caption": "The section ahead is SH 161 and is not tolled.",
-            "imageDate": "15-April-2014"
+            "imageDate": "15-April-2014",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "The interior lane has been converted into a peak period temporary-use lane." }
         },
         {
             "file": "20140415_0028-1100.jpg",
             "caption": "On the east side of DFW Airport",
-            "imageDate": "15-April-2014"
+            "imageDate": "15-April-2014",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "The interior lane has been converted into a peak period temporary-use lane." }
         },
         {
             "file": "20140415_0030-1100.jpg",
             "caption": "Approaching SH 183",
-            "imageDate": "15-April-2014"
+            "imageDate": "15-April-2014",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "The interior lane has been converted into a peak period temporary-use lane." }
         },
         {
             "file": "20140415_0033-1100.jpg",
@@ -113,7 +116,7 @@
         },
         {
             "file": "20140415_0059-1100.jpg",
-            "caption": "The turnpike ends at I-30",
+            "caption": "The turnpike ends at I-20",
             "imageDate": "15-April-2014"
         },
         {

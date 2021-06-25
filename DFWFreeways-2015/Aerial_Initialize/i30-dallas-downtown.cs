@@ -69,24 +69,16 @@ namespace DFWFreeways.Models
                     "I-30 at I-45 looking southwest",
                     "I-30 at I-45",
                     "Looking southwest."),
-                new AerialGalleryItem(new DateTime(2009,6,23),"","15a_i30_canyon_2005-05-30_ADJ_900.jpg", "15a_i30_canyon_2005-05-30_ADJ_2424x1593.png", "aerial", 
+                new AerialGalleryItem(new DateTime(2005,5,30),"","15a_i30_canyon_2005-05-30_ADJ_900.jpg", "15a_i30_canyon_2005-05-30_ADJ_2424x1593.png", "aerial", 
                     "I-30 downtown canyon",
                     "I-30 downtown canyon looking northeast",
                     "I-30 downtown canyon",
                     "Looking northeast."),
-                new AerialGalleryItem(new DateTime(2009,6,23),"","10a_i30_looking_e_at_i45_2005-05-30_600.jpg", "10a_i30_looking_e_at_i45_2005-05-30_1830x2369.png", "aerial", 
+                new AerialGalleryItem(new DateTime(2005,5,30),"","10a_i30_looking_e_at_i45_2005-05-30_600.jpg", "10a_i30_looking_e_at_i45_2005-05-30_1830x2369.png", "aerial", 
                     "I-30 downtown canyon",
                     "I-30 downtown canyon looking northeast",
                     "I-30 downtown canyon",
-                    "Looking northeast with the Central Expressway insection in the foreground."),
-
-                new AerialGalleryItem(new DateTime(2009,6,23),"","15a_i30_canyon_2005-05-30_ADJ_900.jpg", "15a_i30_canyon_2005-05-30_ADJ_2424x1593.png", "aerial", 
-                    "I-30 at I-35E",
-                    "I-30 at I-35E looking east",
-                    "I-30 at I-35E",
-                    "Looking east.",
-                    new AerialStatus ("2015", "Obsolete", "Interchange is rebuilt and expanded by the Horseshoe Project." ) 
-                )
+                    "Looking northeast with the Central Expressway insection in the foreground.")
 
             };
         }
@@ -106,7 +98,7 @@ namespace DFWFreeways.Models
                     "White Rock Lake",
                     "Looking east."),
                 new AerialGalleryItem(new DateTime(2012,4,6),"20120406_3067.JPG","20120406_3067-1050.jpg", "20120406_3067-2560.jpg", "aerial", 
-                    "Lakewood Country Club",
+                    "",
                     "Lakewood Country Club, looking southeast",
                     "Lakewood Country Club",
                     "Lakewood Country Club looking southeast."),

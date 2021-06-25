@@ -4,7 +4,7 @@
     {
         "title": "I-20 Fort Worth and Arlington",
         "subTitle": "",
-        "lastUpdated": "June 1, 2015"
+        "lastUpdated": "February 8, 2018 (review)"
     },
     "Title": "I-20 Reagan Memorial Parkway",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -32,7 +32,13 @@
         },
         {
             "FeatureType": "Construction",
-            "FeatureProperties": [ ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "Ranger Hill",
+              "AnchorUrl": "construction-ranger-hill"
+            }
+
+          ]
         },
         {
             "FeatureType": "Aerial",

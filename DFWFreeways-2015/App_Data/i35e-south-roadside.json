@@ -5,10 +5,10 @@
     {
         "title": "Roadside Views between Downtown Dallas and Lancaster",
         "urlParentText": "I-35E South",
-        "lastUpdated": "June 1, 2015 (reviewed)"
+        "lastUpdated": "February 1, 2018 (updated for completion of Horseshoe project and start of Southern Gateway project)"
     },
     "map": "35es_roadside_450.gif",
-    "text": "2015 status: these photos are still accurate depictions except as noted in the full-size image captions, and the photos with construction in progress.",
+    "text": "2018 status: Many of these photos (as noted) are now archival photos, with the completion of the downtown Horseshoe project in 2017 and the major corridor rebuild between downtown and the US 67 split from 2018 to 2021.",
     "images":
         [
             {
@@ -37,42 +37,72 @@
                 "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This structure was replaced during the Horseshoe Project, 2014-2017" }
 
             },
-            {
-                "file": "35e_20071027_IMG_9447_at_eighth.jpg",
-                "highResolution": "35e_20071027_IMG_9447_at_eighth_2118.jpg",
-                "caption": " Looking north at 8th Street. From downtown to I-20 the freeway is in its originally-constructed configuration except for the center HOV lane which was built on the original median shoulders.\r\n\t\t\t\t\t",
-                "imageDate": "27-Oct-2007"
-            },
-            {
-                "file": "35e_20071027_IMG_9459_ewing_950.jpg",
-                "highResolution": "35e_20071027_IMG_9459_ewing_2048.jpg",
-                "caption": "Looking north at Ewing",
-                "imageDate": "27-Oct-2007"
-            },
-            {
-                "file": "35e_20070429_IMG_6413_looking_s_at_ewing_with_giraffe_950.jpg",
-                "highResolution": "35e_20070429_IMG_6413_looking_s_at_ewing_with_giraffe_hires.jpg",
-                "caption": "Looking south from Ewing.The giraffe sculpture on the left is part of the Dallas Zoo.",
-                "imageDate": "29-April-2007"
-            },
-            {
-                "file": "35e_20071027_IMG_9465_giraffe_at_marsalis_950.jpg",
-                "highResolution": "35e_20071027_IMG_9465_giraffe_at_marsalis_2742.jpg",
-                "caption": "Looking north at Marsalis, with another view of the giraffe.",
-                "imageDate": "27-Oct-2007"
-            },
-            {
-                "file": "35e_20071027_IMG_9467_louisiana.jpg",
-                "highResolution": "35e_20071027_IMG_9467_louisiana_2688.jpg",
-                "caption": "Looking north at Louisiana",
-                "imageDate": "27-Oct-2007"
-            },
-            {
-                "file": "35e_20070429_IMG_6416_looking_n_at_illinois.jpg",
-                "highResolution": "35e_20070429_IMG_6416_looking_n_at_illinois_2529.jpg",
-                "caption": "Looking north at Illinois",
-                "imageDate": "29-April-2007"
-            },
+          {
+            "file": "35e_20071027_IMG_9447_at_eighth.jpg",
+            "highResolution": "35e_20071027_IMG_9447_at_eighth_2118.jpg",
+            "caption": " Looking north at 8th Street. From its original construction to 2018, the freeway remained in its originally-constructed configuration except for the center HOV lane which was built on the original median shoulders.",
+            "imageDate": "27-Oct-2007",
+            "imageStatus": {
+              "statusDate": "2018",
+              "status": "Obsolete",
+              "note": "This section of freeway is being rebuilt and widened during the Southern Gateway project, 2018-2021"
+            }
+          },
+          {
+            "file": "35e_20071027_IMG_9459_ewing_950.jpg",
+            "highResolution": "35e_20071027_IMG_9459_ewing_2048.jpg",
+            "caption": "Looking north at Ewing",
+            "imageDate": "27-Oct-2007",
+            "imageStatus": {
+              "statusDate": "2018",
+              "status": "Obsolete",
+              "note": "This section of freeway is being rebuilt and widened during the Southern Gateway project, 2018-2021"
+            }
+          },
+          {
+            "file": "35e_20070429_IMG_6413_looking_s_at_ewing_with_giraffe_950.jpg",
+            "highResolution": "35e_20070429_IMG_6413_looking_s_at_ewing_with_giraffe_hires.jpg",
+            "caption": "Looking south from Ewing.The giraffe sculpture on the left is part of the Dallas Zoo.",
+            "imageDate": "29-April-2007",
+            "imageStatus": {
+              "statusDate": "2018",
+              "status": "Obsolete",
+              "note": "This section of freeway is being rebuilt and widened during the Southern Gateway project, 2018-2021. A deck park is above the freeway is planned at this location."
+            }
+          },
+          {
+            "file": "35e_20071027_IMG_9465_giraffe_at_marsalis_950.jpg",
+            "highResolution": "35e_20071027_IMG_9465_giraffe_at_marsalis_2742.jpg",
+            "caption": "Looking north at Marsalis, with another view of the giraffe.",
+            "imageDate": "27-Oct-2007",
+            "imageStatus": {
+              "statusDate": "2018",
+              "status": "Obsolete",
+              "note": "This section of freeway is being rebuilt and widened during the Southern Gateway project, 2018-2021. A deck park above the freeway is planned at this location."
+            }
+          },
+          {
+            "file": "35e_20071027_IMG_9467_louisiana.jpg",
+            "highResolution": "35e_20071027_IMG_9467_louisiana_2688.jpg",
+            "caption": "Looking north at Louisiana",
+            "imageDate": "27-Oct-2007",
+            "imageStatus": {
+              "statusDate": "2018",
+              "status": "Obsolete",
+              "note": "This section of freeway is being rebuilt and widened during the Southern Gateway project, 2018-2021"
+            }
+          },
+          {
+            "file": "35e_20070429_IMG_6416_looking_n_at_illinois.jpg",
+            "highResolution": "35e_20070429_IMG_6416_looking_n_at_illinois_2529.jpg",
+            "caption": "Looking north at Illinois",
+            "imageDate": "29-April-2007",
+            "imageStatus": {
+              "statusDate": "2018",
+              "status": "Obsolete",
+              "note": "This section of freeway is being rebuilt and widened during the Southern Gateway project, 2018-2021"
+            }
+          },
             {
                 "file": "35e_20071027_IMG_9496_laureland_950.jpg",
                 "highResolution": "35e_20071027_IMG_9496_laureland_2048.jpg",
@@ -105,7 +135,7 @@
             {
                 "file": "35e_20070429_IMG_6432_looking_n_at_i20.jpg",
                 "highResolution": "35e_20070429_IMG_6432_looking_n_at_i20_2595.jpg",
-                "caption": " South of the I-20 interchange, looking north. I-35E has been reconstructed and widened south of I-20. The main lanes from I-20 to Belt Line were completed in November 2004, and construction is in progress south of Belt Line as of 2007.\r\n\t\t\t\t\t",
+                "caption": " South of the I-20 interchange, looking north. Reconstruction and widening of I-35E from I-20 to Belt Line was completed in November 2004.",
                 "imageDate": "29-April-2007"
             },
             {
@@ -121,7 +151,7 @@
             },
             {
                 "file": "35e_20070429_IMG_6441_at_bear_creek_road_950.jpg",
-                "caption": "Widening and reconstruction in progress at Bear Creek Road.",
+                "caption": "Widening and reconstruction was in progress at Bear Creek Road as the time of this 2007 photo.",
                 "imageDate": "29-April-2007"
             }
 

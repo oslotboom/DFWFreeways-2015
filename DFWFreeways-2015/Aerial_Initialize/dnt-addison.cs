@@ -54,7 +54,7 @@ namespace DFWFreeways.Models
                     "Dallas North Tollway in Addison, looking northwest",
                     "Dallas North Tollway in Addison",
                     "Looking northwest.",
-                    new AerialStatus ("2015", "Partially obsolete", "Most of the toll plaza was removed when NTTA switched to all-electronic toll collection." )),
+                    new AerialStatus ("2015", "Partially obsolete", "The toll plaza was removed when NTTA switched to all-electronic toll collection." )),
 
                 new AerialGalleryItem(new DateTime(2009,6,23),"20090623_aerial_0264.JPG","20090623_aerial_0264-1050.jpg", "20090623_aerial_0264-2560.jpg", "aerial", 
                     "Dallas North Tollway in Addison",
@@ -96,7 +96,7 @@ namespace DFWFreeways.Models
                     "Dallas North Tollway in Addison, looking north",
                     "Dallas North Tollway in Addison",
                     "Looking north at Arapaho.",
-                    new AerialStatus ("2015", "Partially obsolete", "Most of the toll plaza was removed when NTTA switched to all-electronic toll collection." )),
+                    new AerialStatus ("2015", "Partially obsolete", "The toll plaza was removed when NTTA switched to all-electronic toll collection." )),
 
                 new AerialGalleryItem(new DateTime(2005,4,11),"","24_dnt_looking_n_at_spring_valley_2005-04-11_ADJ_900.jpg", "24_dnt_looking_n_at_spring_valley_2005-04-11_ADJ_1747x1701.png", "aerial", 
                     "Dallas North Tollway",

@@ -32,7 +32,7 @@ namespace DFWFreeways.Models
                     "I-20 at US 175, looking south-southeast",
                     "I-20 at US 175",
                     "Looking south-southeast."),
-                new AerialGalleryItem(new DateTime(2005,5,30),"","4_us175_looking_s_at_i20_2006-05-30_900.jpg", "4_us175_looking_s_at_i20_2006-05-30_280.jpg", "aerial", 
+                new AerialGalleryItem(new DateTime(2005,5,30),"","4_us175_looking_s_at_i20_2006-05-30_900.jpg", "4_us175_looking_s_at_i20_2006-05-30_2462x1471.png", "aerial", 
                     "I-20 at US 175",
                     "I-20 at US 175, looking south",
                     "I-20 at US 175",

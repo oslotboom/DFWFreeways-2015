@@ -125,7 +125,8 @@ body {
 
 #book-area {
   width: 696px;
-  padding: 10px 0; }
+  padding: 10px 0; 
+}
   #book-area .heading {
     font-size: 1.7em;
     color: #121280;
@@ -283,6 +284,7 @@ body {
  }
 
 @media (max-width: 1299px) {
+
   #book-info-container {
     width: 180px; }
 
@@ -310,11 +312,13 @@ body {
   #header-container {
     width: 720px; }
 
-  #book-area {
-    width: 1280px;
-    position: relative;
-    top: -500px;
-    display: table; }
+    #book-area {
+        font-size: 1.1em;
+        width: 1280px;
+        position: relative;
+        top: -500px;
+        display: table;
+    }
 
   #book-info-container {
     width: 400px; }

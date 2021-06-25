@@ -5,7 +5,7 @@
     {
         "title": "Roadside Views in Dallas",
         "urlParentText": "I-35E North",
-        "lastUpdated": "April 12, 2015"
+        "lastUpdated": "January 29, 2018 (review)"
     },
     "map": "35en_roadside_south_500.gif",
     "text": "",
@@ -16,11 +16,17 @@
             "caption": "",
             "imageDate": "2-June-2007"
         },
-        {
-            "file": "35e_20070602_IMG_7264_at_woodall_rogers_950.jpg",
-            "caption": "Just north of downtown, looking south toward the Woodall Rodgers Freeway interchange",
-            "imageDate": "2-June-2007"
-        },
+      {
+        "file": "35e_20070602_IMG_7264_at_woodall_rogers_950.jpg",
+        "caption": "Just north of downtown, looking south toward the Woodall Rodgers Freeway interchange",
+        "imageDate": "2-June-2007",
+        "imageStatus": {
+          "statusDate": "2018",
+          "status": "Partially obsolete",
+          "note": "In 2018 work is in progress to add collector-distributor lanes alongside the main lanes."
+        }
+
+      },
         {
             "file": "35e_20080602_IMG_7262 _aa_center.jpg",
             "caption": "The American Airlines Center (AAC) sports arena is located along Stemmons Freeway just north of downtown.",
@@ -62,9 +68,9 @@
         },
         {
             "file": "35e_20070602_IMG_7234_frontage_road_just_e_of_183.jpg",
-            "caption": "The southbound frontage road just east of TX 183. As the Delux Inn for $23.95 per night suggests, this is not\r\n\t\t\t\t\tthe best area of Dallas. It is mostly a warehouse/light industrial area. A few miles north at Northwest Highway is a concentration\r\n\t\t\t\t\tof restaurants, liquor stores, and gentlemen's clubs.",
+            "caption": "The southbound frontage road just east of TX 183. As the Delux Inn for $23.95 per night suggests, this is not the best area of Dallas. It is mostly a warehouse/light industrial area. A few miles north at Northwest Highway is a concentration of restaurants, liquor stores, and gentlemen's clubs.",
             "imageDate": "2-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The Delux Inn was demolished. It was in the path of the planned Trinity Parkway." }
+            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The Delux Inn was demolished. It was in the path of the planned Trinity Parkway, which was canceled in 2017." }
 
         },
         {

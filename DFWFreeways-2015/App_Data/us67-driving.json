@@ -5,66 +5,77 @@
     {
         "title": "Driving Views",
         "urlParentText": "US 67",
-        "lastUpdated": "June 1, 2015 (review only)"
+        "lastUpdated": "February 1, 2018 (update captions for the start of the Southern Gateway project)"
     },
     "map": "67_driving.gif",
-    "text": "2015 status: Changes have been minimal since these photos were taken and these photos are still up-to-date.",
+    "text": "2018 status: In 2018 the $666 million Southern Gateway project began, which will widen the freeway. All the photos shown from I-35E to Belt Line will are obsolete and retained as a historical archive.",
     "images":
         [
             {
                 "file": "67_20070512_driving_IMG_6500_at_35e_split.jpg",
                 "caption": "Going southbound on I-35E, this is the split for US 67. The first 4.2 miles going southbound, to Camp Wisdom, opened on July 29, 1969. The HOV lane was added March 11, 2002.",
-                "imageDate": "12-May-2007"
+                "imageDate": "12-May-2007",
+                "imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2021." }
             },
             {
                 "file": "67_driving_20070512_IMG_6502_approaching_12.jpg",
                 "caption": "Access to the HOV lane is just ahead.",
-                "imageDate": "12-May-2007"
+                "imageDate": "12-May-2007",
+                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
             },
             {
                 "file": "67_driving_20070512_IMG_6503.jpg",
                 "caption": "At Polk Street",
-                "imageDate": "12-May-2007"
+                "imageDate": "12-May-2007",
+                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
             },
             {
                 "file": "67_driving_20070512_IMG_6505_at_loop_12.jpg",
                 "caption": "At Loop 12.",
-                "imageDate": "12-May-2007"
+                "imageDate": "12-May-2007",
+                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
             },
             {
                 "file": "67_driving_20070512_IMG_6509_approaching_hampton.jpg",
                 "caption": "Approaching Hampton",
-                "imageDate": "12-May-2007"
+                "imageDate": "12-May-2007",
+                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
             },
             {
                 "file": "67_driving_20070512_IMG_6511_at_red_bird.jpg",
                 "caption": "The main runway for Dallas Executive Airport is just to the right, which is why the center lights are truncated to be lower than normal.",
-                "imageDate": "12-May-2007"
+                "imageDate": "12-May-2007",
+                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
             },
             {
                 "file": "67_driving_20070512_IMG_6515_ramp_at_red_bird.jpg",
                 "caption": "The onramp at Red Bird road.",
-                "imageDate": "12-May-2007"
+                "imageDate": "12-May-2007",
+                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
             },
             {
                 "file": "67_driving_20070512_IMG_6518_at_20.jpg",
                 "caption": "The interchange with Interstate 20 is just ahead.",
-                "imageDate": "12-May-2007"
+                "imageDate": "12-May-2007",
+                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
             },
             {
                 "file": "67_driving_20070512_IMG_6519_at_20.jpg",
                 "caption": "This interchange was completed on July 12, 1974.",
-                "imageDate": "12-May-2007"
+                "imageDate": "12-May-2007",
+                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
             },
             {
                 "file": "67_driving_20070512_IMG_6529_onramp_at_danieldale.jpg",
                 "caption": "This is the onramp at Danieldale road in Duncanville.",
-                "imageDate": "12-May-2007"
+                "imageDate": "12-May-2007",
+                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
             },
             {
                 "file": "67_driving_20070512_IMG_6532_at_fm_1382.jpg",
                 "caption": "Approaching FM 1382.",
-                "imageDate": "12-May-2007"
+                "imageDate": "12-May-2007",
+                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
             },
             {
                 "file": "67_driving_20070512_IMG_6534_belt_line.jpg",

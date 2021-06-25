@@ -5,10 +5,10 @@
     {
         "title": "Roadside Views",
         "urlParentText": "SH 360",
-        "lastUpdated": "Page created June 18, 2008. Last updated June 1, 2015 (review and update captions)"
+        "lastUpdated": "Page created June 18, 2008. Last updated February 8, 2018 (review and update captions)"
     },
     "map": "",
-    "text": "After the sign photos, these photos start at the north end at TX 121 near DFW Airport, and proceed south to Mansfield. 2015 status: Nearly all of these photos are still accurate depictions. Obsolete photos are noted.",
+    "text": "After the sign photos, these photos start at the north end at TX 121 near DFW Airport, and proceed south to Mansfield. 2018 status: Many photos have become obsolete due to construction to widen the freeway, including nearly all photos south of I-30. The tollway south of I-20 opened in 2018.",
     "images":
     [
         {
@@ -27,7 +27,8 @@
             "file": "360_roadside_20070428_IMG_6031_at_121.jpg",
             "caption": "Looking north along the northbound lanes with the merge with TX 121 ahead.",
             "highResolution": "360_roadside_20070428_IMG_6031_at_121_2048.jpg",
-            "imageDate": "28-April-2007"
+            "imageDate": "28-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "Collector-distributor lanes were built in 2017 as part of the DFW connector project." }
         },
         {
             "file": "360_roadside_20070428_IMG_6029_frontage_at_stone_myers.jpg",
@@ -95,11 +96,16 @@
             "imageDate": "28-Oct-2007",
             "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section was rebuilt and widened, completed around 2013." }
         },
-        {
-            "file": "360_roadside_20071028_IMG_9578_at_mitchell.jpg",
-            "caption": "At Mitchell street in Arlington",
-            "imageDate": "28-Oct-2007"
-        },
+      {
+        "file": "360_roadside_20071028_IMG_9578_at_mitchell.jpg",
+        "caption": "At Mitchell street in Arlington",
+        "imageDate": "28-Oct-2007",
+        "imageStatus": {
+          "statusDate": "2018",
+          "status": "Modified",
+          "note": "In 2018 work started on a $53 million project to add a main lane in each direction."
+        }
+      },
         {
             "file": "360_roadside_20070623_IMG_7648_at_i20.jpg",
             "caption": "Looking south at the four-level interchange at I-20",
@@ -115,31 +121,31 @@
             "file": "360_roadside_20070623_IMG_7668_freeway_end.jpg",
             "caption": "End of the main lanes north of Sublett Road. In February 2015 TxDOT approved a $300 million plan to extend the main lanes southward as a toll road.",
             "imageDate": "23-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Construction of the tolled extension began in 2015." }
+            "imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "The tolled main lanes going southward opened in 2018." }
         },
         {
             "file": "360_roadside_20070623_IMG_7667_freeway_end.jpg",
             "caption": "Another view of the end of the concrete of the main lanes.",
             "imageDate": "23-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Construction of the tolled extension began in 2015." }
+            "imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "The tolled main lanes going southward opened in 2018." }
         },
         {
             "file": "360_roadside_20070623_IMG_7663_nb_frontage_at_new_york.jpg",
             "caption": "Stop sign on the frontage road at New York street.",
             "imageDate": "23-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Construction of the tolled main lanes began in 2015." }
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "The tolled main lanes opened in 2018." }
         },
         {
             "file": "360_roadside_20070623_IMG_7655 _sb_feeder_s_of_new_york.jpg",
             "caption": "Looking north along the southbound frontage road south of New York street.",
             "imageDate": "23-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Construction of the tolled main lanes began in 2015." }
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "The tolled main lanes opened in 2018." }
         },
         {
             "file": "360_roadside_20070623_IMG_7661_nb_feeder_near_broad.jpg",
             "caption": "Frontage road near Broad Street",
             "imageDate": "23-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Construction of the tolled main lanes began in 2015." }
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "The tolled main lanes opened in 2018." }
         }
 
 

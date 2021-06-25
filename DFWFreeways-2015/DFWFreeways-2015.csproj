@@ -20,6 +20,8 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -211,9 +213,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Helpers\404.cs">
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
+    <Compile Include="Helpers\404.cs" />
     <Compile Include="Helpers\XsltTransform.cs" />
     <Compile Include="Models\Aerial.cs" />
     <Compile Include="Models\FreewayPage.cs" />
@@ -246,11 +246,15 @@
     <Content Include="App_Data\dnt-historical.json" />
     <Content Include="App_Data\chisholm-trail-parkway.json" />
     <Content Include="App_Data\chisholm-trail-parkway-roadside-opening.json" />
+    <Content Include="App_Data\i30-dallas-construction-horseshoe.json" />
+    <Content Include="App_Data\i635-driving.json" />
     <None Include="App_Data\i20-dallas-roadside-dallas.json" />
     <Content Include="App_Data\i20-dallas-roadside-terrell.json" />
     <Content Include="App_Data\i30-dallas-historical.json" />
     <Content Include="App_Data\i20-west.json" />
     <Content Include="App_Data\i20-west-roadside-west.json" />
+    <Content Include="App_Data\i35e-north-driving-lewisville.json" />
+    <Content Include="App_Data\i30-dallas-roadside-pedestrian-bridge.json" />
     <None Include="App_Data\i30-dallas-roadside-dallas.json" />
     <Content Include="App_Data\i30-dallas.json" />
     <Content Include="App_Data\i30-dallas-driving-dallas.json" />
@@ -266,6 +270,9 @@
     <Content Include="App_Data\i30-fort-worth.json" />
     <Content Include="App_Data\i30-fort-worth-driving.json" />
     <Content Include="App_Data\i30-fort-worth-roadside.json" />
+    <Content Include="App_Data\i35e-north-construction-121.json" />
+    <Content Include="App_Data\i30-landry-construction-360.json" />
+    <Content Include="App_Data\i35e-north-construction-downtown-collector.json" />
     <None Include="App_Data\i35e-north-construction-2014-nov.json" />
     <None Include="App_Data\i35e-north-construction-2015-jan.json" />
     <None Include="App_Data\i35e-north-construction-2012-march.json" />
@@ -273,6 +280,8 @@
     <None Include="App_Data\i35e-north-roadside-dallas.json" />
     <None Include="App_Data\i35e-south-roadside.json" />
     <None Include="App_Data\i35e-south-construction-horseshoe-1.json" />
+    <Content Include="App_Data\i635-construction-lbj-east.json" />
+    <None Include="App_Data\i635-roadside-valley-view-mall-demolition.json" />
     <Content Include="App_Data\loop12.json" />
     <Content Include="App_Data\loop12-driving.json" />
     <Content Include="App_Data\loop12-roadside.json" />
@@ -283,9 +292,15 @@
     <Content Include="App_Data\i820-roadside-east.json" />
     <Content Include="App_Data\i820-driving-northwest.json" />
     <Content Include="App_Data\i820-driving-north.json" />
+    <Content Include="App_Data\i635-roadside-lbj-express.json" />
+    <Content Include="App_Data\i635-construction-lbj-express.json" />
+    <Content Include="App_Data\i35w-construction-2016-nov.json" />
+    <Content Include="App_Data\i20-west-construction-ranger-hill.json" />
     <None Include="App_Data\sh121-driving-lewisville.json" />
     <Content Include="App_Data\oldRoadMaps.xml" />
     <Content Include="App_Data\oldRoadMaps.xsl" />
+    <None Include="App_Data\sh114-roadside-dfw-connector.json" />
+    <None Include="App_Data\sh183-construction.json" />
     <Content Include="App_Data\sh183-construction-row.json" />
     <Content Include="App_Data\sh114.json" />
     <Content Include="App_Data\sh114-roadside.json" />
@@ -366,6 +381,11 @@
     <Content Include="PhotoPages\chihuly-dallas-arboretum.json" />
     <Content Include="App_Data\us75-historical.json" />
     <Content Include="PhotoPages\illustrations.json" />
+    <Content Include="PhotoPages\wright-amendment-billboards.json" />
+    <Content Include="App_Data\us75-driving-mckinney.json" />
+    <Content Include="App_Data\us175-construction.json" />
+    <Content Include="App_Data\i35w-driving-nte-nb.json" />
+    <Content Include="App_Data\us175-construction-removal.json" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />

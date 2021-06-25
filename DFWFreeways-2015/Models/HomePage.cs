@@ -200,11 +200,12 @@ namespace DFWFreeways.Models
                     new Link("SH 360", "Angus Wynne Freeway","sh360"),
                     new Link("SH 183/SH 121", "Airport Freeway","sh183"),
                     new Link("SH 114", "Carpenter Freeway","sh114"),
-                    new Link("Bush Turnpike", "SH 161","bush-turnpike"),
+                    new Link("Bush Turnpike", "SH 161","bush"),
                     }),
                 new KeyValuePair<string, List<Link>> ("Non-Highway", 
                 new List<Link>{
-                    new LinkPhotoPage("Chihuly at Dallas Arboretum", "2012","chihuly-dallas-arboretum")
+                    new LinkPhotoPage("Chihuly at Dallas Arboretum", "2012","chihuly-dallas-arboretum"),
+                    new LinkPhotoPage("Wright Amendment Expiration Billboards", "2013-2014","wright-amendment-billboards"),
                     }),
                 };
             

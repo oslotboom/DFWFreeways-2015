@@ -23,6 +23,18 @@ namespace DFWFreeways.Controllers
             return View(homePage);
         }
 
+        public ActionResult IndexClearCache()
+        {
+
+            //  Get the url for the action method:
+            var staleItem = Url.Action("Index", "Default");
+
+            //  Remove the item from cache
+            Response.RemoveOutputCacheItem(staleItem);
+
+            return Redirect(Url.Action("Index", "Default"));
+
+        }
 
         // GET: Freeway
         public ActionResult Aerial()
@@ -140,7 +152,7 @@ namespace DFWFreeways.Controllers
 
             quickViewPage.PdfPath = System.Web.Configuration.WebConfigurationManager.AppSettings["PdfServer"].ToString();
             quickViewPage.PdfFile = pdfFile;
-            quickViewPage.PdfSize = pdfSize;
+            quickViewPage.PdfSize = Server.UrlDecode(pdfSize);
             quickViewPage.Title = QuickViewHeadings.Where(r => r.Key == viewItem).FirstOrDefault().Value;
             ViewBag.Title = "Dallas-Fort Worth Freeways " + quickViewPage.Title;
 

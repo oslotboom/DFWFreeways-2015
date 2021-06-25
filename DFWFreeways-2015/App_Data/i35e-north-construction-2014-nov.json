@@ -3,12 +3,12 @@
     "title":  "I-35E Lake Lewisville construction",
         "pageHeader" :
     {
-        "title": "Lake Lewisville Bridge Construction November 2014",
+        "title": "Lake Lewisville Bridge Construction",
         "urlParentText": "I-35E North",
-        "lastUpdated": "April 13, 2015"
+        "lastUpdated": "Created April 13, 2015; last updated January 29, 2018"
     },
 "map": "",
-"text": "This section of I-35 is being expanded with managed and regular lanes in the 2014-2017 period. A new bridge is being built on the west side of the existing bridge for the southbound main lanes, southbound frontage roads and reversible managed lanes.",
+"text": "Expansion of this section of I-35 was completed in 2017. The new Lake Lewisville bridge opened to traffic during two weekends in September 2016.",
 "images":
 [
 {
@@ -81,11 +81,32 @@
 "caption": "This view from Garden Ridge Blvd shows that the new southbound lanes on the elevated structure are entirely to the west of the existing right-of-way.",
 "imageDate": "27-November-2014"
 },
-{
-"file": "20141127_0170-950.jpg",
-"caption": "This view shows work on the new overpass structure at Justin Road.",
-"imageDate": "27-November-2014"
-}
+    {
+        "file": "20141127_0170-950.jpg",
+        "caption": "This view shows work on the new overpass structure at Justin Road.",
+        "imageDate": "27-November-2014"
+    }
+,
+    {
+        "file": "20160325-27-0249-1050.jpg",
+        "caption": "This March 2016 view looks north from Garden Ridge Boulevard on the south end of the bridge. Nearly all the bridge was substantially complete, and the remaining work in progress was at the south end at the site of the this photo.",
+        "highResolution": "20160325-27-0249-2560.jpg",
+        "imageDate": "26-March-2016"
+    }
+    ,
+    {
+        "file": "20170904-0031-1050.jpg",
+        "caption": "This September 2017 view looks north from Garden Ridge Boulevard showing the completed project. The new Lake Lewisville brige opened in September 2016.",
+        "highResolution": "20170904-0031-2560.jpg",
+        "imageDate": "4-Sept-2017"
+    }
+        ,
+    {
+        "file": "20170904-0024-1050.jpg",
+        "caption": "Decorative enhancements on the retaining wall at Garden Ridge Boulevard.",
+        "highResolution": "",
+        "imageDate": "4-Sept-2017"
+    }
 ]
 
 }

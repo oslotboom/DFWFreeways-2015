@@ -6,67 +6,97 @@
         "title": "Driving Views Southbound",
         "subTitle": "I-35E to DFW Airport",
         "urlParentText": "SH 121",
-        "lastUpdated": "Created March 8, 2009. Last updated June 1, 2015 (review and update captions)"
+        "lastUpdated": "Created March 8, 2009. Last updated June 24, 2021 (review and update captions)"
     },
     "map": "",
-    "text": "This includes about two miles of the Sam Rayburn Turnpike, and then the main lanes become the untolled SH 121. 2015 update: Several projects have made most of the photos below obsolete. The obsolete images are indicated.",
+    "text": "This includes about two miles of the Sam Rayburn Turnpike, and then the main lanes become the untolled SH 121. 2021 update: Several completed construction projects have made most of the photos below obsolete. The obsolete images are indicated.",
     "images":
     [
         {
             "file": "121_driving_20070729_IMG_8375_approaching_35.jpg",
             "caption": "Driving southbound/westbound on SH 121 with I-35E ahead.",
             "imageDate": "4-Aug-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "In 2015 work is in progress to add four new connections to the interchange" }
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "Four new direct connection ramps were added in 2017 to complete the interchange." }
 
         },
         {
             "file": "121_driving_20070729_IMG_8376_at_35e.jpg",
             "caption": "Exit for I-35E",
             "imageDate": "4-Aug-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "In 2015 work is in progress to add four new connections to the interchange" }
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "Four new direct connection ramps were added in 2017 to complete the interchange." }
         },
         {
             "file": "121_driving_20070729_IMG_8377_at_35e.jpg",
             "caption": "At I-35E",
             "imageDate": "4-Aug-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "In 2015 work is in progress to add four new connections to the interchange" }
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "Four new direct connection ramps were added in 2017 to complete the interchange." }
         },
         {
             "file": "121_driving_20070729_IMG_8378_at_35e.jpg",
             "caption": "",
             "imageDate": "4-Aug-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "In 2015 work is in progress to add four new connections to the interchange" }
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "Four new direct connection ramps were added in 2017 to complete the interchange." }
         },
-        {
-            "file": "121_driving_20070729_IMG_8379.jpg",
-            "caption": "",
-            "imageDate": "4-Aug-2007"
-        },
-        {
-            "file": "121_driving_20070729_IMG_8380_at_macarthur.jpg",
-            "caption": "At MacArthur",
-            "imageDate": "4-Aug-2007"
-        },
-        {
-            "file": "121_driving_20070729_IMG_8385_w_of_macarthur.jpg",
-            "caption": "West of MacArthur",
-            "imageDate": "4-Aug-2007"
-        },
-        {
-            "file": "121_driving_20070729_IMG_8388_at_denton_tap.jpg",
-            "caption": "At Denton Tap Road.",
-            "imageDate": "4-Aug-2007"
-        },
-        {
-            "file": "121_driving_20070729_IMG_8389_at_121bus.jpg",
-            "caption": "Approaching the merge point with business 121.",
-            "imageDate": "4-Aug-2007"
-        },
-        {
-            "file": "121_driving_20070729_IMG_8390_at_121bus.jpg",
-            "caption": "At 121 business.",
-            "imageDate": "4-Aug-2007"
-        },
+      {
+        "file": "121_driving_20070729_IMG_8379.jpg",
+        "caption": "",
+        "imageDate": "4-Aug-2007",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
+      {
+        "file": "121_driving_20070729_IMG_8380_at_macarthur.jpg",
+        "caption": "At MacArthur",
+        "imageDate": "4-Aug-2007",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
+      {
+        "file": "121_driving_20070729_IMG_8385_w_of_macarthur.jpg",
+        "caption": "West of MacArthur",
+        "imageDate": "4-Aug-2007",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
+      {
+        "file": "121_driving_20070729_IMG_8388_at_denton_tap.jpg",
+        "caption": "At Denton Tap Road.",
+        "imageDate": "4-Aug-2007",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
+      {
+        "file": "121_driving_20070729_IMG_8389_at_121bus.jpg",
+        "caption": "Approaching the merge point with business 121.",
+        "imageDate": "4-Aug-2007",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
+      {
+        "file": "121_driving_20070729_IMG_8390_at_121bus.jpg",
+        "caption": "At 121 business.",
+        "imageDate": "4-Aug-2007",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
         {
             "file": "121_driving_20070729_IMG_8391.jpg",
             "caption": "End of the Sam Rayburn Turnpike. Going ahead is freeway. ",
@@ -76,37 +106,37 @@
             "file": "121_driving_20070729_IMG_8392_dallas_county_line.jpg",
             "caption": "At the Dallas County line.",
             "imageDate": "4-Aug-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "In 2015 work is in progress to expand the freeway." }
+            "imageStatus": { "statusDate": "2018", "status": "Obsolete, historical archive", "note": "The freeway expansion of this section completed in 2017" }
         },
         {
             "file": "121_driving_20070729_IMG_8393.jpg",
             "caption": "Ahead is an at-grade intersection at Coppell Road. ",
             "imageDate": "4-Aug-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The highway was made into a freeway in 2009. In 2015 work is in progress to expand the freeway." }
+            "imageStatus": { "statusDate": "2018", "status": "Obsolete, historical archive", "note": "The highway was made into a freeway in 2009. In 2017 expansion to its ultimate width to support 5x5 lanes was completed." }
         },
         {
             "file": "121_driving_20070729_IMG_8394_at_grade_intersection.jpg",
             "caption": "Another at-grade crossing.",
             "imageDate": "4-Aug-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The highway was made into a freeway in 2009. In 2015 work is in progress to expand the freeway." }
+            "imageStatus": { "statusDate": "2018", "status": "Obsolete, historical archive", "note": "The highway was made into a freeway in 2009. In 2017 expansion to its ultimate width to support 5x5 lanes was completed." }
         },
         {
             "file": "121_driving_20070729_IMG_8396_at_freeport_parkway.jpg",
             "caption": "Approaching the signalized intersection at Freeport Parkway. This location was upgraded to a freeway in 2009.",
             "imageDate": "4-Aug-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The highway was made into a freeway in 2009. In 2015 work is in progress to expand the freeway." }
+            "imageStatus": { "statusDate": "2018", "status": "Obsolete, historical archive", "note": "The highway was made into a freeway in 2009. In 2017 expansion to its ultimate width to support 5x5 lanes was completed." }
         },
         {
             "file": "121_driving_20070729_IMG_8397_at_freeport_pkway.jpg",
             "caption": "At Freeport Parkway.",
             "imageDate": "4-Aug-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The highway was made into a freeway in 2009. In 2015 work is in progress to expand the freeway." }
+            "imageStatus": { "statusDate": "2018", "status": "Obsolete, historical archive", "note": "The highway was made into a freeway in 2009. In 2017 expansion to its ultimate width to support 5x5 lanes was completed." }
         },
         {
             "file": "121_driving_20070729_IMG_8403_at_sandy_lake.jpg",
             "caption": "Another signalized intersection at Sandy Lake Road which was upgraded to a freeway in 2009.",
             "imageDate": "4-Aug-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The highway was made into a freeway in 2009. In 2015 work is in progress to expand the freeway." }
+            "imageStatus": { "statusDate": "2018", "status": "Obsolete, historical archive", "note": "The highway was made into a freeway in 2009. In 2017 expansion to its ultimate width to support 5x5 lanes was completed." }
         },
         {
             "file": "121_driving_20070804_IMG_8411_at_2499.jpg",
@@ -136,7 +166,7 @@
             "file": "121_driving_20070804_IMG_8417_at_635.jpg",
             "caption": "At I-635",
             "imageDate": "4-Aug-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The freeway was widened as part of the DFW Connector project, completed in 2013." }
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The freeway was widened as part of the DFW Connector project, completed in 2013. New connection ramps to IH-635 were completed in 2021." }
         },
         {
             "file": "121_driving_20070804_IMG_8418_s_of_635.jpg",

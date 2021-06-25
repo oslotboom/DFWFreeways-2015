@@ -5,10 +5,10 @@
     {
         "title": "Driving Westbound, Garland to Irving",
         "urlParentText": "Bush Turnpike",
-        "lastUpdated": "June 1, 2015 (review only)"
+        "lastUpdated": "Feb 4, 2018 (update captions)"
     },
     "map": "190_driving_800.gif",
-    "text": "",
+    "text": "In November 2016 a new lane in each direction was added between US 75 (Central Expressway) and the Dallas North Tollway. A new lane in each direction between the Dallas North Tollway and IH 35E is scheduled for opening in 2019.",
     "images":
     [
         {
@@ -60,22 +60,26 @@
         {
             "file": "190_driving_20070428_IMG_5903_75_downgrade.jpg",
             "caption": "On the downgrade. Richardson is on the left (south), Plano is on the right (north).",
-            "imageDate": "28-April-2007"
+            "imageDate": "28-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "An additional lane in each direction was added in the median in November 2016." }
         },
         {
             "file": "190_driving_20070428_IMG_5906_independence_waterview.jpg",
             "caption": "",
-            "imageDate": "28-April-2007"
+            "imageDate": "28-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "An additional lane in each direction was added in the median in November 2016." }
         },
         {
             "file": "190_driving_20070428_IMG_5909.jpg",
             "caption": "",
-            "imageDate": "28-April-2007"
+            "imageDate": "28-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "An additional lane in each direction was added in the median in November 2016." }
         },
         {
             "file": "190_driving_20070428_IMG_5911_coit.jpg",
             "caption": "Coit road is just ahead.",
-            "imageDate": "28-April-2007"
+            "imageDate": "28-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "An additional lane in each direction was added in the median in November 2016." }
         },
         {
             "file": "190_driving_20070428_IMG_5915_toll_plaza.jpg",
@@ -86,17 +90,20 @@
         {
             "file": "190_driving_20070428_IMG_5916_west_of_toll_plaza.jpg",
             "caption": "West of the toll plaza ",
-            "imageDate": "28-April-2007"
+            "imageDate": "28-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "An additional lane in each direction was added in the median in November 2016." }
         },
         {
             "file": "190_driving_20070428_IMG_5919_preston.jpg",
             "caption": "At Preston",
-            "imageDate": "28-April-2007"
+            "imageDate": "28-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "An additional lane in each direction was added in the median in November 2016." }
         },
         {
             "file": "190_driving_20070428_IMG_5922_dnt.jpg",
-            "caption": "Approach the Dallas North Tollway interchange",
-            "imageDate": "28-April-2007"
+            "caption": "Approaching the Dallas North Tollway interchange",
+            "imageDate": "28-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "An additional lane in each direction was added in the median in November 2016." }
         },
         {
             "file": "190_driving_20070428_IMG_5925_dnt.jpg",
@@ -111,12 +118,14 @@
         {
             "file": "190_driving_20070428_IMG_5929_marsh.jpg",
             "caption": "Now we are in Carrollton. The highway pavement becomes asphalt.",
-            "imageDate": "28-April-2007"
+            "imageDate": "28-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "An additional lane in each direction is being added, scheduled for 2019 opening." }
         },
         {
             "file": "190_driving_20070428_IMG_5931_marsh.jpg",
             "caption": "",
-            "imageDate": "28-April-2007"
+            "imageDate": "28-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "An additional lane in each direction is being added, scheduled for 2019 opening." }
         },
         {
             "file": "190_driving_20070428_IMG_5933_toll_plaza.jpg",
@@ -127,27 +136,32 @@
         {
             "file": "190_driving_20070428_IMG_5935_trinity_mills.jpg",
             "caption": "Approaching Trinity Mills/Kelly Road",
-            "imageDate": "28-April-2007"
+            "imageDate": "28-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "An additional lane in each direction is being added, scheduled for 2019 opening." }
         },
         {
             "file": "190_driving_20070428_IMG_5937_josey.jpg",
             "caption": "At Josey",
-            "imageDate": "28-April-2007"
+            "imageDate": "28-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "An additional lane in each direction is being added, scheduled for 2019 opening." }
         },
         {
             "file": "190_driving_20070428_IMG_5940.jpg",
             "caption": "",
-            "imageDate": "28-April-2007"
+            "imageDate": "28-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "An additional lane in each direction is being added, scheduled for 2019 opening." }
         },
         {
             "file": "190_driving_20070428_IMG_5942_approaching_35e.jpg",
             "caption": "I-35E is one mile ahead",
-            "imageDate": "28-April-2007"
+            "imageDate": "28-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "An additional lane in each direction is being added, scheduled for 2019 opening." }
         },
         {
             "file": "190_driving_20070428_IMG_5943.jpg",
             "caption": "",
-            "imageDate": "28-April-2007"
+            "imageDate": "28-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "An additional lane in each direction is being added, scheduled for 2019 opening." }
         },
         {
             "file": "190_driving_20070428_IMG_5944_35e_overhead.jpg",
@@ -171,7 +185,7 @@
         },
         {
             "file": "190_driving_20070428_IMG_5950_sandy_lake.jpg",
-            "caption": "Now we are on the newest section of the turnpike which opened September 9, 2005.",
+            "caption": "This section of the turnpike opened on September 9, 2005.",
             "imageDate": "28-April-2007"
         },
         {

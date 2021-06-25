@@ -6,10 +6,10 @@
         "title": "US 287 South Roadside Views",
         "subTitle": "",
         "urlParentText": "US 287 South",
-        "lastUpdated": "Created November 13, 2007. Updated June 1, 2015"
+        "lastUpdated": "Created November 13, 2007. Updated February 8, 2018"
     },
     "map": "287se_map_660.gif",
-    "text": "2015 update: Changes to the US 287 corridor have been minimal since these photos were taken in 2007, so these are still accurate depictions.",
+    "text": "2018 update: Changes to the US 287 corridor have been minimal since these photos were taken in 2007, except for the final photo near I-35W which was substantially modified for the North Tarrant Express, which completed construction in 2018.",
     "images":
     [
         {
@@ -86,7 +86,8 @@
         {
             "file": "287_20070608_IMG_7543_chambers_street.jpg",
             "caption": "US 287 follows the alignment of I-35W, and traffic taking US 287 takes the exit just ahead. Remaining on the main lanes follows Texas 280 into downtown. There is a low-income housing project on the left in the area surrounded by I-30, I-35E, and US 287. ",
-            "imageDate": "8-June-2007"
+            "imageDate": "8-June-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "This section was substantially modified including the addition of an elevated ramp for the North Tarrant Express, completed in 2018." }
         }
 
 

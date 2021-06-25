@@ -1,0 +1,133 @@
+﻿{
+    "folderPath": "2016-March",
+    "title":  "I-35W construction",
+    "pageHeader" :
+    {
+        "title": "I-35W North Construction",
+        "subTitle": "Downtown to the US 287 Split",
+        "urlParentText": "I-35W",
+        "lastUpdated": "April 18, 2016 (created)"
+    },
+"map": "",
+"text": "This is part of the North Tarrant Express project. In the current phase, the corridor is being widened and four toll lanes are being added.",
+"images":
+[
+    {
+        "file": "20160325-27-0309-1100.jpg",
+        "caption": "Northbound downtown at Spur 280",
+        "imageDate": "26-March-2016"
+    },
+	{
+        "file": "20160325-27-0311-1100.jpg",
+		"caption" :  "Northbound downtown at Spur 280",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0313-1100.jpg",
+		"caption" :  "",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0314-1100.jpg",
+		"caption" :  "Approaching SH 121. The structure on the left is for the tolled lanes. The ultimate design has a big new interchange at this location, but not in the current phase.",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0316-1100.jpg",
+		"caption" :  "North of SH 121",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0319-1150.jpg",
+		"caption" :  "The corridor is being widened on the left (west) side, and the embankment on the left is for the new southbound lanes.",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0320-1100.jpg",
+		"caption" :  "",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0321-1200.jpg",
+		"caption" :  "The crossing for NE 28th is ahead, showing the full width of the widened freeway.",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0323-1150.jpg",
+		"caption" :  "",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0324-1150.jpg",
+		"caption" :  "",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0330 -1050.jpg",
+		"caption" :  "Detour through the construction zone",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0331-1100.jpg",
+		"caption" :  "Approaching I-820",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0332-1100.jpg",
+		"caption" :  "",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0333-1050.jpg",
+		"caption" :  "",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0334-1050.jpg",
+		"caption" :  "",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0335-1100.jpg",
+		"caption" :  "At the exits for I-820",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0336-1050.jpg",
+		"caption" :  "",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0337-1100.jpg",
+        "caption": "",
+        "imageDate": "26-March-2016"
+    },
+	{
+        "file": "20160325-27-033-1100.jpg",
+		"caption" :  "",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0342-1200.jpg",
+		"caption" :  "",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0343-1050.jpg",
+		"caption" :  "Aonther traffic shift ahead",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0346-950.jpg",
+		"caption" :  "Approaching the exit to US 287, which is the end of the construction zone",
+        "imageDate": "26-March-2016"
+    },
+    {
+        "file": "20160325-27-0350-1100.jpg",
+		"caption" :  "",
+        "imageDate": "26-March-2016"
+    }
+ 
+]
+
+}

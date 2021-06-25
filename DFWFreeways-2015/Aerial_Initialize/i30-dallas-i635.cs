@@ -33,14 +33,14 @@ namespace DFWFreeways.Models
                     "Looking northwest."),
                 new AerialGalleryItem(new DateTime(2011,4,16),"20110416_aerial_0537.JPG","20110416_aerial_0537-1050.jpg", "20110416_aerial_0537-2560.jpg", "aerial", 
                     "I-30 at I-635",
-                    "I-30 at I-635 looking southwest",
+                    "I-30 at I-635 looking southwest along I-30",
                     "I-30 at I-635",
-                    "Looking southwest."),
+                    "Looking southwest along I-30."),
                 new AerialGalleryItem(new DateTime(2011,4,16),"20110416_aerial_0539.JPG","20110416_aerial_0539-1050.jpg", "20110416_aerial_0539-2560.jpg", "aerial", 
                     "I-30 at I-635",
-                    "I-30 at I-635 looking southeast",
+                    "I-30 at I-635 looking southwest",
                     "I-30 at I-635",
-                    "Looking southwest.")
+                    "Looking southwest along I-30.")
             };
         }
     }

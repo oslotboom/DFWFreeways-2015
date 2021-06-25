@@ -1,0 +1,78 @@
+﻿{
+    "folderPath": "",
+    "title":  "I-635 Dallas LBJ Express construction photos",
+    "pageHeader" :
+    {
+        "title": "Construction Photos, LBJ Express",
+        "urlParentText": "I-635",
+        "lastUpdated": "Created November 15, 2015"
+    },
+    "map": "",
+    "text": "The LBJ Express lanes opened on September 10, 2015. Photography of the construction of the LBJ Express lanes was difficult because most of the work was in a trench in the middle of the freeway and was visible only from a few overpasses.",
+    "images":
+        [
+            {
+                "file": "20131020_635_4354-1050.jpg",
+                "highResolution": "",
+                "caption": "This driver's view looks westbound, just west of the Dallas North Tollway. The area on the left between the main lanes would become the express lanes.",
+                "imageDate": "20-October-2013"
+            },
+            {
+                "file": "20131020_635_4358-1050.jpg",
+                "highResolution": "",
+                "caption": "This view looks west from the Welch Road overpass. The area in the foreground would later be excavated to create the trench for the express lanes.",
+                "imageDate": "20-October-2013"
+            },
+            {
+                "file": "20131020_635_4392-1050.jpg",
+                "highResolution": "20131020_635_4392-2560.jpg",
+                "caption": "This view looks west from the Joe Ratcliff pedestrian bridge, with Webb Chapel Road ahead.",
+                "imageDate": "20-October-2013"
+            },
+            {
+                "file": "20131020_635_4395-1050.jpg",
+                "highResolution": "20131020_635_4395-2560.jpg",
+                "caption": "This view looks east from the Joe Ratcliff pedestrian bridge, with the Marsh Road overpass ahead. During construction, motorists became accustomed to the shifting of the travel lanes from one side to another as the project progressed.",
+                "imageDate": "20-October-2013"
+            },
+            {
+                "file": "20131128_5057-1050.jpg",
+                "highResolution": "",
+                "caption": "Looking east at Marsh Road.",
+                "imageDate": "28-November-2013"
+            },
+            {
+                "file": "20131128_5093-1050.jpg",
+                "highResolution": "",
+                "caption": "Looking east from Rosser. Excavation of the trench for the managed lanes was just underway.",
+                "imageDate": "28-November-2013"
+            },
+            {
+                "file": "20131128_5102-1050.jpg",
+                "highResolution": "",
+                "caption": "Looking east near Midway. The ground in the foreground would later be excavated for the express lanes, and additional elevated structures were built above.",
+                "imageDate": "28-November-2013"
+            },
+            {
+                "file": "20140330_0015-1050.jpg",
+                "highResolution": "20140330_0015-2560.jpg",
+                "caption": "Looking east from Rosser, with Midway Road ahead. Here we can see that excavation of the trench was mostly complete.",
+                "imageDate": "30-March-2014"
+            },
+            {
+                "file": "20140605_lbj_0010-1050.jpg",
+                "highResolution": "20140605_lbj_0010-2560.jpg",
+                "caption": "Looking east from Rosser. The piers for the roadway deck above the trench were in position.",
+                "imageDate": "5-June-2014"
+            },
+            {
+                "file": "20140921_635_0002-1050.jpg",
+                "highResolution": "20140921_635_0002-2560.jpg",
+                "caption": "Drivers view going eastbound at Webb Chapel. To the left, beams for the deck which would cover the express lane trench were in position",
+                "imageDate": "21-September-2014"
+            }
+
+
+        ]
+
+}

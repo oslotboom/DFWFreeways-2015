@@ -3,18 +3,18 @@
     "title": "SH 183 Photos Dallas",
     "pageHeader":
     {
-        "title": "Driving Photos",
-        "subTitle": "Dallas",
+        "title": "Driving Photos, Dallas",
+        "subTitle": "Mostly Historical Archive",
         "urlParentText": "SH 183",
-        "lastUpdated": "June 1, 2015 (review and update captions)"
+        "lastUpdated": "Feb 4, 2018 (review and update captions)"
     },
     "map": "183_driving_westbound_750.gif",
-    "text": "These views start on I-35E in Dallas 183 and proceed westbound to Texas Stadium in Irving. Texas Stadium was demolished in April 2010, so all the photos including Texas Stadium are now historical curiosities.", 
+    "text": "These views start on I-35E in Dallas and proceed westbound to Texas Stadium in Irving. Texas Stadium was demolished in April 2010, so all the photos including Texas Stadium are now historical archive photos. Major expansion of the freeway from Regal Row westward to the Texas Stadium site was completed in 2018, so all photos showing the original freeway are for historical reference.", 
     "images":
     [
         {
             "file": "183_driving_20080413_IMG_0684_on_i35.jpg",
-            "caption": "Northbound on I-35E Stemmons Freeway, approaching the exit for TX 183",
+            "caption": "Northbound on I-35E Stemmons Freeway, approaching the exit for TX 183. Notice the signage for Texas Stadium, which was removed after the closure of the stadium in 2009.",
             "imageDate": "April 13, 2008"
         },
         {
@@ -41,44 +41,44 @@
             "file": "183_driving_20080413_IMG_0694_trinity_bridge.jpg",
             "caption": "On the Trinity River bridge. Texas Stadium is visible ahead.",
             "imageDate": "April 13, 2008",
-			"imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Texas Stadium was demolished in 2010, and expansion of this section of SH 183 began in 2015." }
+			"imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "New bridges were built on both sides of the freeway, completed in 2018. Texas Stadium was demolished in 2010." }
 
         },
         {
             "file": "183_driving_20080413_IMG_0695_trinity_bridge_better.jpg",
             "caption": "Still on the Trinity River bridge.",
             "imageDate": "April 13, 2008",
-			"imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Texas Stadium was demolished in 2010, and expansion of this section of SH 183 began in 2015.." }
+			"imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "New bridges were built on both sides of the freeway, completed in 2018. Texas Stadium was demolished in 2010." }
         },
         {
             "file": "183_driving_20080413_IMG_0696_grauwyler.jpg",
             "caption": "At the Grauwyler exit.",
             "imageDate": "April 13, 2008",
-			"imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Texas Stadium was demolished in 2010, and expansion of this section of SH 183 began in 2015." }
+			"imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "Freeway expansion was completed in 2018. Texas Stadium was demolished in 2010" }
         },
         {
             "file": "183_driving_20080413_IMG_0697.jpg",
-            "caption": "Texas Stadium is directly ahead. The overhead sign indicates the spit to TX 114 just ahead.",
+            "caption": "This view shows the original freeway. Texas Stadium is directly ahead. The overhead sign indicates the spit to TX 114 just ahead.",
             "imageDate": "April 13, 2008",
-			"imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Texas Stadium was demolished in 2010, and expansion of this section of SH 183 began in 2015. All properties on the right (north) side of the freeway were cleared for the expansion." }
+			"imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "The freeway ahead was expanded and reconfigured, completed in 2018. All properties on the right (north) side of the freeway were cleared for the expansion. Texas Stadium was demolished in 2010." }
         },
         {
             "file": "183_driving_20080413_IMG_0698_split_sign.jpg",
-            "caption": "The freeway forks, with TX 183 to the left and TX 114 on the right.",
+            "caption": "This view shows the original freeway. The freeway forks, with TX 183 to the left and TX 114 on the right.",
             "imageDate": "April 13, 2008",
-			"imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Texas Stadium was demolished in 2010, and expansion of this section of SH 183 began in 2015. All properties on the right (north) side of the freeway were cleared for the expansion." }
+			"imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "The freeway ahead was expanded and reconfigured, completed in 2018. Texas Stadium was demolished in 2010. All properties on the right (north) side of the freeway were cleared for the expansion." }
         },
         {
             "file": "183_driving_20080413_IMG_0700_texas_stadium.jpg",
             "caption": "",
             "imageDate": "April 13, 2008",
-			"imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Texas Stadium was demolished in 2010, and expansion of this section of SH 183 began in 2015." }
+			"imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "Texas Stadium was demolished in 2010, and expansion of this section of SH 183 completed in 2018." }
         },
         {
             "file": "183_driving_20080413_IMG_0701_texas_stadium.jpg",
             "caption": "At the split with TX 114.",
             "imageDate": "April 13, 2008",
-			"imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Texas Stadium was demolished in 2010, and expansion of this section of SH 183 began in 2015." }
+			"imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "Texas Stadium was demolished in 2010, and expansion of this section of SH 183 completed in 2018." }
         }
     ]
 

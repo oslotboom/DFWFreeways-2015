@@ -5,10 +5,10 @@
     {
         "title": "Roadside Views",
         "urlParentText": "I-45",
-        "lastUpdated": "June 1, 2015 (review only)"
+        "lastUpdated": "February 1, 2018 (update caption)"
     },
     "map": "45_roadside_500.gif",
-    "text": "2015 status: Changes have been minimal since these photos were taken and these photos are still up-to-date.",
+    "text": "2018 status: Changes have been minimal since these photos were taken and nearly all these photos are still up-to-date. The only section of freeway which has been modified is just south of downtown between South Cesar Chavez and Lamar.",
     "images":
         [
 
@@ -84,12 +84,17 @@
                 "caption": "Southbound traffic is Houston-bound. This view shows signage looking west along Loop 12.",
                 "imageDate": "8-Apr-2007"
             },
-            {
-                "file": "45_20071020_IMG_9399_ped_overpass_950.jpg",
-                "highResolution": "45_20071020_IMG_9399_ped_overpass_2592.jpg",
-                "caption": "Looking northbound from a pedestrian overpass north of Lamar Street. This area was a lightning rod for controversy and community opposition during the planning of the freeway in the early 1970s. The area is low-income and predominantly black.",
-                "imageDate": "20-Oct-2007"
-            },
+          {
+            "file": "45_20071020_IMG_9399_ped_overpass_950.jpg",
+            "highResolution": "45_20071020_IMG_9399_ped_overpass_2592.jpg",
+            "caption": "Looking northbound from a pedestrian overpass north of Lamar Street. This area was a lightning rod for controversy and community opposition during the planning of the freeway in the early 1970s. The area is low-income and predominantly black.",
+            "imageDate": "20-Oct-2007",
+            "imageStatus": {
+              "statusDate": "2018",
+              "status": "Partially Obsolete",
+              "note": "The interior shoulders were converted to traffic lanes as part of the realignment of US 175 to be on this section of freeway, and the associated removal of the S.M. Wright Freeway."
+            }
+          },
             {
                 "file": "45_20070408_IMG_4855_crips_near_pennsylvania.jpg",
                 "caption": "Graffiti on the pedestrian overpass. This area qualifies as a \"hood\".",

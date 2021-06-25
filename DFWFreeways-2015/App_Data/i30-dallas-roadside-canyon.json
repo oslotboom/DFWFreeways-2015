@@ -5,10 +5,10 @@
     {
         "title": "Roadside Views of the Downtown Canyon",
         "urlParentText": "I-30 Dallas",
-        "lastUpdated": "June 1, 2015"
+        "lastUpdated": "January 29, 2018 (update caption)"
     },
     "map": "30d_downtown.gif",
-    "text": "This downtown section of freeway was opened in November 1965 (collector lanes, Akard to Harwood) and April 28, 1966 (main lanes). Changes have been minimal since the original opening, and the photos below are still accurate as of 2015. There are long-term plans to rebuild and modernize the freeway as part of Project Pegasus, but work is not scheduled as of 2015.",
+    "text": "This downtown section of freeway was opened in November 1965 (collector lanes, Akard to Harwood) and April 28, 1966 (main lanes). Changes have been minimal since the original opening, and the photos below are still accurate as of 2015, except for the Mixmaster photo as noted. There are long-term plans to rebuild and modernize the freeway as part of Project Pegasus, but work is not scheduled as of 2018.",
     "images":
         [
 
@@ -47,12 +47,17 @@
                 "caption": "Looking east from the Lamar overpass",
                 "imageDate": "10-March-2007"
             },
-            {
-                "file": "30d_20071027_IMG_9440_at_i35_950.jpg",
-                "highResolution": "30d_20071027_IMG_9440_at_i35_2973.jpg",
-                "caption": "Looking west from the Houston Street overpass. I-30 and I-35E multiplex (use the same freeway corridor) for a short distance at this location.\r\n\t\t\t\t\tJust ahead I-30 branches to the left for the Trinity River crossing. In the days of the Dallas-Fort Worth Turnpike, the Trinity bridge was the start\r\n\t\t\t\t\tof the turnpike.\r\n\t\t\t\t\t",
-                "imageDate": "27-October-2007"
+          {
+            "file": "30d_20071027_IMG_9440_at_i35_950.jpg",
+            "highResolution": "30d_20071027_IMG_9440_at_i35_2973.jpg",
+            "caption": "Looking west from the Houston Street overpass. I-30 and I-35E multiplex (use the same freeway corridor) for a short distance at this location.\r\n\t\t\t\t\tJust ahead I-30 branches to the left for the Trinity River crossing. In the days of the Dallas-Fort Worth Turnpike, the Trinity bridge was the start\r\n\t\t\t\t\tof the turnpike.\r\n\t\t\t\t\t",
+            "imageDate": "27-October-2007",
+            "imageStatus": {
+              "statusDate": "2018",
+              "status": "Obsolete",
+              "note": "The area shown was completely rebuilt with new ramps during the Horseshoe project, completed in 2017."
             }
+          }
 
         ]
 

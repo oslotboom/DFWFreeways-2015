@@ -1,0 +1,69 @@
+﻿{
+    "folderPath": "",
+    "title":  "I-35E Dallas construction",
+    "pageHeader" :
+    {
+        "title": "Downtown Collector Lanes",
+        "urlParentText": "I-35E North",
+        "lastUpdated": "June 23, 2021; created Sept 12, 2020"
+    },
+"map": "",
+"text": "These collector lanes run from around Woodall Rodgers Freeway to the Dallas North Tollway. As of June 2021, the lanes were open to traffic but the collectors were not fully complete. My impression (based on a single visit) is that the southbound collector is already highly beneficial to the IH-35 main lanes, because the backup to get onto Woodall Rodgers is now on the collector instead of the main lanes, so main lane traffic on IH-35E southbound flows smoothly.",
+  "images": [
+    {
+      "file": "20200906-07_332_1200.jpg",
+      "highResolution": "20200906-07_332_2463.jpg",
+      "caption": "Looking north along the northbound collector on the ramp from the Woodall Rodgers Freeway.",
+      "imageDate": "7-Sept-2020"
+    },
+    {
+      "file": "20200906-07_333_1200.jpg",
+      "highResolution": "20200906-07_333_2560.jpg",
+      "caption": "The southbound collector lanes are visible on the left side of the freeway.",
+      "imageDate": "7-Sept-2020"
+    },
+    {
+      "file": "20200906-07_334_1200.jpg",
+      "highResolution": "20200906-07_334_2560.jpg",
+      "caption": "The southbound collector is visible on the left, and the northbound collector is visible on the right.",
+      "imageDate": "7-Sept-2020"
+    },
+    {
+      "file": "20200906-07_336_1200.jpg",
+      "highResolution": "",
+      "caption": "Northbound collector",
+      "imageDate": "7-Sept-2020"
+    },
+    {
+      "file": "20200906-07_337_1200.jpg",
+      "highResolution": "",
+      "caption": "Northbound collector",
+      "imageDate": "7-Sept-2020"
+    },
+    {
+      "file": "20200906-07_338_1200.jpg",
+      "highResolution": "",
+      "caption": "Southbound collector",
+      "imageDate": "7-Sept-2020"
+    },
+    {
+      "file": "20200906-07_341_1200.jpg",
+      "highResolution": "",
+      "caption": "Southbound collector",
+      "imageDate": "7-Sept-2020"
+    },
+    {
+      "file": "20210619-21_171-1200.jpg",
+      "highResolution": "20210619-21_171-3000.jpg",
+      "caption": "Looking south while driving southbound.",
+      "imageDate": "19-June-2021"
+    },
+    {
+      "file": "20210619-21_172-1200.jpg",
+      "highResolution": "20210619-21_172-3000.jpg",
+      "caption": "Looking south while driving southbound.",
+      "imageDate": "19-June-2021"
+    }
+  ]
+
+}

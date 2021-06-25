@@ -6,10 +6,10 @@
         "title": "Roadside Views",
         "subTitle": "I-635 Near DFW Airport Northbound to Carrollton",
         "urlParentText": "SH 121",
-        "lastUpdated": "Created March 8, 2009. Last updated June 1, 2015 (review and update captions)"
+        "lastUpdated": "Created March 8, 2009. Last updated Feb 6, 2018 (review and update captions)"
     },
     "map": "",
-    "text": "2015 status: Many of these photos are obsolete due to projects which have built new freeway sections or expanded the existing freeway. The affected photos are indicated. These images begin north of DFW Airport and proceed to a point near the eastern junction of SH 121 and SH 121 business in Carrollton.",
+    "text": "2018 status: Many of these photos are obsolete due to projects which have built new freeway sections or expanded the existing freeway. The affected photos are indicated. These images begin north of DFW Airport and proceed to a point near the eastern junction of SH 121 and SH 121 business in Carrollton.",
     "images":
     [
         {
@@ -58,7 +58,7 @@
             "file": "121_roadside_20070729_IMG_8395_at_freeport_parkway.jpg",
             "caption": "Signalized intersection at Freeport Parkway. In 2009 the freeway main lanes opened at this location.",
             "imageDate": "29-July-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Freeway main lanes were built at this location, opening in 2009. In 2015 work is in progress to expand the main lanes." }
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Freeway main lanes were built at this location, opening in 2009. In 2017 the main lanes were expanded." }
         },
         {
             "file": "121_roadside_20070729_IMG_8383_macarthur.jpg",

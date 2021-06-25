@@ -110,8 +110,8 @@
                     @if (image.Status != null)
                     {
                         <div>
-                            @(image.Status.StatusDate + " Photo status: ")
-                            <span>@image.Status.Status</span>
+                            <span style="font-style: italic;">@(image.Status.StatusDate + " Photo status: ")</span>
+                            <span style="font-weight:bold;">@image.Status.Status</span>
                             @image.Status.Note
                         </div>
                     }

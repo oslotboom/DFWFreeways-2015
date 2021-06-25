@@ -3,99 +3,106 @@
     "title": "SH 183 Photos Irving",
     "pageHeader":
     {
-        "title": "Driving Photos",
-        "subTitle": "Irving",
+        "title": "Driving Photos in Irving",
+        "subTitle": "Most photos are for historical reference",
         "urlParentText": "SH 183",
-        "lastUpdated": "June 1, 2015 (create)"
+        "lastUpdated": "June 1, 2015 (create); Feb 3, 2018 (update for corridor reconstruction)"
     },
     "map": "183_driving_eastbound.gif",
-    "text": "The first phase of the reconstruction and expansion of the SH 183 through Irving began in 2015. The first phase will expand the corridor to its ultimate width, rebuild the frontage roads, partially rebuild the main lanes and add managed lanes. Most of the photos below are obsolete as of 2016.",
+    "text": "The first phase of the reconstruction and expansion of the SH 183 took place from 2015 to 2018. The first phase expanded the corridor to its ultimate width, rebuilt the frontage roads, partially rebuilt the main lanes and added managed lanes. The photos east of Belt Line are now totally obsolete and serve as a historical archive of the original freeway. Photos west of Belt Line show the original freeway, which has been modified to have barrier-separated managed lanes.",
     "images":
     [
         {
             "file": "183_driving_20070429_IMG_6275_at_amon_carter.jpg",
             "caption": "At Amon Carter Blvd. This is the location of the former tunnel under the runway, which was demolished in 1984.",
-            "imageDate": "April 29, 2007"
+            "imageDate": "April 29, 2007",
+			      "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "Barrier-separated managed lanes (one each direction) were added in the interior median in 2018." }
         },
         {
             "file": "183_driving_20070429_IMG_6277_at_dfw_ramps.jpg",
             "caption": "Connection ramps at the DFW Airport south entrance.",
-            "imageDate": "April 29, 2007"
+            "imageDate": "April 29, 2007",
+			      "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "Barrier-separated managed lanes (one each direction) were added in the interior median in 2018." }
         },
         {
             "file": "183_driving_20070429_IMG_6279_at_161.jpg",
             "caption": "Approaching TX 161. The ramps on the south side of the interchange were nearing completion at the time of this photo.",
-            "imageDate": "April 29, 2007"
+            "imageDate": "April 29, 2007",
+			      "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "Barrier-separated managed lanes (one each direction) were added in the interior median in 2018." }
         },
         {
             "file": "183_driving_20070429_IMG_6280_at_161.jpg",
             "caption": "",
-            "imageDate": "April 29, 2007"
+            "imageDate": "April 29, 2007",
+			      "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "Barrier-separated managed lanes (one each direction) were added in the interior median in 2018." }
         },
         {
             "file": "183_driving_20070429_IMG_6282_at_161.jpg",
             "caption": "",
-            "imageDate": "April 29, 2007"
+            "imageDate": "April 29, 2007",
+			      "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "Barrier-separated managed lanes (one each direction) were added in the interior median in 2018." }
         },
         {
             "file": "183_driving_20070429_IMG_6284_approaching_356.jpg",
             "caption": "In Irving approaching Belt Line.",
-            "imageDate": "April 29, 2007"
+            "imageDate": "April 29, 2007",
+			      "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "Barrier-separated managed lanes (one each direction) were added in the interior median in 2018." }
         },
         {
             "file": "183_driving_20070429_IMG_6285_at_356.jpg",
             "caption": "At Belt Line.",
-            "imageDate": "April 29, 2007"
+            "imageDate": "April 29, 2007",
+			      "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "Barrier-separated managed lanes (one each direction) were added in the interior median in 2018." }
         },
         {
             "file": "183_driving_20070429_IMG_6287_approaching_story_rd.jpg",
-            "caption": "East of Belt Line, the freeway is built to low design standards with no interior shoulder and poor geometrics.",
+            "caption": "The original freeway rast of Belt Line. The freeway was built to low design standards with no interior shoulder and poor geometrics.",
             "imageDate": "April 29, 2007",
-			"imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Expansion of this section of SH 183 began in 2015." }
+			"imageStatus": { "statusDate": "2018", "status": "Historical Archive", "note": "Expansion of this section of SH 183 completed in 2018." }
         },
         {
             "file": "183_driving_20070429_IMG_6289_just_past_macarthur.jpg",
-            "caption": "The freeway is lined with lower-tier commercial establishments. Irving has become a low and lower-middle income area in recent years.",
+            "caption": "View of the original freeway. The freeway is lined with lower-tier commercial establishments. South Irving has become a low and lower-middle income area in recent years.",
             "imageDate": "April 29, 2007",
-			"imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Expansion of this section of SH 183 began in 2015." }
+			"imageStatus": { "statusDate": "2018", "status": "Historical Archive", "note": "Expansion of this section of SH 183 completed in 2018." }
         },
         {
             "file": "183_driving_20070429_IMG_6290.jpg",
-            "caption": "",
+            "caption": "View of the original freeway.",
             "imageDate": "April 29, 2007",
-			"imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Expansion of this section of SH 183 began in 2015. Properties on the left side of the freeway, including Taco Bell, Whataburger and the Holiday Motel, were cleared for the expansion." }
+			"imageStatus": { "statusDate": "2018", "status": "Historical Archive", "note": "Expansion of this section of SH 183 completed in 2018. Properties on the left side of the freeway, including Taco Bell, Whataburger and the Holiday Motel, were cleared for the expansion." }
         },
         {
             "file": "183_driving_20070429_IMG_6292_at_carl.jpg",
-            "caption": "At the Carl Road exit. Texas Stadium is visible on the left.",
+            "caption": "View of the original freeway at the Carl Road exit. Texas Stadium is visible on the left.",
             "imageDate": "April 29, 2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Texas Stadium was demolished in 2010, and expansion of this section of SH 183 began in 2015." }
+            "imageStatus": { "statusDate": "2018", "status": "Historical Archive", "note": "Expansion of this section of SH 183 completed in 2018. Texas Stadium was demolished in 2010." }
         },
         {
             "file": "183_driving_20070429_IMG_6294_approaching_12.jpg",
-            "caption": "Ths sign advises motorists of the split ahead.",
+            "caption": "This sign on the original freeway advises motorists of the split ahead.",
             "imageDate": "April 29, 2007",
-			"imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Expansion of this section of SH 183 began in 2015." }
+			"imageStatus": { "statusDate": "2018", "status": "Historical Archive", "note": "Expansion of this section of SH 183 completed in 2018." }
         },
         {
             "file": "183_driving_20070429_IMG_6295_texas_stadium.jpg",
             "caption": "Texas Stadium is on the left.",
             "imageDate": "April 29, 2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Texas Stadium was demolished in 2010. Expansion of this section of SH 183 began in 2015." }
+            "imageStatus": { "statusDate": "2018", "status": "Historical Archive", "note": "Texas Stadium was demolished in 2010. Expansion of this section of SH 183 completed in 2018." }
 
         },
         {
             "file": "183_driving_20070429_IMG_6296_fence.jpg",
-            "caption": "At Texas Stadium, the freeway has a tall chain link fence on the median barrier to prevent pedestrian crossing.",
+            "caption": "The original freeway at Texas Stadium. The freeway had a tall chain link fence on the median barrier to prevent pedestrian crossing.",
             "imageDate": "April 29, 2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Texas Stadium was demolished in 2010 and the chain link fence on the median barrier has been removed. Expansion of this section of SH 183 began in 2015." }
+            "imageStatus": { "statusDate": "2018", "status": "Historical Archive", "note": "Texas Stadium was demolished in 2010 and the chain link fence on the median barrier has been removed. Expansion of this section of SH 183 completed in 2018." }
 
         },
         {
             "file": "183_driving_20070429_IMG_6297_at_482.jpg",
-            "caption": "The split at 482 is just ahead.",
+            "caption": "View of the original freeway. The split at 482 is just ahead.",
             "imageDate": "April 29, 2007",
-			"imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Expansion of this section of SH 183 began in 2015." }
+			"imageStatus": { "statusDate": "2018", "status": "Historical Archive", "note": "Expansion of this section of SH 183 completed in 2018." }
         }
     ]
 

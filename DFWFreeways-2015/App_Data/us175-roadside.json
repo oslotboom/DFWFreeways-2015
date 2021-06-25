@@ -1,14 +1,13 @@
 ﻿{
     "folderPath": "",
     "title": "US 175 Dallas photos",
-    "pageHeader":
-    {
-        "title": "Roadside Views",
-        "urlParentText": "US 175",
-        "lastUpdated": "June 1, 2015 (review and add photos)"
-    },
+  "pageHeader": {
+    "title": "Roadside Views",
+    "urlParentText": "US 175",
+    "lastUpdated": "June 1, 2015 (add photos); April 18, 2016 (add photo); June 4, 2017 (add photo); Feb 4, 2018 (update text); Sept 12, 2020 (update status)"
+  },
     "map": "175_roadside_660.gif",
-    "text": "2015 status: Changes have been minimal since these photos were taken and these photos are still up-to-date. Work is scheduled to begin in 2016 to reroute the freeway at the SH 310 intersection (Dead Man's Corner), and after the new section of freeway is built, the SM Wright Freeway will be removed.",
+    "text": "2020 status: Views of the freeway were accurate as of 2020. The new freeway connecting IH 45 to US 175 at SH 310 opened in July 2020, and work to remove the S.M. Wright Freeway is expected to proceed soon.",
     "images":
     [
         {
@@ -27,17 +26,27 @@
             "caption": "This is near the north terminus of the freeway with Interstate 45 just ahead.",
             "imageDate": "15-April-2007"
         },
-        {
-            "file": "IMG_5023_175_metropolitan_on_ramp_950_20070415.jpg",
-            "highResolution": "IMG_5023_175_metropolitan_on_ramp_2500_20070415.jpg",
-            "caption": "Here the freeway passes through a neighborhood; or, stated more precisely in the local vernacular, this area is definitely a \"hood\". This is the onramp at Metropolitan. This section of freeway will be removed and replaced with an arterial street around 2020.",
-            "imageDate": "15-April-2007"
-        },
-        {
-            "file": "IMG_5026_175_mlk_tree_canopy_950_20070415.jpg",
-            "caption": "North of Metropolitan Street the frontage roads are shaded by a tree canopy. This is quite unusual for a frontage road.",
-            "imageDate": "15-April-2007"
-        },
+      {
+        "file": "IMG_5023_175_metropolitan_on_ramp_950_20070415.jpg",
+        "highResolution": "IMG_5023_175_metropolitan_on_ramp_2500_20070415.jpg",
+        "caption": "Here the freeway passes through a neighborhood, which is a run-down low-income area. This is the onramp at Metropolitan. This section of freeway will be removed and replaced with an arterial street, with work starting in 2018 or 2019.",
+        "imageDate": "15-April-2007",
+        "imageStatus": {
+          "statusDate": "2020",
+          "status": "Soon-to-be obsolete",
+          "note": "Work to remove this freeway should be underway in 2021."
+        }
+      },
+      {
+        "file": "IMG_5026_175_mlk_tree_canopy_950_20070415.jpg",
+        "caption": "North of Metropolitan Street the frontage roads are shaded by a tree canopy. This is quite unusual for a frontage road.",
+        "imageDate": "15-April-2007",
+        "imageStatus": {
+          "statusDate": "2020",
+          "status": "Soon-to-be obsolete",
+          "note": "Work to convert this section to a boulevard should be underway in 2021."
+        }
+      },
         {
             "file": "IMG_5028_175_abandonned_bldg_3609_950_20070415.jpg",
             "caption": "Boarded-up building along the freeway. This is a low-income area.",
@@ -45,7 +54,7 @@
         },
         {
             "file": "20150214-0011-1050.jpg",
-            "caption": "This is the Ghetto Club, located at the \"Dead Man's Corner\" intersection with SH 310. The building appears to be in the path of the new freeway alignment, so it is almost surely slated for demolition.",
+            "caption": "This is the Ghetto Club, located at the \"Dead Man's Corner\" intersection with SH 310. The building was in the path of the new freeway alignment, and it was cleared in 2015.",
             "imageDate": "14-Feb-2015"
         },
         {
@@ -58,7 +67,16 @@
             "caption": "Some of the text on the Ghetto Club exterior includes \"No drinking, no drugs, no loitering, no weapons\".",
             "imageDate": "11-Jan-2014"
         },
-
+        {
+            "file": "20160325-27-0073-1050.jpg",
+            "caption": "This is the site of the Ghetto Club in March 2016. Construction at this location was underway later in 2016.",
+            "imageDate": "26-Jan-2016"
+        },
+        {
+            "file": "175_20170408_09-0366.jpg",
+            "caption": "Just south of the Ghetto Club is the House of Jock. I don't know what kind of business this was, but even if it was still open, I would not have gone inside! The property was acquired as part of the project but as of this April 2017 photo the building remained intact.",
+            "imageDate": "26-Jan-2016"
+        },
         {
             "file": "20140111_0065-1050.jpg",
             "caption": "This property just west of Dead Man's Corner was boarded up in January 2014, awaiting removal for clearance of the corridor for the new freeway alignment.",

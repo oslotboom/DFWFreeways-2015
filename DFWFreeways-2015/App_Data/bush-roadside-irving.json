@@ -5,7 +5,7 @@
     {
         "title": "Roadside Views in Irving",
         "urlParentText": "Bush Turnpike",
-        "lastUpdated": "June 1, 2015 (review only)"
+        "lastUpdated": "Feb 4, 2018 (review only)"
     },
     "map": "161_635_to_183_500.gif",
     "text": "",
@@ -28,13 +28,14 @@
         },
         {
             "file": "161_20071028_roadside_IMG_9561_orphan_pier_at_114.jpg",
-            "caption": "Orphan pier at TX 114. As of 2015, there are no plans to add the ramp.",
+            "caption": "Orphan pier at TX 114. As of 2018, there are no plans to add the ramp.",
             "imageDate": "28-Oct-2007"
         },
         {
             "file": "161_20071028_roadside_IMG_9564_looking_nb_at_belt_line_toll_plaza.jpg",
             "caption": "Looking northeast at the toll plaza from the Belt Line overpass. The cash lanes were closed after this photo was taken when the NTTA toll road system became all electronic. South of Beltline, TX 161 is a freeway.",
-            "imageDate": "28-Oct-2007"
+            "imageDate": "28-Oct-2007",
+			"imageStatus": { "statusDate": "2015", "status": "Modified", "note": "The full service lanes for toll payment are closed." }
         },
         {
             "file": "161_20071028_roadside_IMG_9566_start_tollway_sign.jpg",
@@ -44,35 +45,52 @@
         {
             "file": "161_20070811_roadside_IMG_8614_Looking_nb_at_northgate.jpg",
             "caption": "Looking northbound at Northgate",
-            "imageDate": "11-August-2007"
+            "imageDate": "11-August-2007",
+			"imageStatus": { "statusDate": "2018", "status": "Modified", "note": "The interior shoulder is a peak-period temporary use lane." }
         },
-        {
-            "file": "161_20070811_roadside_IMG_8615_looking_sb_at_northgate.jpg",
-            "caption": "Looking southbound at Northgate",
-            "imageDate": "11-August-2007"
-        },
+      {
+        "file": "161_20070811_roadside_IMG_8615_looking_sb_at_northgate.jpg",
+        "caption": "Looking southbound at Northgate",
+        "imageDate": "11-August-2007",
+        "imageStatus": {
+          "statusDate": "2018",
+          "status": "Modified",
+          "note": "The interior shoulder is a peak-period temporary use lane."
+        }
+      },
         {
             "file": "161_20070811_roadside_IMG_8617_looking_n_at_rochelle.jpg",
             "caption": "Looking north at Rochelle",
-            "imageDate": "11-August-2007"
+            "imageDate": "11-August-2007",
+          "imageStatus": {
+            "statusDate": "2018",
+            "status": "Modified",
+            "note": "The interior shoulder is a peak-period temporary use lane."
+          }
         },
-        {
-            "file": "161_20070811_roadside_IMG_8618_looking_s_at_rochelle.jpg",
-            "caption": "Looking south at Rochelle, with the interchange at TX 183 just ahead. The freeway ended at TX 183 at the time of this photo. The southward extension is a tollway, projected to open in 2010.",
-            "imageDate": "11-August-2007"
-        },
-        {
-            "file": "161_20070811_roadside_IMG_8619_looking_s_at_rochelle_zoomed.jpg",
-            "caption": "A zoomed in view showing the main lanes for the southward extension, which opened in August 2009.",
-            "imageDate": "11-August-2007"
-        },
-        {
-            "file": "161_20070811_roadside_IMG_8621_looking_sb_at_183.jpg",
-            "caption": "Looking south along the southbound frontage road just north of TX 183.",
-            "imageDate": "11-August-2007"
+      {
+        "file": "161_20070811_roadside_IMG_8618_looking_s_at_rochelle.jpg",
+        "caption": "Looking south at Rochelle, with the interchange at TX 183 just ahead. The freeway ended at TX 183 at the time of this photo. The southward extension is a tollway, projected to open in 2010.",
+        "imageDate": "11-August-2007",
+        "imageStatus": {
+          "statusDate": "2018",
+          "status": "Modified",
+          "note": "The southbound main lanes through the interchange opened in 2009."
         }
+      },
+            {
+              "file": "161_20070811_roadside_IMG_8619_looking_s_at_rochelle_zoomed.jpg",
+              "caption": "A zoomed in view showing the main lanes for the southward extension, which opened in August 2009.",
+              "imageDate": "11-August-2007",
+			        "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "The southbound main lanes through the interchange opened in 2009." }
+            },
+            {
+              "file": "161_20070811_roadside_IMG_8621_looking_sb_at_183.jpg",
+              "caption": "Looking south along the southbound frontage road just north of TX 183.",
+              "imageDate": "11-August-2007"
+            }
 
 
-    ]
+            ]
 
-}
+          }

@@ -173,9 +173,12 @@ body {
 
 .long-caption {
   padding-bottom: 14px;
-  max-width: 900px; }
-  .long-caption div:nth-child(2) span {
-    color: red; }
+  max-width: 1000px; }
+  .long-caption div:nth-child(2) span:nth-child(1) {
+    font-style: italic; }
+.long-caption div:nth-child(2) span:nth-child(2) {
+    color: red; font-weight: bold;
+    }
   .long-caption a {
     padding: 0 6px; }
 

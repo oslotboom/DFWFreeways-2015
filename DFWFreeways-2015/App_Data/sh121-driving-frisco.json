@@ -6,10 +6,10 @@
         "title": "Driving Views Northbound",
         "subTitle": "Sam Rayburn Turnpike, Hebron Road to Hillcrest",
         "urlParentText": "SH 121",
-        "lastUpdated": "Created March 8, 2009. Last updated June 1, 2015 (review and update captions)"
+        "lastUpdated": "Created March 8, 2009. Last updated June 24, 2021 (review and update captions)"
     },
     "map": "",
-    "text": "2015 update: Most of these images are still accurate depictions of the highway in 2015. As noted, the interchange at the Dallas North Tollway opened in 2011. There has been a lot of new development along the tollway since these photos were taken. ",
+    "text": "2021 update: All of these images are partially obsolete due to the addition of a fourth lane in each direction in the median. However, the overall configuration of the toll road remains the same. As noted, the interchange at the Dallas North Tollway opened in 2011. There has been a lot of new development along the tollway since these photos were taken. ",
     "images":
     [
         {
@@ -17,61 +17,116 @@
             "caption": "On the frontage road, about to enter the tollway.",
             "imageDate": "8-Nov-2008"
         },
-        {
-            "file": "121_20081108_IMG_5152_approaching_121b.jpg",
-            "caption": "SH 121 business is ahead.",
-            "imageDate": "8-Nov-2008"
-        },
-        {
-            "file": "121_20081108_IMG_5154_approaching_121b.jpg",
-            "caption": "At SH 121 business.",
-            "imageDate": "8-Nov-2008"
-        },
-        {
-            "file": "121_20081108_IMG_5157_railroad.jpg",
-            "caption": "Railroad overcrossing.",
-            "imageDate": "8-Nov-2008"
-        },
-        {
-            "file": "121_20081108_IMG_5158_main_josey.jpg",
-            "caption": "Approaching Josey",
-            "imageDate": "8-Nov-2008"
-        },
-        {
-            "file": "121_20081108_IMG_5159_toll_plaza.jpg",
-            "caption": "At the main toll plaza.",
-            "imageDate": "8-Nov-2008"
-        },
-        {
-            "file": "121_20081108_IMG_5160_toll_plaza.jpg",
-            "caption": "",
-            "imageDate": "8-Nov-2008"
-        },
-        {
-            "file": "121_20081108_IMG_5164_plano_pkwy_exit.jpg",
-            "caption": "Near Plano Parkway",
-            "imageDate": "8-Nov-2008"
-        },
-        {
-            "file": "121_20081108_IMG_5165_spring_creek.jpg",
-            "caption": "Approaching Spring Creek Parkway",
-            "imageDate": "8-Nov-2008"
-        },
-        {
-            "file": "121_20081108_IMG_5167_legacy.jpg",
-            "caption": "Approaching Legacy",
-            "imageDate": "8-Nov-2008"
-        },
-        {
-            "file": "121_20081108_IMG_5169_approaching_dnt.jpg",
-            "caption": "Approaching the Dallas North Tollway",
-            "imageDate": "8-Nov-2008"
-        },
-        {
-            "file": "121_20081108_IMG_5170_approaching_dnt.jpg",
-            "caption": "",
-            "imageDate": "8-Nov-2008"
-        },
+      {
+        "file": "121_20081108_IMG_5152_approaching_121b.jpg",
+        "caption": "SH 121 business is ahead.",
+        "imageDate": "8-Nov-2008",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
+      {
+        "file": "121_20081108_IMG_5154_approaching_121b.jpg",
+        "caption": "At SH 121 business.",
+        "imageDate": "8-Nov-2008",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
+      {
+        "file": "121_20081108_IMG_5157_railroad.jpg",
+        "caption": "Railroad overcrossing.",
+        "imageDate": "8-Nov-2008",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
+      {
+        "file": "121_20081108_IMG_5158_main_josey.jpg",
+        "caption": "Approaching Josey",
+        "imageDate": "8-Nov-2008",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
+      {
+        "file": "121_20081108_IMG_5159_toll_plaza.jpg",
+        "caption": "At the main toll plaza.",
+        "imageDate": "8-Nov-2008",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
+      {
+        "file": "121_20081108_IMG_5160_toll_plaza.jpg",
+        "caption": "",
+        "imageDate": "8-Nov-2008",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
+      {
+        "file": "121_20081108_IMG_5164_plano_pkwy_exit.jpg",
+        "caption": "Near Plano Parkway",
+        "imageDate": "8-Nov-2008",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
+      {
+        "file": "121_20081108_IMG_5165_spring_creek.jpg",
+        "caption": "Approaching Spring Creek Parkway",
+        "imageDate": "8-Nov-2008",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
+      {
+        "file": "121_20081108_IMG_5167_legacy.jpg",
+        "caption": "Approaching Legacy",
+        "imageDate": "8-Nov-2008",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
+      {
+        "file": "121_20081108_IMG_5169_approaching_dnt.jpg",
+        "caption": "Approaching the Dallas North Tollway",
+        "imageDate": "8-Nov-2008",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
+      {
+        "file": "121_20081108_IMG_5170_approaching_dnt.jpg",
+        "caption": "",
+        "imageDate": "8-Nov-2008",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
         {
             "file": "121_20081108_IMG_5173_parkwood.jpg",
             "caption": "At the Dallas North Tollway. A five level interchange was built, opening in 2011.",
@@ -79,21 +134,36 @@
                         "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The five-level interchange the Dallas North Tollway opened ahead in 2011." }
 
         },
-        {
-            "file": "121_20081108_IMG_5175_preston_exit.jpg",
-            "caption": "Approaching Preston",
-            "imageDate": "8-Nov-2008"
-        },
-        {
-            "file": "121_20081108_IMG_5177_hillcrest_exit.jpg",
-            "caption": "Approaching Hillcrest",
-            "imageDate": "8-Nov-2008"
-        },
-        {
-            "file": "121_20081108_IMG_5180_tollway_ends.jpg",
-            "caption": "The end of the tollway is ahead.",
-            "imageDate": "8-Nov-2008"
-        },
+      {
+        "file": "121_20081108_IMG_5175_preston_exit.jpg",
+        "caption": "Approaching Preston",
+        "imageDate": "8-Nov-2008",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
+      {
+        "file": "121_20081108_IMG_5177_hillcrest_exit.jpg",
+        "caption": "Approaching Hillcrest",
+        "imageDate": "8-Nov-2008",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Freeway widened",
+          "note": "A fourth lane in each direction was added in the median in 2021."
+        }
+      },
+      {
+        "file": "121_20081108_IMG_5180_tollway_ends.jpg",
+        "caption": "The end of the tollway is ahead.",
+        "imageDate": "8-Nov-2008",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Obsolete",
+          "note": "The tollway was extended in 2009."
+        }
+      },
         {
             "file": "121_20081108_IMG_5182_end.jpg",
             "caption": "When these photos were taken in November 2008, construction was in progress to complete the tollway to US 75 in McKinney.",

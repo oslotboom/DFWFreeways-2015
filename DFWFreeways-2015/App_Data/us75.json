@@ -4,7 +4,7 @@
     {
         "title": "US 75",
         "subTitle": "Central Expressway",
-        "lastUpdated": "June 1, 2015"
+        "lastUpdated": "February 8, 2018 (review)"
     },
     "Title": "US 75 Central Expressway",
     "Map": "",
@@ -28,7 +28,8 @@
             [
                 { "AnchorText": "Dallas", "AnchorUrl": "driving-dallas" },
                 { "AnchorText": "High Five Interchange", "AnchorUrl": "driving-high-five" },
-                { "AnchorText": "Richardson and Plano", "AnchorUrl": "driving-richardson-plano" }
+                { "AnchorText": "Richardson and Plano", "AnchorUrl": "driving-richardson-plano" },
+                { "AnchorText": "McKinney, March 2016", "AnchorUrl": "driving-mckinney" }
             ]
         },
         {
@@ -68,7 +69,7 @@
         {
             "FeatureType": "Video",
             "FeatureProperties": [
-                { "video": "Oct 2006 High Five raw video, 1:17", "videoLinkSmallText":  "11MB", "videoLinkSmall":  "high_five_raw_video_20070819_360x240_good90.wmv", "videoLinkLargeText": "27MB", "videoLinkLarge": "high_five_raw_video_20070819_720x480_good90.wmv" },
+                { "video": "Oct 2006 High Five raw video, 1:17", "videoLinkSmallText":  "11MB", "videoLinkSmall":  "high_five_raw_video_20070819_360x240_good90.wmv", "videoLinkLargeText": "27MB", "videoLinkLarge": "high_five_raw_video_20070819_720x480_best90.wmv" },
                 { "video": "March 2005 High Five construction at final stage, 3:18", "videoLinkSmallText":  "44MB", "videoLinkSmall":  "high_five_2005-03-20_best97_360x240.wmv", "videoLinkLargeText": "78MB", "videoLinkLarge": "high_five_2005-03-20_best93_720x480.wmv" }
             ]
         }

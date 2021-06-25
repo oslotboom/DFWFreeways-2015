@@ -4,32 +4,58 @@
     {
         "title": "Interstate 635",
         "subTitle": "LBJ Freeway",
-        "lastUpdated": "June 1, 2015"
+        "lastUpdated": "June 24, 2021"
     },
     "Title": "Interstate 635 LBJ Freeway",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
-    "Text": "",
+    "Text": "The $1.7 billion LBJ East project, from just east of US 75 to I-30 and including a complete rebuild of the I-30 interchange, is scheduled for completion in late 2024.",
     "Features":
     [
         {
             "FeatureType": "Roadside",
-            "FeatureProperties": [ { "AnchorText": "Roadside Views", "AnchorUrl": "roadside" } ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "2015, LBJ Express complete",
+              "AnchorUrl": "roadside-lbj-express"
+            },
+            {
+              "AnchorText": "Pre-LBJ Express",
+              "AnchorUrl": "roadside"
+            },
+            {
+              "AnchorText": "Valley View Mall demolition",
+              "AnchorUrl": "roadside-valley-view-mall-demolition"
+            }
+          ]
         },
         {
             "FeatureType": "DriversViews",
-            "FeatureProperties": [ ]
+            "FeatureProperties":
+            [
+                { "AnchorText": "2015, LBJ Express complete", "AnchorUrl": "driving" }
+            ]
         },
         {
             "FeatureType": "Book",
             "FeatureProperties":
             [
                 { "BookText": "LBJ Freeway", "Quickview": "ExLBJ?startOdd=False", "Pdf": "" },
-                { "BookText": "Chapter 6: Dallas Freeways", "Quickview": "ChDallasFreeways?startOdd=False&pdfSize=40+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-06-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-06-20140803.pdf" },
+                { "BookText": "Chapter 6: Dallas Freeways", "Quickview": "ChDallasFreeways?startOdd=False&pdfSize=40+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-06-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-06-20140803.pdf" }
             ]
         },
         {
             "FeatureType": "Construction",
-            "FeatureProperties": [ ]
+            "FeatureProperties": [
+              {
+                "AnchorText": "LBJ Express Construction",
+                "AnchorUrl": "construction-lbj-express"
+              },
+              {
+                "AnchorText": "LBJ East Construction",
+                "AnchorUrl": "construction-lbj-east"
+              }
+
+            ]
         },
         {
             "FeatureType": "Aerial",

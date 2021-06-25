@@ -5,10 +5,10 @@
     {
         "title": "Roadside Views",
         "urlParentText": "I-635",
-        "lastUpdated": "June 1, 2015"
+        "lastUpdated": "June 24, 2021 (review and update)"
     },
     "map": "635_roadside_map.gif",
-    "text": "2015 status: The photos in North Dallas between I-35E Stemmons Freeway and US 75 Central Expressway are obsolete with construction of the LBJ Express expansion, which completed in 2015. The photos are retained to show the original LBJ Freeway.",
+    "text": "2021 status: The photos in north and northeast Dallas between IH-35E Stemmons Freeway and IH-30 are obsolete with construction of the LBJ Express expansion, which completed in 2015, and the LBJ East project, scheduled for completion in late 2024. The photos are retained to show the original LBJ Freeway.",
     "images":
         [
             {
@@ -95,7 +95,7 @@
             },
             {
                 "file": "635_20070519_IMG_6971_feeder_at_coitjpg.jpg",
-                "caption": "Looking east along the eastbound frontage road at Coit. The frontage road penetrates through the interchange. I-635 is on the third level.",
+                "caption": "Looking east along the eastbound frontage road at Coit. The frontage road penetrates through the interchange. I-635 is on the third level of the five-level interchange.",
                 "imageDate": "19-May-2007"
             },
             {
@@ -104,39 +104,65 @@
                 "caption": "This is on the east side of the High Five, looking toward the west",
                 "imageDate": "20-Oct-2007"
             },
-            {
-                "file": "635_20071020_IMG_9378_looking_w_at_greenville.jpg",
-                "highResolution": "635_20071020_IMG_9378_looking_w_at_greenville_2511.jpg",
-                "caption": "Looking west from the Greenville Ave. overpass. The exit ramp to US 75 just ahead is the longest ramp in the interchange at 1.4 miles. At the time of the photo, construction on the HOV lane was in progress.",
-                "imageDate": "20-Oct-2007"
-            },
-            {
-                "file": "635_20080405_IMG_0634_hov_at_forest.jpg",
-                "highResolution": "635_20080405_IMG_0634_hov_at_forest_2496.jpg",
-                "caption": "Looking southeast at Forest, showing the new HOV lanes which opened (US 75 to I-30) on January 28, 2008.",
-                "imageDate": "5-Apr-2008"
-            },
-            {
-                "file": "635_20071020_IMG_9383_looking_ne_at_audelia_950.jpg",
-                "highResolution": "635_20071020_IMG_9383_looking_ne_at_audelia_2048.jpg",
-                "caption": "Looking northeast at Audelia with the center HOV lanes under construction.",
-                "imageDate": "20-Oct-2007"
-            },
-            {
-                "file": "635_20071020_IMG_9388_looking_nw_at_miller.jpg",
-                "caption": "Looking northwest at Miller, with the DART light rail crossing ahead.",
-                "imageDate": "20-Oct-2007"
-            },
-            {
-                "file": "635_20071020_IMG_9394_looking_n_at_i30_950.jpg",
-                "highResolution": "635_20071020_IMG_9394_looking_n_at_i30_2100.jpg",
-                "caption": "Looking north at I-30.",
-                "imageDate": "20-Oct-2007"
-            },
+          {
+            "file": "635_20071020_IMG_9378_looking_w_at_greenville.jpg",
+            "highResolution": "635_20071020_IMG_9378_looking_w_at_greenville_2511.jpg",
+            "caption": "Looking west from the Greenville Ave. overpass. The exit ramp to US 75 just ahead is the longest ramp in the interchange at 1.4 miles. At the time of the photo, construction on the HOV lane was in progress.",
+            "imageDate": "20-Oct-2007",
+            "imageStatus": {
+              "statusDate": "2021",
+              "status": "Obsolete",
+              "note": "The freeway is being rebuilt and reconfigured with the LBJ East project, scheduled for completion in late 2024."
+            }
+          },
+          {
+            "file": "635_20080405_IMG_0634_hov_at_forest.jpg",
+            "highResolution": "635_20080405_IMG_0634_hov_at_forest_2496.jpg",
+            "caption": "Looking southeast at Forest Lane, showing the new HOV lanes which opened (US 75 to I-30) on January 28, 2008.",
+            "imageDate": "5-Apr-2008",
+            "imageStatus": {
+              "statusDate": "2021",
+              "status": "Obsolete",
+              "note": "The freeway is being rebuilt and reconfigured with the LBJ East project, scheduled for completion in late 2024."
+            }
+
+          },
+          {
+            "file": "635_20071020_IMG_9383_looking_ne_at_audelia_950.jpg",
+            "highResolution": "635_20071020_IMG_9383_looking_ne_at_audelia_2048.jpg",
+            "caption": "Looking northeast at Audelia with the center HOV lanes under construction.",
+            "imageDate": "20-Oct-2007",
+            "imageStatus": {
+              "statusDate": "2021",
+              "status": "Obsolete",
+              "note": "The freeway is being rebuilt and reconfigured with the LBJ East project, scheduled for completion in late 2024."
+            }
+          },
+          {
+            "file": "635_20071020_IMG_9388_looking_nw_at_miller.jpg",
+            "caption": "Looking northwest at Miller, with the DART light rail crossing ahead.",
+            "imageDate": "20-Oct-2007",
+            "imageStatus": {
+              "statusDate": "2021",
+              "status": "Obsolete",
+              "note": "The freeway is being rebuilt and reconfigured with the LBJ East project, scheduled for completion in late 2024."
+            }
+          },
+          {
+            "file": "635_20071020_IMG_9394_looking_n_at_i30_950.jpg",
+            "highResolution": "635_20071020_IMG_9394_looking_n_at_i30_2100.jpg",
+            "caption": "Looking north at I-30.",
+            "imageDate": "20-Oct-2007",
+            "imageStatus": {
+              "statusDate": "2021",
+              "status": "Obsolete",
+              "note": "The interchange is being fully rebuilt with the LBJ East project, scheduled for completion in late 2024."
+            }
+          },
             {
                 "file": "635_20070429_IMG_6307_at_us80_950.jpg",
                 "highResolution": "635_20070429_IMG_6307_at_us80_2592.jpg",
-                "caption": "Looking south at the US 80 interchange. This interchange is just about identical to the I-30 interchange.",
+                "caption": "Looking south at the US 80 interchange. The design of this interchange is very similar to the I-30 interchange.",
                 "imageDate": "29-Apr-2007"
             },
             {

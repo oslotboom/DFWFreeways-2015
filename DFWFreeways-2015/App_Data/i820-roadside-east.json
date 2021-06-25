@@ -6,10 +6,10 @@
         "title": "I-820 East Roadside Views",
         "subTitle": "",
         "urlParentText": "I-820",
-        "lastUpdated": "Created December 19, 2007. Reviewed June 1, 2015"
+        "lastUpdated": "Created December 19, 2007. Reviewed and updated February 8, 2018"
     },
     "map": "820_roadside_east_700.gif",
-    "text": "The eastern edge of Loop 820 is very old. It is mostly in its originally-built configuration dating back to its opening in September 1963. The only major improvement since its original construction is the interchange at I-30. 2015 update: Changes have been minimal since these photos were taken in 2007, and these photos are still accurate depictions.",
+    "text": "The eastern edge of Loop 820 is very old. It is mostly in its originally-built configuration dating back to its opening in September 1963. The only major improvement since its original construction is the interchange at I-30. This section of freeway is planned for major expansion, and the first contract for phase 1 in the north section (along SH 121) was awarded in December 2017 for $174 million. 2018 update: Changes have been minimal since these photos were taken in 2007, and these photos outside the construction zone at SH 121 are still accurate depictions.",
     "images":
     [
         {
@@ -20,22 +20,26 @@
         {
             "file": "820_20070804_IMG_8478_looking_s_at_121_merge.jpg",
             "caption": "Looking south at the merge with TX 121. TX 121 comes in from the right, and northbound 820 traffic comes from straight ahead on the left side.",
-            "imageDate": "4-Aug-2007"
+            "imageDate": "4-Aug-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "Construction to widen this section began in 2018" }
         },
         {
             "file": "820_20070804_IMG_8476_looking_s_at_121_950.jpg",
             "caption": "This view shows the I-820 southbound main lanes, which curve to the left to continue south.  The TX 121 main lanes are on the left and they turn right to proceed westbound to downtown Fort Worth. ",
-            "imageDate": "2-Aug-2007"
+            "imageDate": "2-Aug-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "Construction to widen this section began in 2018" }
         },
         {
             "file": "820_20070415_IMG_8352_looking_n_at_trinity_blvd_950.jpg",
             "caption": "This view looks north at Trinity Blvd",
-            "imageDate": "15-April-2007"
+            "imageDate": "15-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "Construction to widen this section began in 2018" }
         },
         {
             "file": "820_20070804_IMG_8482_looking_n_at_randol_mill.jpg",
             "caption": "Looking north at Randol Mill, with the Trinity River bridge just ahead.",
-            "imageDate": "4-Aug-2007"
+            "imageDate": "4-Aug-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "Construction to widen this section began in 2018" }
         },
         {
             "file": "820_20070804_IMG_8483_looking_n_at_john_white.jpg",

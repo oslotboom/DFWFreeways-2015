@@ -1,0 +1,100 @@
+﻿{
+    "folderPath": "driving/",
+    "title":  "I-35E north photos Lewisville",
+    "pageHeader" :
+    {
+        "title": "Drivers Views, Belt Line to Lewisville",
+        "urlParentText": "I-35E North",
+        "lastUpdated": "September 10, 2017 (create), September 12, 2020 (add photos)"
+    },
+    "map": "",
+    "text": "The expansion project in this section was completed in late 2017. The interchange at SH 121 (Rayburn Tollway) fully opened a little later. The expansion project created two reversible HOT lanes, added collector-distributor lanes between Bush Turnpike and SH 121, and added two general purpose lanes north of SH 121.",
+  "images": [
+
+    {
+      "file": "20170904-0008-1100.jpg",
+      "highResolution": "",
+      "caption": "Approaching Belt Line Road",
+      "imageDate": "4-September-2017"
+    },
+    {
+      "file": "20170904-0009-1100.jpg",
+      "highResolution": "20170904-0009-2560.jpg",
+      "caption": "At the Bush Turnpike/SH 190",
+      "imageDate": "4-September-2017"
+    },
+    {
+      "file": "20170904-0010-1100.jpg",
+      "highResolution": "",
+      "caption": "Between the Bush Turnpike and Rayburn Turnpike/SH 121. The collector-distributor lanes are on the right.",
+      "imageDate": "4-September-2017"
+    },
+    {
+      "file": "20170904-0012-1100.jpg",
+      "highResolution": "20170904-0012-2560.jpg",
+      "caption": "Approaching the interchange at the Sam Rayburn Turnpike/SH 121.",
+      "imageDate": "4-September-2017"
+    },
+    {
+      "file": "20170904-0013-1100.jpg",
+      "highResolution": "20170904-0013-2560.jpg",
+      "caption": "The south half (in the near foreground) of this interchange was completed in 2006, and the north half was nearing completion at the time of this photo.",
+      "imageDate": "4-September-2017"
+    },
+    {
+      "file": "20170904-0014-1100.jpg",
+      "highResolution": "20170904-0014-2560.jpg",
+      "caption": "",
+      "imageDate": "4-September-2017"
+    },
+    {
+      "file": "20170904-0015-1100.jpg",
+      "highResolution": "",
+      "caption": "",
+      "imageDate": "4-September-2017"
+    },
+    {
+      "file": "20170904-0017-1100.jpg",
+      "highResolution": "20170904-0017-2560.jpg",
+      "caption": "The new ramps on the north side of the interchange feature long elevated sections.",
+      "imageDate": "4-September-2017"
+    },
+    {
+      "file": "20170904-0020-1100.jpg",
+      "highResolution": "",
+      "caption": "In Lewisville approaching Valley Ridge",
+      "imageDate": "4-September-2017"
+    },
+    {
+      "file": "20200906-07_230_1100.jpg",
+      "highResolution": "",
+      "caption": "The following views are going southbound through the SH 121 (Rayburn Turnpike) interchange. Notice the ridiculously high toll on the toll ramp to the Rayburn Turnpike.",
+      "imageDate": "6-September-2020"
+    },
+    {
+      "file": "20200906-07_232_1100.jpg",
+      "highResolution": "20200906-07_232_3000.jpg",
+      "caption": "Southbound at SH 121 (Rayburn Turnpike)",
+      "imageDate": "6-September-2020"
+    },
+    {
+      "file": "20200906-07_233_1100.jpg",
+      "highResolution": "20200906-07_233_3000.jpg",
+      "caption": "Southbound at SH 121 (Rayburn Turnpike)",
+      "imageDate": "6-September-2020"
+    },
+    {
+      "file": "20200906-07_234_1100.jpg",
+      "highResolution": "20200906-07_234_2560.jpg",
+      "caption": "Southbound at SH 121 (Rayburn Turnpike)",
+      "imageDate": "6-September-2020"
+    },
+    {
+      "file": "20200906-07_235_1100.jpg",
+      "highResolution": "20200906-07_235_2560.jpg",
+      "caption": "Southbound at SH 121 (Rayburn Turnpike)",
+      "imageDate": "6-September-2020"
+    }
+  ]
+
+}

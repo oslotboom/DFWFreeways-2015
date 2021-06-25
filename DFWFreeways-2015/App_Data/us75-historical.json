@@ -6,17 +6,21 @@
         "title": "Historical Photos",
         "subTitle": "",
         "urlParentText": "US 75",
-        "lastUpdated": "June 1, 2015 (review only)"
+        "lastUpdated": "August 15, 2015 (add image)"
     },
     "map": "",
     "text": "",
     "images":
     [
         {
+            "file": "dallas_us75_at_loop_12-REPAIRED-1050.jpg",
+            "highResolution": "dallas_us75_at_loop_12-REPAIRED-2847.jpg",
+            "caption": "Looking north along Central Expressway at Loop 12 (Northwest Highway). This image was undated but is the 1950s, probably the early 1950s."
+        },
+        {
             "file": "75n_19460000_photo_surveying_at_hall_950_IMG_2104.jpg",
             "highResolution": "75n_19460000_photo_surveying_at_hall_2478_IMG_2104.jpg",
-            "caption": "The alignment of Central Expressway followed the corridor of the  Houston & Texas Central Railroad from Bryan Street downtown to Mockingbird. This 1946 photo shows the original railroad, which was removed when freeway construction began. The name Central Expressway comes from the word Central in the railroad name.",
-            "imageDate": "17-November-2002"
+            "caption": "The alignment of Central Expressway followed the corridor of the  Houston & Texas Central Railroad from Bryan Street downtown to Mockingbird. This 1946 photo shows the original railroad, which was removed when freeway construction began. The name Central Expressway comes from the word Central in the railroad name."
         },
         {
             "file": "75n_19460000_photo_surveying_IMG_2082.jpg",

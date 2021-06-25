@@ -6,21 +6,23 @@
         "title": "Driving Views",
         "subTitle": "Westbound, Mid-Cities",
         "urlParentText": "I-30 Tom Landry Highway",
-        "lastUpdated": "Created October 6, 2007, last updated June 1, 2015 (review and update captions)"
+        "lastUpdated": "Created October 6, 2007, last updated Feb 8, 2018 (review and update captions)"
     },
     "map": "30m_driving_mid_cities_950.gif",
-    "text": "2015 status: Many of the photos are obsolete due to construction projects, as indicated in the captions.",
+    "text": "2018 status: Many of the photos are obsolete due to completed and ongoing construction projects, as indicated in the captions.",
     "images":
     [
         {
             "file": "30m_driving_IMG_7427_20070609_wb_at_loop12_950.jpg",
             "caption": "Westbound at Loop 12. The new structure was nearing completion to the right. By the end of September 2007 traffic was on the new bridge and the roadway in this photo was demolished.",
-            "imageDate": "June 9, 2007"
+            "imageDate": "June 9, 2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This bridge that was being driven on was demolished." }
         },
         {
             "file": "30m_driving_IMG_7428_20070609_wb_w_of_loop12_950.jpg",
             "caption": "Just west of Loop 12",
-            "imageDate": "June 9, 2007"
+            "imageDate": "June 9, 2007",
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section has been rebuilt with new concrete pavement." }
         },
         {
             "file": "30m_driving_IMG_7429_20070609_wb_new_pavement_950.jpg",
@@ -66,9 +68,9 @@
         },
         {
             "file": "30m_driving_IMG_7455_wb_w_of_ballbark_way_950.jpg",
-            "caption": "West of Ballpark Way. This shows the original configuration of the freeway dating back to the Dallas-Fort Worth turnpike. This section was widened in 2010.",
+            "caption": "West of Ballpark Way on the original freeway. This shows the original configuration of the freeway dating back to the Dallas-Fort Worth turnpike. This section was widened in 2010.",
             "imageDate": "June 9, 2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section was widened and reconfigured in 2010." }
+            "imageStatus": { "statusDate": "2015", "status": "Historical Archive", "note": "This section was widened and reconfigured in 2010." }
 
         },
         {

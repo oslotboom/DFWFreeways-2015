@@ -4,7 +4,7 @@
     {
         "title": "SH 183",
         "subTitle": "Carpenter Freeway and Airport Freeway",
-        "lastUpdated": "June 1, 2015"
+        "lastUpdated": "February 8, 2018 (review)"
     },
     "Title": "SH 183 Airport Freeway",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -37,7 +37,8 @@
             "FeatureType": "Construction",
             "FeatureProperties":
             [
-                { "AnchorText": "Right of Way clearance in Irving", "AnchorUrl": "construction-row" }
+                { "AnchorText": "Right of Way clearance in Irving", "AnchorUrl": "construction-row" },
+                { "AnchorText": "Irving and Dallas", "AnchorUrl": "construction" }
             ]
         },
         {

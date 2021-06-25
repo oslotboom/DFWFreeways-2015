@@ -4,7 +4,7 @@
     {
         "title": "Bush Turnpike",
         "subTitle": "SH 190 and SH 161",
-        "lastUpdated": "June 1, 2015"
+        "lastUpdated": "February 8, 2018 (review)"
     },
     "Title": "Bush Turnpike",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -35,7 +35,8 @@
         },
         {
             "FeatureType": "Construction",
-            "FeatureProperties": [ 
+            "FeatureProperties":
+            [
                 { "AnchorText": "Grand Prairie right-of-way clearance, 2004", "AnchorUrl": "construction-grand-prairie-row" },
                 { "AnchorText": "SH 183 Interchange, 2006", "AnchorUrl": "construction-sh183" },
                 { "AnchorText": "Grand Prairie frontage roads, 2006", "AnchorUrl": "construction-grand-prairie-frontage" },
@@ -66,7 +67,7 @@
         },
         {
             "FeatureType": "Video",
-            "FeatureProperties": [ ]
+            "FeatureProperties": [ { "video": "Opening on Sept 9, 2005, 03:53", "videoLinkSmallText": "29MB", "videoLinkSmall": "190_opening_2005-09-09_best97_360x240.wmv", "videoLinkLargeText": "54MB", "videoLinkLarge": "190_opening_2005-09-09_best93_720x480.wmv" } ]
         }
     ]
 }
