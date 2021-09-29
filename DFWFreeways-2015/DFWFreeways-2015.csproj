@@ -278,6 +278,8 @@
     <None Include="App_Data\i35e-north-construction-2012-march.json" />
     <Content Include="App_Data\i35e-north-historical.json" />
     <None Include="App_Data\i35e-north-roadside-dallas.json" />
+    <Content Include="App_Data\i35e-south-construction-park.json" />
+    <Content Include="App_Data\i35e-south-driving-20210925.json" />
     <None Include="App_Data\i35e-south-roadside.json" />
     <None Include="App_Data\i35e-south-construction-horseshoe-1.json" />
     <Content Include="App_Data\i635-construction-lbj-east.json" />
@@ -313,6 +315,8 @@
     <Content Include="App_Data\sh360.json" />
     <Content Include="App_Data\sh360-roadside.json" />
     <Content Include="App_Data\sh199.json" />
+    <Content Include="App_Data\sh183-driving-irving.json" />
+    <Content Include="App_Data\sh199-construction-lake-worth-bridge.json" />
     <None Include="App_Data\spur366-roadside-bridge-clearance.json" />
     <Content Include="App_Data\spur366-roadside-bridge-site.json" />
     <Content Include="App_Data\spur366-roadside-klyde-warren-park.json" />
@@ -364,7 +368,7 @@
     <Content Include="App_Data\us175-driving-southeast.json" />
     <Content Include="App_Data\us175-roadside.json" />
     <Content Include="App_Data\sh183.json" />
-    <Content Include="App_Data\sh183-driving-irving.json" />
+    <Content Include="App_Data\sh183-driving-irving-original.json" />
     <Content Include="App_Data\sh183-roadside.json" />
     <Content Include="App_Data\sh183-historical.json" />
     <Content Include="App_Data\spur366.json" />

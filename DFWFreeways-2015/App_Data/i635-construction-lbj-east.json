@@ -4,7 +4,7 @@
   "pageHeader": {
     "title": "Construction Photos, LBJ East",
     "urlParentText": "I-635",
-    "lastUpdated": "Created June 23, 2021"
+    "lastUpdated": "Last updated Sept 29, 2021 (created June 23, 2021)"
   },
   "map": "",
   "text": "The $1.7 billion LBJ East project is rebuilding the freeway main lanes between IH 30 and US 75, and rebuilding the interchange at Interstate 30. The official web site, 635east.com, is regularly updated with high-quality aerial photos.",
@@ -50,6 +50,42 @@
       "highResolution": "20210619-21_111-3000.jpg",
       "caption": "Driving northbound on LBJ Freeway.",
       "imageDate": "19-June-2021"
+    },
+    {
+      "file": "20210925-26_DFW_078-1100.jpg",
+      "highResolution": "20210925-26_DFW_078-3000.jpg",
+      "caption": "Looking east on the southwest side of the interchange.",
+      "imageDate": "25-Sept-2021"
+    },
+    {
+      "file": "20210925-26_DFW_084-1100.jpg",
+      "highResolution": "20210925-26_DFW_084-2560.jpg",
+      "caption": "Looking northeast in the center of the interchange. The steel beam across the top of the photo was placed since the previous photo above from June 19.",
+      "imageDate": "25-Sept-2021"
+    },
+    {
+      "file": "20210925-26_DFW_087-1100.jpg",
+      "highResolution": "20210925-26_DFW_087-3000.jpg",
+      "caption": "Looking south along Interstate 635.",
+      "imageDate": "25-Sept-2021"
+    },
+    {
+      "file": "20210925-26_DFW_091-1100.jpg",
+      "highResolution": "",
+      "caption": "Looking south along Interstate 635.",
+      "imageDate": "25-Sept-2021"
+    },
+    {
+      "file": "20210925-26_DFW_098-1100.jpg",
+      "highResolution": "20210925-26_DFW_098-3000.jpg",
+      "caption": "Driving northbound on I-635",
+      "imageDate": "25-Sept-2021"
+    },
+    {
+      "file": "20210925-26_DFW_100-1100.jpg",
+      "highResolution": "20210925-26_DFW_100-2560.jpg",
+      "caption": "Driving northbound on I-635, on the north side of the interchange.",
+      "imageDate": "25-Sept-2021"
     }
 
   ]

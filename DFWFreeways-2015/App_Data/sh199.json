@@ -8,7 +8,7 @@
     },
     "Title": "SH 199",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
-    "Text": "In 2018 SH 199 has freeway sections mixed in with non-freeway sections. A three-mile section between Lake Worth and Azle was upgraded to freeway standards and opened in 2018. There are long-term plans to upgrade all of the corridor west of I-820 to a freeway, but no schedule or funding for all the work as of 2018.",
+    "Text": "In 2018 SH 199 has freeway sections mixed in with non-freeway sections. A three-mile section between Lake Worth and Azle was upgraded to freeway standards and opened in 2018. In 2020 work began on the Lake Worth bridge. There are long-term plans to upgrade all of the corridor west of I-820 to a freeway, but no schedule for completing the remaining section to IH 635 as of 2018.",
     "Features":
     [
         {
@@ -28,7 +28,13 @@
         },
         {
             "FeatureType": "Construction",
-            "FeatureProperties": [ ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "Lake Worth bridge construction, 2020-2023",
+              "AnchorUrl": "construction-lake-worth-bridge"
+            }
+
+          ]
         },
         {
             "FeatureType": "Aerial",

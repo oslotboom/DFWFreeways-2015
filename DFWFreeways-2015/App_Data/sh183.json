@@ -4,7 +4,7 @@
     {
         "title": "SH 183",
         "subTitle": "Carpenter Freeway and Airport Freeway",
-        "lastUpdated": "February 8, 2018 (review)"
+        "lastUpdated": "September 29, 2021 (add driving photos)"
     },
     "Title": "SH 183 Airport Freeway",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -17,12 +17,24 @@
         },
         {
             "FeatureType": "DriversViews",
-            "FeatureProperties":
-            [
-                { "AnchorText": "Dallas", "AnchorUrl": "driving-dallas" },
-                { "AnchorText": "Irving", "AnchorUrl": "driving-irving" },
-                { "AnchorText": "North Tarrant Express", "AnchorUrl": "driving-nte" }
-            ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "Dallas",
+              "AnchorUrl": "driving-dallas"
+            },
+            {
+              "AnchorText": "Irving Original Freeway",
+              "AnchorUrl": "driving-irving-original"
+            },
+            {
+              "AnchorText": "Irving",
+              "AnchorUrl": "driving-irving"
+            },
+            {
+              "AnchorText": "North Tarrant Express",
+              "AnchorUrl": "driving-nte"
+            }
+          ]
         },
         {
             "FeatureType": "Book",

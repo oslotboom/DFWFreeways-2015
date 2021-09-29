@@ -4,7 +4,7 @@
     {
         "title": "Interstate 35E South",
         "subTitle": "R.L. Thornton Freeway South",
-        "lastUpdated": "June 24, 2021"
+        "lastUpdated": "September 28, 2021"
     },
     "Map": "",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -17,7 +17,9 @@
         },
         {
             "FeatureType": "DriversViews",
-            "FeatureProperties": [ ]
+          "FeatureProperties": [
+            { "AnchorText": "Construction zone Sept 2021", "AnchorUrl": "driving-20210925" }
+          ]
         },
         {
             "FeatureType": "Book",
@@ -30,7 +32,14 @@
             "FeatureType": "Construction",
             "FeatureProperties":
             [
-                { "AnchorText": "Horseshoe, 2014-2015", "AnchorUrl": "construction-horseshoe-1" }
+              {
+                "AnchorText": "Horseshoe, 2014-2015",
+                "AnchorUrl": "construction-horseshoe-1"
+              },
+              {
+                "AnchorText": "Deck park at Dallas Zoo",
+                "AnchorUrl": "construction-park"
+              }
             ]
         },
         {
