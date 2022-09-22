@@ -4,7 +4,7 @@
     {
         "title": "I-35W",
         "subTitle": "Fort Worth",
-        "lastUpdated": "September 12, 2020 (add driver's views)"
+        "lastUpdated": "August 1, 2022 (add video)"
     },
     "Title": "I-35W Fort Worth",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -58,7 +58,16 @@
         },
         {
             "FeatureType": "Video",
-            "FeatureProperties": [ ]
+          "FeatureProperties": [
+            {
+              "video": "March 2022 at SH 170, 0:14",
+
+              "videoLinkMediumText": "8 MB",
+              "videoLinkMedium": "IH35W_nb_at_170_march2022_720.mp4",
+              "videoLinkLargeText": "14 MB",
+              "videoLinkLarge": "IH35W_nb_at_170_march2022_1080.mp4"
+            }
+          ]
         }
     ]
 }

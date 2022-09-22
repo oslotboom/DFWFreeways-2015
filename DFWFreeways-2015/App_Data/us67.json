@@ -1,49 +1,70 @@
 ﻿{
 
-    "pageHeader":
+  "pageHeader": {
+    "title": "US 67",
+    "subTitle": "Marvin Love Freeway",
+    "lastUpdated": "February 1, 2018 (update for Southern Gateway project)"
+  },
+  "Title": "US 67 Dallas",
+  "Photo": {
+    "File": "filename.jpg",
+    "Caption": "This is the caption",
+    "Date": "12-January-2015"
+  },
+  "Text": "the $666 million Southern Gateway project, completed in 2022, modified and widened US 67 from Interstate 35E to Belt Line Road.",
+  "Features": [
     {
-        "title": "US 67",
-        "subTitle" :  "Marvin Love Freeway",
-        "lastUpdated": "February 1, 2018 (update for Southern Gateway project)"
+      "FeatureType": "Roadside",
+      "FeatureProperties": []
     },
-    "Title": "US 67 Dallas",
-    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
-    "Text": "US 67 is is part of the $666 million Southern Gateway project, which is scheduled for completion in late 2022. US 67 will be widened, and the HOV lanes north of I-20 will be converted to a barrier-separated reversible lane.",
-    "Features":
-    [
+    {
+      "FeatureType": "DriversViews",
+      "FeatureProperties": [
         {
-            "FeatureType": "Roadside",
-            "FeatureProperties": [ { "AnchorText": "Roadside Views", "AnchorUrl": "roadside" } ]
-        },
-        {
-            "FeatureType": "DriversViews",
-            "FeatureProperties": [ { "AnchorText": "Southbound", "AnchorUrl": "driving" } ]
-        },
-        {
-            "FeatureType": "Book",
-            "FeatureProperties":
-            [
-                { "BookText": "Chapter 6: Dallas Freeways", "Quickview": "ChDallasFreeways?startOdd=False&pdfSize=40+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-06-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-06-20140803.pdf" },
-            ]
-        },
-        {
-            "FeatureType": "Construction",
-            "FeatureProperties": [ ]
-        },
-        {
-            "FeatureType": "Aerial",
-            "FeatureProperties":
-            [
-                { "AnchorText": "At I-20", "AnchorUrl": "i20" }
-            ]
-        },
-        {
-            "FeatureType": "Historical",
-            "FeatureProperties": [ ]
-        },
-        {
-            "FeatureType": "Video",
-            "FeatureProperties": [ ]
+          "AnchorText": "Express lanes and far south",
+          "AnchorUrl": "driving"
         }
-    ]
+      ]
+    },
+    {
+      "FeatureType": "Book",
+      "FeatureProperties": [
+        {
+          "BookText": "Chapter 6: Dallas Freeways",
+          "Quickview": "ChDallasFreeways?startOdd=False&pdfSize=40+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-06-20140803.pdf",
+          "Pdf": "Dallas-Fort-Worth-Freeways-book-06-20140803.pdf"
+        }
+      ]
+    },
+    {
+      "FeatureType": "Construction",
+      "FeatureProperties": []
+    },
+    {
+      "FeatureType": "Aerial",
+      "FeatureProperties": [
+        {
+          "AnchorText": "At I-20",
+          "AnchorUrl": "i20"
+        }
+      ]
+    },
+    {
+      "FeatureType": "Historical",
+      "FeatureProperties": [
+        {
+          "AnchorText": "Archive, roadside views before the Southern Gateway project.",
+          "AnchorUrl": "archive-roadside"
+        },
+        {
+          "AnchorText": "Archive, driver's views before the Southern Gateway project.",
+          "AnchorUrl": "archive-driving"
+        }
+      ]
+    },
+    {
+      "FeatureType": "Video",
+      "FeatureProperties": []
+    }
+  ]
 }

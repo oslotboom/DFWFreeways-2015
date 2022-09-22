@@ -1,0 +1,32 @@
+﻿{
+    "folderPath": "2022",
+    "title": "SH 170 Main Lanes Construction",
+  "pageHeader": {
+    "title": "SH 170 Main Lanes Construction",
+    "urlParentText": "SH 170",
+    "lastUpdated": "July 31, 2022 (created); updated Sept 22, 2022 (add photo)"
+  },
+    "map": "",
+    "text": "This project adds main lanes between SH 114 and IH 35W. The project is scheduled for completion by late 2023.",
+  "images": [
+    {
+      "file": "170_20220319-20_DFW_254_1300.jpg",
+      "highResolution": "",
+      "caption": "This view looks east at Old Denton Road.",
+      "imageDate": "20-March-2022"
+    },
+    {
+      "file": "170_20220319-20_DFW_259_1300.jpg",
+      "highResolution": "",
+      "caption": "This view looks east at Old Denton Road.",
+      "imageDate": "20-March-2022"
+    },
+    {
+      "file": "20220918-19_DFW_403-1300.jpg",
+      "highResolution": "20220918-19_DFW_403-3000.jpg",
+      "caption": "This view looks east at Independence Parkway.",
+      "imageDate": "19-Sept-2022"
+    }
+  ]
+
+}

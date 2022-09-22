@@ -6,11 +6,17 @@
         "title": "S.M. Wright Freeway Removal",
         "subTitle": "A new boulevard will replace it",
         "urlParentText": "US 175",
-        "lastUpdated": "September 29, 2021 (created June 23, 2021)"
+        "lastUpdated": "Sept 20, 2022 (add photos), created June 23, 2021)"
     },
     "map": "",
-    "text": "The new connection to Interstate 45 opened in July 2020. Work could then start on the freeway removal. The freeway is being replaced with a six-lane, architecturally-enchanced boulevard.\n\nThese images start at the south end and proceed northward.",
+    "text": "The new connection to Interstate 45 opened in July 2020. Work could then start on the freeway removal. The freeway is being replaced with a six-lane, architecturally-enchanced boulevard.",
   "images": [
+    {
+      "file": "20220918-19_DFW_103-700.jpg",
+      "highResolution": "",
+      "caption": "The freeway was called South Central Expressway before it was renamed S.M. Wright Freeway in 1995. It will be called S.M. Wright Boulevard after the freeway removal.",
+      "imageDate": "18-Sept-2022"
+    },
     {
       "file": "20210619-21_013-elsie-fay-heggins_1100.jpg",
       "highResolution": "20210619-21_013-elsie-fay-heggins_3000.jpg",
@@ -38,15 +44,28 @@
     {
       "file": "20210619-21_022-1100.jpg",
       "highResolution": "",
-      "caption": "Going northbound on the freeway main lanes. The southbound lanes at this location are permanently closed.",
+      "caption": "Going northbound on the freeway main lanes. The southbound lanes at this location were permanently closed at the time of this photo.",
       "imageDate": "19-June-2021"
     },
     {
       "file": "20210619-21_040-1100.jpg",
       "highResolution": "",
-      "caption": "The next crossing is at Metropolitan Avenue. This overpass is still intact. It is in use by northbound traffic but is closed to southbound traffic.",
+      "caption": "The next crossing is at Metropolitan Avenue. This overpass was still intact at the time of this photo. It was in use by northbound traffic but was closed to southbound traffic.",
       "imageDate": "19-June-2021"
     },
+    {
+      "file": "20220918-19_DFW_102-1100.jpg",
+      "highResolution": "20220918-19_DFW_102-3000.jpg",
+      "caption": "Looking north toward the Metropolitan Avenue intersection in September 2022. The overpass is fully removed.",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20220918-19_DFW_104-1100.jpg",
+      "highResolution": "20220918-19_DFW_104-3000.jpg",
+      "caption": "Another view of the Metropolitan Avenue intersection in September 2022.",
+      "imageDate": "18-Sept-2022"
+    },
+
     {
       "file": "20210619-21_023-1100.jpg",
       "highResolution": "",
@@ -74,7 +93,7 @@
     {
       "file": "20210619-21_044_pensylvania-1100.jpg",
       "highResolution": "",
-      "caption": "The Pennsylvania Avenue overpass remains intact and is still in use by both directions of traffic in June 2021.",
+      "caption": "The Pennsylvania Avenue overpass remains intact and is still in use by both directions of traffic in September 2022.",
       "imageDate": "19-June-2021"
     },
     {
@@ -88,6 +107,18 @@
       "highResolution": "",
       "caption": "In September 2021 both directions of traffic were on the west side of the corridor. Ahead, the freeway main lanes were still open to traffic.",
       "imageDate": "25-Sept-2021"
+    },
+    {
+      "file": "175_20220319-20_DFW_016_1100.jpg",
+      "highResolution": "175_20220319-20_DFW_016_3000.jpg",
+      "caption": "Looking northbound with the Metropolitan Avenue overpass ahead. In March 2022 the main lanes were still open from Metropolitan Avenue northward.",
+      "imageDate": "19-March-2022"
+    },
+    {
+      "file": "175_20220319-20_DFW_020_1100.jpg",
+      "highResolution": "",
+      "caption": "New street and sidewalk near Pine street.",
+      "imageDate": "19-March-2022"
     }
   ]
 

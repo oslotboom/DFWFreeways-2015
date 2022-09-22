@@ -1,0 +1,48 @@
+﻿{
+  "folderPath": "",
+  "title": "US 175 photo archive",
+  "pageHeader": {
+    "title": "Archive Photos",
+      "subTitle":  "S.M. Wright Freeway, demolished 2021-2023",
+    "urlParentText": "US 175",
+    "lastUpdated": "September 22, 2022 (create)"
+  },
+  "map": "",
+  "text": "The photo archive includes photos which have become obsolete due to construction or other changes. These photos show roadside views of the S.M. Wright Freeway (originally South Central Expressway), which was demolished and replaced with a boulevard between 2021 and 2023.",
+  "images": [
+    {
+      "file": "IMG_5021_175_mlk_950_20070415.jpg",
+      "highResolution": "IMG_5021_175_mlk_2592_20070415.jpg",
+      "caption": "This is near the north terminus of the freeway with Interstate 45 just ahead. This will become a ground-level, signalized intersection.",
+      "imageDate": "15-April-2007",
+      "imageStatus": {
+        "statusDate": "2020",
+        "status": "Archive",
+        "note": "Grade separation will be removed."
+      }
+    },
+    {
+      "file": "IMG_5023_175_metropolitan_on_ramp_950_20070415.jpg",
+      "highResolution": "IMG_5023_175_metropolitan_on_ramp_2500_20070415.jpg",
+      "caption": "This is the northbound onramp at Metropolitan.",
+      "imageDate": "15-April-2007",
+      "imageStatus": {
+        "statusDate": "2020",
+        "status": "Archive",
+        "note": "Freeway was replaced with boulevard"
+      }
+    },
+    {
+      "file": "IMG_5026_175_mlk_tree_canopy_950_20070415.jpg",
+      "caption": "North of Metropolitan Street the frontage roads are shaded by a tree canopy. This is quite unusual for a frontage road.",
+      "imageDate": "15-April-2007",
+      "imageStatus": {
+        "statusDate": "2020",
+        "status": "Archive",
+        "note": "Freeway was replaced with boulevard"
+      }
+    }
+
+  ]
+
+}

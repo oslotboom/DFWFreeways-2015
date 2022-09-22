@@ -5,10 +5,10 @@
     "title": "Construction Views",
     "subTitle": "SH 360 Interchange, 2016-2019",
     "urlParentText": "I-30 Tom Landry Highway",
-    "lastUpdated": "last updated Sept 29, 2021 (add photo), created June 11, 2017"
+    "lastUpdated": "last updated Sept 22, 2022 (add photo), created June 11, 2017"
   },
     "map": "",
-    "text": "This project adds a complete four-level interchange at this freeway intersection. The old DFW Turnpike connections have been used previously going back to the opening of the turnpike in 1957. This project began in April 2016 and was scheduled to be complete in 2021, but as of June 2021 the project is not near completion.",
+    "text": "This project adds a complete four-level interchange at this freeway intersection. The old DFW Turnpike connections have been used previously going back to the opening of the turnpike in 1957. This project began in April 2016 and was scheduled to be complete in 2021, but as of 2022 the project is not near completion.",
   "images": [
     {
       "file": "20161119_dfw-0032-1200.jpg",
@@ -273,6 +273,42 @@
       "highResolution": "20210925-26_DFW_128-3000.jpg",
       "caption": "Looking northeast across the northeast side of the interchange.",
       "imageDate": "25-Sept-2021"
+    },
+    {
+      "file": "360_20220319-20_DFW_224_1200.jpg",
+      "highResolution": "",
+      "caption": "Looking east along IH 30 from SH 360.",
+      "imageDate": "20-March-2022"
+    },
+    {
+      "file": "360_20220319-20_DFW_226_1200.jpg",
+      "highResolution": "",
+      "caption": "Looking east along IH 30 from SH 360.",
+      "imageDate": "20-March-2022"
+    },
+    {
+      "file": "360_20220319-20_DFW_233_1200.jpg",
+      "highResolution": "360_20220319-20_DFW_233_3000.jpg",
+      "caption": "Looking east along IH 30 from SH 360.",
+      "imageDate": "20-March-2022"
+    },
+    {
+      "file": "360_20220319-20_DFW_229_1200.jpg",
+      "highResolution": "",
+      "caption": "The SH 360 northbound to IH 30 westbound ramp.",
+      "imageDate": "20-March-2022"
+    },
+    {
+      "file": "360_20220319-20_DFW_232_1200.jpg",
+      "highResolution": "",
+      "caption": "Looking east at the construction yard.",
+      "imageDate": "20-March-2022"
+    },
+    {
+      "file": "20220918-19_DFW_393-1200.jpg",
+      "highResolution": "",
+      "caption": "Driver's view going westbound on I-30",
+      "imageDate": "19-Sept-2022"
     }
   ]
 

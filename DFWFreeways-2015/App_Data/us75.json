@@ -9,7 +9,7 @@
     "Title": "US 75 Central Expressway",
     "Map": "",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
-    "Text": "Central Expressway is top freeway in North Texas in terms of the access it provides and the traffic count it serves.",
+    "Text": "Central Expressway is the leading freeway in North Texas in terms of the access it provides and the traffic count it serves.",
     "Features":
     [
         {
@@ -18,8 +18,8 @@
             [
                 { "AnchorText": "High Five Interchange", "AnchorUrl": "roadside-high-five" },
                 { "AnchorText": "Dallas", "AnchorUrl": "roadside-dallas" },
-                { "AnchorText": "Richardson and Plano", "AnchorUrl": "roadside-richardson-plano" },
-                { "AnchorText": "Original Freeway, downtown", "AnchorUrl": "roadside-downtown" }
+                { "AnchorText": "Richardson and Plano", "AnchorUrl": "roadside-richardson-plano" }
+
             ]
         },
         {
@@ -64,7 +64,16 @@
         },
         {
             "FeatureType": "Historical",
-            "FeatureProperties": [ { "AnchorText": "Photos", "AnchorUrl": "historical" } ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "Historical Photos",
+              "AnchorUrl": "historical"
+            },
+            {
+              "AnchorText": "Original Freeway, downtown",
+              "AnchorUrl": "roadside-downtown"
+            }
+          ]
         },
         {
             "FeatureType": "Video",

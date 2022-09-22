@@ -1,64 +1,52 @@
 ﻿{
-    "folderPath": "roadside/",
-    "title":  "I-30 photos Dallas",
-    "pageHeader" :
+  "folderPath": "roadside/",
+  "title": "I-30 photos Dallas",
+  "pageHeader": {
+    "title": "Roadside Views of the Downtown Canyon",
+    "urlParentText": "I-30 Dallas",
+    "lastUpdated": "Sept 15, 2022 (update caption, move photo to archive)"
+  },
+  "map": "30d_downtown.gif",
+  "text": "This downtown section of freeway was opened in November 1965 (collector lanes, Akard to Harwood) and April 28, 1966 (main lanes). Changes have been minimal since the original opening, and the photos below are still accurate as of 2022. <br /><br />The downtown Mixmaster is at the west end of this section. Reconstruction of the Mixmaster was completed in 2017. See the I-30 archive photos for a view of the original I-30 entrance to the Mixmaster. <br /><br />This section of freeway is scheduled to be fully rebuilt. As of this writing in September 2022, the project cost is listed at $467 million with estimated letting date February 2025.",
+  "images": [
+
     {
-        "title": "Roadside Views of the Downtown Canyon",
-        "urlParentText": "I-30 Dallas",
-        "lastUpdated": "January 29, 2018 (update caption)"
+      "file": "30d_IMG_4245_20070310_looking_e_at_i45_950.jpg",
+      "highResolution": "30d_IMG_4245_20070310_looking_e_at_i45_2048.jpg",
+      "caption": "Looking east toward the Interstate 45 interchange.",
+      "imageDate": "10-March-2007"
     },
-    "map": "30d_downtown.gif",
-    "text": "This downtown section of freeway was opened in November 1965 (collector lanes, Akard to Harwood) and April 28, 1966 (main lanes). Changes have been minimal since the original opening, and the photos below are still accurate as of 2015, except for the Mixmaster photo as noted. There are long-term plans to rebuild and modernize the freeway as part of Project Pegasus, but work is not scheduled as of 2018.",
-    "images":
-        [
+    {
+      "file": "30d_IMG_4253_20070310_looking_e_from_harwood_950.jpg",
+      "highResolution": "30d_IMG_4253_20070310_looking_e_from_harwood_2048.jpg",
+      "caption": "Looking east from the Harwood overpass, with the Central Expressway interchange ahead.",
+      "imageDate": "10-March-2007"
+    },
+    {
+      "file": "30d_IMG_4252_20070310_looking_e_from_harwood_950.jpg",
+      "caption": "Looking east from the Harwood overpass, with the Central Expressway interchange ahead.",
+      "imageDate": "10-March-2007"
+    },
+    {
+      "file": "30d_IMG_4251_20070310_looking_e_from_akard_950.jpg",
+      "highResolution": "30d_IMG_4251_20070310_looking_e_from_akard_2662.jpg",
+      "caption": "Looking east from the Akard overpass.",
+      "imageDate": "10-March-2007"
+    },
+    {
+      "file": "30d_IMG_4249_20070310_looking_e_at_cadiz_950.jpg",
+      "highResolution": "30d_IMG_4249_20070310_looking_e_at_cadiz_2592.jpg",
+      "caption": "Looking east from the Cadiz overpass",
+      "imageDate": "10-March-2007"
+    },
+    {
+      "file": "30d_IMG_4248_20070310_looking_e_at_lamar_950.jpg",
+      "highResolution": "30d_IMG_4248_20070310_looking_e_at_lamar_2048.jpg",
+      "caption": "Looking east from the Lamar overpass",
+      "imageDate": "10-March-2007"
+    }
 
-            {
-                "file": "30d_IMG_4245_20070310_looking_e_at_i45_950.jpg",
-                "highResolution": "30d_IMG_4245_20070310_looking_e_at_i45_2048.jpg",
-                "caption": "Looking east toward the Interstate 45 interchange.",
-                "imageDate": "10-March-2007"
-            },
-            {
-                "file": "30d_IMG_4253_20070310_looking_e_from_harwood_950.jpg",
-                "highResolution": "30d_IMG_4253_20070310_looking_e_from_harwood_2048.jpg",
-                "caption": "Looking east from the Harwood overpass, with the Central Expressway interchange ahead.",
-                "imageDate": "10-March-2007"
-            },
-            {
-                "file": "30d_IMG_4252_20070310_looking_e_from_harwood_950.jpg",
-                "caption": "Looking east from the Harwood overpass, with the Central Expressway interchange ahead.",
-                "imageDate": "10-March-2007"
-            },
-            {
-                "file": "30d_IMG_4251_20070310_looking_e_from_akard_950.jpg",
-                "highResolution": "30d_IMG_4251_20070310_looking_e_from_akard_2662.jpg",
-                "caption": "Looking east from the Akard overpass.",
-                "imageDate": "10-March-2007"
-            },
-            {
-                "file": "30d_IMG_4249_20070310_looking_e_at_cadiz_950.jpg",
-                "highResolution": "30d_IMG_4249_20070310_looking_e_at_cadiz_2592.jpg",
-                "caption": "Looking east from the Cadiz overpass",
-                "imageDate": "10-March-2007"
-            },
-            {
-                "file": "30d_IMG_4248_20070310_looking_e_at_lamar_950.jpg",
-                "highResolution": "30d_IMG_4248_20070310_looking_e_at_lamar_2048.jpg",
-                "caption": "Looking east from the Lamar overpass",
-                "imageDate": "10-March-2007"
-            },
-          {
-            "file": "30d_20071027_IMG_9440_at_i35_950.jpg",
-            "highResolution": "30d_20071027_IMG_9440_at_i35_2973.jpg",
-            "caption": "Looking west from the Houston Street overpass. I-30 and I-35E multiplex (use the same freeway corridor) for a short distance at this location.\r\n\t\t\t\t\tJust ahead I-30 branches to the left for the Trinity River crossing. In the days of the Dallas-Fort Worth Turnpike, the Trinity bridge was the start\r\n\t\t\t\t\tof the turnpike.\r\n\t\t\t\t\t",
-            "imageDate": "27-October-2007",
-            "imageStatus": {
-              "statusDate": "2018",
-              "status": "Obsolete",
-              "note": "The area shown was completely rebuilt with new ramps during the Horseshoe project, completed in 2017."
-            }
-          }
 
-        ]
+  ]
 
 }

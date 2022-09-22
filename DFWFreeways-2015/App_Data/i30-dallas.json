@@ -3,7 +3,7 @@
     "pageHeader":
     {
         "title": "Interstate 30 in Dallas",
-        "lastUpdated": "June 24, 2021"
+        "lastUpdated": "Sept 16, 2022"
     },
     "Title": "Interstate 30 Dallas",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -42,8 +42,16 @@
         },
         {
             "FeatureType": "Construction",
-            "FeatureProperties": [ 
-                { "AnchorText": "Horseshoe, 2014-2016", "AnchorUrl": "construction-horseshoe" }
+            "FeatureProperties": [
+              {
+                "AnchorText": "Horseshoe, 2014-2016",
+                "AnchorUrl": "construction-horseshoe"
+              },
+              {
+                "AnchorText": "Lake Ray Hubbard, 2022",
+                "AnchorUrl": "construction-hubbard"
+              }
+
             ]
         },
         {
@@ -61,8 +69,17 @@
             ]
         },
         {
-            "FeatureType": "Historical",
-            "FeatureProperties": [ { "AnchorText": "News Reports", "AnchorUrl": "historical" } ]
+          "FeatureType": "Historical",
+          "FeatureProperties": [
+            {
+              "AnchorText": "Archive Photos",
+              "AnchorUrl": "archive"
+            },
+            {
+              "AnchorText": "News Reports",
+              "AnchorUrl": "historical"
+            }
+          ]
         },
         {
             "FeatureType": "Video",

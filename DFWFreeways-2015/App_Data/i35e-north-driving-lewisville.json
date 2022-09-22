@@ -3,19 +3,24 @@
     "title":  "I-35E north photos Lewisville",
     "pageHeader" :
     {
-        "title": "Drivers Views, Belt Line to Lewisville",
+        "title": "Drivers Views, Northbound Belt Line to Lewisville",
         "urlParentText": "I-35E North",
-        "lastUpdated": "September 10, 2017 (create), September 12, 2020 (add photos)"
+        "lastUpdated": "Sept 10, 2017 (create); Sept 12, 2020 (add photos); Dec 19, 2021 (update for new $655 million contract); Sept 15, 2022 (review)"
     },
     "map": "",
-    "text": "The expansion project in this section was completed in late 2017. The interchange at SH 121 (Rayburn Tollway) fully opened a little later. The expansion project created two reversible HOT lanes, added collector-distributor lanes between Bush Turnpike and SH 121, and added two general purpose lanes north of SH 121.",
+    "text": "The first expansion project in this section was completed in late 2017. The interchange at SH 121 (Rayburn Tollway) fully opened a little later. The expansion project created two reversible HOT lanes, added collector-distributor lanes between Bush Turnpike and SH 121, and added two general purpose lanes north of SH 121. In July 2021 a $655 million contract was awarded for the second (and final) phase of work between IH-635 and Bush Turnpike.",
   "images": [
 
     {
       "file": "20170904-0008-1100.jpg",
       "highResolution": "",
       "caption": "Approaching Belt Line Road",
-      "imageDate": "4-September-2017"
+      "imageDate": "4-September-2017",
+      "imageStatus": {
+        "statusDate": "2021",
+        "status": "Modifications in progress",
+        "note": "The freeway will be widened at this location as part of the $655 million expansion project which began in 2021."
+      }
     },
     {
       "file": "20170904-0009-1100.jpg",
@@ -56,7 +61,7 @@
     {
       "file": "20170904-0017-1100.jpg",
       "highResolution": "20170904-0017-2560.jpg",
-      "caption": "The new ramps on the north side of the interchange feature long elevated sections.",
+      "caption": "The ramps on the north side of the interchange, opened in 2017, feature long elevated sections.",
       "imageDate": "4-September-2017"
     },
     {

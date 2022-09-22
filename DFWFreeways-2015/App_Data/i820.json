@@ -9,53 +9,96 @@
     "Title": "Loop 820 Fort Worth",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
     "Text": "",
-    "Features":
-    [
+  "Features": [
+    {
+      "FeatureType": "Roadside",
+      "FeatureProperties": [
         {
-            "FeatureType": "Roadside",
-            "FeatureProperties": [
-                { "AnchorText": "Northwest", "AnchorUrl": "roadside-northwest" },
-                { "AnchorText": "East", "AnchorUrl": "roadside-east" } 
-            ]
+          "AnchorText": "Northwest",
+          "AnchorUrl": "roadside-northwest"
         },
         {
-            "FeatureType": "DriversViews",
-            "FeatureProperties":
-            [
-                { "AnchorText": "Northwest", "AnchorUrl": "driving-northwest" },
-                { "AnchorText": "North", "AnchorUrl": "driving-north" }
-            ]
-        },
-        {
-            "FeatureType": "Book",
-            "FeatureProperties":
-            [
-                { "BookText": "Fort Worth I-20 and Loop 820", "Quickview": "ExFW820?startOdd=True", "Pdf": "" },
-                { "BookText": "Chapter 11: Fort Worth Freeways", "Quickview": "ChFortWorthFreeways?startOdd=False&pdfSize=17+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-11-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-11-20140803.pdf" },
-            ]
-        },
-        {
-            "FeatureType": "Construction",
-            "FeatureProperties": [ ]
-        },
-        {
-            "FeatureType": "Aerial",
-            "FeatureProperties":
-            [
-                { "AnchorText": "All Aerials", "AnchorUrl": "all" },
-                { "AnchorText": "Interchange at I-30 west", "AnchorUrl": "i30-west" },
-                { "AnchorText": "Interchange at I-30 east", "AnchorUrl": "i30-east" },
-                { "AnchorText": "Interchange at I-35W", "AnchorUrl": "i35w" }
-
-            ]
-        },
-        {
-            "FeatureType": "Historical",
-            "FeatureProperties": [ ]
-        },
-        {
-            "FeatureType": "Video",
-            "FeatureProperties": [ ]
+          "AnchorText": "East",
+          "AnchorUrl": "roadside-east"
         }
-    ]
+      ]
+    },
+    {
+      "FeatureType": "DriversViews",
+      "FeatureProperties": [
+        {
+          "AnchorText": "Northwest",
+          "AnchorUrl": "driving-northwest"
+        },
+        {
+          "AnchorText": "North",
+          "AnchorUrl": "driving-north"
+        }
+      ]
+    },
+    {
+      "FeatureType": "Book",
+      "FeatureProperties": [
+        {
+          "BookText": "Fort Worth I-20 and Loop 820",
+          "Quickview": "ExFW820?startOdd=True",
+          "Pdf": ""
+        },
+        {
+          "BookText": "Chapter 11: Fort Worth Freeways",
+          "Quickview": "ChFortWorthFreeways?startOdd=False&pdfSize=17+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-11-20140803.pdf",
+          "Pdf": "Dallas-Fort-Worth-Freeways-book-11-20140803.pdf"
+        }
+      ]
+    },
+    {
+      "FeatureType": "Construction",
+      "FeatureProperties": []
+    },
+    {
+      "FeatureType": "Aerial",
+      "FeatureProperties": [
+        {
+          "AnchorText": "All Aerials",
+          "AnchorUrl": "all"
+        },
+        {
+          "AnchorText": "Interchange at I-30 west",
+          "AnchorUrl": "i30-west"
+        },
+        {
+          "AnchorText": "Interchange at I-30 east",
+          "AnchorUrl": "i30-east"
+        },
+        {
+          "AnchorText": "Interchange at I-35W",
+          "AnchorUrl": "i35w"
+        }
+
+      ]
+    },
+    {
+      "FeatureType": "Historical",
+      "FeatureProperties": []
+    },
+    {
+      "FeatureType": "Video",
+      "FeatureProperties": [
+        {
+          "video": "Sept 2021, Northeast Fort Worth at SH 183 construction, 0:18",
+          "videoLinkSmallText": "24MB",
+          "videoLinkSmall": "20210925_820ne_121_construction_720p.mp4",
+          "videoLinkLargeText": "45MB",
+          "videoLinkLarge": "20210925_820ne_121_construction_1080p.mp4"
+        },
+        {
+          "video": "Sept 2021, connecting from 820 NB to 183 EB, 0:30",
+          "videoLinkSmallText": "35MB",
+          "videoLinkSmall": "20210925_IH820_NE_interchange_720p.mp4",
+          "videoLinkLargeText": "63MB",
+          "videoLinkLarge": "20210925_IH820_NE_interchange_1080p.mp4"
+        }
+      ]
+    }
+  ]
 }

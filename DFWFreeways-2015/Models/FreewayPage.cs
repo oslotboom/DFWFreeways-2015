@@ -63,10 +63,15 @@ namespace DFWFreeways.Models
         public string Video { get; set; }
         [DataMember(Name = "videoLinkSmall")]
         public string VideoLinkSmall { get; set; }
+        [DataMember(Name = "videoLinkMedium")]
+        public string VideoLinkMedium { get; set; }
+
         [DataMember(Name = "videoLinkLarge")]
         public string VideoLinkLarge { get; set; }
         [DataMember(Name = "videoLinkSmallText")]
         public string VideoLinkSmallText { get; set; }
+        [DataMember(Name = "videoLinkMediumText")]
+        public string VideoLinkMediumText { get; set; }
         [DataMember(Name = "videoLinkLargeText")]
         public string VideoLinkLargeText { get; set; }
     }

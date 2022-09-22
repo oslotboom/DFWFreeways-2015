@@ -5,79 +5,95 @@
     {
         "title": "Klyde Warren Park",
         "urlParentText": "Woodall Rodgers Freeway",
-        "lastUpdated": "June 1, 2015 (review only)"
+        "lastUpdated": "Sept 22, 2022 (update text, add photos)"
     },
     "map": "",
-    "text": "Klyde Warren Park opened on top of Woodall Rodgers Freeway in October 2012.",
-    "images":
-    [
-        {
-            "file": "20140501_0011-1100.jpg",
-            "caption": "",
-            "imageDate": "1-May-2014"
-        },
-        {
-            "file": "20131103_4663-1100.jpg",
-            "highResolution": "20131103_466-2560.jpg",
-            "caption": "Looking east across the park lawn.",
-            "imageDate": "3-November-2013"
-        },
-        {
-            "file": "20140501_0012-1200.jpg",
-            "caption": "The lawn grass was in the restoration mode in May 2014.",
-            "imageDate": "1-May-2014"
-        },
-        {
-            "file": "20131103_4654-1100.jpg",
-            "highResolution": "20131103_4654-2560.jpg",
-            "caption": "The walkway with arches on the south side.",
-            "imageDate": "3-November-2013"
-        },
+    "text": "Klyde Warren Park opened on top of Woodall Rodgers Freeway in October 2012.<br /><br />Phase 2 of the park, expanding it west, was put on hold when the lowest bid for the deck in January 2022 was $95 million, 101% above the $47.2 million estimate. The bid was rejected due to high cost. A rebid of the deck job is currently slated to receive bids in August 2024 (but bidding dates are always subject to change).<br><br>The $10 million Nancy Best Fountain on the east end of the park opened on September 14, 2022.",
+  "images": [
+    {
+      "file": "20140501_0011-1100.jpg",
+      "caption": "",
+      "imageDate": "1-May-2014"
+    },
+    {
+      "file": "20131103_4663-1100.jpg",
+      "highResolution": "20131103_466-2560.jpg",
+      "caption": "Looking east across the park lawn.",
+      "imageDate": "3-November-2013"
+    },
+    {
+      "file": "20140501_0012-1200.jpg",
+      "caption": "The lawn grass was in the restoration mode in May 2014.",
+      "imageDate": "1-May-2014"
+    },
+    {
+      "file": "20131103_4654-1100.jpg",
+      "highResolution": "20131103_4654-2560.jpg",
+      "caption": "The walkway with arches on the south side.",
+      "imageDate": "3-November-2013"
+    },
 
-        {
-            "file": "20140501_0019-1100.jpg",
-            "highResolution": "20140501_0019-1100-2560.jpg",
-            "caption": "The walkway with arches on the north side.",
-            "imageDate": "1-May-2014"
-        },
-        {
-            "file": "20131103_4637-1100.jpg",
-            "caption": "Plaza at Akard Street.",
-            "imageDate": "3-November-2013"
-        },
+    {
+      "file": "20140501_0019-1100.jpg",
+      "highResolution": "20140501_0019-1100-2560.jpg",
+      "caption": "The walkway with arches on the north side.",
+      "imageDate": "1-May-2014"
+    },
+    {
+      "file": "20131103_4637-1100.jpg",
+      "caption": "Plaza at Akard Street.",
+      "imageDate": "3-November-2013"
+    },
 
-        {
-            "file": "20140501_0017-1100.jpg",
-            "highResolution": "20140501_0017-2560.jpg",
-            "caption": "Landscaping on the north side.",
-            "imageDate": "1-May-2014"
-        },
-        {
-            "file": "20131103_4635-1100.jpg",
-            "highResolution": "",
-            "caption": "",
-            "imageDate": "3-November-2013"
-        },
-        {
-            "file": "20131103_4650-1100.jpg",
-            "highResolution": "",
-            "caption": "Food trucks along the Woodall Rodgers Freeway eastbound frontage road.",
-            "imageDate": "3-November-2013"
-        },
-        {
-            "file": "20131103_4659-1100.jpg",
-            "highResolution": "20131103_4659-2560.jpg",
-            "caption": "Children's play area",
-            "imageDate": "3-November-2013"
-        },
-        {
-            "file": "20131103_4657-1100.jpg",
-            "highResolution": "",
-            "caption": "",
-            "imageDate": "3-November-2013"
-        }
+    {
+      "file": "20140501_0017-1100.jpg",
+      "highResolution": "20140501_0017-2560.jpg",
+      "caption": "Landscaping on the north side.",
+      "imageDate": "1-May-2014"
+    },
+    {
+      "file": "20131103_4635-1100.jpg",
+      "highResolution": "",
+      "caption": "",
+      "imageDate": "3-November-2013"
+    },
+    {
+      "file": "20131103_4650-1100.jpg",
+      "highResolution": "",
+      "caption": "Food trucks along the Woodall Rodgers Freeway eastbound frontage road.",
+      "imageDate": "3-November-2013"
+    },
+    {
+      "file": "20131103_4659-1100.jpg",
+      "highResolution": "20131103_4659-2560.jpg",
+      "caption": "Children's play area",
+      "imageDate": "3-November-2013"
+    },
+    {
+      "file": "20131103_4657-1100.jpg",
+      "highResolution": "",
+      "caption": "",
+      "imageDate": "3-November-2013"
+    },
+    {
+      "file": "20220918-19_DFW_380-1100.jpg",
+      "highResolution": "20220918-19_DFW_380-3000.jpg",
+      "caption": "The Nancy Best fountain opened on the east end of the park on September 14, 2022. It is mainly intended as a water play area for children, and also has a fountain show in the evening.",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20220918-19_DFW_374-1100.jpg",
+      "highResolution": "",
+      "caption": "The McKinney Avenue trolley passes through the park on Olive Street.",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20220918-19_DFW_370-1100jpg.jpg",
+      "highResolution": "",
+      "caption": "In September 2022 work was in progress to expand the children's playground area",
+      "imageDate": "18-Sept-2022"
+    }
 
-
-    ]
+  ]
 
 }

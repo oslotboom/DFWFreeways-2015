@@ -1,0 +1,143 @@
+﻿{
+    "folderPath": "",
+    "title": "Bush Turnpike archive photos",
+    "pageHeader":
+    {
+      "title": "Archive: Driving Southbound in Irving, I-635 to I-30",
+      "subTitle":  "These 2007 photos show the freeway before the expansion completed in 2021",
+        "urlParentText": "Bush Turnpike",
+        "lastUpdated": "June 1, 2015 (review and update captions)"
+    },
+    "map": "161_635_to_183_500.gif",
+    "text": "The first half of this section, from I-635 to Belt Line Road, is a tollway which opened on December 21, 2001. The second half, from Belt Line Road to SH 183, is a freeway which opened circa 1994.<br /><br />Work to expand this section to eight main lanes (four in each direction) was completed in October 2021. These 2007 photos are all obsolete and are designated as archive views of the original freeway.",
+    "images":
+    [
+      {
+        "file": "161_20070408_driving_IMG_5968_s_of_635.jpg",
+        "caption": "Just south of I-635",
+        "imageDate": "8-April-2007",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Modified",
+          "note": "The tollway was expanded to 8 main lanes, with all work completed in October 2021."
+        }
+      },
+      {
+        "file": "161_20070408_driving_IMG_5971_royal.jpg",
+        "caption": "",
+        "imageDate": "8-April-2007",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Modified",
+          "note": "The tollway was expanded to 8 main lanes, with all work completed in October 2021."
+        }
+      },
+      {
+        "file": "161_20070408_driving_IMG_5973_approaching_114.jpg",
+        "caption": "Approaching TX 114",
+        "imageDate": "8-April-2007",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Modified",
+          "note": "The tollway was expanded to 8 main lanes, with all work completed in October 2021."
+        }
+      },
+      {
+        "file": "161_20070408_driving_IMG_5974_114.jpg",
+        "caption": "Orphan piers at TX 114",
+        "imageDate": "8-April-2007",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Modified",
+          "note": "The tollway was expanded to 8 main lanes, with all work completed in October 2021."
+        }
+      },
+      {
+        "file": "161_20070408_driving_IMG_5975_s_of_114.jpg",
+        "caption": "South of TX 114",
+        "imageDate": "8-April-2007",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Modified",
+          "note": "The tollway was expanded to 8 main lanes, with all work completed in October 2021."
+        }
+      },
+        {
+            "file": "161_20070408_driving_IMG_5977_approaching_plaza.jpg",
+            "caption": "Approaching the toll plaza",
+          "imageDate": "8-April-2007",
+          "imageStatus": { "statusDate": "2015", "status": "Modified", "note": "The cash lanes for paying tolls were closed when the NTTA system became all electronic." }
+
+        },
+        {
+            "file": "161_20070408_driving_IMG_5979_toll_plaza.jpg",
+            "caption": "At the toll plaza",
+            "imageDate": "8-April-2007",
+            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "The cash lanes for paying tolls were closed when the NTTA system became all electronic. The interior shoulder is a peak period temporary-use traffic lane." }
+        },
+      {
+        "file": "161_20070408_driving_IMG_5980_end_toll_sign.jpg",
+        "caption": "This sign indicates the end of the tolled Bush Turpike. The highway ahead is SH 161, which is a freeway for the short distance to SH 183.",
+        "imageDate": "8-April-2007",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Modified",
+          "note": "The freeway was expanded to 8 main lanes in 2020"
+        }
+      },
+      {
+        "file": "161_20070408_driving_IMG_5982.jpg",
+        "caption": "",
+        "imageDate": "8-April-2007",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Modified",
+          "note": "The freeway was expanded to 8 main lanes in 2020"
+        }
+      },
+      {
+        "file": "161_20070408_driving_IMG_5984.jpg",
+        "caption": "",
+        "imageDate": "8-April-2007",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Modified",
+          "note": "The freeway was expanded to 8 main lanes in 2020"
+        }
+      },
+      {
+        "file": "161_20070408_driving_IMG_5985.jpg",
+        "caption": "",
+        "imageDate": "8-April-2007",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Modified",
+          "note": "The freeway was expanded to 8 main lanes in 2020"
+        }
+      },
+      {
+        "file": "161_20070408_driving_IMG_5986.jpg",
+        "caption": "The interchange with TX 183 is visible ahead.",
+        "imageDate": "8-April-2007",
+        "imageStatus": {
+          "statusDate": "2021",
+          "status": "Modified",
+          "note": "The freeway was expanded to 8 main lanes in 2020"
+        }
+      },
+        {
+            "file": "161_20070408_driving_IMG_5990_connecting_to_183.jpg",
+            "caption": "When these photos were taken in 2007, the freeway ended at SH 183. This view shows the connection to TX 183 westbound.",
+            "imageDate": "8-April-2007"
+        },
+        {
+            "file": "161_20070408_driving_IMG_5992.jpg",
+            "caption": "SH 183 is visible ahead.",
+            "imageDate": "8-April-2007"
+        }
+
+
+
+    ]
+
+}

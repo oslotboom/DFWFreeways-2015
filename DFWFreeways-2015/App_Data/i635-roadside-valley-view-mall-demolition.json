@@ -3,18 +3,23 @@
   "title": "Valley View Mall Demolition",
   "pageHeader": {
     "title": "Valley View Mall Demolition",
-    "subTitle": "2017-2019",
+    "subTitle": "2017-2022",
     "urlParentText": "I-635",
-    "lastUpdated": "created May 27, 2019, last updated Septembe 12, 2020 (add photos)"
+    "lastUpdated": "last updated September 22, 2022 (update text and add photo); created May 27, 2019"
   },
   "map": "",
-  "text": "Valley Mall, opened in 1973 at the northwest corner of LBJ Freeway and Preston Road, was in steep decline 2000s. Plans for demolition and redevelopment of the property were first announced in 2012, but efforts were on hold for years with limited demolition taking place. Demolition of the three remaining anchor stores was underway in 2019, when most of the photos on this page were taken. The central mall structure was still intact as of September 2020. The planned the new development on the property is called Park Heritage.",
+  "text": "Valley Mall, opened in 1973 at the northwest corner of LBJ Freeway and Preston Road, was in steep decline in the 2000s. Plans for demolition and redevelopment of the property were first announced in 2012, but efforts were on hold for years with limited demolition taking place. <br /> <br/>Most of the photos on this page were taken when demolition of the three remaining anchor stores was underway in 2019. The central mall structure was still intact as of September 2022. <br /> <br/>On August 8, 2022, the Dallas Morning News reported that the owner of the property, Seritage Growth Properties, had canceled plans for development and had begun efforts to sell the 17-acre property.",
   "images": [
     {
       "file": "20090623_aerial_0241-1300.jpg",
       "highResolution": "20090623_aerial_0241-2904.jpg",
       "caption": "This June 2009 photo looks west, showing Valley View Mall in the middle right side of the photo. The main part of the mall is bright white. Macy's is the upper left anchor (with arches), Sears is lower left, Dillards is lower right, and JCPenney is mostly hidden at upper right.",
-      "imageDate": "23-June-2009"
+      "imageDate": "23-June-2009",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "For historial reference",
+        "note": "Interstate 635 was rebuilt, completed in 2015. Valley View mall is mostly demolished."
+      }
     },
     {
       "file": "20200906-07_260_1300.jpg",
@@ -154,6 +159,12 @@
       "highResolution": "",
       "caption": "Looking north at the remaining structure in September 2020.",
       "imageDate": "7-Sept-2020"
+    },
+    {
+      "file": "20220918-19_DFW_359-1300.jpg",
+      "highResolution": "",
+      "caption": "View of the remaining structure in September 2022. In September 2022 the Dallas Morning News reported that the developer (Seritage Growth Properties) has abandoned plans to develop the site and had placed the land for sale.",
+      "imageDate": "19-Sept-2022"
     }
   ]
 

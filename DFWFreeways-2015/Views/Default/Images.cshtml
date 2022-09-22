@@ -63,7 +63,7 @@
 <div id="page-container">
 
     @Html.Partial("_PageHeader", Model.PageHeader)
-    <div id="text">@Model.Text</div>
+    <div id="text">@Html.Raw(Model.Text)</div>
     @if (!String.IsNullOrEmpty(Model.Map))
     {
         <div><img src="@(Model.FolderPath + Model.Map)" /></div>

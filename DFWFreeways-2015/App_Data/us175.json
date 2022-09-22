@@ -4,11 +4,11 @@
     {
         "title": "US 175",
         "subTitle": "CF Hawn Freeway, SM Wright Freeway",
-        "lastUpdated": "June 23, 2021"
+        "lastUpdated": "Sept 22, 2022"
     },
     "Title": "US 175 Dallas",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
-    "Text": "The new section of freeway connecting IH 45 to US 175 at SH 310 (\"dead man's corner\") was fully opened in July 2020. In 2021 work is in progress to demolish the S.M. Wright Freeway and replace it with a boulevard street.",
+    "Text": "The new section of freeway connecting IH 45 to US 175 at SH 310 (\"dead man's corner\") was fully opened in July 2020. In 2022 work is in progress to demolish the S.M. Wright Freeway and replace it with a boulevard street.",
     "Features":
     [
         {
@@ -19,7 +19,6 @@
             "FeatureType": "DriversViews",
             "FeatureProperties":
             [
-                { "AnchorText": "Dallas, S.M. Wright Freeway", "AnchorUrl": "driving-wright" },
                 { "AnchorText": "Southeast Dallas County", "AnchorUrl": "driving-southeast" }
             ]
         },
@@ -57,7 +56,18 @@
         },
         {
             "FeatureType": "Historical",
-            "FeatureProperties": [ ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "S.M. Wright Freeway",
+              "AnchorUrl": "archive"
+            },
+            {
+              "AnchorText": "Driving the former S.M. Wright Freeway",
+              "AnchorUrl": "driving-wright"
+            }
+
+
+          ]
         },
         {
             "FeatureType": "Video",

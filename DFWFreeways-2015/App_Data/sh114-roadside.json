@@ -2,44 +2,27 @@
   "folderPath": "",
   "title": "SH 114 Irving photos",
   "pageHeader": {
-    "title": "Roadside Views",
+    "title": "Roadside Views in Irving",
     "urlParentText": "SH 114",
-    "lastUpdated": "June 24, 2021 (add signature bridge photo)"
+    "lastUpdated": "Sept 22, 2022 (add new photos, move obsolete photos to archive)"
   },
-  "map": "114e_roadside.gif",
-  "text": "2018 status: Most photos shown are archival photos due to the construction of managed lanes in 2017. At the east end of the freeway, Texas Stadium was demolished in 2010. In 2020 work started on a $355 million project to complete the interchange at the Texas Stadium site.",
+  "map": "",
+  "text": "These photos start at SH 183 and proceeed west to Belt Line. Managed lanes were added in the freeway median in 2017. The $301 million Irving Interchange project, from 2021 to 2023, completed SH 114 to its final configuration at the Texas Stadium site.<br/><br/>SH 114 was originally planned to have eight main lanes and four managed lanes through Irving, and the wide freeway west of Loop 12 was built to that standard in 2012. However, further work was suspended due to lack of funding and other regional priorities. <br/><br />As of 2022, any further expansion of SH 114 is not scheduled and not funded. The long-term NCTCOG transportation plan shows six main lanes with two managed lanes east of SH 348 (Northwest Highway), and eight main lanes with two managed lanes west of SH 348.",
   "images": [
+
     {
-      "file": "114_roadside_20080413_IMG_0671_texas_stadium.jpg",
-      "caption": "TX 114 branches off from TX 183 at Texas Stadium. This is the view at the branch point before the implosion of Texas Stadium in April 2010.",
-      "imageDate": "13-April-2008",
-      "imageStatus": {
-        "statusDate": "2015",
-        "status": "Obsolete",
-        "note": "Texas Stadium was demolished in 2010 and expansion of this interchange at SH 183 began in 2015. In 2020 work began on the $355 million final phase of the interchange project."
-      }
+      "file": "20220918-19_DFW_321_600.jpg",
+      "highResolution": "",
+      "caption": "The freeway in Irving is named for John W. Carpenter (1881-1959). Carpenter was a successful executive and businessman, serving as president and chairman of the board of Texas Power and Light. In 1930 he founded Southland Life Insurance Company. Around 1928, Carpenter began acquiring land in the area of present-day Las Colinas, with the ranch growing to approximately 6000 acres. Carpenter donated the right-of-way for SH 114 and SH 183 where those freeways passed through his property. His son Ben Carpenter developed the ranch into Las Colinas starting in the 1970s. ",
+      "imageDate": "18-Sept-2022"
     },
     {
-      "file": "114_roadside_20080413_IMG_0675_texas_stadium_sign.jpg",
-      "caption": "A closer view of the sign. The sign has been modified in 2015 to have an electronic message board.",
-      "imageDate": "13-April-2008",
-      "imageStatus": {
-        "statusDate": "2015",
-        "status": "Obsolete",
-        "note": "Texas Stadium was demolished in 2010. The sign has been modified."
-      }
+      "file": "20220918-19_DFW_304-500.jpg",
+      "highResolution": "",
+      "caption": "",
+      "imageDate": "18-Sept-2022"
     },
-    {
-      "file": "114_roadside_20070428_IMG_6070_texas_stadium.jpg",
-      "highResolution": "114_roadside_20070428_IMG_6070_texas_stadium_2300.jpg",
-      "caption": "View of Texas Stadium from TX 114",
-      "imageDate": "28-April-2007",
-      "imageStatus": {
-        "statusDate": "2015",
-        "status": "Obsolete",
-        "note": "Texas Stadium was demolished in 2010."
-      }
-    },
+
     {
       "file": "20200906-07_070_1200.jpg",
       "highResolution": "",
@@ -65,20 +48,9 @@
       "imageDate": "19-June-2021"
     },
     {
-      "file": "114_roadside_20070428_IMG_6072_e_of_12.jpg",
-      "highResolution": "114_roadside_20070428_IMG_6072_e_of_12_2300.jpg",
-      "caption": "View of the original freeway, looking west toward the Loop 12 freeway ahead. At the time of this photo, all connections to Loop 12 were made via frontage roads. In October 2008 a $224 million construction contract was awarded to widen the freeway ahead to Riverside/Rochelle to 8 regular lanes and 4 managed lanes, with two new direct connection ramps to Loop 12.  The project was finished in July 2012. However, most of the new pavement is unused because the adjacent sections of freeway have not been widened. In 2017 managed lanes were added to the freeway in the foreground.",
-      "imageDate": "28-April-2007",
-      "imageStatus": {
-        "statusDate": "2018",
-        "status": "Obsolete",
-        "note": "Managed lanes have been added, and the interchange at SH 114 has been rebuilt with two new ramps added."
-      }
-    },
-    {
       "file": "114_at_12_20140126_5194-1050.jpg",
       "highResolution": "114_at_12_20140126_5194-2560.jpg",
-      "caption": "SH 114 west of Loop 12. This view shows the widened section of SH 114, with enough pavement for 8 regular lanes and 4 managed lanes. The widening was completed in July 2012. In 2015 only 5 lanes were used because adjacent sections have not been widenend. Around 2017 the central managed lanes began to be used.",
+      "caption": "SH 114 west of Loop 12. This view shows the widened section of SH 114, with enough pavement for 8 regular lanes and 4 managed lanes. The widening was completed in July 2012. In 2015 only 5 lanes were used because adjacent sections have not been widened. Around 2017 the central managed lanes began to be used.",
       "imageDate": "26-January-2014",
       "imageStatus": {
         "statusDate": "2020",
@@ -89,7 +61,7 @@
     {
       "file": "20131003_dfw_4147-1200.jpg",
       "highResolution": "20131003_dfw_4147-2560.jpg",
-      "caption": "SH 114 west of Loop 12. This view shows the central the managed lanes which were unused for several years. ",
+      "caption": "SH 114 west of Loop 12. This view shows the central the managed lanes which were unused from 2012 to 2017. The SH 114 managed lanes opened in 2017. ",
       "imageDate": "3-October-2013",
       "imageStatus": {
         "statusDate": "2020",
@@ -104,121 +76,82 @@
       "imageDate": "3-October-2013"
     },
     {
-      "file": "114_roadside_20070428_IMG_6065_at_rr_w_of_12.jpg",
-      "highResolution": "114_roadside_20070428_IMG_6065_at_rr_w_of_12_2200.jpg",
-      "caption": "The original freeway, looking west, west of Loop 12. The Las Colinas development is just ahead.",
-      "imageDate": "28-April-2007",
-      "imageStatus": {
-        "statusDate": "2018",
-        "status": "Partially obsolete",
-        "note": "In 2017 two managed lanes were added in the freeway median."
-      }
+      "file": "20220918-19_DFW_300_1200.jpg",
+      "highResolution": "20220918-19_DFW_300_3000.jpg",
+      "caption": "This view looks east toward the interchange at Loop 12, which was completed in 2012.",
+      "imageDate": "18-Sept-2022"
     },
     {
-      "file": "114_roadside_20070428_IMG_6062 copy_at_riverside_rochelle.jpg",
-      "highResolution": "114_roadside_20070428_IMG_6062 copy_at_riverside_rochelle_2300.jpg",
-      "caption": "Original freeway, looking northwest at Riverside-Rochelle",
-      "imageDate": "28-April-2007",
-      "imageStatus": {
-        "statusDate": "2018",
-        "status": "Partially obsolete",
-        "note": "In 2017 two managed lanes were added in the freeway median."
-      }
+      "file": "20220918-19_DFW_301-1200.jpg",
+      "highResolution": "20220918-19_DFW_301-3000.jpg",
+      "caption": "Looking east toward the Loop 12 interchange from Tom Braniff Drive.",
+      "imageDate": "18-Sept-2022"
     },
     {
-      "file": "114_roadside_20070428_IMG_6060_at_wingren.jpg",
-      "highResolution": "114_roadside_20070428_IMG_6060_at_wingren_2048.jpg",
-      "caption": "The original freeway looking northwest at Wingren",
-      "imageDate": "28-April-2007",
-      "imageStatus": {
-        "statusDate": "2018",
-        "status": "Partially obsolete",
-        "note": "In 2017 two managed lanes were added in the freeway median."
-      }
+      "file": "20220918-19_DFW_309-1200.jpg",
+      "highResolution": "20220918-19_DFW_309-3000.jpg",
+      "caption": "Looking east, just west of Cistercian Road. The freeway was built to this wide configuration in 2012 in accordance with the long-term corridor plan to have eight main lanes and four managed lanes. However, plans for the rest of the corridor towards DFW airport were suspended due to lack of funding and other regional priorities. As of 2022, the long-term NCTCOG plan has downsized the plan for the freeway to have six main lanes and two managed lanes in Las Colinas. From Spur 348 (Northwest Highway) westward, the NCTCOG plan shows eight main lanes and two managed lanes.",
+      "imageDate": "18-Sept-2022"
     },
     {
-      "file": "114_roadside_20070428_IMG_6057_w_of_oconner.jpg",
-      "caption": "The original freeway looking west, west of O'Connor",
-      "imageDate": "28-April-2007",
-      "imageStatus": {
-        "statusDate": "2018",
-        "status": "Partially obsolete",
-        "note": "In 2017 two managed lanes were added in the freeway median."
-      }
+      "file": "20220918-19_DFW_306-1200.jpg",
+      "highResolution": "20220918-19_DFW_306-3000.jpg",
+      "caption": "",
+      "imageDate": "18-Sept-2022"
     },
     {
-      "file": "114_roadside_20070428_IMG_6054_at_colwell.jpg",
-      "caption": "The original freeway looking westbound near Colwell. Here the freeway merges with the original TX 114 alignment (now Northwest Highway).",
-      "imageDate": "28-April-2007",
-      "imageStatus": {
-        "statusDate": "2018",
-        "status": "Partially obsolete",
-        "note": "A bridge for the DART light rail was built across this intersection. In 2017 two managed lanes were added in the freeway median."
-      }
+      "file": "20220918-19_DFW_292-1200.jpg",
+      "highResolution": "20220918-19_DFW_292-3000.jpg",
+      "caption": "Looking east at Rochelle",
+      "imageDate": "18-Sept-2022"
     },
     {
-      "file": "114_roadside_20070428_IMG_6053_at_walnut_hill.jpg",
-      "highResolution": "114_roadside_20070428_IMG_6053_at_walnut_hill_hires.jpg",
-      "caption": "The original freeway looking west at Walnut Hill",
-      "imageDate": "28-April-2007",
-      "imageStatus": {
-        "statusDate": "2018",
-        "status": "Partially obsolete",
-        "note": "In 2017 two managed lanes were added in the freeway median."
-      }
+      "file": "20220918-19_DFW_295-1200.jpg",
+      "highResolution": "",
+      "caption": "Looking westbound at Rochelle",
+      "imageDate": "18-Sept-2022"
     },
     {
-      "file": "114_roadside_20070428_IMG_6052_at_walnut_hill.jpg",
-      "highResolution": "114_roadside_20070428_IMG_6052_at_walnut_hill_hires.jpg",
-      "caption": "Looking west along the eastbound frontage road at Walnut Hill, showing the original freeway on the right side.",
-      "imageDate": "28-April-2007",
-      "imageStatus": {
-        "statusDate": "2018",
-        "status": "Partially obsolete",
-        "note": "In 2017 two managed lanes were added in the freeway median."
-      }
+      "file": "20220918-19_DFW_315-1200.jpg",
+      "highResolution": "20220918-19_DFW_315-3000.jpg",
+      "caption": "Looking east at Wingren",
+      "imageDate": "18-Sept-2022"
     },
     {
-      "file": "114_roadside_20070428_IMG_6048 _looking_w_at_macarthur.jpg",
-      "highResolution": "114_roadside_20070428_IMG_6048 _looking_w_at_macarthur_2048.jpg",
-      "caption": "Looking west at MacArthur, showing the original freeway. The intersection with 161-Toll can be seen in the distance. Connections are made via the frontage roads. Two orphan piers for a future connection ramp are visible.",
-      "imageDate": "28-April-2007",
-      "imageStatus": {
-        "statusDate": "2018",
-        "status": "Partially obsolete",
-        "note": "In 2017 one managed lane was added in the freeway median."
-      }
+      "file": "20220918-19_DFW_317-1200.jpg",
+      "highResolution": "",
+      "caption": "Looking westbound at Wingren",
+      "imageDate": "18-Sept-2022"
     },
     {
-      "file": "114_roadside_20070428_IMG_6045 _at_161.jpg",
-      "caption": "Near Belt Line, looking west showing the original freeway. Here we can see that the frontage road ahead has not yet been built, but the design obviously anticipates its construction in the future.",
-      "imageDate": "28-April-2007",
-      "imageStatus": {
-        "statusDate": "2018",
-        "status": "Partially obsolete",
-        "note": "In 2017 one managed lane was added in the freeway median."
-      }
+      "file": "20220918-19_DFW_324 -1200.jpg",
+      "highResolution": "20220918-19_DFW_324-3000.jpg",
+      "caption": "Looking eastbound at Hidden Ridge",
+      "imageDate": "18-Sept-2022"
     },
     {
-      "file": "114_roadside_20070428_IMG_6044_at_beltline.jpg",
-      "caption": "Looking westbound from the Belt Line overpass.",
-      "imageDate": "28-April-2007",
-      "imageStatus": {
-        "statusDate": "2018",
-        "status": "Partially obsolete",
-        "note": "In 2017 a westbound managed lane was added."
-      }
+      "file": "20220918-19_DFW_328-1200.jpg",
+      "highResolution": "20220918-19_DFW_328-3000.jpg",
+      "caption": "Looking westbound at Hidden Ridge",
+      "imageDate": "18-Sept-2022"
     },
     {
-      "file": "114_roadside_20070428_IMG_6036_at_freeport_pkwy.jpg",
-      "highResolution": "114_roadside_20070428_IMG_6036_at_freeport_pkwy_HIRES.jpg",
-      "caption": "Looking west at Freeport Parkway, with TX 121 (the entrance to DFW Airport) just ahead.",
-      "imageDate": "28-April-2007",
-      "imageStatus": {
-        "statusDate": "2018",
-        "status": "Partially obsolete",
-        "note": "In 2017 a westbound managed lane was added."
-      }
+      "file": "20220918-19_DFW_335-1200.jpg",
+      "highResolution": "20220918-19_DFW_335-3000.jpg",
+      "caption": "Looking eastbound at MacArthur",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20220918-19_DFW_331-1200.jpg",
+      "highResolution": "20220918-19_DFW_331-3000.jpg",
+      "caption": "Looking eastbound at SH 161 (Bush Turnpike)",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20220918-19_DFW_343-1200.jpg",
+      "highResolution": "",
+      "caption": "Looking eastbound at Belt Line",
+      "imageDate": "18-Sept-2022"
     }
   ]
 

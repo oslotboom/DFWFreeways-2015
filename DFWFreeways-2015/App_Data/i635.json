@@ -4,7 +4,7 @@
     {
         "title": "Interstate 635",
         "subTitle": "LBJ Freeway",
-        "lastUpdated": "June 24, 2021"
+        "lastUpdated": "Sept 22, 2022"
     },
     "Title": "Interstate 635 LBJ Freeway",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -15,11 +15,11 @@
             "FeatureType": "Roadside",
           "FeatureProperties": [
             {
-              "AnchorText": "2015, LBJ Express complete",
+              "AnchorText": "LBJ Express, completed 2015",
               "AnchorUrl": "roadside-lbj-express"
             },
             {
-              "AnchorText": "Pre-LBJ Express",
+              "AnchorText": "SH 121 to I-20",
               "AnchorUrl": "roadside"
             },
             {
@@ -77,11 +77,26 @@
         },
         {
             "FeatureType": "Historical",
-            "FeatureProperties": [ ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "Archive Photos",
+              "AnchorUrl": "archive"
+            }
+          ]
         },
         {
             "FeatureType": "Video",
-            "FeatureProperties": [ ]
+          "FeatureProperties": [
+            {
+              "video": "March 2022 interchange construction drive-thru, 0:48",
+              "videoLinkSmallText": "15MB",
+              "videoLinkSmall": "635_mb_at_30_march2022_480.mp4",
+              "videoLinkMediumText": "27MB",
+              "videoLinkMedium": "635_mb_at_30_march2022_720.mp4",
+              "videoLinkLargeText": "49MB",
+              "videoLinkLarge": "635_mb_at_30_march2022_1080.mp4"
+            }
+          ]
         }
     ]
 }

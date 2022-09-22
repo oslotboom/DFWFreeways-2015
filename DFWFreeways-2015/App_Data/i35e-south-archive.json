@@ -1,0 +1,116 @@
+﻿{
+    "folderPath": "",
+    "title":  "I-35E South Photo Archive",
+    "pageHeader" :
+    {
+      "title": "Archive Photos",
+        "urlParentText": "I-35W South",
+        "lastUpdated": "September 15, 2022 (create)"
+    },
+    "map": "",
+    "text": "These photos show I-35E South before completion of expansion projects. The Horseshoe project, completed in 2017, replaced the Trinity River bridge. The Southern Gateway project, completed in September 2022, rebuilt and widened the freeway from the Trinity River to Kiest Boulevard, just south of the US 67 split.",
+  "images": [
+
+    {
+      "file": "35e_20071027_IMG_9452_trintity_bridge_and_flood_plain_950.jpg",
+      "highResolution": "35e_20071027_IMG_9452_trintity_bridge_and_flood_plain_higres.jpg",
+      "caption": "The Trinity floodway bridge. The northbound main lanes were placed on the original Cadiz Street viaduct which predated the construction of I-35E in 1959. The old-style bridge design is visible in this photo.",
+      "imageDate": "27-Oct-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Obsolete",
+        "note": "This bridge was replaced during the Horseshoe Project, 2014-2017"
+      }
+
+    },
+    {
+      "file": "35e_20071027_IMG_9454_trinity_bridge_950.jpg",
+      "caption": "Looking northbound, with the northbound lanes on the right and the southbound lanes on the left.",
+      "imageDate": "27-Oct-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Obsolete",
+        "note": "Both bridges were replaced during the Horseshoe Project, 2014-2017"
+      }
+    },
+    {
+      "file": "35e_20071027_IMG_9457_evidence_of_widening.jpg",
+      "caption": "At Colorado, just south of the Trinity, this view shows that the original bridge has been widened.",
+      "imageDate": "27-Oct-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Obsolete",
+        "note": "This structure was replaced during the Horseshoe Project, 2014-2017"
+      }
+
+    },
+    {
+      "file": "35e_20071027_IMG_9447_at_eighth.jpg",
+      "highResolution": "35e_20071027_IMG_9447_at_eighth_2118.jpg",
+      "caption": " Looking north at 8th Street. From its original construction to 2018, the freeway remained in its originally-constructed configuration except for the center HOV lane which was built on the original median shoulders.",
+      "imageDate": "27-Oct-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Obsolete",
+        "note": "This section of freeway was rebuilt and widened during the Southern Gateway project, 2018-2022"
+      }
+    },
+    {
+      "file": "35e_20071027_IMG_9459_ewing_950.jpg",
+      "highResolution": "35e_20071027_IMG_9459_ewing_2048.jpg",
+      "caption": "Looking north at Ewing",
+      "imageDate": "27-Oct-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Obsolete",
+        "note": "This section of freeway was rebuilt and widened during the Southern Gateway project, 2018-2022"
+      }
+    },
+    {
+      "file": "35e_20070429_IMG_6413_looking_s_at_ewing_with_giraffe_950.jpg",
+      "highResolution": "35e_20070429_IMG_6413_looking_s_at_ewing_with_giraffe_hires.jpg",
+      "caption": "Looking south from Ewing.The giraffe sculpture on the left is part of the Dallas Zoo.",
+      "imageDate": "29-April-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Obsolete",
+        "note": "This section of freeway was rebuilt and widened during the Southern Gateway project, 2018-2022. A deck park is above the freeway at this location."
+      }
+    },
+    {
+      "file": "35e_20071027_IMG_9465_giraffe_at_marsalis_950.jpg",
+      "highResolution": "35e_20071027_IMG_9465_giraffe_at_marsalis_2742.jpg",
+      "caption": "Looking north at Marsalis, with another view of the giraffe.",
+      "imageDate": "27-Oct-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Obsolete",
+        "note": "This section of freeway was rebuilt and widened during the Southern Gateway project, 2018-2022. The deck park is between this location and the bridge ahead."
+      }
+    },
+    {
+      "file": "35e_20071027_IMG_9467_louisiana.jpg",
+      "highResolution": "35e_20071027_IMG_9467_louisiana_2688.jpg",
+      "caption": "Looking north at Louisiana",
+      "imageDate": "27-Oct-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Obsolete",
+        "note": "This section of freeway was rebuilt and widened during the Southern Gateway project, 2018-2021"
+      }
+    },
+    {
+      "file": "35e_20070429_IMG_6416_looking_n_at_illinois.jpg",
+      "highResolution": "35e_20070429_IMG_6416_looking_n_at_illinois_2529.jpg",
+      "caption": "Looking north at Illinois",
+      "imageDate": "29-April-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Obsolete",
+        "note": "This section of freeway was rebuilt and widened during the Southern Gateway project, 2018-2021"
+      }
+    }
+
+  ]
+
+}

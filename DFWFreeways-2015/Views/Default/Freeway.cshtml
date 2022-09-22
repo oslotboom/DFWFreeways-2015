@@ -61,21 +61,27 @@
                                 <table id="book">
                                     @foreach (DFWFreeways.Models.FeatureProperty featureProperty in feature.FeatureProperties)
                                     {
-                                        <tr>
-                                            <td>@featureProperty.Video</td>
-                                            <td>
-                                                @if (!String.IsNullOrEmpty(@featureProperty.VideoLinkSmall))
-                                                {
-                                                    <a target="_blank" href="@(Model.FolderPath + "video/" + featureProperty.VideoLinkSmall)"><nobr>@featureProperty.VideoLinkSmallText</nobr> </a>
-                                                }
-                                            </td>
-                                            <td>
-                                                @if (!String.IsNullOrEmpty(@featureProperty.VideoLinkLarge))
-                                                {
-                                                    <a target="_blank" href="@(Model.FolderPath + "video/" + featureProperty.VideoLinkLarge)"><nobr>@featureProperty.VideoLinkLargeText</nobr> </a>
-                                                }
-                                            </td>
-                                        </tr>
+                                    <tr>
+                                        <td>@featureProperty.Video</td>
+                                        <td>
+                                            @if (!String.IsNullOrEmpty(@featureProperty.VideoLinkSmall))
+                                            {
+                                                <a target="_blank" href="@(Model.FolderPath + "video/" + featureProperty.VideoLinkSmall)"><nobr>@featureProperty.VideoLinkSmallText</nobr> </a>
+                                            }
+                                        </td>
+                                        <td>
+                                            @if (!String.IsNullOrEmpty(@featureProperty.VideoLinkMedium))
+                                            {
+                                                <a target="_blank" href="@(Model.FolderPath + "video/" + featureProperty.VideoLinkMedium)"><nobr>@featureProperty.VideoLinkMediumText</nobr> </a>
+                                            }
+                                        </td>
+                                        <td>
+                                            @if (!String.IsNullOrEmpty(@featureProperty.VideoLinkLarge))
+                                            {
+                                                <a target="_blank" href="@(Model.FolderPath + "video/" + featureProperty.VideoLinkLarge)"><nobr>@featureProperty.VideoLinkLargeText</nobr> </a>
+                                            }
+                                        </td>
+                                    </tr>
                                     }
                                 </table>
                             }

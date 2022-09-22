@@ -3,7 +3,7 @@
   "pageHeader": {
     "title": "SH 170",
     "subTitle": "North Fort Worth",
-    "lastUpdated": "February 8, 2018"
+    "lastUpdated": "July 31, 2022"
   },
   "Title": "SH 170",
   "Photo": {
@@ -11,7 +11,7 @@
     "Caption": "This is the caption",
     "Date": "12-January-2015"
   },
-  "Text": "The SH 170 frontage roads opened in 1992.  The main lanes were originally planned to be tolled, but the toll status is unclear in 2018. In 2018 a new overpass opened on the east end near SH 114, but the rest of the corridor remains in the frontage road configuration.",
+  "Text": "The SH 170 frontage roads opened in 1992.  In 2018 a new overpass opened on the east end near SH 114. Construction of the freeway main lanes between SH 114 and IH 35W is in progress in 2022 and scheduled for completion by the end of 2023.",
   "Features": [
     {
       "FeatureType": "Roadside",
@@ -33,7 +33,13 @@
     },
     {
       "FeatureType": "Construction",
-      "FeatureProperties": []
+      "FeatureProperties": [
+        {
+          "AnchorText": "Main lanes construction, 2021-2023",
+          "AnchorUrl": "construction"
+        }
+
+      ]
     },
     {
       "FeatureType": "Aerial",

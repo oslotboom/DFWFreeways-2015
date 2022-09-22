@@ -1,0 +1,130 @@
+﻿{
+  "folderPath": "",
+  "title": "US 67 Dallas archive photos",
+  "pageHeader": {
+    "title": "Archive: Roadside Views",
+    "subTitle": "Before the Southern Gateway project",
+    "urlParentText": "US 67",
+    "lastUpdated": "Sept 22, 2022 (designate this page as an archive)"
+  },
+  "map": "67_roadside_400.gif",
+  "text": "The Southern Gateway project, completed in 2022, widened and modified the freeway from Interstate 35 to Belt Line Road. These photos show the freeway before the Southern Gateway project.<br/><br/>From I-35E to I-20, the freeway originally had four main lanes and two HOV lanes, one in each direction. The Southern Gateway project modified this section to have six main lanes and one reversible express lane.<br /><br /> From Interstate 20 southward to Belt Line Road, a third main lane in each direction was added.",
+  "images": [
+
+    {
+      "file": "67_20070512_IMG_6508_marvin_d_love_sign.jpg",
+      "caption": "In Dallas, US 67 is the Marvin D. Love Freeway.",
+      "imageDate": "12-May-2007"
+    },
+    {
+      "file": "67_20071027_IMG_9478_at_pentagon_parkway_950.jpg",
+      "highResolution": "67_20071027_IMG_9478_at_pentagon_parkway_2592.jpg",
+      "caption": "Pre-Southern Gateway freeway design, looking north at Pentagon Parkway. This is about 1 mile south of the point where US 67 branches from I-35E, which occurs near the white mid-rise building in the distance. The HOV lanes are barrier-separated at this location.",
+      "imageDate": "27-October-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "The freeway was widened and reconfigured by the Southern Gateway project, completed in 2022."
+      }
+    },
+    {
+      "file": "67_20071027_IMG_9484_at_loop_12_looking_n.jpg",
+      "highResolution": "67_20071027_IMG_9484_at_loop_12_looking_n_2931.jpg",
+      "caption": "Pre-Southern Gateway freeway design, looking north at Loop 12. The original HOV lanes were not barrier separated.",
+      "imageDate": "27-October-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "The freeway was widened and reconfigured by the Southern Gateway project, completed in 2022."
+      }
+    },
+    {
+      "file": "67_20070512_IMG_6507_looking_s_at_12_950.jpg",
+      "highResolution": "67_20070512_IMG_6507_looking_s_at_12_2048.jpg",
+      "caption": "Pre-Southern Gateway freeway design, looking southbound (southwest compass direction) at Loop 12.",
+      "imageDate": "12-May-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "The freeway was widened and reconfigured by the Southern Gateway project, completed in 2022."
+      }
+    },
+    {
+      "file": "67_20070512_IMG_6514_executive_sign.jpg",
+      "caption": "Just south of Hampton, US 67 forms the southeast border of Executive Airport, formerly Red Bird Airport. The main runway ends just to the west of the freeway and approaching aircraft fly low over the freeway.",
+      "imageDate": "12-May-2007"
+
+    },
+    {
+      "file": "67_20070512_IMG_6513_looking_s_at_red_bird_950.jpg",
+      "highResolution": "67_20070512_IMG_6513_looking_s_at_red_bird_2592.jpg",
+      "caption": "Pre-Southern Gateway freeway design, looking south at Red Bird Road.",
+      "imageDate": "12-May-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "The freeway was widened and reconfigured by the Southern Gateway project, completed in 2022."
+      }
+    },
+
+    {
+      "file": "67_20070512_IMG_6528_sg_alexander_sign.jpg",
+      "caption": "South of I-20, US 67 enters Duncanville and is named the S.G. Alexander Freeway.",
+      "imageDate": "12-May-2007"
+    },
+    {
+      "file": "67_20070512_IMG_6522_at_cockrell_hill_950.jpg",
+      "highResolution": "67_20070512_IMG_6522_at_cockrell_hill_2577.jpg",
+      "caption": "The HOV lanes ended at I-20 and US 67 continued south as a freeway with four main lanes. This view looks south at  Cockrell Hill Road in Duncanville. The freeway main lanes in Duncanville were reported as complete in 1983. (The news report did not provide any further details; the section shown could have opened earlier.)",
+      "imageDate": "12-May-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "A third main lane in each direction was added by the Southern Gateway project, completed in 2022."
+      }
+    },
+    {
+      "file": "67_20070512_IMG_6523_cockrell_hill_950.jpg",
+      "caption": "Another view looking southwest at Cockrell Hill Road.",
+      "imageDate": "12-May-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "A third main lane in each direction was added by the Southern Gateway project, completed in 2022."
+      }
+    },
+    {
+      "file": "67_20070512_IMG_6526_danieldale_950.jpg",
+      "highResolution": "67_20070512_IMG_6526_danieldale_2475.jpg",
+      "caption": "Looking southwest at Danieldale Road.",
+      "imageDate": "12-May-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "A third main lane in each direction was added by the Southern Gateway project, completed in 2022."
+      }
+    },
+    {
+      "file": "67_20070512_IMG_6535_looking_s_toward_belt_line_950.jpg",
+      "caption": "Looking southwest at Belt Line.",
+      "imageDate": "12-May-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "A third main lane in each direction was added by the Southern Gateway project, completed in 2022."
+      }
+    },
+    {
+      "file": "67_20070512_IMG_6537_cooper_950.jpg",
+      "caption": "Looking southwest at Cooper. This photo is still accurate as of 2022, since the widening was from Interstate 635 to Belt Line.",
+      "imageDate": "12-May-2007"
+    },
+    {
+      "file": "67_20070512_IMG_6545_gilco_dove.jpg",
+      "caption": "Looking southwest at Gilco-Dove Roads.This photo is still accurate as of 2022, since the widening was from Interstate 635 to Belt Line. US 67 continues as a freeway to Midloathian, with the freeway coming to an end just southwest of US 287.",
+      "imageDate": "12-May-2007"
+    }
+
+  ]
+
+}

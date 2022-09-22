@@ -189,7 +189,7 @@ namespace DFWFreeways.Models
                     new Link("US 287 south", "M.L. King Freeway","us287-south"),
                     new LinkPlaceholder("US 287 north", "","us287-north"),
                     new LinkPlaceholder("SH 121", "Airport Freeway","sh121-fort-worth"),
-                    new Link("SH 170", "Future Toll Road","sh170"),
+                    new Link("SH 170", "Alliance Gateway Freeway","sh170"),
                     new Link("SH 199", "","sh199"),
                     new Link("Chisholm Trail Parkway", "Toll Road","chisholm-trail-parkway"),
                     }),

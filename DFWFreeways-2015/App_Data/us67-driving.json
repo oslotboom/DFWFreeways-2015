@@ -1,114 +1,86 @@
 ﻿{
-    "folderPath": "",
-    "title":  "US 67 Dallas photos",
-    "pageHeader" :
+  "folderPath": "",
+  "title": "US 67 Dallas photos",
+  "pageHeader": {
+    "title": "Driving Views",
+    "urlParentText": "US 67",
+    "lastUpdated": "Sept 22, 2022 (add photos)"
+  },
+  "map": "",
+  "text": "The $666 million Southern Gateway project, built between 2018 and 2022, modified and expanded the freeway from Interstate 35 to Belt Line Road. <br /><br />The first series of photos on this page, added in 2022, goes northbound from Camp Wisdom Road to Interstate 35E. The Southern Gateway project modified this section to have six regular lanes and one reversible express lane.<br /><br />The second series of photos goes southbound south of Belt Line. These photos taken in 2007 are still valid in 2022.",
+  "images": [
     {
-        "title": "Driving Views",
-        "urlParentText": "US 67",
-        "lastUpdated": "February 1, 2018 (update captions for the start of the Southern Gateway project)"
+      "file": "20220918-19_DFW_190-1200.jpg",
+      "caption": "Entering US 67 northbound at Camp Wisdom Road.",
+      "imageDate": "18-Sept-2022"
     },
-    "map": "67_driving.gif",
-    "text": "2018 status: In 2018 the $666 million Southern Gateway project began, which will widen the freeway. All the photos shown from I-35E to Belt Line will are obsolete and retained as a historical archive.",
-    "images":
-        [
-            {
-                "file": "67_20070512_driving_IMG_6500_at_35e_split.jpg",
-                "caption": "Going southbound on I-35E, this is the split for US 67. The first 4.2 miles going southbound, to Camp Wisdom, opened on July 29, 1969. The HOV lane was added March 11, 2002.",
-                "imageDate": "12-May-2007",
-                "imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2021." }
-            },
-            {
-                "file": "67_driving_20070512_IMG_6502_approaching_12.jpg",
-                "caption": "Access to the HOV lane is just ahead.",
-                "imageDate": "12-May-2007",
-                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
-            },
-            {
-                "file": "67_driving_20070512_IMG_6503.jpg",
-                "caption": "At Polk Street",
-                "imageDate": "12-May-2007",
-                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
-            },
-            {
-                "file": "67_driving_20070512_IMG_6505_at_loop_12.jpg",
-                "caption": "At Loop 12.",
-                "imageDate": "12-May-2007",
-                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
-            },
-            {
-                "file": "67_driving_20070512_IMG_6509_approaching_hampton.jpg",
-                "caption": "Approaching Hampton",
-                "imageDate": "12-May-2007",
-                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
-            },
-            {
-                "file": "67_driving_20070512_IMG_6511_at_red_bird.jpg",
-                "caption": "The main runway for Dallas Executive Airport is just to the right, which is why the center lights are truncated to be lower than normal.",
-                "imageDate": "12-May-2007",
-                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
-            },
-            {
-                "file": "67_driving_20070512_IMG_6515_ramp_at_red_bird.jpg",
-                "caption": "The onramp at Red Bird road.",
-                "imageDate": "12-May-2007",
-                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
-            },
-            {
-                "file": "67_driving_20070512_IMG_6518_at_20.jpg",
-                "caption": "The interchange with Interstate 20 is just ahead.",
-                "imageDate": "12-May-2007",
-                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
-            },
-            {
-                "file": "67_driving_20070512_IMG_6519_at_20.jpg",
-                "caption": "This interchange was completed on July 12, 1974.",
-                "imageDate": "12-May-2007",
-                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
-            },
-            {
-                "file": "67_driving_20070512_IMG_6529_onramp_at_danieldale.jpg",
-                "caption": "This is the onramp at Danieldale road in Duncanville.",
-                "imageDate": "12-May-2007",
-                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
-            },
-            {
-                "file": "67_driving_20070512_IMG_6532_at_fm_1382.jpg",
-                "caption": "Approaching FM 1382.",
-                "imageDate": "12-May-2007",
-                "imageStatus": { "statusDate": "2018", "status": "Partially Obsolete", "note": "The freeway will be widened and reconfigured by the Southern Gateway project, completion in 2022." }
-            },
-            {
-                "file": "67_driving_20070512_IMG_6534_belt_line.jpg",
-                "caption": "At the exit for Belt Line",
-                "imageDate": "12-May-2007"
-            },
-            {
-                "file": "67_driving_20070512_IMG_6538_s_of_cooper.jpg",
-                "caption": "",
-                "imageDate": "12-May-2007"
-            },
-            {
-                "file": "67_driving_20070512_IMG_6541_ellis_county_line.jpg",
-                "caption": "At the Dallas/Ellis county line",
-                "imageDate": "12-May-2007"
-            },
-            {
-                "file": "67_driving_20070512_IMG_6542_shiloh_road.jpg",
-                "caption": "Approaching Shiloh Road",
-                "imageDate": "12-May-2007"
-            },
-            {
-                "file": "67_driving_20070512_IMG_6544_gilco_dove.jpg",
-                "caption": "At the Gilco Road/Dove Lane exit",
-                "imageDate": "12-May-2007"
-            },
-            {
-                "file": "67_driving_20070512_IMG_6546_at_287.jpg",
-                "caption": "In Midlothian, with US 287 visible ahead. The US 67 freeway ends just past US 287 with a signalized intersection.",
-                "imageDate": "12-May-2007"
-            }
+    {
+      "file": "20220918-19_DFW_191-1200.jpg",
+      "caption": "",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20220918-19_DFW_193-1200jpg.jpg",
+      "caption": "The toll-free, reversible, barrier-separated express lane starts at South Hampton Road.",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20220918-19_DFW_195-1200.jpg",
+      "caption": "",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20220918-19_DFW_199_1200.jpg",
+      "caption": "At Loop 12",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20220918-19_DFW_200-1200.jpg",
+      "highResolution": "20220918-19_DFW_200-2500.jpg",
+      "caption": "Approaching south Polk Street.",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20220918-19_DFW_201_1200.jpg",
+      "caption": "",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20220918-19_DFW_202-1200.jpg",
+      "caption": "",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20220918-19_DFW_203-1200.jpg",
+      "caption": "The express lane merges into the Interstate 35E express lanes just ahead. For the continuation of the express lanes into downtown, see the Interstate 35E driver's views page.",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "67_driving_20070512_IMG_6538_s_of_cooper.jpg",
+      "caption": "This view starts the second series of drivers views, which go southbound south of Belt Line Road. To see the drivers views north of this point, see the US 67 driver's views archive",
+      "imageDate": "12-May-2007"
+    },
+    {
+      "file": "67_driving_20070512_IMG_6541_ellis_county_line.jpg",
+      "caption": "At the Dallas/Ellis county line",
+      "imageDate": "12-May-2007"
+    },
+    {
+      "file": "67_driving_20070512_IMG_6542_shiloh_road.jpg",
+      "caption": "Approaching Shiloh Road",
+      "imageDate": "12-May-2007"
+    },
+    {
+      "file": "67_driving_20070512_IMG_6544_gilco_dove.jpg",
+      "caption": "At the Gilco Road/Dove Lane exit",
+      "imageDate": "12-May-2007"
+    },
+    {
+      "file": "67_driving_20070512_IMG_6546_at_287.jpg",
+      "caption": "In Midlothian, with US 287 visible ahead. The US 67 freeway ends just past US 287 with a signalized intersection.",
+      "imageDate": "12-May-2007"
+    }
 
-
-        ]
+  ]
 
 }

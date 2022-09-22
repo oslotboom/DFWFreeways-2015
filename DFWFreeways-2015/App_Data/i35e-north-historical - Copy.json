@@ -1,0 +1,71 @@
+﻿{
+    "folderPath": "",
+    "title":  "I-35E Dallas historical",
+    "pageHeader" :
+    {
+        "title": "Historical Images",
+        "urlParentText": "I-35E North",
+        "lastUpdated": "April 13, 2015 (review only)"
+    },
+    "map": "",
+    "text": "",
+    "images":
+    [
+        {
+            "file": "IMG_3527_195801_stemmons_frontage_roads.jpg",
+            "highResolution": "IMG_3528_195801_stemmons_frontage_roads_1600.jpg",
+            "caption": "Stemmons Freeway at Inwood was featured on the cover of Dallas magazine in January 1958. At the time, only the frontage roads east of Inwood were built. Construction on the mainlanes was about to begin."
+        },
+        {
+            "file": "IMG_3597_195911_aerial_lower_stemmons.jpg",
+            "caption": "Stemmons Freeway was featured on the cover of Dallas magazine in November 1959, just prior to the freeway opening on December 5. "
+        },
+        {
+            "file": "35e_stemmons_opening_12-1959_300dpi_no_unsharp_950.jpg",
+            "caption": "This is the official opening of the section from Oak Lawn to near Northwest Highway on December 5, 1959. The observance of this opening was a huge event, with a large banquet, parade, and gathering of international political officials. ",
+            "imageDate": "TxDOT library"
+        },
+        {
+            "file": "stemmons_brochure_1_merged.jpg",
+            "caption": "A brochure explaining the origins of I-35 and the Interstate Highway system was distributed for the freeway opening. This view shows the front and back covers of the brochure. ",
+            "imageDate": "1959"
+        },
+        {
+            "file": "stemmons_brochure_2__950.jpg",
+            "caption": "This view shows the inner pages of the brochure.",
+            "imageDate": "1959"
+        },
+        {
+            "file": "i35e_stemmons_9_17_1960.jpg",
+            "caption": "This view looks south along the freeway near the present-day American Airlines Center on September 17, 1960. This section of freeway opened on August 3, 1959. ",
+            "imageDate": "TxDOT library"
+        },
+        {
+            "file": "i35_stemmons_downtown_dallas_undated_circa1960.jpg",
+            "caption": "This view just north of downtown appears to be from the early 1960s. Notice the lack of a median barrier. ",
+            "imageDate": "TxDOT library"
+        },
+        {
+            "file": "i35_183_sh356_junction_9_17_1960.jpg",
+            "caption": "This view from September 17, 1960, shows the junction of Stemmons Freeway and TX 183, with TX 183 under construction. ",
+            "imageDate": "TxDOT library"
+        },
+        {
+            "file": "i35e_north_of_dallas_10_6_60.jpg",
+            "caption": "This view looks north at Belt Line on November 6, 1960. ",
+            "imageDate": "TxDOT library"
+        },
+        {
+            "file": "i35e_n_of_dallas_10-6-60.jpg",
+            "caption": "This view looks northbound (northwest) just north of Belt Line. ",
+            "imageDate": "TxDOT library"
+        },
+        {
+            "file": "i35e_s_of_121_looking_s_2-1959.jpg",
+            "caption": "Looking southbound in February 1959 south of TX 121 in Lewisville. This is probably the Corporate road overpass. ",
+            "imageDate": "TxDOT library"
+        }
+
+    ]
+
+}

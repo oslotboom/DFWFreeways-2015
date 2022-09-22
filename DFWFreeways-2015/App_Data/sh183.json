@@ -4,73 +4,123 @@
     {
         "title": "SH 183",
         "subTitle": "Carpenter Freeway and Airport Freeway",
-        "lastUpdated": "September 29, 2021 (add driving photos)"
+        "lastUpdated": "Sept 22, 2022 (add Irving Interchange photos)"
     },
     "Title": "SH 183 Airport Freeway",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
     "Text": "",
-    "Features":
-    [
+  "Features": [
+    {
+      "FeatureType": "Roadside",
+      "FeatureProperties": [
         {
-            "FeatureType": "Roadside",
-            "FeatureProperties": [ { "AnchorText": "Roadside Views", "AnchorUrl": "roadside" } ]
-        },
-        {
-            "FeatureType": "DriversViews",
-          "FeatureProperties": [
-            {
-              "AnchorText": "Dallas",
-              "AnchorUrl": "driving-dallas"
-            },
-            {
-              "AnchorText": "Irving Original Freeway",
-              "AnchorUrl": "driving-irving-original"
-            },
-            {
-              "AnchorText": "Irving",
-              "AnchorUrl": "driving-irving"
-            },
-            {
-              "AnchorText": "North Tarrant Express",
-              "AnchorUrl": "driving-nte"
-            }
-          ]
-        },
-        {
-            "FeatureType": "Book",
-            "FeatureProperties":
-            [
-                { "BookText": "SH 183", "Quickview": "ExSH183?startOdd=False", "Pdf": "" },
-                { "BookText": "Chapter 8: Texas Stadium Freeways", "Quickview": "ChTexasStadium?startOdd=False&pdfSize=6+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-08-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-08-20140803.pdf" },
-                { "BookText": "Chapter 10: Mid-Cities Freeways", "Quickview": "ChMidCitiesFreeways?startOdd=True&pdfSize=11+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-10-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-10-20140803.pdf" }
-            ]
-        },
-        {
-            "FeatureType": "Construction",
-            "FeatureProperties":
-            [
-                { "AnchorText": "Right of Way clearance in Irving", "AnchorUrl": "construction-row" },
-                { "AnchorText": "Irving and Dallas", "AnchorUrl": "construction" }
-            ]
-        },
-        {
-            "FeatureType": "Aerial",
-            "FeatureProperties":
-            [
-                { "AnchorText": "At the former Texas Stadium site, now the Diamond Interchange", "AnchorUrl": "diamond" }
-
-            ]
-        },
-        {
-            "FeatureType": "Historical",
-            "FeatureProperties": [
-                { "AnchorText": "Images", "AnchorUrl": "historical" }
-
-            ]
-        },
-        {
-            "FeatureType": "Video",
-            "FeatureProperties": [ ]
+          "AnchorText": "Roadside Views",
+          "AnchorUrl": "roadside"
         }
-    ]
+      ]
+    },
+    {
+      "FeatureType": "DriversViews",
+      "FeatureProperties": [
+        {
+          "AnchorText": "Irving",
+          "AnchorUrl": "driving-irving"
+        },
+        {
+          "AnchorText": "North Tarrant Express",
+          "AnchorUrl": "driving-nte"
+        }
+      ]
+    },
+    {
+      "FeatureType": "Book",
+      "FeatureProperties": [
+        {
+          "BookText": "SH 183",
+          "Quickview": "ExSH183?startOdd=False",
+          "Pdf": ""
+        },
+        {
+          "BookText": "Chapter 8: Texas Stadium Freeways",
+          "Quickview": "ChTexasStadium?startOdd=False&pdfSize=6+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-08-20140803.pdf",
+          "Pdf": "Dallas-Fort-Worth-Freeways-book-08-20140803.pdf"
+        },
+        {
+          "BookText": "Chapter 10: Mid-Cities Freeways",
+          "Quickview": "ChMidCitiesFreeways?startOdd=True&pdfSize=11+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-10-20140803.pdf",
+          "Pdf": "Dallas-Fort-Worth-Freeways-book-10-20140803.pdf"
+        }
+      ]
+    },
+    {
+      "FeatureType": "Construction",
+      "FeatureProperties": [
+        {
+          "AnchorText": "Right of Way clearance in Irving",
+          "AnchorUrl": "construction-row"
+        },
+        {
+          "AnchorText": "Irving and Dallas, 2015-2018",
+          "AnchorUrl": "construction"
+        },
+        {
+          "AnchorText": "Irving Interchange, 2021-2024",
+          "AnchorUrl": "construction-irving-interchange"
+        }
+      ]
+    },
+    {
+      "FeatureType": "Aerial",
+      "FeatureProperties": [
+        {
+          "AnchorText": "At the former Texas Stadium site, now the Irving Interchange",
+          "AnchorUrl": "diamond"
+        }
+
+      ]
+    },
+    {
+      "FeatureType": "Historical",
+      "FeatureProperties": [
+        {
+          "AnchorText": "Archive, Driving to Texas Stadium",
+          "AnchorUrl": "archive-driving-dallas"
+        },
+        {
+          "AnchorText": "Archive, Driving in Irving",
+          "AnchorUrl": "archive-driving-irving"
+        },
+        {
+          "AnchorText": "Archive, Roadside in Irving with Texas Stadium",
+          "AnchorUrl": "archive-roadside"
+        },
+        {
+          "AnchorText": "Historical Images",
+          "AnchorUrl": "historical"
+        }
+
+      ]
+    },
+    {
+      "FeatureType": "Video",
+      "FeatureProperties": [
+        {
+          "video": "Sept 2021 Irving interchange westbound drive-thru, 1:05",
+          "videoLinkSmallText": "82MB",
+          "videoLinkSmall": "20210926-SH183-construction-drive-through_720p.mp4",
+          "videoLinkLargeText": "153MB",
+          "videoLinkLarge": "20210926-SH183-construction-drive-through_1080p.mp4"
+        },
+        {
+          "video": "March 2022 interchange eastbound drive-thru, 2:07",
+          "videoLinkSmallText": "130MB",
+          "videoLinkSmall": "SH183_EB_Irving_Interchange_540.mp4",
+          "videoLinkMediumText": "187MB",
+          "videoLinkMedium": "SH183_EB_Irving_Interchange_720.mp4",
+          "videoLinkLargeText": "355MB",
+          "videoLinkLarge": "SH183_EB_Irving_Interchange_1080.mp4"
+        }
+      ]
+    }
+  ]
 }

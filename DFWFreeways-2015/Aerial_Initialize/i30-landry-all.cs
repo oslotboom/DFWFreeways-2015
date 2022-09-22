@@ -142,22 +142,26 @@ namespace DFWFreeways.Models
                     "Texas Rangers Ballpark",
                     "Texas Rangers Ballpark, looking north",
                     "Texas Rangers Ballpark",
-                    "Looking north."),
+                    "Looking north.",
+                    new AerialStatus ("2022", "Stadium Modified", "The stadium was retired from baseball use with the opening of the retractable-roof Globe Life Field in 2020, which was built in the lower edge of this view. The baseball field is removed and has been replaced with a football field." )),
                 new AerialGalleryItem(new DateTime(2011,4,16),"20110416_aerial_0388.JPG","20110416_aerial_0388-1050.jpg", "20110416_aerial_0388-2560.jpg", "aerial", 
                     "Texas Rangers Ballpark",
                     "Texas Rangers Ballpark, looking north",
                     "Texas Rangers Ballpark",
-                    "Looking north."),
+                    "Looking north.",
+                    new AerialStatus ("2022", "Stadium Modified", "The stadium was retired from baseball use with the opening of the retractable-roof Globe Life Field in 2020. The baseball field is removed and has been replaced with a football field." )),
                 new AerialGalleryItem(new DateTime(2011,4,16),"20110416_aerial_0391.JPG","20110416_aerial_0391-1050.jpg", "20110416_aerial_0391-2560.jpg", "aerial", 
                     "Texas Rangers Ballpark",
                     "Texas Rangers Ballpark, looking northwest",
                     "Texas Rangers Ballpark",
-                    "Looking northwest."),
+                    "Looking northwest.",
+                    new AerialStatus ("2022", "Stadium Modified", "The stadium was retired from baseball use with the opening of the retractable-roof Globe Life Field in 2020. The baseball field is removed and has been replaced with a football field." )),
                 new AerialGalleryItem(new DateTime(2011,4,16),"20110416_aerial_0394.JPG","20110416_aerial_0394-1050.jpg", "20110416_aerial_0394-2560.jpg", "aerial", 
                     "Texas Rangers Ballpark",
                     "Texas Rangers Ballpark, looking west",
                     "Texas Rangers Ballpark",
-                    "Looking west. In 2017 construction began on the new Rangers stadium on the parking lot just left (south) of the existing stadium.")
+                    "Looking west. In 2017 construction began on the new Rangers stadium on the parking lot just left (south) of the existing stadium.",
+                    new AerialStatus ("2022", "Stadium Modified", "The stadium was retired from baseball use with the opening of the retractable-roof Globe Life Field in 2020, which was built in the left side of this view. The baseball field is removed and has been replaced with a football field." ))
          
             };
         }

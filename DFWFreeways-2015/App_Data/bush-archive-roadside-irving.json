@@ -1,0 +1,122 @@
+﻿{
+  "folderPath": "",
+  "title": "Bush Turnpike archive photos",
+  "pageHeader": {
+    "title": "Archive: Roadside Views in Irving",
+    "subTitle": "Freeway was widened in 2020 and 2021",
+    "urlParentText": "Bush Turnpike",
+    "lastUpdated": "Sept 22, 2022 (designate page as archive)"
+  },
+  "map": "161_635_to_183_500.gif",
+  "text": "This section of freeway was widened to 8 main lanes, with the expansion completed in 2020 and 2021. These photos show the original freeway, which had four main lanes south of Belt Line Road and six main toll lanes north of Belt Line Road.",
+  "images": [
+    {
+      "file": "161_20071028_roadside_IMG_9560_sign.jpg",
+      "caption": "This section of TX 161 is the George Bush Turnpike, the same name as the connecting TX 190.",
+      "imageDate": "28-Oct-2007"
+    },
+    {
+      "file": "161_20071028_roadside_IMG_9554_looking_n_at_las_colinas.jpg",
+      "caption": "Looking northeast toward the interchange at I-635.",
+      "imageDate": "28-Oct-2007",
+      "imageStatus": {
+        "statusDate": "2022",
+        "status": "Modified",
+        "note": "Two new main lanes were added in the median"
+      }
+    },
+    {
+      "file": "161_20071028_roadside_IMG_9559_looking_n_at_macarthur.jpg",
+      "caption": "Looking northeast from the MacArthur overpass.",
+      "imageDate": "28-Oct-2007",
+      "imageStatus": {
+        "statusDate": "2022",
+        "status": "Modified",
+        "note": "Two new main lanes were added in the median"
+      }
+    },
+    {
+      "file": "161_20071028_roadside_IMG_9561_orphan_pier_at_114.jpg",
+      "caption": "Orphan pier at TX 114. As of 2022, there are no plans to add the ramp. This view remains accurate in 2022.",
+      "imageDate": "28-Oct-2007"
+    },
+    {
+      "file": "161_20071028_roadside_IMG_9564_looking_nb_at_belt_line_toll_plaza.jpg",
+      "caption": "Looking northeast at the toll plaza from the Belt Line overpass. The cash lanes were closed after this photo was taken when the NTTA toll road system became all electronic. South of Beltline, SH 161 is a freeway for the short distance to SH 183.",
+      "imageDate": "28-Oct-2007",
+      "imageStatus": {
+        "statusDate": "2022",
+        "status": "Modified",
+        "note": "Four new main lanes were added in the median. The full service toll collection lanes are no longer used."
+      }
+    },
+    {
+      "file": "161_20071028_roadside_IMG_9566_start_tollway_sign.jpg",
+      "caption": "This view on the northbound lanes shows the sign indicating the end of the free SH 161 freeway and the start of the Bush Turnpike.",
+      "imageDate": "28-Oct-2007",
+      "imageStatus": {
+        "statusDate": "2022",
+        "status": "Modified",
+        "note": "New main lanes were added in the median"
+      }
+    },
+    {
+      "file": "161_20070811_roadside_IMG_8614_Looking_nb_at_northgate.jpg",
+      "caption": "Looking northbound at Northgate",
+      "imageDate": "11-August-2007",
+      "imageStatus": {
+        "statusDate": "2022",
+        "status": "Modified",
+        "note": "The median was paved for four new main lanes."
+      }
+    },
+    {
+      "file": "161_20070811_roadside_IMG_8615_looking_sb_at_northgate.jpg",
+      "caption": "Looking southbound at Northgate",
+      "imageDate": "11-August-2007",
+      "imageStatus": {
+        "statusDate": "2022",
+        "status": "Modified",
+        "note": "The median was paved for four new main lanes."
+      }
+    },
+    {
+      "file": "161_20070811_roadside_IMG_8617_looking_n_at_rochelle.jpg",
+      "caption": "Looking north at Rochelle",
+      "imageDate": "11-August-2007",
+      "imageStatus": {
+        "statusDate": "2022",
+        "status": "Modified",
+        "note": "The median was paved for four new main lanes."
+      }
+    },
+    {
+      "file": "161_20070811_roadside_IMG_8618_looking_s_at_rochelle.jpg",
+      "caption": "Looking south at Rochelle, with the interchange at TX 183 just ahead. The freeway ended at TX 183 at the time of this photo. The southward extension is a tollway, opened on August 2, 2009.",
+      "imageDate": "11-August-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Modified",
+        "note": "The southbound main lanes through the interchange opened on August 2, 2009. The foreground median was paved for four new main lanes."
+      }
+    },
+    {
+      "file": "161_20070811_roadside_IMG_8619_looking_s_at_rochelle_zoomed.jpg",
+      "caption": "A zoomed in view showing the main lanes for the southward extension, which opened on August 2, 2009.",
+      "imageDate": "11-August-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Modified",
+        "note": "The southbound main lanes through the interchange opened in 2009."
+      }
+    },
+    {
+      "file": "161_20070811_roadside_IMG_8621_looking_sb_at_183.jpg",
+      "caption": "Looking south along the southbound frontage road just north of TX 183. This view is still accurate in 2022",
+      "imageDate": "11-August-2007"
+    }
+
+
+  ]
+
+}

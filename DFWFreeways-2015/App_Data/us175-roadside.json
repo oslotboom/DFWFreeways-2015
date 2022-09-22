@@ -4,54 +4,23 @@
   "pageHeader": {
     "title": "Roadside Views",
     "urlParentText": "US 175",
-    "lastUpdated": "June 1, 2015 (add photos); April 18, 2016 (add photo); June 4, 2017 (add photo); Feb 4, 2018 (update text); Sept 12, 2020 (update status)"
+    "lastUpdated": "Sept 16, 2022 (move S.M. Wright photos to archive)"
   },
     "map": "175_roadside_660.gif",
-    "text": "2020 status: Views of the freeway were accurate as of 2020. The new freeway connecting IH 45 to US 175 at SH 310 opened in July 2020, and work to remove the S.M. Wright Freeway is expected to proceed soon.",
+    "text": "The new freeway connecting IH 45 to US 175 at SH 310 opened in July 2020. Demolition of the S.M. Wright Freeway (originally called South Central Expressway) and replacement with S.M. Wright Boulevard took place from 2021 to 2023.<br /><br/> Changes to the corridor south of SH 310 have been minimal, and the roadside views taken in 2007 are still accurate depictions in 2022.",
     "images":
     [
-        {
-            "file": "IMG_5027_175_sm_wright_sign_300_20070415.jpg",
-            "caption": "The north section of US 175 is also known as Central Expressway and the S.M. Wright Freeway.East of Central Expressway the freeway is the C.F. Hawn Freeway.",
-            "imageDate": "15-April-2007"
-        },
+      {
+        "file": "IMG_5027_175_sm_wright_sign_300_20070415.jpg",
+        "caption": "The former north section of US 175, from SH 310 northward, was originally known as Central Expressway and renamed S.M. Wright Freeway in 1995. The freeway is the C.F. Hawn Freeway south and East of SH 310.",
+        "imageDate": "15-April-2007"
+      },
         {
             "file": "IMG_5049_175_sign_150_20070415.jpg",
             "caption": "",
             "imageDate": "15-April-2007"
         },
-        {
-            "file": "IMG_5021_175_mlk_950_20070415.jpg",
-            "highResolution": "IMG_5021_175_mlk_2592_20070415.jpg",
-            "caption": "This is near the north terminus of the freeway with Interstate 45 just ahead.",
-            "imageDate": "15-April-2007"
-        },
-      {
-        "file": "IMG_5023_175_metropolitan_on_ramp_950_20070415.jpg",
-        "highResolution": "IMG_5023_175_metropolitan_on_ramp_2500_20070415.jpg",
-        "caption": "Here the freeway passes through a neighborhood, which is a run-down low-income area. This is the onramp at Metropolitan. This section of freeway will be removed and replaced with an arterial street, with work starting in 2018 or 2019.",
-        "imageDate": "15-April-2007",
-        "imageStatus": {
-          "statusDate": "2020",
-          "status": "Soon-to-be obsolete",
-          "note": "Work to remove this freeway should be underway in 2021."
-        }
-      },
-      {
-        "file": "IMG_5026_175_mlk_tree_canopy_950_20070415.jpg",
-        "caption": "North of Metropolitan Street the frontage roads are shaded by a tree canopy. This is quite unusual for a frontage road.",
-        "imageDate": "15-April-2007",
-        "imageStatus": {
-          "statusDate": "2020",
-          "status": "Soon-to-be obsolete",
-          "note": "Work to convert this section to a boulevard should be underway in 2021."
-        }
-      },
-        {
-            "file": "IMG_5028_175_abandonned_bldg_3609_950_20070415.jpg",
-            "caption": "Boarded-up building along the freeway. This is a low-income area.",
-            "imageDate": "15-April-2007"
-        },
+
         {
             "file": "20150214-0011-1050.jpg",
             "caption": "This is the Ghetto Club, located at the \"Dead Man's Corner\" intersection with SH 310. The building was in the path of the new freeway alignment, and it was cleared in 2015.",
@@ -70,11 +39,6 @@
         {
             "file": "20160325-27-0073-1050.jpg",
             "caption": "This is the site of the Ghetto Club in March 2016. Construction at this location was underway later in 2016.",
-            "imageDate": "26-Jan-2016"
-        },
-        {
-            "file": "175_20170408_09-0366.jpg",
-            "caption": "Just south of the Ghetto Club is the House of Jock. I don't know what kind of business this was, but even if it was still open, I would not have gone inside! The property was acquired as part of the project but as of this April 2017 photo the building remained intact.",
             "imageDate": "26-Jan-2016"
         },
         {

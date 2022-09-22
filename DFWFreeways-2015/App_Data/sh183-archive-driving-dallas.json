@@ -1,0 +1,124 @@
+﻿{
+  "folderPath": "",
+  "title": "SH 183 Photos Dallas",
+  "pageHeader": {
+    "title": "Archive: Driving Photos, Dallas to Texas Stadium",
+    "subTitle": "Texas Stadium was demolished in April 2010",
+    "urlParentText": "SH 183",
+    "lastUpdated": "Sept 22, 2022 (review, add high res images)"
+  },
+  "map": "183_driving_westbound_750.gif",
+  "text": "These views start on I-35E in Dallas and proceed westbound to Texas Stadium in Irving. Texas Stadium was demolished in April 2010. The first phase of freeway expansion from Regal Row westward to the Texas Stadium site was completed in 2018. The Irving Interchange project, 2021-2023, completed the freeway to its final configuration in the area of the Texas Stadium site.",
+  "images": [
+    {
+      "file": "183_driving_20080413_IMG_0684_on_i35.jpg",
+      "caption": "Northbound on I-35E Stemmons Freeway, approaching the exit for SH 183. Notice the signage for Texas Stadium, which was removed after the closure of the stadium in 2009.",
+      "imageDate": "April 13, 2008"
+    },
+    {
+      "file": "183_driving_20080413_IMG_0685_on_i35.jpg",
+      "caption": "On I-35E approaching the exit to SH 183. This view is still accurate in 2022, and will remain accurate indefinitely since there is no planned work in this area.",
+      "imageDate": "April 13, 2008"
+    },
+    {
+      "file": "183_driving_20080413_IMG_0687_at_split.jpg",
+      "caption": "Exiting I-35E to enter SH 183. This view is still accurate in 2022.",
+      "imageDate": "April 13, 2008"
+    },
+    {
+      "file": "183_driving_20080413_IMG_0689_at_mockingbird.jpg",
+      "caption": "Westbound on SH 183. This view is still accurate in 2022. This area, developed mostly in the 1960s and 1970s, is mostly warehouses and lower-tier office structures.",
+      "imageDate": "April 13, 2008"
+    },
+    {
+      "file": "20080413_IMG_0692-1100.jpg",
+      "caption": "At Regal Row",
+      "highResolution": "20080413_IMG_0692-2234.jpg",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "The freeway was widened with managed lanes in 2018."
+      },
+      "imageDate": "April 13, 2008"
+    },
+    {
+      "file": "20080413_IMG_0694-1100.jpg",
+      "highResolution": "20080413_IMG_0694-2178.jpg",
+      "caption": "On the Trinity River bridge. Texas Stadium is visible ahead.",
+      "imageDate": "April 13, 2008",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "New bridges were built on both sides of the freeway, completed in 2018. Texas Stadium was demolished in 2010."
+      }
+
+    },
+    {
+      "file": "20080413_IMG_0695-1100.jpg",
+      "highResolution": "20080413_IMG_0695-2738.jpg",
+      "caption": "Still on the Trinity River bridge.",
+      "imageDate": "April 13, 2008",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "New bridges were built on both sides of the freeway, completed in 2018. Texas Stadium was demolished in 2010."
+      }
+    },
+    {
+      "file": "20080413_IMG_0696-1100.jpg",
+      "highResolution": "20080413_IMG_0696-2078.jpg",
+      "caption": "At the Grauwyler exit. Note",
+      "imageDate": "April 13, 2008",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Obsolete",
+        "note": "Freeway expansion was completed in 2018. Texas Stadium was demolished in 2010"
+      }
+    },
+    {
+      "file": "20080413_IMG_0697-1100.jpg",
+      "highResolution": "20080413_IMG_0697-2570.jpg",
+      "caption": "Texas Stadium is directly ahead.",
+      "imageDate": "April 13, 2008",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "The freeway ahead was expanded and reconfigured, completed in 2018. All properties on the right (north) side of the freeway were cleared for the expansion. Texas Stadium was demolished in 2010."
+      }
+    },
+    {
+      "file": "20080413_IMG_0698-1100.jpg",
+      "highResolution": "20080413_IMG_0698-2302.jpg",
+      "caption": "This view shows the original freeway. The freeway forks, with SH 183 to the left and SH 114 on the right.",
+      "imageDate": "April 13, 2008",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "The freeway ahead was expanded and reconfigured, completed in 2018. Texas Stadium was demolished in 2010. All properties on the right (north) side of the freeway were cleared for the expansion."
+      }
+    },
+    {
+      "file": "20080413_IMG_0700-1100.jpg",
+      "highResolution": "20080413_IMG_0700-2441.jpg",
+      "caption": "",
+      "imageDate": "April 13, 2008",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "Texas Stadium was demolished in 2010, and expansion of this section of SH 183 completed in 2018. The Irving Interchange project, 2021-2023, added additional improvements to this area."
+      }
+    },
+    {
+      "file": "20080413_IMG_0701-1100.jpg",
+      "highResolution": "20080413_IMG_0701-2762.jpg",
+      "caption": "At the split with TX 114.",
+      "imageDate": "April 13, 2008",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "Texas Stadium was demolished in 2010, and expansion of this section of SH 183 completed in 2018. The Irving Interchange project, 2021-2023, added additional improvements to this area."
+      }
+    }
+  ]
+
+}

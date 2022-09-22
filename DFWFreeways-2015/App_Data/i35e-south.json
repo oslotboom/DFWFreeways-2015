@@ -1,63 +1,92 @@
 ﻿{
 
-    "pageHeader" :
+  "pageHeader": {
+    "title": "Interstate 35E South",
+    "subTitle": "R.L. Thornton Freeway South",
+    "lastUpdated": "Sept 22, 2022"
+  },
+  "Map": "",
+  "Photo": {
+    "File": "filename.jpg",
+    "Caption": "This is the caption",
+    "Date": "12-January-2015"
+  },
+  "Text": "The $666 million Southern Gateway expansion project from the Trinity River to just south of US 67 was fully open in September 2022. The project widened I-35E to have 10 main lanes (5 each way) and two reversible express lanes.",
+  "Features": [
     {
-        "title": "Interstate 35E South",
-        "subTitle": "R.L. Thornton Freeway South",
-        "lastUpdated": "September 28, 2021"
-    },
-    "Map": "",
-    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
-    "Text": "The $666 million Southern Gateway expansion project south of downtown to just south of US 67 is scheduled for completion in summer 2022. The project will include 10 main lanes (5 each way) and two reversible express lanes.",
-    "Features":
-    [
+      "FeatureType": "Roadside",
+      "FeatureProperties": [
         {
-            "FeatureType": "Roadside",
-            "FeatureProperties": [ { "AnchorText": "Roadside views", "AnchorUrl": "roadside" } ]
-        },
-        {
-            "FeatureType": "DriversViews",
-          "FeatureProperties": [
-            { "AnchorText": "Construction zone Sept 2021", "AnchorUrl": "driving-20210925" }
-          ]
-        },
-        {
-            "FeatureType": "Book",
-            "FeatureProperties":
-            [
-                { "BookText": "Chapter 6: Dallas Freeways", "Quickview": "ChDallasFreeways?startOdd=False&pdfSize=40+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-06-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-06-20140803.pdf" }
-            ]
-        },
-        {
-            "FeatureType": "Construction",
-            "FeatureProperties":
-            [
-              {
-                "AnchorText": "Horseshoe, 2014-2015",
-                "AnchorUrl": "construction-horseshoe-1"
-              },
-              {
-                "AnchorText": "Deck park at Dallas Zoo",
-                "AnchorUrl": "construction-park"
-              }
-            ]
-        },
-        {
-            "FeatureType": "Aerial",
-            "FeatureProperties":
-            [
-                { "AnchorText": "All I-35E South Aerials", "AnchorUrl": "all" },
-                { "AnchorText": "Trinity River and Downtown", "AnchorUrl": "downtown" },
-                { "AnchorText": "I-20 interchange", "AnchorUrl": "i20" }
-            ]
-        },
-        {
-            "FeatureType": "Historical",
-            "FeatureProperties": [  ]
-        },
-        {
-            "FeatureType": "Video",
-            "FeatureProperties": [ ]
+          "AnchorText": "Roadside views",
+          "AnchorUrl": "roadside"
         }
-    ]
+      ]
+    },
+    {
+      "FeatureType": "DriversViews",
+      "FeatureProperties": [
+        {
+          "AnchorText": "US 67 to downtown, 2022",
+          "AnchorUrl": "driving-dallas"
+        },
+        {
+          "AnchorText": "Construction zone Sept 2021",
+          "AnchorUrl": "driving-20210925"
+        }
+      ]
+    },
+    {
+      "FeatureType": "Book",
+      "FeatureProperties": [
+        {
+          "BookText": "Chapter 6: Dallas Freeways",
+          "Quickview": "ChDallasFreeways?startOdd=False&pdfSize=40+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-06-20140803.pdf",
+          "Pdf": "Dallas-Fort-Worth-Freeways-book-06-20140803.pdf"
+        }
+      ]
+    },
+    {
+      "FeatureType": "Construction",
+      "FeatureProperties": [
+        {
+          "AnchorText": "Horseshoe, 2014-2015",
+          "AnchorUrl": "construction-horseshoe-1"
+        },
+        {
+          "AnchorText": "Deck park at Dallas Zoo",
+          "AnchorUrl": "construction-park"
+        }
+      ]
+    },
+    {
+      "FeatureType": "Aerial",
+      "FeatureProperties": [
+        {
+          "AnchorText": "All I-35E South Aerials",
+          "AnchorUrl": "all"
+        },
+        {
+          "AnchorText": "Trinity River and Downtown",
+          "AnchorUrl": "downtown"
+        },
+        {
+          "AnchorText": "I-20 interchange",
+          "AnchorUrl": "i20"
+        }
+      ]
+    },
+    {
+      "FeatureType": "Historical",
+      "FeatureProperties": [
+        {
+          "AnchorText": "Archive Photos",
+          "AnchorUrl": "archive"
+        }
+      ]
+    },
+    {
+      "FeatureType": "Video",
+      "FeatureProperties": []
+    }
+  ]
 }

@@ -1,0 +1,68 @@
+﻿{
+    "folderPath": "",
+    "title":  "I-30 Dallas photo archive",
+    "pageHeader" :
+    {
+      "title": "Archive Photos",
+        "urlParentText": "I-30 Dallas",
+        "lastUpdated": "September 22, 2022 (create)"
+    },
+    "map": "",
+    "text": "The photo archive includes photos which have become obsolete due to construction or other changes. These photos show I-30 before upgrades to current conditions.",
+  "images": [
+    {
+      "file": "30d_20071027_IMG_9440_at_i35_950.jpg",
+      "highResolution": "30d_20071027_IMG_9440_at_i35_2973.jpg",
+      "caption": "Downtown, looking west from the Houston Street overpass. Just ahead I-30 branches to the left for the Trinity River crossing.",
+      "imageDate": "27-October-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Obsolete",
+        "note": "The area shown was completely rebuilt with new ramps during the Horseshoe project, completed in 2017. The Margaret Hunt Hill bridge, with long-span arches, replaced the original Trinity River bridge."
+      }
+    },
+    {
+      "file": "IMG_4991_30_at_635_950_20070415.jpg",
+      "highResolution": "IMG_4991_635_at_30_3072_20070415.jpg",
+      "caption": "The interchange at Interstate 635 (LBJ Freeway)",
+      "imageDate": "15-April-2007",
+      "imageStatus": {
+        "statusDate": "2022",
+        "status": "Obsolete",
+        "note": "The original interchange shown in this photo was demolished in 2022 as part of the LBJ East project. See the LBJ East construction page for photos of demolition in progress."
+      }
+    },
+    {
+      "file": "IMG_4984_30_drivers_feeder_at_635_950_20070415.jpg",
+      "caption": "Driver's view westbound on the frontage road approaching the Interstate 635 interchange. The frontage roads penetrate through the interchange. ",
+      "imageDate": "15-April-2007",
+      "imageStatus": {
+        "statusDate": "2022",
+        "status": "Obsolete",
+        "note": "The original interchange shown in this photo was demolished in 2022 for the LBJ East project. See the LBJ East construction page for photos of demolition in progress."
+      }
+    },
+    {
+      "file": "IMG_4995_30_at_635_950_20070415.jpg",
+      "caption": "Driver's view westbound approaching the I-635 interchange",
+      "imageDate": "15-April-2007",
+      "imageStatus": {
+        "statusDate": "2022",
+        "status": "Obsolete",
+        "note": "The original interchange shown in this photo was demolished in 2022 for the LBJ East project. See the LBJ East construction page for photos of demolition in progress."
+      }
+    },
+    {
+      "file": "IMG_4997_30_drivers_635_950_20070415.jpg",
+      "caption": "At Interstate 635. This interchange opened in 1970 in conjunction with the completion of Interstate 635.",
+      "imageDate": "15-April-2007",
+      "imageStatus": {
+        "statusDate": "2022",
+        "status": "Obsolete",
+        "note": "The original interchange shown in this photo was demolished in 2022 for the LBJ East project. See the LBJ East construction page for photos of demolition in progress."
+      }
+    }
+
+  ]
+
+}

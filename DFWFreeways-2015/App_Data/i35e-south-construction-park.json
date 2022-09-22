@@ -1,9 +1,9 @@
 ﻿{
   "folderPath": "",
   "title": "I-35E Dallas Zoo Deck Park",
-  "pageHeader": { "title": "I-35E Dallas Zoo Deck Park", "urlParentText": "I-35E South", "lastUpdated": "September 29, 2021 (created)" },
+  "pageHeader": { "title": "I-35E Dallas Zoo Deck Park", "urlParentText": "I-35E South", "lastUpdated": "Sept 22, 2022 (add photos); created September 29, 2021" },
   "map": "",
-  "text": "The reconstruction of I-35E, called the Southern Gateway project, includes a new park which will be above the freeway on a new deck between Marsalis and Ewing Avenues.",
+  "text": "The reconstruction of I-35E, called the Southern Gateway project, includes deck at Ewing Avenue for a future park.<br /><br />In September 2022 the freeway and deck were complete. However, work had not begun on the deck park.",
   "images": [
     {
       "file": "20210925-26_DFW_065-1200.jpg",
@@ -50,6 +50,48 @@
       "file": "20210925-26_DFW_048-1200.jpg",
       "caption": "Looking south at Ewing Avenue, showing the deck beams in position over the future northbound lanes.",
       "imageDate": "25-Sept-2021"
+    },
+    {
+      "file": "35E_20220319-20_DFW_025_1200.jpg",
+      "highResolution": "35E_20220319-20_DFW_025_3000.jpg",
+      "caption": "Looking northbound from Marsalis",
+      "imageDate": "19-March-2022"
+    },
+    {
+      "file": "35E_20220319-20_DFW_032_1200.jpg",
+      "highResolution": "35E_20220319-20_DFW_032_3000.jpg",
+      "caption": "",
+      "imageDate": "19-March-2022"
+    },
+    {
+      "file": "35E_20220319-20_DFW_040_1200.jpg",
+      "highResolution": "35E_20220319-20_DFW_040_3000.jpg",
+      "caption": "",
+      "imageDate": "19-March-2022"
+    },
+    {
+      "file": "35E_20220319-20_DFW_046_1200.jpg",
+      "highResolution": "35E_20220319-20_DFW_046_3000.jpg",
+      "caption": "Looking northbound from the Ewing Avenue bridge.",
+      "imageDate": "19-March-2022"
+    },
+    {
+      "file": "20220918-19_DFW_148-1200.jpg",
+      "highResolution": "",
+      "caption": "The deck was complete and enclosed with a fence in September 2022. Work on the park had not started. This view looks south from the west side of the freeway.",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20220918-19_DFW_153-1200.jpg",
+      "highResolution": "",
+      "caption": "Looking north on the west side of the deck.",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20220918-19_DFW_154-1200.jpg",
+      "highResolution": "",
+      "caption": "Looking north on the east side of the deck.",
+      "imageDate": "18-Sept-2022"
     }
   ]
 }

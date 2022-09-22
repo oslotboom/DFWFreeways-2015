@@ -1,0 +1,130 @@
+﻿{
+  "folderPath": "",
+  "title": "I-635 photo archive",
+  "pageHeader": {
+    "title": "Archive Photos",
+    "urlParentText": "I-635",
+    "subTitle": "Photos prior to LBJ Express and LBJ East",
+    "lastUpdated": "September 22, 2022 (create)"
+  },
+  "map": "",
+  "text": "The photo archive includes photos of the original freeway prior to the construction of the LBJ Express project, between I-35E and US 75 completed in 2015, and the LBJ East project, between US 75 and I-30 scheduled for completion in 2024.",
+  "images": [
+    {
+      "file": "635_20070324_IMG_4613_looking_w_e_of_webb_chapel_950.jpg",
+      "highResolution": "635_20070324_IMG_4613_looking_w_e_of_webb_chapel_2496.jpg",
+      "caption": "This view shows the original freeway east of Web Chapel, looking west. This is the first section of LBJ Freeway to be built, opening in 1967. After completion of the LBJ Express project in 2015, there are now three tolled lanes in a partially covered trench in the middle of the freeway.",
+      "imageDate": "24-March-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Archive",
+        "note": "The freeway was expanded and reconfigured by the LBJ Express project, completed in 2015."
+      }
+
+    },
+    {
+      "file": "635_20070324_IMG_4611_looking_w_at_marsh_950.jpg",
+      "highResolution": "635_20070324_IMG_4611_looking_w_at_marsh_2496.jpg",
+      "caption": "This view shows the original freeway looking west from the Marsh Road overpass.",
+      "imageDate": "24-March-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Archive",
+        "note": "The freeway was expanded and reconfigured by the LBJ Express project, completed in 2015."
+      }
+
+    },
+    {
+      "file": "635_20071118_IMG_9818_looking_e_at_welch.jpg",
+      "highResolution": "635_20071118_IMG_9818_looking_e_at_welch_2496.jpg",
+      "caption": "This view shows the original freeway looking east from Welch, which is just west of the Dallas North Tollway just ahead.",
+      "imageDate": "18-Nov-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Archive",
+        "note": "The freeway was expanded and reconfigured by the LBJ Express project, completed in 2015."
+      }
+
+    },
+    {
+      "file": "635_20070519_IMG_6964_looking_e_at_montfort.jpg",
+      "caption": "This view shows the original freeway looking east at Montfort. The site of the former Valley View Mall is on the left. ",
+      "imageDate": "19-May-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Archive",
+        "note": "The freeway was expanded and reconfigured by the LBJ Express project, completed in 2015."
+      }
+
+    },
+    {
+      "file": "635_20070519_IMG_6967_looking_e_at_preston_950.jpg",
+      "highResolution": "635_20070519_IMG_6967_looking_e_at_preston_hires.jpg",
+      "caption": "This view shows the original freeway looking east from the Preston Road overpass. The High Five interchange at US 75 is visible in the distance.",
+      "imageDate": "19-May-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Archive",
+        "note": "The freeway was expanded and reconfigured by the LBJ Express project, completed in 2015."
+      }
+
+    },
+    {
+      "file": "635_20071020_IMG_9378_looking_w_at_greenville.jpg",
+      "highResolution": "635_20071020_IMG_9378_looking_w_at_greenville_2511.jpg",
+      "caption": "Looking west from the Greenville Ave. overpass. The exit ramp to US 75 just ahead is the longest ramp in the interchange at 1.4 miles. At the time of the photo, construction on the HOV lane was in progress.",
+      "imageDate": "20-Oct-2007",
+      "imageStatus": {
+        "statusDate": "2021",
+        "status": "Archive",
+        "note": "The freeway is being rebuilt and reconfigured with the LBJ East project, scheduled for completion in late 2024."
+      }
+    },
+    {
+      "file": "635_20080405_IMG_0634_hov_at_forest.jpg",
+      "highResolution": "635_20080405_IMG_0634_hov_at_forest_2496.jpg",
+      "caption": "Looking southeast at Forest Lane, showing the HOV lanes which opened (US 75 to I-30) on January 28, 2008.",
+      "imageDate": "5-Apr-2008",
+      "imageStatus": {
+        "statusDate": "2021",
+        "status": "Archive",
+        "note": "The freeway is being rebuilt and reconfigured with the LBJ East project, scheduled for completion in late 2024."
+      }
+
+    },
+    {
+      "file": "635_20071020_IMG_9383_looking_ne_at_audelia_950.jpg",
+      "highResolution": "635_20071020_IMG_9383_looking_ne_at_audelia_2048.jpg",
+      "caption": "Looking northeast at Audelia with the center HOV lanes under construction.",
+      "imageDate": "20-Oct-2007",
+      "imageStatus": {
+        "statusDate": "2021",
+        "status": "Archive",
+        "note": "The freeway is being rebuilt and widened by the LBJ East project, scheduled for completion in late 2024."
+      }
+    },
+    {
+      "file": "635_20071020_IMG_9388_looking_nw_at_miller.jpg",
+      "caption": "Looking northwest at Miller, with the DART light rail crossing ahead.",
+      "imageDate": "20-Oct-2007",
+      "imageStatus": {
+        "statusDate": "2021",
+        "status": "Archive",
+        "note": "The freeway is being rebuilt and reconfigured with the LBJ East project, scheduled for completion in late 2024."
+      }
+    },
+    {
+      "file": "635_20071020_IMG_9394_looking_n_at_i30_950.jpg",
+      "highResolution": "635_20071020_IMG_9394_looking_n_at_i30_2100.jpg",
+      "caption": "Looking north at I-30.",
+      "imageDate": "20-Oct-2007",
+      "imageStatus": {
+        "statusDate": "2021",
+        "status": "Archive",
+        "note": "The interchange is being fully rebuilt with the LBJ East project, scheduled for completion in late 2024. The interchange shown in the photo was demolished in 2022."
+      }
+    }
+
+  ]
+
+}

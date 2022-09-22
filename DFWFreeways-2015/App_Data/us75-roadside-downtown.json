@@ -3,29 +3,28 @@
     "title":  "US 75 Dallas photos",
     "pageHeader":
     {
-        "title": "Roadside Views",
-        "subTitle": "Downtown Dallas",
+        "title": "Demolished Freeway downtown Dallas",
         "urlParentText": "US 75",
-        "lastUpdated": "June 1, 2015 (review and update captions)"
+        "lastUpdated": "Sept 15, 2022 (review and update captions)"
     },
     "map": "75_downtown.png",
-    "text": "2015 status: Some of the features shown in these photos were demolished in 2007-2008 as part of the DART Green Line construction.",
+    "text": "Most of the original Central Expressway in downtown was demolished in 2007-2008 as part of the DART Green Line construction. Only a short section remains at Ross Avenue.<br /> <br />These photos feature the original Good Latimer overpass, which was demolished.",
     "images":
     [
         {
             "file": "75d_IMG_8977_20070923_950.jpg",
-            "caption": "This looks north from the Routh overpass. The southbound lanes were closed for DART light rail construction.",
+            "caption": "This looks north from the Good Latimer overpass. This overpass was demolished.",
             "imageDate": "23-Sept-2007",            
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The Routh Street overpass was demolished and no longer exists." }
+            "imageStatus": { "statusDate": "2015", "status": "Archive", "note": "The overpass was demolished and no longer exists." }
         },
         {
             "file": "75d_IMG_8993_20070923_debris_on_road.jpg",
-            "caption": "Debris has been spread across the closed southbound lanes, possibly to block vehicles.",
+            "caption": "Debris was spread across the closed southbound lanes, possibly to block vehicles.",
             "imageDate": "23-Sept-2007"
         },
         {
             "file": "75d_IMG_8995_20070923_concrete.jpg",
-            "caption": "The northbound lanes still have the original concrete. Motorists who drove the original Central Expressway may remember its coarse, rough-textured concrete.",
+            "caption": "The northbound lanes still have the original concrete. Motorists who drove the original Central Expressway may remember its coarse, rough-textured concrete. This was the last remaining section of original concrete at the time of the photo. (I don't know if it is still in use as shown, or if it has been overlaid with asphalt.)'.",
             "imageDate": "23-Sept-2007"
         },
         {
@@ -35,32 +34,32 @@
         },
         {
             "file": "75d_IMG_8985_20070923_routh_light_rail.jpg",
-            "caption": "This looks north at the Routh overpass. Below, work was in progress on the DART southeast green line light rail. This bridge was removed as part of the light rail project, and the traffic lanes were lowered to ground level with a ground-level crossing of the DART tracks.",
+            "caption": "This looks north on the Good Latimer overpass. Below, work was in progress on the DART southeast green line light rail. This bridge was demolished as part of the light rail project, and the traffic lanes were lowered to ground level with a ground-level crossing of the DART tracks.",
             "imageDate": "23-Sept-2007",            
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The Routh Street overpass was demolished and no longer exists." }
+            "imageStatus": { "statusDate": "2015", "status": "Archive", "note": "The overpass was demolished and no longer exists." }
         },
         {
             "file": "75d_IMG_8988_20070923_light_rail.jpg",
-            "caption": "This view looks west from the Central Expressway Routh overpass. Ahead, in the bright light, the guideway for the light rail is visible.",
+            "caption": "This view looks west from the Central Expressway Good Latimer overpass. Ahead, in the bright light, the guideway for the light rail is visible.",
             "imageDate": "23-Sept-2007"
         },
         {
             "file": "75d_IMG_8986_20070923_guardrail.jpg",
-            "caption": "A close-up of the antique guardrail on the northbound side.",
+            "caption": "A close-up of the antique guardrail on the northbound side of the former Good Latimer overpass.",
             "imageDate": "23-Sept-2007",            
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The Routh Street overpass was demolished and no longer exists." }
+            "imageStatus": { "statusDate": "2015", "status": "Archive", "note": "The overpass was demolished and no longer exists." }
         },
         {
             "file": "75d_IMG_8978_20070923_guardrail.jpg",
-            "caption": "The antique guardrail on the southbound side.",
+            "caption": "The antique guardrail on the southbound side of the former Good Latimer overpass.",
             "imageDate": "23-Sept-2007",            
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The Routh Street overpass was demolished and no longer exists." }
+            "imageStatus": { "statusDate": "2015", "status": "Archive", "note": "The overpass was demolished and no longer exists." }
         },
         {
             "file": "75d_IMG_8981_20070923_looking_s.jpg",
-            "caption": "Looking south from Routh. The signal ahead is currently the start/end of the freeway, but it appears the start/end will be shifted north after the construction. The poles are most likely for light rail overhead wires.",
+            "caption": "Looking south from the former Good Latimer overpass. The poles are most likely for light rail overhead wires.",
             "imageDate": "23-Sept-2007",            
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The Routh Street overpass was demolished and no longer exists." }
+            "imageStatus": { "statusDate": "2015", "status": "Archive", "note": "The overpass was demolished and no longer exists." }
         }
 
 

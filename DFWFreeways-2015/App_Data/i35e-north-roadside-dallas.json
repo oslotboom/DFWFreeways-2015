@@ -5,10 +5,10 @@
     {
         "title": "Roadside Views in Dallas",
         "urlParentText": "I-35E North",
-        "lastUpdated": "January 29, 2018 (review)"
+        "lastUpdated": "Dec 19, 2021 (update image status notes); Sept 15, 2022 (update text)"
     },
     "map": "35en_roadside_south_500.gif",
-    "text": "",
+    "text": "Sections of I-35 in this segment have been modified since these photos were taken. Elevated collector-distributor lanes were added in the downtown area, opened October 18, 2021. Elevated managed lanes were added between Loop 12 and IH-635, opened in 2015. However, the freeway main lanes remain the same, and these photos are still accurate for the main lanes.",
     "images":
     [
         {
@@ -21,9 +21,9 @@
         "caption": "Just north of downtown, looking south toward the Woodall Rodgers Freeway interchange",
         "imageDate": "2-June-2007",
         "imageStatus": {
-          "statusDate": "2018",
-          "status": "Partially obsolete",
-          "note": "In 2018 work is in progress to add collector-distributor lanes alongside the main lanes."
+          "statusDate": "2021",
+          "status": "Freeway modified",
+          "note": "Elevated collector-distributor lanes were added on this section, officially opened on October 18, 2021."
         }
 
       },
@@ -31,7 +31,7 @@
             "file": "35e_20080602_IMG_7262 _aa_center.jpg",
             "caption": "The American Airlines Center (AAC) sports arena is located along Stemmons Freeway just north of downtown.",
             "imageDate": "2-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "Apartments have been built around the AAC" }
+            "imageStatus": { "statusDate": "2021", "status": "Freeway modified", "note": "Elevated collector-distributor lanes were added on this section, officially opened on October 18, 2021. Apartments have been built around the AAC" }
 
         },
         {
@@ -57,7 +57,7 @@
             "highResolution": "35e_20070602_IMG_7242_inwood_2592.jpg",
             "caption": "Looking southbound at Inwood",
             "imageDate": "2-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "Motor Street has been renamed Market Center Boulevard" }
+            "imageStatus": { "statusDate": "2015", "status": "Sign shown is obsolete", "note": "Motor Street has been renamed Market Center Boulevard" }
 
         },
         {
@@ -70,7 +70,7 @@
             "file": "35e_20070602_IMG_7234_frontage_road_just_e_of_183.jpg",
             "caption": "The southbound frontage road just east of TX 183. As the Delux Inn for $23.95 per night suggests, this is not the best area of Dallas. It is mostly a warehouse/light industrial area. A few miles north at Northwest Highway is a concentration of restaurants, liquor stores, and gentlemen's clubs.",
             "imageDate": "2-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The Delux Inn was demolished. It was in the path of the planned Trinity Parkway, which was canceled in 2017." }
+            "imageStatus": { "statusDate": "2015", "status": "Building demolished", "note": "The Delux Inn was demolished. It was in the path of the planned Trinity Parkway, which was canceled in 2017." }
 
         },
         {
@@ -114,16 +114,20 @@
         {
             "file": "35e_20070602_IMG_7197_looking_s_at_walnut_hill.jpg",
             "highResolution": "35e_20070602_IMG_7197_looking_s_at_walnut_hill_2712.jpg",
-            "caption": "Looking southbound at Walnut Hill. From Loop 12 to I-635 Stemmons Freeway has 10 main lanes. The freeway was originally\r\n\t\t\t\t\tconstructed with 8 main lanes, but he interior shoulders were converted to traffic lanes.",
+            "caption": "Looking southbound at Walnut Hill. From Loop 12 to I-635 Stemmons Freeway has 10 main lanes. The freeway was originally constructed with 8 main lanes, but he interior shoulders were converted to traffic lanes.",
             "imageDate": "2-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Elevated tolled lanes have been built on both sides of the freeway" }
+            "imageStatus": { "statusDate": "2015", "status": "Freeway modified", "note": "Elevated tolled lanes have been built on both sides of the freeway. The freeway main lanes shown in this photo remained the same." }
         },
         {
             "file": "35e_20070602_IMG_7192_looking_s_at_merrel_950.jpg",
             "highResolution": "35e_20070602_IMG_7192_looking_s_at_merrel_2048.jpg",
             "caption": "Looking southbound at Merrell.",
             "imageDate": "2-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Elevated tolled lanes have been built on both sides of the freeway" }
+          "imageStatus": {
+            "statusDate": "2015",
+            "status": "Freeway modified",
+            "note": "Elevated tolled lanes have been built on both sides of the freeway. The freeway main lanes shown in this photo remain the same."
+          }
 
         }
     ]

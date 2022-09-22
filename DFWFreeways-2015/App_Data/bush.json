@@ -13,16 +13,12 @@
     [
         {
             "FeatureType": "Roadside",
-            "FeatureProperties": [ { "AnchorText": "Irving", "AnchorUrl": "roadside-irving" } ]
+            "FeatureProperties": [  ]
         },
         {
             "FeatureType": "DriversViews",
             "FeatureProperties":
             [
-                { "AnchorText": "Westbound, Garland to Irving", "AnchorUrl": "driving-north" },
-                { "AnchorText": "Southbound, I-635 to I-20", "AnchorUrl": "driving-west" },
-                { "AnchorText": "Southbound, Irving", "AnchorUrl": "driving-irving" }
-
             ]
         },
         {
@@ -63,7 +59,24 @@
         },
         {
             "FeatureType": "Historical",
-            "FeatureProperties": [ ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "Archive roadside photos Irving",
+              "AnchorUrl": "archive-roadside-irving"
+            },
+            {
+              "AnchorText": "Archive driving photos, north section",
+              "AnchorUrl": "archive-driving-north"
+            },
+            {
+              "AnchorText": "Archive driving photos, west section",
+              "AnchorUrl": "archive-driving-west"
+            },
+            {
+              "AnchorText": "Archive driving photos, Irving",
+              "AnchorUrl": "archive-driving-irving"
+            }
+          ]
         },
         {
             "FeatureType": "Video",

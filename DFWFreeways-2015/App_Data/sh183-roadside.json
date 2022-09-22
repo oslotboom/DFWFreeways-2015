@@ -1,133 +1,66 @@
 ﻿{
-    "folderPath": "",
-    "title": "SH 183 Photos Dallas Irving",
-    "pageHeader":
+  "folderPath": "",
+  "title": "SH 183 Photos Dallas Irving",
+  "pageHeader": {
+    "title": "Roadside Photos",
+    "urlParentText": "SH 183 Dallas",
+    "lastUpdated": "Sept 22, 2022 (move most roadside photos to the archive page)"
+  },
+  "map": "",
+  "text": "There has been a lot of change along the SH 183 corridor in Irving since 2010. Texas Stadium was demolished by implosion in April 2010. The SH 183 corridor through Irving was reconstructed and expanded in a major project from 2015 to 2018. The Irving Interchange project, 2021-2023, completed the freeway to its final configuration at the Texas Stadium site.<br/><br/>Consequently, most photos I have taken since the 2000s have become obsolete. All the obsolete photos on this page were moved to the roadside archive page in September 2022, and only a few photos remain on this page. New photos will be added in the future.",
+  "images": [
     {
-        "title": "Roadside Photos",
-        "urlParentText": "SH 183 Dallas",
-        "lastUpdated": "June 1, 2015 (review and update); April 18, 2016 (add photos); Feb 2, 2018 (update for corridor construction)"
+      "file": "183_roadside_20080405_IMG_0590_sign.jpg",
+      "caption": "In Dallas the freeway is named for John W. Carpenter, who owned the ranch which became Las Colinas. Carpenter donated right-of-way for the freeway, and the freeway was named for him in recognition. Carpenter Freeway continues into Las Colinas on TX 114; west of TX 114, TX 183 is the Airport Freeway.",
+      "imageDate": "April 5, 2008"
     },
-    "map": "183_roadside_850.gif",
-    "text": "The SH 183 corridor through Irving was reconstructed and expanded in a major project from 2015 to 2018. Texas Stadium was demolished by implosion in April 2010. After the stadium implosion, the stadium site was used by TxDOT as a construction staging area, and as a facility for making prefabricated bridge beams.",
-    "images":
-    [
-        {
-            "file": "183_roadside_20080405_IMG_0590_sign.jpg",
-            "caption": "In Dallas the freeway is named for John W. Carpenter, who owned the ranch which became Las Colinas. Carpenter donated right-of-way for the freeway, and the freeway was named for him in recognition. Carpenter Freeway continues into Las Colinas on TX 114; west of TX 114, TX 183 is the Airport Freeway.",
-            "imageDate": "April 5, 2008"
-        },
-        {
-            "file": "183_roadside_20081028_IMG_9569 _sign.jpg",
-            "caption": "Typical sign",
-            "imageDate": "October 28, 2007"
-        },
-        {
-            "file": "183_roadside_20080405_IMG_0592_at_35e_950.jpg",
-            "highResolution": "183_roadside_20080405_IMG_0592_at_35e_2592.jpg",
-            "caption": "This view looks eastbound at the eastern terminus of the freeway. The main lanes of TX 183 merge into I-35E southbound. Downtown Dallas is visible in the distance.",
-            "imageDate": "April 5, 2008"
-        },
-        {
-            "file": "185_roadside_20080405_IMG_0587_levee_at_trinity.jpg",
-            "caption": "Here the freeway crosses over a levee at the Trinity River.",
-            "imageDate": "April 5, 2008",
-            "imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "New bridges were built, completed in 2018." }
-        },
-        {
-            "file": "183_roadside_20080413_IMG_0679_at_114_950.jpg",
-            "highResolution": "183_roadside_20080413_IMG_0679_at_114_2356.jpg",
-            "caption": "Looking north at Texas Stadium.",
-            "imageDate": "April 13, 2008",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Texas Stadium was imploded in 2010. SH 183 adjacent to the stadium was rebuilt and expanded 2015-2018." }
+    {
+      "file": "183_roadside_20081028_IMG_9569 _sign.jpg",
+      "caption": "Typical sign",
+      "imageDate": "October 28, 2007"
+    },
+    {
+      "file": "183_roadside_20080405_IMG_0592_at_35e_950.jpg",
+      "highResolution": "183_roadside_20080405_IMG_0592_at_35e_2592.jpg",
+      "caption": "This view looks eastbound at the eastern terminus of the freeway. The main lanes of SH 183 merge into I-35E southbound. Downtown Dallas is visible in the distance.",
+      "imageDate": "April 5, 2008"
+    },
 
-        },
-        {
-            "file": "183_roadside_20080405_IMG_0578_texas_stadium_950.jpg",
-            "highResolution": "183_roadside_20080405_IMG_0578_texas_stadium_2865.jpg",
-            "caption": "Looking north at Texas Stadium, with TX 183 in the foreground.",
-            "imageDate": "April 5, 2008",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "Texas Stadium was imploded in 2010. SH 183 adjacent to the stadium was rebuilt and expanded 2015-2018." }
-        },
-        {
-            "file": "183_roadside_20080405_IMG_0559_texas_stadium_950.jpg",
-            "highResolution": "183_roadside_20080405_IMG_0559_texas_stadium_2751.jpg",
-            "caption": "The ramp in the foreground connects to TX 183 westbound.",
-            "imageDate": "April 5, 2008",
-            "imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "Texas Stadium was imploded in 2010. This ramp was replaced by the new interchange, completed in 2018." }
-        },
-        {
-            "file": "20141206-183_6940-1250.jpg",
-            "highResolution": "20141206-183_6940-2560.jpg",
-            "caption": "This view looks across SH 183 toward the site of Texas Stadium in December 2014. TxDOT has built a fabrication yard to produce prestressed concrete beams for nearby highway projects.",
-            "imageDate": "December 6, 2014",
-            "imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "The fabrication yard and buildings were removed by early 2016." }
-        },
-        {
-            "file": "20141206-183_6950-1050.jpg",
-            "highResolution": "20141206-183_6950-2560.jpg",
-            "caption": "This is a closer look at the fabrication facilty and beam storage at the Texas Stadium site.",
-            "imageDate": "December 6, 2014",
-            "imageStatus": { "statusDate": "2018", "status": "Obsolete", "note": "The fabrication yard and buildings were removed by early 2016." }
-        },
 
-        {
-            "file": "20160325-27-0376-1200.jpg",
-            "highResolution": "20160325-27-0376-2560.jpg",
-            "caption": "In March 2016 the fabrication yard had been fully removed from the Texas Stadium site, and the site was once again a brownfield, like it was after the stadium demolition in 2010.",
-            "imageDate": "March 26, 2016"
-        },
-        {
-            "file": "20160325-27-0361-1200.jpg",
-            "caption": "This March 2016 view looks east across the Texas Stadium site, showing that the fabrication yard and concrete batch plant had been fully cleared.",
-            "imageDate": "March 26, 2016"
-        },
-        {
-            "file": "183_roadside_20070811_IMG_8636_at_161.jpg",
-            "caption": "This view looks east along TX 183 from the TX 161 overpass.",
-            "imageDate": "Aug 11, 2007",
-            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "One managed lane in each direction was added in 2018 in the center of the freeway." }
-        },
-        {
-            "file": "183_roadside_20070811_IMG_8611_at_161.jpg",
-            "caption": "The connection from 183 westbound to 161 northbound is in the foreground. This view looks south along TX 161.",
-            "imageDate": "Aug 11, 2007"
-        },
-        {
-            "file": "183_roadside_20071028_IMG_9568_at_161_950.jpg",
-            "highResolution": "183_roadside_20071028_IMG_9568_at_161_2592.jpg",
-            "caption": "TX 183 has its highest lane count just west of TX 161. This view looks east toward 161.",
-            "imageDate": "Oct 28, 2007",
-            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "One managed lane in each direction was added in 2018 in the center of the freeway." }
-        },
-        {
-            "file": "183_roadside_20080622_IMG_2247_amon_carter_950.jpg",
-            "highResolution": "183_roadside_20080622_IMG_2247_amon_carter_2562.jpg",
-            "caption": "This view looks west at Amon Carter Blvd. The tunnel under the former runway was at this location. Notice the blackened area on the left side of the freeway. The fire had just occurred and was still smoldering.",
-            "imageDate": "June 22, 2008",
-            "imageStatus": { "statusDate": "2018", "status": "Modified", "note": "One managed lane in each direction was added in 2018 in the center of the freeway." }
-        },
-        {
-            "file": "183_roadside_20080622_IMG_2245_runway.jpg",
-            "caption": "Just north of the freeway is a wide expanse of concrete. This was formerly the main runway for the Greater Southwest Airport.",
-            "imageDate": "June 22, 2008"
-        },
-        {
-            "file": "183_location_of_tunnel.jpg",
-            "caption": "This aerial view shows the location of 183 tunnel under the runway. Click the history icon at the top of the page to see the tunnel.",
-            "imageDate": "-"
-        },
-        {
-            "file": "183_roadside_20070428_IMG_6005_at_360_950.jpg",
-            "highResolution": "183_roadside_20070428_IMG_6005_at_360_2048.jpg",
-            "caption": "At the interchange with SH 360.",
-            "imageDate": "April 28, 2007"
-        },
-        {
-            "file": "183_roadside_20070428_IMG_6006_at_360_950.jpg",
-            "highResolution": "183_roadside_20070428_IMG_6006_at_360_2048.jpg",
-            "caption": "At the interchange with SH 360.",
-            "imageDate": "April 28, 2007"
-        }
-    ]
+    {
+      "file": "183_roadside_20070811_IMG_8611_at_161.jpg",
+      "caption": "The connection from 183 westbound to 161 northbound is in the foreground. This view looks south along SH 161 (Bush Turnpike). This view is still accurate in 2022.",
+      "imageDate": "Aug 11, 2007"
+    },
+
+    {
+      "file": "183_roadside_20080622_IMG_2245_runway.jpg",
+      "caption": "There is a wide expanse of concrete just north of SH 183 at Amon Carter Boulevard. This was formerly the main runway for the Greater Southwest Airport.",
+      "imageDate": "June 22, 2008"
+    },
+    {
+      "file": "183_location_of_tunnel.jpg",
+      "caption": "This aerial view shows the location of 183 tunnel under the runway. The tunnel was removed in the 1980s. See the SH 183 Historical Images page (or the book chapter about SH 183) for more information about the tunnel.",
+      "imageDate": "-"
+    },
+    {
+      "file": "183_roadside_20070428_IMG_6005_at_360_950.jpg",
+      "highResolution": "183_roadside_20070428_IMG_6005_at_360_2048.jpg",
+      "caption": "At the interchange with SH 360. This view is still accurate in 2022.",
+      "imageDate": "April 28, 2007"
+    },
+    {
+      "file": "183_roadside_20070428_IMG_6006_at_360_950.jpg",
+      "highResolution": "183_roadside_20070428_IMG_6006_at_360_2048.jpg",
+      "caption": "At the interchange with SH 360. This view is still accurate in 2022.",
+      "imageDate": "April 28, 2007"
+    },
+    {
+      "file": "183_20220319-20_DFW_277_950.jpg",
+      "highResolution": "183_20220319-20_DFW_277_3000.jpg",
+      "caption": "In March 2022 the car dealers near Carl Road had Ukranian flags in support of Ukraine, which had just been invaded by Russia.",
+      "imageDate": "March 20, 2022"
+    }
+  ]
 
 }

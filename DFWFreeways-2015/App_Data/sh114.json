@@ -4,11 +4,11 @@
     {
         "title": "SH 114",
         "subTitle": "Carpenter Freeway",
-        "lastUpdated": "June 24, 2021 (update text)"
+        "lastUpdated": "Sept 22, 2022 (review and update)"
     },
     "Title": "SH 114 Carpenter Freeway",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
-    "Text": "2021 status: Most photos shown for SH 114 are out-of-date due to completed improvements, and the photos serve as an archive of the original freeway. New managed lanes (one in each direction) opened in 2017. The long-term plan for a major expansion of the freeway is unfunded and unscheduled as of 2021.",
+    "Text": "New managed lanes (one in each direction) opened in 2017. The $301 million Irving Interchange project, in progress from 2021 to 2023, completed SH 114 to its final configuration at the former Texas Stadium site. The long-term plan for a major expansion of the freeway is unfunded and unscheduled as of 2022.",
     "Features":
     [
         {
@@ -45,13 +45,19 @@
                 { "AnchorText": "In Westlake at Solana", "AnchorUrl": "westlake" },
                 { "AnchorText": "At SH 170", "AnchorUrl": "sh170" },
                 { "AnchorText": "At Texas Motor Speedway", "AnchorUrl": "texas-motor-speedway" },
-                { "AnchorText": "At the former Texas Stadium site, now the Diamond Interchange", "AnchorUrl": "diamond" }
+                { "AnchorText": "At the former Texas Stadium site, now the Irving Interchange", "AnchorUrl": "diamond" }
 
             ]
         },
         {
             "FeatureType": "Historical",
-            "FeatureProperties": [ ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "Archive Photos including Texas Stadium",
+              "AnchorUrl": "archive"
+            }
+
+          ]
         },
         {
             "FeatureType": "Video",

@@ -1,0 +1,50 @@
+﻿{
+    "folderPath": "2022",
+    "title": "I-30 Dallas Lake Ray Hubbard Crossing Construction",
+  "pageHeader": {
+    "title": "I-30 Dallas Lake Ray Hubbard Crossing Construction",
+    "urlParentText": "I-30 Dallas",
+    "lastUpdated": "Sept 22, 2022 (add photos)"
+  },
+    "map": "",
+    "text": "This project adds frontage roads to the Lake Ray Hubbard crossing.",
+  "images": [
+    {
+      "file": "30_20220319-20_DFW_052_1100.jpg",
+      "highResolution": "30_20220319-20_DFW_052_3708.jpg",
+      "caption": "This view looks west on the south side of the crossing, showing construction of the eastbound frontage road.",
+      "imageDate": "20-March-2022"
+    },
+    {
+      "file": "30_20220319-20_DFW_054_1100.jpg",
+      "highResolution": "",
+      "caption": "",
+      "imageDate": "20-March-2022"
+    },
+    {
+      "file": "20220918-19_DFW_076-1100.jpg",
+      "highResolution": "20220918-19_DFW_076-3000.jpg",
+      "caption": "Looking east from the west end of the crossing, near Bass Pro Shops",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20220918-19_DFW_086-1100.jpg",
+      "highResolution": "20220918-19_DFW_086-3000.jpg",
+      "caption": "View from the west end near Bass Pro Shops",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20220918-19_DFW_077-1100.jpg",
+      "highResolution": "",
+      "caption": "Service vessels at the west end.",
+      "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20220918-19_DFW_065-1100.jpg",
+      "highResolution": "20220918-19_DFW_065-2500.jpg",
+      "caption": "On the east end, piers for the connector ramp to Dalrock Road.",
+      "imageDate": "18-Sept-2022"
+    }
+  ]
+
+}
