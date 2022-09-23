@@ -39,7 +39,7 @@ namespace DFWFreeways.Models
                     "American Airlines Center",
                     "American Airlines Center, looking north",
                     "American Airlines Center",
-                    "Looking north with the W Hotel under construction."),
+                    "Looking north with the W Hotel under construction. Most of the parking lots around American Airlines Center have been developed since this photo was taken in 2005."),
                 new AerialGalleryItem(new DateTime(2012,4,6),"20120406_3330.JPG","20120406_3330-700.jpg", "20120406_3330-1700.jpg", "aerial", 
                     "W Hotel and residences",
                     "W Hotel and residences, looking east",

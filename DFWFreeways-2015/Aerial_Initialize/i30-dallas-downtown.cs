@@ -73,12 +73,12 @@ namespace DFWFreeways.Models
                     "I-30 downtown canyon",
                     "I-30 downtown canyon looking northeast",
                     "I-30 downtown canyon",
-                    "Looking northeast."),
+                    "Looking northeast. This section of freeway is scheduled to be rebuilt, with work expected to start in 2025."),
                 new AerialGalleryItem(new DateTime(2005,5,30),"","10a_i30_looking_e_at_i45_2005-05-30_600.jpg", "10a_i30_looking_e_at_i45_2005-05-30_1830x2369.png", "aerial", 
                     "I-30 downtown canyon",
                     "I-30 downtown canyon looking northeast",
                     "I-30 downtown canyon",
-                    "Looking northeast with the Central Expressway insection in the foreground.")
+                    "Looking northeast with the Central Expressway insection in the foreground. This section of freeway is scheduled to be rebuilt, with work expected to start in 2025.")
 
             };
         }

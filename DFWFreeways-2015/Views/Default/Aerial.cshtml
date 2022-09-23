@@ -42,7 +42,7 @@
     </span>
 </div>
 
-<div class="top-text">@Model.Text</div>
+<div class="top-text">@Html.Raw(Model.Text)</div>
 <div>These aerial views may be used by anyone for any purpose, including web and print.</div>
 <div id="click-message">Click on thumbnails to see larger image, additional image information, and additional image sizes available for viewing.</div>
 <div id="tile-container">
@@ -54,7 +54,7 @@
             <div class="expanded" style="display: none;"><img data-source="@(Model.FileServer + Model.FolderPath + item.LowRes)" onclick="CollapseImage(this);"></div>
             <div class="expanded long-caption" style="display: none;">
                 <div>
-                    @(item.GalleryShortCaption + " " + item.PageCaption)
+                    @(item.GalleryShortCaption + ": " + item.PageCaption)
                     @if (!String.IsNullOrEmpty(item.HighRes))
                     {
                         <a target="_blank" href="@(Model.FileServer + Model.FolderPath + item.HighRes)">High resolution</a>

@@ -18,25 +18,25 @@ namespace DFWFreeways.Models
                     "I-35E at the Trinity River, looking northeast",
                     "I-35E at the Trinity River",
                     "Looking northeast. I-35E is the two bridges right side.",
-                    new AerialStatus ("2018", "Obsolete", "The bridges no longer exist, and were replaced with new bridges completed in 2017." ) ),
+                    new AerialStatus ("2018", "Obsolete", "The I-35E bridges no longer exist, and were replaced with new bridges completed in 2017." ) ),
                 new AerialGalleryItem(new DateTime(2011,4,16),"20110416_aerial_0454.JPG","20110416_aerial_0454-1050.jpg", "20110416_aerial_0454-2560.jpg", "aerial", 
                     "I-35E at the Trinity River",
                     "I-35E at the Trinity River, looking northeast",
                     "I-35E at the Trinity River",
                     "Looking northeast.",
-                    new AerialStatus ("2018", "Obsolete", "The bridges no longer exist, and were replaced with new bridges completed in 2017." ) ),
+                    new AerialStatus ("2018", "Obsolete", "The I-35E bridges no longer exist, and were replaced with new bridges completed in 2017." ) ),
                 new AerialGalleryItem(new DateTime(2005,5,30),"","18a_i35e_crossing_trinity_2005-05-30_ADJ_900.jpg", "18a_i35e_crossing_trinity_2005-05-30_ADJ_2501x1729.png", "aerial", 
                     "I-35E at the Trinity River",
                     "I-35E at the Trinity River, looking northeast",
                     "I-35E at the Trinity River",
                     "Looking northeast.",
-                    new AerialStatus ("2018", "Obsolete", "The bridges no longer exist, and were replaced with new bridges completed in 2017. Reunion Arena (left side of photo) is demolished." ) ),
+                    new AerialStatus ("2018", "Obsolete", "The I-35E bridges no longer exist, and were replaced with new bridges completed in 2017. Reunion Arena (left side of photo) was demolished in 2009." ) ),
                 new AerialGalleryItem(new DateTime(2005,5,30),"","19a_i35e_crossing_trinity_2005-05-30_ADJ_900.jpg", "19a_i35e_crossing_trinity_2005-05-30_ADJ_2461x1609.png", "aerial", 
                     "I-35E at the Trinity River",
                     "I-35E at the Trinity River, looking southeast",
                     "I-35E at the Trinity River",
                     "Looking northeast.",
-                    new AerialStatus ("2018", "Obsolete", "The bridges no longer exist, and were replaced with new bridges completed in 2017. Reunion Arena (left side of photo) is demolished." ) )
+                    new AerialStatus ("2018", "Obsolete", "The I-35E bridges no longer exist, and were replaced with new bridges completed in 2017. Reunion Arena (left side of photo) was demolished in 2009." ) )
 
             };
         }

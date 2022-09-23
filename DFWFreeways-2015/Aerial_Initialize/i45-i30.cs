@@ -28,7 +28,7 @@ namespace DFWFreeways.Models
                     "I-45 at I-30",
                     "I-45 at I-30 looking northwest",
                     "I-45 at I-30",
-                    "Looking northwest."),
+                    "Looking northwest. The freeway north of I-30 to Spur 366 (Woodall Rodgers Freeway) is officially designated as I-345. However, it is not signed as I-345 due to its short length, and the potential to cause confusion to drivers. "),
                 new AerialGalleryItem(new DateTime(2009,6,23),"20090623_aerial_0126.JPG","20090623_aerial_0126-1050.jpg", "20090623_aerial_0126-2560.jpg", "aerial", 
                     "I-45 at I-30",
                     "I-45 at I-30 looking northwest",

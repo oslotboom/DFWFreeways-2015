@@ -66,12 +66,12 @@ namespace DFWFreeways.Models
                     "Woodall Rodgers Freeway",
                     "Woodall Rodgers Freeway, looking northeast",
                     "Woodall Rodgers Freeway",
-                    "Looking northeast."), 
+                    "Looking northeast. Klyde Warren Park, on the deck above the freeway, was officially opened in October 2012."), 
                 new AerialGalleryItem(new DateTime(2012,4,6),"20120406_3343.JPG","20120406_3343-1050.jpg", "20120406_3343-2560.jpg", "aerial", 
                     "Woodall Rodgers Freeway",
                     "Woodall Rodgers Freeway, looking northeast",
                     "Woodall Rodgers Freeway",
-                    "Looking northeast."),              
+                    "Looking northeast. Klyde Warren Park, on the deck above the freeway, was officially opened in October 2012."),              
             
             };
 
@@ -92,10 +92,10 @@ namespace DFWFreeways.Models
 
             List<AerialGalleryItem> downtown345 = new List<AerialGalleryItem>() {                            
                 new AerialGalleryItem(new DateTime(2009,6,23),"20090623_aerial_0149.JPG","20090623_aerial_0149-1050.jpg", "20090623_aerial_0149-2560.jpg", "aerial", 
-                    "I-45 at I-30",
-                    "I-45 at I-30 looking northwest",
-                    "I-45 at I-30",
-                    "Looking northwest.")
+                    "I-345 on the east side of downtown",
+                    "I-345 on the east side of downtown looking west",
+                    "I-345 on the east side of downtown",
+                    "Looking west. In 2022 a TxDOT study recommended the reconstruction I-345 to place it below ground level. The earliest the work could begin is the 2030s.")
             };
 
 
@@ -168,20 +168,18 @@ namespace DFWFreeways.Models
                     "Commerce street and downtown",
                     "Commerce street and downtown, looking southeast",
                     "Commerce street and downtown",
-                    "Looking southeast.",
-                    new AerialStatus ("2015", "Partially obsolete", "Some new development has occurred on the left side along Woodall Rodgers freeway." )),
+                    "Looking southeast."),
                 new AerialGalleryItem(new DateTime(2005,5,30),"","24a_downtown_dallas_2005-05-30_900.jpg", "24a_downtown_dallas_2005-05-30_2797x1630.png", "aerial", 
                     "Commerce street and downtown",
                     "Commerce street and downtown, looking east",
                     "Commerce street and downtown",
-                    "Looking east.",
-                    new AerialStatus ("2015", "Partially obsolete", "Some new development has occurred on the left side along Woodall Rodgers freeway." )),
+                    "Looking east."),
                 new AerialGalleryItem(new DateTime(2005,5,30),"","20a_downtown_dallas_2005-04-3_ADJ_900.jpg", "20a_downtown_dallas_2005-04-3_ADJ_2568x1518.png", "aerial", 
                     "Downtown Dallas",
                     "Downtown Dallas, looking northeast",
                     "Downtown Dallas",
                     "Looking northeast.",
-                    new AerialStatus ("2015", "Partially obsolete", "Some new development has occurred on the left side along Woodall Rodgers freeway." ))
+                    new AerialStatus ("2015", "Changes", "Reunion Arena was demolished in 2009." ))
             };
 
 

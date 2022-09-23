@@ -48,13 +48,14 @@ namespace DFWFreeways.Models
                     "SH 170 frontage roads",
                     "SH 170 frontage roads looking southwest",
                     "SH 170 frontage roads",
-                    "Looking southwest."),
+                    "Looking southwest.",
+                    new AerialStatus ("2022", "Obsolete", "Freeway main lanes were added in 2023" )),
                 new AerialGalleryItem(new DateTime(2011,10,29),"20111029_fw_1334.JPG","20111029_fw_1334-1050.jpg", "20111029_fw_1334-2560.jpg", "aerial", 
                     "SH 170 frontage roads",
                     "SH 170 frontage roads looking southwest",
                     "SH 170 frontage roads",
                     "Looking west at I-35W.",
-                    new AerialStatus ("2022", "Obsolete", "Direct connection ramps to I-35W were added in 2023" ))
+                    new AerialStatus ("2022", "Obsolete", "Direct connection ramps to I-35W were added in 2023. The SH 170 frontage roads were extended westward (toward the upper part of the photo) in 2023 as Avondale-Haslet Road (an arterial street)." ))
             
             };
         }
