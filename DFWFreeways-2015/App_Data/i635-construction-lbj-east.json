@@ -4,7 +4,7 @@
   "pageHeader": {
     "title": "Construction Photos, LBJ East",
     "urlParentText": "I-635",
-    "lastUpdated": "Last updated Sept 22, 2022 (add photos); created June 23, 2021"
+    "lastUpdated": "Last updated April 18, 2023 (add photos); created June 23, 2021"
   },
   "map": "",
   "text": "The $1.7 billion LBJ East project is rebuilding the freeway main lanes between IH 30 and US 75, and rebuilding the interchange at Interstate 30. The official web site, 635east.com, is regularly updated with high-quality aerial photos.",
@@ -267,8 +267,55 @@
       "highResolution": "20220918-19_DFW_055-3000.jpg",
       "caption": "Driver's view going westbound on Interstate 30'",
       "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20230416-17_063-1100.jpg",
+      "highResolution": "20230416-17_063-2560.jpg",
+      "caption": "In April 2023 work was in progress on the single-span arched crossing at Skillman. This is a driver's view going northwest.",
+      "imageDate": "16-April-2023"
+    },
+    {
+      "file": "20230416-17canon_039-1100.jpg",
+      "highResolution": "20230416-17canon_039-3000.jpg",
+      "caption": "Looking northwest toward Skillman from the pedestrian crossing at the DART station.",
+      "imageDate": "16-April-2023"
+    },
+    {
+      "file": "20230416-17canon_033-1100.jpg",
+      "highResolution": "20230416-17canon_033-3000.jpg",
+      "caption": "Looking northwest on the south side of Skillman",
+      "imageDate": "16-April-2023"
+    },
+    {
+      "file": "20230416-17canon_049-1100.jpg",
+      "highResolution": "",
+      "caption": "A temporary crossing was built on the west side of the new Skillman bridge. This view shows the steel arch structure for the new bridge.",
+      "imageDate": "16-April-2023"
+    },
+    {
+      "file": "20230416-17_082-1100.jpg",
+      "highResolution": "",
+      "caption": "This view looks northeast along Skillman, on the south side of the freeway, showing the arch construction in progress.",
+      "imageDate": "16-April-2023"
+    },
+    {
+      "file": "20230416-17canon_031-1100.jpg",
+      "highResolution": "20230416-17canon_031-3000.jpg",
+      "caption": "This view looks north at Oates Road.",
+      "imageDate": "16-April-2023"
+    },
+    {
+      "file": "20230416-17canon_020-1100.jpg",
+      "highResolution": "20230416-17canon_020-2560.jpg",
+      "caption": "This view looks northeast at the center of the interchange at LBJ and I-30. As of April 2023, only two original ramps remained in service, and are shown in this photo. (The ramps with arched steel beams are original.)",
+      "imageDate": "16-April-2023"
+    },
+    {
+      "file": "20230416-17_032-1100.jpg",
+      "highResolution": "",
+      "caption": "Looking east on the southwest side of the interchange.",
+      "imageDate": "16-April-2023"
     }
-
   ]
 
 }

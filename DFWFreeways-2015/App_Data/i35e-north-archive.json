@@ -1,0 +1,85 @@
+﻿{
+    "folderPath": "",
+    "title":  "I-35E North Photo Archive",
+    "pageHeader" :
+    {
+      "title": "Archive Photos",
+        "urlParentText": "I-35E North",
+        "lastUpdated": "April 18, 2023 (create)"
+    },
+    "map": "",
+    "text": "These photos show I-35E North Stemmons Freeway before completion of expansion projects.",
+  "images": [
+    {
+      "file": "20170904-0008-1100.jpg",
+      "highResolution": "",
+      "caption": "Approaching Belt Line Road",
+      "imageDate": "4-September-2017",
+      "imageStatus": {
+        "statusDate": "2021",
+        "status": "Expansion began in 2022",
+        "note": "The freeway will be widened at this location as part of the $655 million expansion project which began in 2022."
+      }
+    },
+    {
+      "file": "IMG_5870_35e_looking_s_from_luna_950_20070426.jpg",
+      "highResolution": "IMG_5870_35e_looking_s_from_luna_2556_20070426.jpg",
+      "caption": "Looking southbound at Luna Road. North of I-635, I-35E has 6 main lanes and 2 HOV lanes. Frontage roads are continuous.",
+      "imageDate": "25-April-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "Two reversible managed lanes were built in the center area of the freeway, opening in 2017. In 2022 work started on the the second and final phase, which will widen the freeway to 8 main lanes (4 each  way)."
+      }
+    },
+    {
+      "file": "IMG_5857_35e_looking_s_at_frankford_950_20070426.jpg",
+      "highResolution": "IMG_5857_35e_looking_s_at_frankford_2838_20070426.jpg",
+      "caption": "Looking southbound at Frankford with a zoomed-in view, showing the Bush Turnpike interchange in the distance.",
+      "imageDate": "25-April-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "The addition of collector-distributor lanes was completed in 2017"
+      }
+    },
+    {
+      "file": "IMG_5855_35e_looking_s_at_frankford_wide_950_20070426.jpg",
+      "highResolution": "IMG_5855_35e_looking_s_at_frankford_wide_3072_20070426.jpg",
+      "caption": "A wider-angle view at Frankford",
+      "imageDate": "25-April-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "The addition of collector-distributor lanes was completed in 2017"
+      }
+
+    },
+    {
+      "file": "35e_20070804_IMG_8371_at_121.jpg",
+      "highResolution": "35e_20070804_IMG_8371_at_121_hires.jpg",
+      "caption": "Looking northbound at TX 121",
+      "imageDate": "4-Aug-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Archive",
+        "note": "In 2017 phase 1 of the expansion program was completed, which reconfigured the main lanes in this area and completed the north half of the interchange."
+      }
+
+    },
+    {
+      "file": "35e_20070804_IMG_8372_at_121.jpg",
+      "highResolution": "35e_20070804_IMG_8372_at_121_hires.jpg",
+      "caption": "Also at TX 121, a zoomed-in view",
+      "imageDate": "4-Aug-2007",
+      "imageStatus": {
+        "statusDate": "2018",
+        "status": "Partially obsolete",
+        "note": "In 2017 phase 1 of the expansion program was completed, which reconfigured the main lanes in this area and completed the north half of the interchange."
+      }
+
+    }
+
+  ]
+
+}

@@ -33,7 +33,12 @@
         },
         {
             "FeatureType": "Construction",
-            "FeatureProperties": [ ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "Main lanes west of Roanoke",
+              "AnchorUrl": "construction-roanoke"
+            }
+          ]
         },
         {
             "FeatureType": "Aerial",

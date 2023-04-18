@@ -226,6 +226,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App_Data\bush-construction-grand-prairie-main-lanes.json" />
+    <Content Include="App_Data\bush-roadside-161-irving.json" />
     <None Include="App_Data\chisholm-trail-parkway-driving.json" />
     <Content Include="App_Data\i20-dallas.json" />
     <Content Include="App_Data\bush.json" />
@@ -237,7 +238,6 @@
     <Content Include="App_Data\bush-construction-sh183.json" />
     <Content Include="App_Data\bush-construction-grand-prairie-frontage.json" />
     <Content Include="App_Data\bush-construction-irving-main-lanes.json" />
-    <Content Include="App_Data\bush-roadside-north.json" />
     <Content Include="App_Data\dnt.json" />
     <Content Include="App_Data\dnt-roadside-north.json" />
     <Content Include="App_Data\dnt-roadside-bush-residence.json" />
@@ -253,12 +253,10 @@
     <Content Include="App_Data\i30-dallas-historical.json" />
     <Content Include="App_Data\i20-west.json" />
     <Content Include="App_Data\i20-west-roadside-west.json" />
-    <Content Include="App_Data\i35e-north-driving-lewisville.json" />
     <Content Include="App_Data\i30-dallas-roadside-pedestrian-bridge.json" />
     <Content Include="App_Data\i30-dallas-construction-hubbard.json" />
     <Content Include="App_Data\sh170-construction.json" />
     <Content Include="App_Data\i30-dallas-archive.json" />
-    <Content Include="App_Data\i35e-south-archive.json" />
     <Content Include="App_Data\i635-archive.json" />
     <Content Include="App_Data\us175-archive.json" />
     <None Include="App_Data\i30-dallas-roadside-dallas.json" />
@@ -279,11 +277,13 @@
     <Content Include="App_Data\i35e-north-construction-121.json" />
     <Content Include="App_Data\i30-landry-construction-360.json" />
     <Content Include="App_Data\i35e-north-construction-downtown-collector.json" />
+    <Content Include="App_Data\i35e-north-archive.json" />
     <None Include="App_Data\i35e-north-construction-2014-nov.json" />
     <None Include="App_Data\i35e-north-construction-2015-jan.json" />
     <None Include="App_Data\i35e-north-construction-2012-march.json" />
     <Content Include="App_Data\i35e-north-historical.json" />
     <Content Include="App_Data\i35e-north-historical - Copy.json" />
+    <Content Include="App_Data\i35e-north-driving-dallas.json" />
     <None Include="App_Data\i35e-north-roadside-dallas.json" />
     <Content Include="App_Data\i35e-south-construction-park.json" />
     <Content Include="App_Data\i35e-south-driving-20210925.json" />
@@ -306,6 +306,7 @@
     <Content Include="App_Data\i635-construction-lbj-express.json" />
     <Content Include="App_Data\i35w-construction-2016-nov.json" />
     <Content Include="App_Data\i20-west-construction-ranger-hill.json" />
+    <Content Include="App_Data\sh114-construction-roanoke.json" />
     <None Include="App_Data\sh121-driving-lewisville.json" />
     <Content Include="App_Data\oldRoadMaps.xml" />
     <Content Include="App_Data\oldRoadMaps.xsl" />
@@ -314,7 +315,6 @@
     <None Include="App_Data\sh183-construction.json" />
     <Content Include="App_Data\sh183-construction-row.json" />
     <Content Include="App_Data\sh114.json" />
-    <Content Include="App_Data\sh114-roadside.json" />
     <Content Include="App_Data\sh121.json" />
     <Content Include="App_Data\sh121-roadside.json" />
     <Content Include="App_Data\sh121-driving-frisco.json" />

@@ -1,0 +1,29 @@
+﻿{
+    "folderPath": "driving/",
+    "title":  "I-35E north photos Dallas",
+    "pageHeader" :
+    {
+        "title": "Drivers Views, Dallas",
+        "urlParentText": "I-35E North",
+        "lastUpdated": "April 18, 2023 (create)"
+    },
+    "map": "",
+    "text": "",
+  "images": [
+
+
+    {
+      "file": "20230416-17_146-1300.jpg",
+      "highResolution": "20230416-17_146-3000.jpg",
+      "caption": "Northbound, north of Royal. The elevated managed lanes opened in 2014",
+      "imageDate": "17-April-2023"
+    },
+    {
+      "file": "20230416-17_148-1300.jpg",
+      "highResolution": "",
+      "caption": "Northbound, at the managed lane connection ramps just south of LBJ Freeway",
+      "imageDate": "17-April-2023"
+    }
+  ]
+
+}

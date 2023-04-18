@@ -4,7 +4,7 @@
   "pageHeader": {
     "title": "I-30 Dallas Lake Ray Hubbard Crossing Construction",
     "urlParentText": "I-30 Dallas",
-    "lastUpdated": "Sept 22, 2022 (add photos)"
+    "lastUpdated": "April 18, 2023 (add photo)"
   },
     "map": "",
     "text": "This project adds frontage roads to the Lake Ray Hubbard crossing.",
@@ -44,7 +44,14 @@
       "highResolution": "20220918-19_DFW_065-2500.jpg",
       "caption": "On the east end, piers for the connector ramp to Dalrock Road.",
       "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20230416-17canon_022-1100.jpg",
+      "highResolution": "20230416-17canon_022-3000.jpg",
+      "caption": "In April 2023 the eastbound frontage road was nearing completion.",
+      "imageDate": "16-April-2023"
     }
+
   ]
 
 }

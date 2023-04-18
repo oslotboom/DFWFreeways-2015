@@ -5,22 +5,12 @@
     {
         "title": "Roadside Views North of Dallas",
         "urlParentText": "I-35E North",
-        "lastUpdated": "Sept 12, 2020 (add photos); Dec 19, 2021 ($655 million expansion started)"
+        "lastUpdated": "Dec 19, 2021 ($655 million expansion started); Apr 18, 2023 (remove archive photos)"
     },
     "map": "35en_roadside_north_400.gif",
-    "text": "The phase 1 expansion of this section of IH-35 was completed in 2017. Work on the second and final phase between IH 635 and the Bush Turnpike began in 2021. The construction cost is $655 million.",
+    "text": "The phase 1 expansion of IH-35E from LBJ Freeway to Lake Lewisville was completed in 2017. Work on the $655 million second phase between IH 635 and the Bush Turnpike began in 2022. Work at the Main Street intersection in Lewisville began in 2023.",
   "images": [
-    {
-      "file": "IMG_5870_35e_looking_s_from_luna_950_20070426.jpg",
-      "highResolution": "IMG_5870_35e_looking_s_from_luna_2556_20070426.jpg",
-      "caption": "Looking southbound at Luna Road. North of I-635, I-35E has 6 main lanes and 2 HOV lanes. Frontage roads are continuous.",
-      "imageDate": "25-April-2007",
-      "imageStatus": {
-        "statusDate": "2018",
-        "status": "Obsolete",
-        "note": "Two reversible managed lanes were build in the center area of the freeway, opening in 2017. In 2021 work started on the the second and final phase, which will widen the freeway to 8 main lanes (4 each  way)."
-      }
-    },
+
     {
       "file": "IMG_5860_35e_at_190_interchange_950_20070426.jpg",
       "highResolution": "IMG_5860_35e_at_190_interchange_2048_20070426.jpg",
@@ -30,7 +20,7 @@
     {
       "file": "IMG_5864_35e_sb_feeder_at_190_950_20070426.jpg",
       "highResolution": "IMG_5864_35e_sb_feeder_at_190_2048_20070426.jpg",
-      "caption": "Looking east from the west side of the  Bush Turnpike Interchange.",
+      "caption": "Looking south on the west side of the  Bush Turnpike Interchange.",
       "imageDate": "25-April-2007"
     },
     {
@@ -44,59 +34,15 @@
       "caption": "Looking southbound along the frontage road, with the Bush Turnpike Interchange ahead.",
       "imageDate": "25-April-2007"
     },
-    {
-      "file": "IMG_5857_35e_looking_s_at_frankford_950_20070426.jpg",
-      "highResolution": "IMG_5857_35e_looking_s_at_frankford_2838_20070426.jpg",
-      "caption": "Looking southbound at Frankford with a zoomed-in view, showing the Bush Turnpike interchange in the distance.",
-      "imageDate": "25-April-2007",
-      "imageStatus": {
-        "statusDate": "2018",
-        "status": "Obsolete",
-        "note": "The addition of collector-distributor lanes was completed in 2017"
-      }
-    },
-    {
-      "file": "IMG_5855_35e_looking_s_at_frankford_wide_950_20070426.jpg",
-      "highResolution": "IMG_5855_35e_looking_s_at_frankford_wide_3072_20070426.jpg",
-      "caption": "A wider-angle view at Frankford",
-      "imageDate": "25-April-2007",
-      "imageStatus": {
-        "statusDate": "2018",
-        "status": "Obsolete",
-        "note": "The addition of collector-distributor lanes was completed in 2017"
-      }
 
-    },
+
     {
       "file": "20180317-19_DFW-0122-1150.jpg",
       "highResolution": "20180317-19_DFW-0122-2560.jpg",
       "caption": "Looking northwest (northbound) from the Frankford overpass, showing the collector-distributor lanes and two-lane reversible HOT facility which both were completed in 2017. ",
       "imageDate": "19-March-2018"
     },
-    {
-      "file": "35e_20070804_IMG_8371_at_121.jpg",
-      "highResolution": "35e_20070804_IMG_8371_at_121_hires.jpg",
-      "caption": "Looking northbound at TX 121",
-      "imageDate": "4-Aug-2007",
-      "imageStatus": {
-        "statusDate": "2018",
-        "status": "Partially obsolete",
-        "note": "In 2017 phase 1 of the expansion program was completed, which reconfigured the main lanes in this area and completed the north half of the interchange."
-      }
 
-    },
-    {
-      "file": "35e_20070804_IMG_8372_at_121.jpg",
-      "highResolution": "35e_20070804_IMG_8372_at_121_hires.jpg",
-      "caption": "Also at TX 121, a zoomed-in view",
-      "imageDate": "4-Aug-2007",
-      "imageStatus": {
-        "statusDate": "2018",
-        "status": "Partially obsolete",
-        "note": "In 2017 phase 1 of the expansion program was completed, which reconfigured the main lanes in this area and completed the north half of the interchange."
-      }
-
-    },
     {
       "file": "20200906-07_25_1150.jpg",
       "highResolution": "20200906-07_253_3000.jpg",

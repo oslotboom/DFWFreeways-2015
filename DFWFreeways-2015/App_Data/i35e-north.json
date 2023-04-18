@@ -4,12 +4,12 @@
     {
         "title": "Interstate 35E North",
         "subTitle": "Stemmons Freeway",
-        "lastUpdated": "Sept 15, 2022 (review and update)"
+        "lastUpdated": "April 18, 2023 (add photos, create archive)"
     },
     "Title": "Interstate 35E Stemmons Freeway",
     "Map": "i35e-north.png",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
-    "Text": "A $1.4 billion expansion of Stemmons Freeway between Interstate 635 and Denton was completed in 2017. The project was phase 1 of the planned ultimate corridor design. The new collector-distributor lanes between the Bush Turnpike (SH 190) and Rayburn Turnpike (SH 121) are hugely beneficial, as is the new Lake Lewisville bridge. But other parts of the project were built to low standards with narrow lanes.<br /><br />In July 2021 a $655 million contract was awarded for the second and final phase of work between IH 635 and the Bush Turnpike. This project will widen the corridor, provide a minimum of 8 main lanes, and add pavement for up to 4 managed lanes. Projects to complete the freeway to the ultimate design north of the Bush Turnpike are scheduled for the 2020s.",
+    "Text": "A $1.4 billion expansion of Stemmons Freeway between Interstate 635 and Lake Lewisville was completed in 2017. The project was phase 1 of the planned ultimate corridor design. The new collector-distributor lanes between the Bush Turnpike (SH 190) and Rayburn Turnpike (SH 121) are hugely beneficial, as is the new Lake Lewisville bridge. But other parts of the project were built to low standards with narrow lanes.<br /><br />In July 2021 a $655 million contract was awarded for the second and final phase of work between IH 635 and the Bush Turnpike. This project will widen the corridor, provide a minimum of 8 main lanes, and add pavement for up to 4 managed lanes. <br /><br/>In January 2023 bids were opened for a $117 million project at Main Street in Lewisville. This project will widen the freeway to the ultimate configuration.  Projects to complete the freeway to the ultimate design north of the Bush Turnpike are scheduled for the 2020s.",
     "Features":
     [
         {
@@ -18,7 +18,16 @@
         },
         {
             "FeatureType": "DriversViews",
-            "FeatureProperties": [ { "AnchorText": "Belt Line to Lewisville", "AnchorUrl": "driving-lewisville" } ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "Dallas",
+              "AnchorUrl": "driving-dallas"
+            },
+            {
+              "AnchorText": "Belt Line to Lewisville",
+              "AnchorUrl": "driving-lewisville"
+            }
+          ]
         },
         {
             "FeatureType": "Book",
@@ -67,7 +76,16 @@
         },
         {
             "FeatureType": "Historical",
-            "FeatureProperties": [ { "AnchorText": "Images", "AnchorUrl": "historical" } ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "Archive Photos",
+              "AnchorUrl": "archive"
+            },
+            {
+              "AnchorText": "Historical Images",
+              "AnchorUrl": "historical"
+            }
+          ]
         },
         {
             "FeatureType": "Video",

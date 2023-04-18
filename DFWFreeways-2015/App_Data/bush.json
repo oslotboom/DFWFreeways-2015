@@ -13,7 +13,12 @@
     [
         {
             "FeatureType": "Roadside",
-            "FeatureProperties": [  ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "SH 161 Irving",
+              "AnchorUrl": "roadside-161-irving"
+            }
+          ]
         },
         {
             "FeatureType": "DriversViews",
