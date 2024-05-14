@@ -31,7 +31,17 @@
         },
         {
             "FeatureType": "Construction",
-            "FeatureProperties": [ ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "2004, Lewisville and The Colony",
+              "AnchorUrl": "construction-2004"
+            },
+            {
+              "AnchorText": "2004, frontage road construction",
+              "AnchorUrl": "construction-2004-frontage-roads"
+            }
+
+          ]
         },
         {
             "FeatureType": "Aerial",

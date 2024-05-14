@@ -36,15 +36,42 @@
         },
         {
             "FeatureType": "Construction",
-            "FeatureProperties":
-            [
-                { "AnchorText": "Grand Prairie right-of-way clearance, 2004", "AnchorUrl": "construction-grand-prairie-row" },
-                { "AnchorText": "SH 183 Interchange, 2006", "AnchorUrl": "construction-sh183" },
-                { "AnchorText": "Grand Prairie frontage roads, 2006", "AnchorUrl": "construction-grand-prairie-frontage" },
-                { "AnchorText": "Main lanes, 2008", "AnchorUrl": "construction-irving-main-lanes" },
-                { "AnchorText": "Main lanes in Grand Prairie, 2008", "AnchorUrl": "construction-grand-prairie-main-lanes" }
+          "FeatureProperties": [
+            {
+              "AnchorText": "Between I-635 and I-35E, Nov 2003",
+              "AnchorUrl": "construction-i635-to-i35e"
+            },
 
-            ]
+            {
+              "AnchorText": "Grand Prairie right-of-way clearance, 2004",
+              "AnchorUrl": "construction-grand-prairie-row"
+            },
+            {
+              "AnchorText": "At I-635, 2004",
+              "AnchorUrl": "construction-ih635"
+            },
+            {
+              "AnchorText": "SH 183 Interchange, 2006",
+              "AnchorUrl": "construction-sh183"
+            },
+            {
+              "AnchorText": "Grand Prairie frontage roads, 2006",
+              "AnchorUrl": "construction-grand-prairie-frontage"
+            },
+            {
+              "AnchorText": "Grand Prairie construction, 2006",
+              "AnchorUrl": "construction-grand-prairie-2006"
+            },
+            {
+              "AnchorText": "Main lanes, 2008",
+              "AnchorUrl": "construction-irving-main-lanes"
+            },
+            {
+              "AnchorText": "Main lanes in Grand Prairie, 2008",
+              "AnchorUrl": "construction-grand-prairie-main-lanes"
+            }
+
+          ]
         },
         {
             "FeatureType": "Aerial",

@@ -59,8 +59,16 @@
         },
         {
             "FeatureType": "Historical",
-            "FeatureProperties": [ 
-                { "AnchorText": "Photo, news report", "AnchorUrl": "historical" }
+            "FeatureProperties": [
+              {
+                "AnchorText": "Photo, news report",
+                "AnchorUrl": "historical"
+              },
+              {
+                "AnchorText": "Prestonwood Town Center demolition, 2004",
+                "AnchorUrl": "historical-prestonwood-town-center"
+              }
+
             ]
         },
         {

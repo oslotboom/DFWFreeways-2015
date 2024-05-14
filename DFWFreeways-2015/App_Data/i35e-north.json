@@ -47,20 +47,32 @@
         },
         {
             "FeatureType": "Construction",
-            "FeatureProperties":
-            [
-                { "AnchorText": "Elevated Toll Lanes, March 2012", "AnchorUrl": "construction-2012-march" },
-                { "AnchorText": "Lake Lewisville bridge: 2014, 2016 and 2017", "AnchorUrl": "construction-2014-nov" },
-                { "AnchorText": "Belt Line, January 2015", "AnchorUrl": "construction-2015-jan" },
-              {
-                "AnchorText": "At SH 121, 2014, 2015 and 2016",
-                "AnchorUrl": "construction-121"
-              },
-              {
-                "AnchorText": "Downtown Collector, 2020-21",
-                "AnchorUrl": "construction-downtown-collector"
-              }
-            ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "Interchange at SH 121, Sept 2004",
+              "AnchorUrl": "construction-interchange-sh121"
+            },
+            {
+              "AnchorText": "Elevated Toll Lanes, March 2012",
+              "AnchorUrl": "construction-2012-march"
+            },
+            {
+              "AnchorText": "Lake Lewisville bridge: 2014, 2016 and 2017",
+              "AnchorUrl": "construction-2014-nov"
+            },
+            {
+              "AnchorText": "Belt Line, January 2015",
+              "AnchorUrl": "construction-2015-jan"
+            },
+            {
+              "AnchorText": "At SH 121, 2014, 2015 and 2016",
+              "AnchorUrl": "construction-121"
+            },
+            {
+              "AnchorText": "Downtown Collector, 2020-21",
+              "AnchorUrl": "construction-downtown-collector"
+            }
+          ]
         },
         {
             "FeatureType": "Aerial",

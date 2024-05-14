@@ -225,8 +225,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\bush-construction-grand-prairie-2006.json" />
     <None Include="App_Data\bush-construction-grand-prairie-main-lanes.json" />
     <Content Include="App_Data\bush-roadside-161-irving.json" />
+    <Content Include="App_Data\bush-construction-i635-to-i35e.json" />
+    <Content Include="App_Data\bush-construction-ih635.json" />
     <None Include="App_Data\chisholm-trail-parkway-driving.json" />
     <Content Include="App_Data\i20-dallas.json" />
     <Content Include="App_Data\bush.json" />
@@ -248,6 +251,7 @@
     <Content Include="App_Data\chisholm-trail-parkway-roadside-opening.json" />
     <Content Include="App_Data\i30-dallas-construction-horseshoe.json" />
     <Content Include="App_Data\i635-driving.json" />
+    <Content Include="App_Data\dnt-historical-prestonwood-town-center.json" />
     <None Include="App_Data\i20-dallas-roadside-dallas.json" />
     <Content Include="App_Data\i20-dallas-roadside-terrell.json" />
     <Content Include="App_Data\i30-dallas-historical.json" />
@@ -255,6 +259,9 @@
     <Content Include="App_Data\i20-west-roadside-west.json" />
     <Content Include="App_Data\i30-dallas-roadside-pedestrian-bridge.json" />
     <Content Include="App_Data\i30-dallas-construction-hubbard.json" />
+    <Content Include="App_Data\i35e-north-construction-interchange-sh121.json" />
+    <None Include="App_Data\sh121-construction-2004.json" />
+    <None Include="App_Data\sh121-construction-2004-frontage-roads.json" />
     <Content Include="App_Data\sh170-construction.json" />
     <Content Include="App_Data\i30-dallas-archive.json" />
     <Content Include="App_Data\i635-archive.json" />
@@ -402,6 +409,8 @@
     <Content Include="App_Data\us175-construction-removal.json" />
     <Content Include="App_Data\sh114-archive.json" />
     <Content Include="App_Data\us67-driving.json" />
+    <Content Include="App_Data\us75-construction-2003.json" />
+    <Content Include="App_Data\us75-construction-2004-dec.json" />
     <None Include="compilerconfig.json" />
     <None Include="compilerconfig.json.defaults">
       <DependentUpon>compilerconfig.json</DependentUpon>

@@ -47,8 +47,24 @@
             "FeatureType": "Construction",
             "FeatureProperties":
             [
-                { "AnchorText": "High Five Construction, November 2002", "AnchorUrl": "construction-2002-nov" },
-                { "AnchorText": "High Five Construction, 2004", "AnchorUrl": "construction-2004" }
+              {
+                "AnchorText": "High Five Construction, Nov 2002",
+                "AnchorUrl": "construction-2002-nov"
+              },
+              {
+                "AnchorText": "High Five Construction, 2003",
+                "AnchorUrl": "construction-2003"
+              },
+
+              {
+                "AnchorText": "High Five Construction, 2004",
+                "AnchorUrl": "construction-2004"
+              },
+              {
+                "AnchorText": "High Five Construction, Dec 2004",
+                "AnchorUrl": "construction-2004-dec"
+              }
+
             ]
         },
         {
