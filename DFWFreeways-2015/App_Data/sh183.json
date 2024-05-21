@@ -4,7 +4,7 @@
     {
         "title": "SH 183",
         "subTitle": "Carpenter Freeway and Airport Freeway",
-        "lastUpdated": "Sept 22, 2022 (add Irving Interchange photos)"
+        "lastUpdated": "May 22, 2024 (add Irving Interchange photos)"
     },
     "Title": "SH 183 Airport Freeway",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -13,6 +13,10 @@
     {
       "FeatureType": "Roadside",
       "FeatureProperties": [
+        {
+          "AnchorText": "Irving Interchange",
+          "AnchorUrl": "roadside-irving-interchange"
+        },
         {
           "AnchorText": "Roadside Views",
           "AnchorUrl": "roadside"

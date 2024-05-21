@@ -6,10 +6,10 @@
         "title": "Driving Views Northbound",
         "subTitle": "",
         "urlParentText": "Loop 12",
-        "lastUpdated": "Created December 11, 2007. Last updated Feb 5, 2018 (update captions)"
+        "lastUpdated": "Created December 11, 2007. Last updated May 22, 2024 (update text)"
     },
     "map": "12_driving_550.gif",
-    "text": "2018 update: Some of the photos below have become obsolete due to changes in the area of the former Texas Stadium, as noted in the image captions. There are long-term plans to widen and modernize the Loop 12 corridor, but the work is not funded or scheduled as of 2021.",
+    "text": "2018 update: Some of the photos below have become obsolete due to changes in the area of the former Texas Stadium, as noted in the image captions. There are long-term plans to widen and modernize the Loop 12 corridor. Right-of-way acquisition is in progress in 2024, which suggests the project could be proceeding to construction before 2030.",
     "images":
     [
 
@@ -73,7 +73,7 @@
             "file": "12_driving_20071028_IMG_9764_approaching_183.jpg",
             "caption": "Approaching TX 183 with Texas Stadium just ahead.",
             "imageDate": "28-Oct-2007",
-            "imageStatus": { "statusDate": "2021", "status": "Obsolete", "note": "Texas Stadium was imploded and cleared in 2010. In 2021 work began on a new multi-level interchange at SH 183." }
+            "imageStatus": { "statusDate": "2021", "status": "Obsolete", "note": "Texas Stadium was imploded and cleared in 2010. In 2021 work began on a new multi-level interchange at SH 183 which was completed on May 8, 2024." }
         },
         {
             "file": "12_driving_20071028_IMG_9765_at_183.jpg",
@@ -82,7 +82,7 @@
           "imageStatus": {
             "statusDate": "2021",
             "status": "Obsolete",
-            "note": "Texas Stadium was imploded and cleared in 2010. In 2021 work began on a new multi-level interchange at SH 183."
+            "note": "Texas Stadium was imploded and cleared in 2010. In 2021 work began on a new multi-level interchange at SH 183 which was completed on May 8, 2024."
           }
         },
         {
@@ -92,7 +92,7 @@
           "imageStatus": {
             "statusDate": "2021",
             "status": "Obsolete",
-            "note": "Texas Stadium was imploded and cleared in 2010. In 2021 work began on a new multi-level interchange at SH 183."
+            "note": "Texas Stadium was imploded and cleared in 2010. In 2021 work began on a new multi-level interchange at SH 183 which was completed on May 8, 2024."
           }
         },
         {
@@ -102,7 +102,7 @@
           "imageStatus": {
             "statusDate": "2018",
             "status": "Obsolete",
-            "note": "In 2018 major improvments to this interchange were completed, including widening SH 183 and two new connection ramps. In 2021 work began on a new multi-level interchange at SH 183."
+            "note": "In 2018 major improvments to this interchange were completed, including widening SH 183 and two new connection ramps. In 2021 work began on a new multi-level interchange at SH 183 which was completed on May 8, 2024."
           }
         },
         {
@@ -115,7 +115,7 @@
             "file": "12_driving_20071028_IMG_9769_over_114.jpg",
             "caption": "This is over SH 114. Two connection ramps to SH 114 were opened in 2012, but the other six connection movements must go through a signalized intersection on the frontage roads.",
             "imageDate": "28-Oct-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section of freeway was rebuilt and widened in 2012 during phase 1 of the Diamond Interchange project." }
+            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section of freeway was rebuilt and widened in 2012 during phase 1 of the Diamond Interchange project, now called the Irving Interchange." }
         },
         {
             "file": "12_driving_20071028_IMG_9770_trinity_bridge.jpg",

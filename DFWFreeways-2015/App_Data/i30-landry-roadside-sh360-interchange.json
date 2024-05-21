@@ -1,0 +1,39 @@
+﻿{
+  "folderPath": "",
+  "title": "I-30 at SH 360 Interchange",
+  "pageHeader": {
+    "title": "I-30 at SH 360 Interchange",
+    "urlParentText": "I-30 Tom Landry Highway",
+    "lastUpdated": "May 22, 2024 (create)"
+  },
+  "text": "Construction of the interchange began in April 2016. All main lanes and connection ramps were open to traffic on December 21, 2023, after 7.5 years of construction. Work on Six Flags Drive continued into 2024. In a future update I will add additional photos from the west side of the interchange.",
+  "images": [
+
+    {
+      "file": "20240518-19_DFW_085-1200.jpg",
+      "highResolution": "20240518-19_DFW_085-3000.jpg",
+      "caption": "Looking west from the Six Flags Drive overpass.",
+      "imageDate": "19-May-2024"
+    },
+    {
+      "file": "20240518-19_DFW_086-1200.jpg",
+      "highResolution": "20240518-19_DFW_086-3000.jpg",
+      "caption": "Looking west from the Six Flags Drive overpass.",
+      "imageDate": "19-May-2024"
+    },
+    {
+      "file": "20240518-19_DFW_088-1200.jpg",
+      "highResolution": "20240518-19_DFW_088-3000.jpg",
+      "caption": "Looking west from the Six Flags Drive overpass.",
+      "imageDate": "19-May-2024"
+    },
+    {
+      "file": "20240518-19_DFW_092-1200.jpg",
+      "highResolution": "20240518-19_DFW_092-3000.jpg",
+      "caption": "Looking east from the Six Flags Drive overpass.",
+      "imageDate": "19-May-2024"
+    }
+
+  ]
+
+}

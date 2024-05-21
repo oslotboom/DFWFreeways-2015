@@ -4,7 +4,7 @@
     {
         "title": "Loop 12",
         "subTitle":  "Walton Walker Boulevard",
-        "lastUpdated": "June 24, 2021 (review and update captions)"
+        "lastUpdated": "May 22, 2024 (add Irving Interchange driving views)"
     },
     "Title": "Loop 12 Dallas",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -17,7 +17,16 @@
         },
         {
             "FeatureType": "DriversViews",
-            "FeatureProperties": [  { "AnchorText": "Driving Views", "AnchorUrl": "driving" } ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "Driving Views",
+              "AnchorUrl": "driving"
+            },
+            {
+              "AnchorText": "At Irving Interchange",
+              "AnchorUrl": "driving-irving-interchange"
+            }
+          ]
         },
         {
             "FeatureType": "Book",

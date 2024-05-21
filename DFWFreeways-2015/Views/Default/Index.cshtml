@@ -47,23 +47,40 @@
 
         </div>*@
 
-    <div>
-        <span class="announce">Recent updates:</span> 13-May-2024, add archive construction photos from the early to mid 2000s
-        &nbsp;
-        <a href="@Url.Action("freeway", new { id = "us75", detail="construction-2003" })">1</a>
-        <a href="@Url.Action("freeway", new { id = "us75", detail="construction-2004-dec" })">2</a>
-        <a href="@Url.Action("freeway", new { id = "i35e-north", detail="construction-interchange-sh121" })">3</a>
-        <a href="@Url.Action("freeway", new { id = "bush", detail="construction-grand-prairie-2006" })">4</a>
-        <a href="@Url.Action("freeway", new { id = "bush", detail="construction-i635-to-i35e" })">5</a>
-        <a href="@Url.Action("freeway", new { id = "bush", detail="construction-ih635" })">6</a>
-        <a href="@Url.Action("freeway", new { id = "dnt", detail="historical-prestonwood-town-center" })">7</a>
-        <a href="@Url.Action("freeway", new { id = "sh121", detail="construction-2004-frontage-roads" })">8</a>
-        <a href="@Url.Action("freeway", new { id = "sh121", detail="construction-2004" })">9</a>
+        @*<div>
+            <span class="announce">Recent updates:</span> 13-May-2024, add archive construction photos from the early to mid 2000s
+            &nbsp;
+            <a href="@Url.Action("freeway", new { id = "us75", detail="construction-2003" })">1</a>
+            <a href="@Url.Action("freeway", new { id = "us75", detail="construction-2004-dec" })">2</a>
+            <a href="@Url.Action("freeway", new { id = "i35e-north", detail="construction-interchange-sh121" })">3</a>
+            <a href="@Url.Action("freeway", new { id = "bush", detail="construction-grand-prairie-2006" })">4</a>
+            <a href="@Url.Action("freeway", new { id = "bush", detail="construction-i635-to-i35e" })">5</a>
+            <a href="@Url.Action("freeway", new { id = "bush", detail="construction-ih635" })">6</a>
+            <a href="@Url.Action("freeway", new { id = "dnt", detail="historical-prestonwood-town-center" })">7</a>
+            <a href="@Url.Action("freeway", new { id = "sh121", detail="construction-2004-frontage-roads" })">8</a>
+            <a href="@Url.Action("freeway", new { id = "sh121", detail="construction-2004" })">9</a>
 
-    </div>
+        </div>*@
 
 
-        <div>Home of the 2014 ebook <span class="semibold">Dallas-Fort Worth Freeways, Texas-Sized Ambition</span>, available for free download below. Also featuring extensive photography, historical information and a large collection of digitized <a href="@Url.Action("maps")"> old highway maps</a>.</div>
+        <div>Home of the 2014 ebook <span class="semibold">Dallas-Fort Worth Freeways, Texas-Sized Ambition</span>, available for <span class="bold">free download</span> below. Also featuring extensive photography, historical information and a large collection of digitized <a href="@Url.Action("maps")"> old highway maps</a>.</div>
+        <div>
+            <span class="announce">Recent updates:</span> 22-May-2024, add 105 new photos
+            
+            <a href="@Url.Action("freeway", new { id = "sh183", detail="roadside-irving-interchange" })">25</a>
+            <a href="@Url.Action("freeway", new { id = "loop12", detail="driving-irving-interchange" })">11</a>
+            <a href="@Url.Action("freeway", new { id = "sh170", detail="driving-eastbound" })">18</a>
+            <a href="@Url.Action("freeway", new { id = "i635", detail="construction-lbj-east" })">26</a>
+            <a href="@Url.Action("freeway", new { id = "i30-landry", detail="roadside-sh360-interchange" })">4</a>
+            <a href="@Url.Action("freeway", new { id = "i30-landry", detail="roadside" })">3</a>
+            <a href="@Url.Action("freeway", new { id = "i30-landry", detail="driving-mid-cities" })">4</a>
+            <a href="@Url.Action("freeway", new { id = "sh114", detail="construction-roanoke" })">2</a>
+            <a href="@Url.Action("freeway", new { id = "i35e-north", detail="construction-phase2" })">9</a>
+            <a href="@Url.Action("freeway", new { id = "sh114", detail="roadside" })">1</a>
+            <a href="@Url.Action("freeway", new { id = "sh183", detail="driving-irving" })">1</a>
+            <a href="@Url.Action("freeway", new { id = "us75", detail="roadside-dallas" })">1</a>
+
+        </div>
     </div>
     <div id="header-container">
         <a href="@Url.Action("maps")">
@@ -177,15 +194,11 @@
                                 <div>Quantity Printed&nbsp;</div>
                                 <div>&nbsp;160</div>
                             </div>
-                            <div class="clearfix line-break-narrow">
-                                <div>Press</div>
-                                <div>
-                                    @*<a href="http://transportationblog.dallasnews.com/2014/05/a-decade-spent-writing-a-book-about-how-dallas-built-its-freeways-and-how-its-freeways-built-dallas.html/">Dallas Morning News</a>
-                                    <br />*@
-                                    <a href="https://www.aiadallas.org/v/blog-detail/A-Conversation-with-Oscar-Slotboom/i5/">AIA Dallas Columns Magazine</a>
+                        </div>
+                        <div style="padding-bottom: 8px;">
+                            <div class="announce">Books available for donation to libraries</div>
+                            <div>May 22, 2024: While moving recently, I found a box of seven new books. I'm making these books available for donation to public or university libraries. Contact me via <a href="Mailto:webmaster@dfwfreeways.com">email</a> if your library is interested in receiving a donated book.</div>
 
-                                </div>
-                            </div>
                         </div>
                         <div class="book-front">
                             <img src="@Url.Content("~/images/DFWFreeways-cover-180x223.jpg")" />

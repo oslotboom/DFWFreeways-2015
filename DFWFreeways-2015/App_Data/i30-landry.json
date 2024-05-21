@@ -4,7 +4,7 @@
     {
         "title": "Interstate 30",
         "subTitle": "Tom Landry Highway",
-        "lastUpdated": "July 31, 2022"
+        "lastUpdated": "May 22, 2024"
     },
     "Title": "Interstate 30 Dallas-Fort Worth",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -13,20 +13,29 @@
     [
         {
             "FeatureType": "Roadside",
-            "FeatureProperties":
-            [
-                { "AnchorText": "Roadside Views", "AnchorUrl": "roadside" },
-                { "AnchorText": "Cowboys Stadium", "AnchorUrl": "roadside-cowboys-stadium" }
+          "FeatureProperties": [
+            {
+              "AnchorText": "Roadside Views",
+              "AnchorUrl": "roadside"
+            },
+            {
+              "AnchorText": "SH 360 Interchange",
+              "AnchorUrl": "roadside-sh360-interchange"
+            },
 
-            ]
+            {
+              "AnchorText": "Cowboys Stadium",
+              "AnchorUrl": "roadside-cowboys-stadium"
+            }
+
+          ]
         },
         {
             "FeatureType": "DriversViews",
             "FeatureProperties":
             [
                 { "AnchorText": "Mid-Cities", "AnchorUrl": "driving-mid-cities" },
-                { "AnchorText": "Fort Worth", "AnchorUrl": "driving-fort-worth" },
-                { "AnchorText": "Six Flags Over Texas", "AnchorUrl": "driving-six-flags" }
+                { "AnchorText": "Fort Worth", "AnchorUrl": "driving-fort-worth" }
             ]
         },
         {
@@ -67,10 +76,20 @@
         },
         {
             "FeatureType": "Historical",
-            "FeatureProperties":
-            [
-                { "AnchorText": "Photos", "AnchorUrl": "historical" }
-            ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "Photos",
+              "AnchorUrl": "historical"
+            },
+            {
+              "AnchorText": "Roadside Archive Photos",
+              "AnchorUrl": "archive-roadside"
+            },
+            {
+              "AnchorText": "Driving Archive Photos",
+              "AnchorUrl": "archive-driving"
+            }
+          ]
         },
         {
             "FeatureType": "Video",

@@ -1,0 +1,93 @@
+﻿{
+  "folderPath": "",
+  "title": "I-30 Tom Landry Highway Photo Archive",
+  "pageHeader": {
+    "title": "Tom Landry Highway Archive Photos",
+    "subTitle": "Roadside Views",
+    "urlParentText": "I-30 Tom Landry Highway",
+    "lastUpdated": "May, 2024 (create)"
+  },
+  "map": "",
+  "text": "These archive photos show views of Tom Landry Highway around SH 360 before completion of expansion projects and the interchange at SH 360. ",
+  "images": [
+
+    {
+      "file": "30m_IMG_7442_20070609_at_19th_950.jpg",
+      "highResolution": "30m_IMG_7442_20070609_at_19th_2592.jpg",
+      "caption": "Looking west at 19th Street in Grand Prairie. The is now the center of the five-level Bush Turnpike interchange. At the time of  this photo in 2007, frontage roads for SH 161 were under constructio. A pier and abutments are visible for the southbound 161 frontage road just ahead.",
+      "imageDate": "9-June-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Obsolete",
+        "note": "This spot is now in the middle of the Bush Turnpike interchange."
+      }
+    },
+    {
+      "file": "30m_IMG_7447_20070609_great_sw_parkway_six_flags_950.jpg",
+      "highResolution": "30m_IMG_7447_20070609_great_sw_parkway_six_flags_2592.jpg",
+      "caption": "Looking west at Great Southwest Parkway. At the time of the photo in 2007, the freeway was still in its original configuration from 1957. In 2015 work began on a four-level interchange just ahead at SH 360, and it was completed in December 2023, including substantial widening of the freeway at this location.",
+      "imageDate": "9-June-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Historical Archive",
+        "note": "In 2015 work began on the new interchange at SH 360. The project includes rebuilding and widening this section of freeway."
+      }
+    },
+    {
+      "file": "30m_IMG_7448_20070609_e_of_360_950.jpg",
+      "highResolution": "30m_IMG_7448_20070609_e_of_360_1944.jpg",
+      "caption": "The SH 360 Freeway, named the Angus Wynne Freeway, is just ahead. From the highway opening until 2015, vehicles connecting to SH 360 had to exit to a signalized intersection. In 2015 work began on a new interchange which was completed in December 2023. ",
+      "imageDate": "9-June-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Historical Archive",
+        "note": "Lanes have been added and work began in 2015 on a four-level interchange at SH 360. The interchange was completed in December 2023."
+      }
+    },
+    {
+      "file": "30m_IMG_7449_20070609_at_360_with_6_flags_950.jpg",
+      "highResolution": "30m_IMG_7449_20070609_at_360_with_6_flags_2658.jpg",
+      "caption": "Looking southwest, showing Six Flags Over Texas along the south side of the freeway.",
+      "imageDate": "9-June-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Historical Archive",
+        "note": "In 2015 construction began on a four-level interchange at SH 360. The project includes widening the main lanes in the area of this view."
+      }
+    },
+    {
+      "file": "30m_IMG_7451_20070609_frontage_road_loop_at_ballpark_way_950.jpg",
+      "caption": "The original Ballpark Way the westbound frontage road featured a strange dead-end with a loop turnaround.",
+      "imageDate": "9-June-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Historical Archive",
+        "note": "This section of freeway was widened, reconfigured and sunk into a trench in a project completed in 2010"
+      }
+    },
+    {
+      "file": "30m_IMG_7452_20070609_ballpark_way_950.jpg",
+      "highResolution": "30m_IMG_7452_20070609_ballpark_way_2592.jpg",
+      "caption": "Looking west at Ballpark Way, showing the original freeway. The expanded freeway at this location was completed in 2010.",
+      "imageDate": "9-June-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Historical Archive",
+        "note": "This section of freeway was widened, reconfigured and sunk into a trench in a project completed in 2010"
+      }
+    },
+    {
+      "file": "30m_IMG_7457_20070609_at_collins_950.jpg",
+      "highResolution": "30m_IMG_7457_20070609_at_collins_2048.jpg",
+      "caption": "Looking west at the original freeway at Collins",
+      "imageDate": "9-June-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Historical Archive",
+        "note": "This section of freeway was widened, reconfigured and sunk into a trench in a project completed in 2010"
+      }
+    }
+
+  ]
+
+}

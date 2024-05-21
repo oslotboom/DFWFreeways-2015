@@ -4,7 +4,7 @@
     {
         "title": "Interstate 35E North",
         "subTitle": "Stemmons Freeway",
-        "lastUpdated": "April 18, 2023 (add photos, create archive)"
+        "lastUpdated": "May 24, 2024 (add photos)"
     },
     "Title": "Interstate 35E Stemmons Freeway",
     "Map": "i35e-north.png",
@@ -71,6 +71,10 @@
             {
               "AnchorText": "Downtown Collector, 2020-21",
               "AnchorUrl": "construction-downtown-collector"
+            },
+            {
+              "AnchorText": "I-635 to Bush, 2024-2025",
+              "AnchorUrl": "construction-phase2"
             }
           ]
         },

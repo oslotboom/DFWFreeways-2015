@@ -5,149 +5,127 @@
     {
         "title": "Roadside Views",
         "urlParentText": "I-30 Tom Landry Highway",
-        "lastUpdated": "Feb 8, 2018 (review and update captions)"
+        "lastUpdated": "May 22, 2024 (Add new photos and remove archive photos)"
     },
     "map": "30m_roadside_950.gif",
-    "text": "2018 status: Many of the photos are obsolete due to completed and ongoing construction projects, as indicated in the captions, and are shown for historical reference.",
-    "images":
-    [
-        {
-            "file": "30d_20071027_IMG_9521_skyline_from_edgefield_950.jpg",
-            "highResolution": "30d_20071027_IMG_9521_skyline_from_edgefield_2416.jpg",
-            "caption": "Looking east from Edgefield Street. Reconstruction of this section was completed in 2007.",
-            "imageDate": "27-October-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "The freeway surface has been overlaid with asphalt." }
-        },
-        {
-            "file": "30d_20071027_IMG_9530_fort_worth_avenue_950.jpg",
-            "highResolution": "30d_20071027_IMG_9530_fort_worth_avenue_2048.jpg",
-            "caption": "Looking east at Fort Worth avenue in west Dallas. Reconstruction of this section was completed in 2007. ",
-            "imageDate": "27-October-2007"
-        },
-        {
-            "file": "30d_IMG_8947_20070916_at_hampton_950.jpg",
-            "highResolution": "30d_IMG_8947_20070916_at_hampton_2949.jpg",
-            "caption": "The Hampton Road overpass in west Dallas. This structure, dating from the original construction of the DFW Turnpike in 1957, was saved during the reconstruction. It is just barely wide enough to accommodate the widened freeway.",
-            "imageDate": "16-Sept-2007"
-        },
-        {
-            "file": "30d_IMG_8957_20070916_cockrell_hill_950.jpg",
-            "highResolution": "30d_IMG_8957_20070916_cockrell_hill_2048.jpg",
-            "caption": "Looking east at Cockrell Hill. Reconstruction and widening of this section was completed in 2007. In 2015, modifications to the HOV lane were nearing completion.",
-            "imageDate": "16-Sept-2007"
-        },
-        {
-            "file": "30m_20080914_IMG_3800_roadside_looking_e_at_carrier_950.jpg",
-            "highResolution": "30m_20080914_IMG_3800_roadside_looking_e_at_carrier_2250.jpg",
-            "caption": "Looking east at Carrier Parkway. Reconstruction and widening of this section was completed in 2007 or 2008.",
-            "imageDate": "14-Sept-2008"
-        },
-        {
-            "file": "30m_IMG_7442_20070609_at_19th_950.jpg",
-            "highResolution": "30m_IMG_7442_20070609_at_19th_2592.jpg",
-            "caption": "Looking west at 19th Street in Grand Prairie. The is now the center of the five-level Bush Turnpike interchange. At the time of  this photo in 2007, frontage roads for SH 161 were under constructio. A pier and abutments are visible for the southbound 161 frontage road just ahead.",
-            "imageDate": "9-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This spot is now in the middle of the Bush Turnpike interchange." }
-        },
-        {
-            "file": "30m_IMG_7447_20070609_great_sw_parkway_six_flags_950.jpg",
-            "highResolution": "30m_IMG_7447_20070609_great_sw_parkway_six_flags_2592.jpg",
-            "caption": "Looking west at Great Southwest Parkway. At the time of the photo in 2007, the freeway was still in its original configuration from  1957. In 2015 auxiliary lanes have been added and work is underway on a four-level interchange just ahead at SH 360.",
-            "imageDate": "9-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Historical Archive", "note": "In 2015 work began on the new interchange at SH 360. The project includes rebuilding and widening this section of freeway." }
-        },
-        {
-            "file": "30m_IMG_7448_20070609_e_of_360_950.jpg",
-            "highResolution": "30m_IMG_7448_20070609_e_of_360_1944.jpg",
-            "caption": "The SH 360 Freeway, named the Angus Wynne Freeway, is just ahead. From the highway opening until 2015, vehicles connecting to SH 360 had to exit to a signalized intersection. In 2015 work began on a new interchange. ",
-            "imageDate": "9-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Historical Archive", "note": "Lanes have been added and work began in 2015 on a four-level interchange at SH 360." }
-        },
-        {
-            "file": "30m_IMG_7449_20070609_at_360_with_6_flags_950.jpg",
-            "highResolution": "30m_IMG_7449_20070609_at_360_with_6_flags_2658.jpg",
-            "caption": "Looking southwest, showing Six Flags Over Texas along the south side of the freeway.",
-            "imageDate": "9-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Historical Archive", "note": "In 2015 construction began on a four-level interchange at SH 360. The project includes widening the main lanes in the area of this view." }
-        },
-        {
-            "file": "30m_IMG_7451_20070609_frontage_road_loop_at_ballpark_way_950.jpg",
-            "caption": "The original Ballpark Way the westbound frontage road featured a strange dead-end with a loop turnaround.",
-            "imageDate": "9-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Historical Archive", "note": "This section of freeway was widened, reconfigured and sunk into a trench in a project completed in 2010" }
-        },
-        {
-            "file": "30m_IMG_7452_20070609_ballpark_way_950.jpg",
-            "highResolution": "30m_IMG_7452_20070609_ballpark_way_2592.jpg",
-            "caption": "Looking west at Ballpark Way, showing the original freeway. The expanded freeway at this location was completed in 2010.",
-            "imageDate": "9-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Historical Archive", "note": "This section of freeway was widened, reconfigured and sunk into a trench in a project completed in 2010" }
-        },
-        {
-            "file": "30m_IMG_7457_20070609_at_collins_950.jpg",
-            "highResolution": "30m_IMG_7457_20070609_at_collins_2048.jpg",
-            "caption": "Looking west at the original freeway at Collins",
-            "imageDate": "9-June-2007",
-            "imageStatus": { "statusDate": "2015", "status": "Historical Archive", "note": "This section of freeway was widened, reconfigured and sunk into a trench in a project completed in 2010" }
-        },
-        {
-            "file": "30m_IMG_7461_20070609_davis_950.jpg",
-            "caption": "Looking west at Davis",
-            "imageDate": "9-June-2007"
-        },
-        {
-            "file": "30m_IMG_7468_20070609_green_oaks_950.jpg",
-            "caption": "Looking west near Green Oaks",
-            "imageDate": "9-June-2007"
-        },
-        {
-            "file": "30m_IMG_7472_20070609_eastchase_950.jpg",
-            "highResolution": "30m_IMG_7472_20070609_eastchase_2048.jpg",
-            "caption": "Looking west at Eastchase",
-            "imageDate": "9-June-2007"
-        },
-        {
-            "file": "30m_IMG_7476_20070609_at_820_950.jpg",
-            "highResolution": "30m_IMG_7476_20070609_at_820_2589.jpg",
-            "caption": "Looking west toward the Interstate 820 interchange. This is the only freeway-to-freeway interchange to be built on the former DFW Turnpike since its construction in 1957. In 2015 work began on the second full interchange, at SH 360.",
-            "imageDate": "9-June-2007"
-        },
-        {
-            "file": "30fw_IMG_8493_20070804_w_of_820_950.jpg",
-            "highResolution": "30fw_IMG_8493_20070804_w_of_820_2031.jpg",
-            "caption": "West of Interstate 820",
-            "imageDate": "4-August-2007"
-        },
-        {
-            "file": "30fw_IMG_8494_20070804_bridge_st_950.jpg",
-            "highResolution": "30fw_IMG_8494_20070804_bridge_st_2178.jpg",
-            "caption": "There is an unusual two-way street alongside the freeway near Bridge Street. This is a relic from the DFW Turnpike days.",
-            "imageDate": "4-August-2007"
-        },
-        {
-            "file": "30fw_IMG_8505_20070804_oakland_950.jpg",
-            "caption": "Looking west at Oakland Street. The freeway has four lanes each way going westward.",
-            "imageDate": "4-August-2007"
-        },
-        {
-            "file": "30m_IMG_8341_20070729_beach_950.jpg",
-            "highResolution": "30m_IMG_8341_20070729_beach_2048.jpg",
-            "caption": "Looking west-northwest at Beach Street, with downtown Fort Worth ahead.",
-            "imageDate": "29-July-2007"
-        },
-        {
-            "file": "30m_IMG_8344_20070729_beach_zoomed_950.jpg",
-            "caption": "A zoomed-in view looking west at Beach Street, with the I-35W interchange (the Fort Worth Mixmaster) visible ahead.",
-            "imageDate": "29-July-2007"
-        },
-        {
-            "file": "30fw_IMG_8338_20070729_at_287_950.jpg",
-            "highResolution": "30fw_IMG_8338_20070729_at_287_2286.jpg",
-            "caption": "At US 287, just east of Downtown Fort Worth",
-            "imageDate": "29-July-2007"
-        }
+    "text": "Modernization and expansion of Tom Landry Highway has been ongoing since the 1990s. The interchange at Loop 360 was completed in December 2023 (all ramps) and 2024 (entire project including Six Flags Drive). Substantial future work is planned for I-30, mainly between Arlington and Fort Worth, but as of 2024 no projects are imminent.",
+  "images": [
+    {
+      "file": "30d_20071027_IMG_9521_skyline_from_edgefield_950.jpg",
+      "highResolution": "30d_20071027_IMG_9521_skyline_from_edgefield_2416.jpg",
+      "caption": "Looking east from Edgefield Street. Reconstruction of this section was completed in 2007.",
+      "imageDate": "27-October-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Partially obsolete",
+        "note": "The freeway surface has been overlaid with asphalt."
+      }
+    },
+    {
+      "file": "30d_20071027_IMG_9530_fort_worth_avenue_950.jpg",
+      "highResolution": "30d_20071027_IMG_9530_fort_worth_avenue_2048.jpg",
+      "caption": "Looking east at Fort Worth avenue in west Dallas. Reconstruction of this section was completed in 2007. ",
+      "imageDate": "27-October-2007"
+    },
+    {
+      "file": "30d_IMG_8947_20070916_at_hampton_950.jpg",
+      "highResolution": "30d_IMG_8947_20070916_at_hampton_2949.jpg",
+      "caption": "The Hampton Road overpass in west Dallas. This structure, dating from the original construction of the DFW Turnpike in 1957, was saved during the reconstruction. It is just barely wide enough to accommodate the widened freeway.",
+      "imageDate": "16-Sept-2007"
+    },
+    {
+      "file": "30d_IMG_8957_20070916_cockrell_hill_950.jpg",
+      "highResolution": "30d_IMG_8957_20070916_cockrell_hill_2048.jpg",
+      "caption": "Looking east at Cockrell Hill. Reconstruction and widening of this section was completed in 2007. In 2015, modifications to the HOV lane were nearing completion.",
+      "imageDate": "16-Sept-2007"
+    },
+    {
+      "file": "30m_20080914_IMG_3800_roadside_looking_e_at_carrier_950.jpg",
+      "highResolution": "30m_20080914_IMG_3800_roadside_looking_e_at_carrier_2250.jpg",
+      "caption": "Looking east at Carrier Parkway. Reconstruction and widening of this section was completed in 2007 or 2008.",
+      "imageDate": "14-Sept-2008"
+    },
 
 
-    ]
+    {
+      "file": "20240518-19_DFW_092-1200.jpg",
+      "highResolution": "20240518-19_DFW_092-3000.jpg",
+      "caption": "Looking east from the Six Flags Drive overpass.",
+      "imageDate": "19-May-2024"
+    },
+    {
+      "file": "20240518-19_DFW_093-1200.jpg",
+      "highResolution": "20240518-19_DFW_093-3000.jpg",
+      "caption": "Looking east from the Six Flags Drive overpass.",
+      "imageDate": "19-May-2024"
+    },
+
+    {
+      "file": "20240518-19_DFW_088-1200.jpg",
+      "highResolution": "20240518-19_DFW_088-3000.jpg",
+      "caption": "Looking west from the Six Flags Drive overpass.",
+      "imageDate": "19-May-2024"
+    },
+
+
+    {
+      "file": "30m_IMG_7461_20070609_davis_950.jpg",
+      "caption": "Looking west at Davis",
+      "imageDate": "9-June-2007"
+    },
+    {
+      "file": "30m_IMG_7468_20070609_green_oaks_950.jpg",
+      "caption": "Looking west near Green Oaks",
+      "imageDate": "9-June-2007"
+    },
+    {
+      "file": "30m_IMG_7472_20070609_eastchase_950.jpg",
+      "highResolution": "30m_IMG_7472_20070609_eastchase_2048.jpg",
+      "caption": "Looking west at Eastchase",
+      "imageDate": "9-June-2007"
+    },
+    {
+      "file": "30m_IMG_7476_20070609_at_820_950.jpg",
+      "highResolution": "30m_IMG_7476_20070609_at_820_2589.jpg",
+      "caption": "Looking west toward the Interstate 820 interchange. This is the only freeway-to-freeway interchange to be built on the former DFW Turnpike since its construction in 1957. In 2015 work began on the second full interchange, at SH 360.",
+      "imageDate": "9-June-2007"
+    },
+    {
+      "file": "30fw_IMG_8493_20070804_w_of_820_950.jpg",
+      "highResolution": "30fw_IMG_8493_20070804_w_of_820_2031.jpg",
+      "caption": "West of Interstate 820",
+      "imageDate": "4-August-2007"
+    },
+    {
+      "file": "30fw_IMG_8494_20070804_bridge_st_950.jpg",
+      "highResolution": "30fw_IMG_8494_20070804_bridge_st_2178.jpg",
+      "caption": "There is an unusual two-way street alongside the freeway near Bridge Street. This is a relic from the DFW Turnpike days.",
+      "imageDate": "4-August-2007"
+    },
+    {
+      "file": "30fw_IMG_8505_20070804_oakland_950.jpg",
+      "caption": "Looking west at Oakland Street. The freeway has four lanes each way going westward.",
+      "imageDate": "4-August-2007"
+    },
+    {
+      "file": "30m_IMG_8341_20070729_beach_950.jpg",
+      "highResolution": "30m_IMG_8341_20070729_beach_2048.jpg",
+      "caption": "Looking west-northwest at Beach Street, with downtown Fort Worth ahead.",
+      "imageDate": "29-July-2007"
+    },
+    {
+      "file": "30m_IMG_8344_20070729_beach_zoomed_950.jpg",
+      "caption": "A zoomed-in view looking west at Beach Street, with the I-35W interchange (the Fort Worth Mixmaster) visible ahead.",
+      "imageDate": "29-July-2007"
+    },
+    {
+      "file": "30fw_IMG_8338_20070729_at_287_950.jpg",
+      "highResolution": "30fw_IMG_8338_20070729_at_287_2286.jpg",
+      "caption": "At US 287, just east of Downtown Fort Worth",
+      "imageDate": "29-July-2007"
+    }
+
+
+  ]
 
 }

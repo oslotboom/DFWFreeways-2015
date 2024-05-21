@@ -6,100 +6,80 @@
         "title": "Driving Views",
         "subTitle": "Westbound, Mid-Cities",
         "urlParentText": "I-30 Tom Landry Highway",
-        "lastUpdated": "Created October 6, 2007, last updated Feb 8, 2018 (review and update captions)"
+        "lastUpdated": "Last updated May 22, 2024 (add photos at SH 360 and remove obsolete photos)"
     },
     "map": "30m_driving_mid_cities_950.gif",
-    "text": "2018 status: Many of the photos are obsolete due to completed and ongoing construction projects, as indicated in the captions.",
-    "images":
-    [
-        {
-            "file": "30m_driving_IMG_7427_20070609_wb_at_loop12_950.jpg",
-            "caption": "Westbound at Loop 12. The new structure was nearing completion to the right. By the end of September 2007 traffic was on the new bridge and the roadway in this photo was demolished.",
-            "imageDate": "June 9, 2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This bridge that was being driven on was demolished." }
-        },
-        {
-            "file": "30m_driving_IMG_7428_20070609_wb_w_of_loop12_950.jpg",
-            "caption": "Just west of Loop 12",
-            "imageDate": "June 9, 2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "This section has been rebuilt with new concrete pavement." }
-        },
-        {
-            "file": "30m_driving_IMG_7429_20070609_wb_new_pavement_950.jpg",
-            "caption": "Traffic transitions to a reconstructed/widened section just ahead.",
-            "imageDate": "June 9, 2007"
-        },
-        {
-            "file": "30m_driving_IMG_7430_20070609_grand_prairie_city_limit_950.jpg",
-            "caption": "This section features a wide set-aside in the center for HOV lanes. The HOV lanes opened on July 31, 2007. These HOV lanes were later made into managed lanes for toll-paying vehicles.",
-            "imageDate": "June 9, 2007"
-        },
-        {
-            "file": "30m_driving_IMG_7433_20070609_wb_grand_prairie_950.jpg",
-            "caption": "",
-            "imageDate": "June 9, 2007"
-        },
-        {
-            "file": "30m_driving_IMG_7434_20070609_wb_950.jpg",
-            "highResolution": "30m_driving_IMG_7434_20070609_wb_2016.jpg",
-            "caption": "",
-            "imageDate": "June 9, 2007"
-        },
-        {
-            "file": "30m_driving_IMG_7437_20070609_wb_at_belt_line_950.jpg",
-            "highResolution": "30m_driving_IMG_7437_20070609_wb_at_belt_line_2877.jpg",
-            "caption": "",
-            "imageDate": "June 9, 2007"
-        },
-        {
-            "file": "30m_driving_IMG_7438_20070609_wb_nearing_19th_950.jpg",
-            "highResolution": "30m_driving_IMG_7439_20070609_19th_2028.jpg",
-            "caption": "Approaching 19th Street, which is now the alignment of the Bush Turnpike.",
-            "imageDate": "June 9, 2007",
-            "imageStatus": { "statusDate": "2015", "status": "Partially obsolete", "note": "A five-level interchange was built ahead for the Bush Turnpike (SH 161)." }
+    "text": "The interchange at SH 360 was fully open in December 2023.",
+  "images": [
 
-        },
-        {
-            "file": "30m_driving_IMG_7450_six_flags_950.jpg",
-            "caption": "The Six Flags Over Texas amusement park is on the south side of the freeway just west of SH 360",
-            "imageDate": "June 9, 2007",
-            "imageStatus": { "statusDate": "2015", "status": "Obsolete", "note": "The freeway was rebuilt and widened at this location." }
+    {
+      "file": "30m_driving_IMG_7433_20070609_wb_grand_prairie_950.jpg",
+      "caption": "Westbound in Grand Prairie",
+      "imageDate": "June 9, 2007"
+    },
+    {
+      "file": "30m_driving_IMG_7434_20070609_wb_950.jpg",
+      "highResolution": "30m_driving_IMG_7434_20070609_wb_2016.jpg",
+      "caption": "",
+      "imageDate": "June 9, 2007"
+    },
+    {
+      "file": "30m_driving_IMG_7437_20070609_wb_at_belt_line_950.jpg",
+      "highResolution": "30m_driving_IMG_7437_20070609_wb_at_belt_line_2877.jpg",
+      "caption": "",
+      "imageDate": "June 9, 2007"
+    },
+    {
+      "file": "20240518-19_422-950.jpg",
+      "caption": "Taking the on-ramp going westbound, just east of the interchange at SH 360",
+      "imageDate": "May 19, 2024"
+    },
+    {
+      "file": "20240518-19_424-950.jpg",
+      "highResolution": "20240518-19_424-3000.jpg",
+      "caption": "The interchange at SH 360 opened in December 2003 after 7.5 years of construction",
+      "imageDate": "May 19, 2024"
+    },
 
-        },
-        {
-            "file": "30m_driving_IMG_7455_wb_w_of_ballbark_way_950.jpg",
-            "caption": "West of Ballpark Way on the original freeway. This shows the original configuration of the freeway dating back to the Dallas-Fort Worth turnpike. This section was widened in 2010.",
-            "imageDate": "June 9, 2007",
-            "imageStatus": { "statusDate": "2015", "status": "Historical Archive", "note": "This section was widened and reconfigured in 2010." }
-
-        },
-        {
-            "file": "30m_driving_IMG_7462_20070609_wb_at_felder.jpg",
-            "caption": "At Felder",
-            "imageDate": "June 9, 2007"
-        },
-        {
-            "file": "30m_driving_IMG_7464_20070609_w_of_felder_950.jpg",
-            "caption": "West of Felder",
-            "imageDate": "June 9, 2007"
-        },
-        {
-            "file": "30m_driving_IMG_7469_20070609_wb_near_green_oaks_950.jpg",
-            "caption": "Near Green Oaks",
-            "imageDate": "June 9, 2007"
-        },
-        {
-            "file": "30m_driving_IMG_7473_20070609_near_cooks_950.jpg",
-            "caption": "Near Cooks road",
-            "imageDate": "June 9, 2007"
-        },
-        {
-            "file": "30m_driving_IMG_7474_20070609_wb_at_morrison_950.jpg",
-            "caption": "At Morrison, with Interstate 820 just ahead.",
-            "imageDate": "June 9, 2007"
-        }
+    {
+      "file": "20240518-19_425-950.jpg",
+      "highResolution": "20240518-19_425-3000.jpg",
+      "caption": "",
+      "imageDate": "May 19, 2024"
+    },
+    {
+      "file": "20240518-19_426-950.jpg",
+      "highResolution": "20240518-19_426-3000.jpg",
+      "caption": "",
+      "imageDate": "May 19, 2024"
+    },
+    {
+      "file": "30m_driving_IMG_7462_20070609_wb_at_felder.jpg",
+      "caption": "At Felder",
+      "imageDate": "June 9, 2007"
+    },
+    {
+      "file": "30m_driving_IMG_7464_20070609_w_of_felder_950.jpg",
+      "caption": "West of Felder",
+      "imageDate": "June 9, 2007"
+    },
+    {
+      "file": "30m_driving_IMG_7469_20070609_wb_near_green_oaks_950.jpg",
+      "caption": "Near Green Oaks",
+      "imageDate": "June 9, 2007"
+    },
+    {
+      "file": "30m_driving_IMG_7473_20070609_near_cooks_950.jpg",
+      "caption": "Near Cooks road",
+      "imageDate": "June 9, 2007"
+    },
+    {
+      "file": "30m_driving_IMG_7474_20070609_wb_at_morrison_950.jpg",
+      "caption": "At Morrison, with Interstate 820 just ahead.",
+      "imageDate": "June 9, 2007"
+    }
 
 
-    ]
+  ]
 
 }

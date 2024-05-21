@@ -1,9 +1,9 @@
 ﻿{
 
   "pageHeader": {
-    "title": "SH 170",
+    "title": "SH 170, Alliance Gateway Freeway",
     "subTitle": "North Fort Worth",
-    "lastUpdated": "March 4, 2024 (update for main lane opening)"
+    "lastUpdated": "May 22, 2024 (add driving views)"
   },
   "Title": "SH 170",
   "Photo": {
@@ -11,7 +11,7 @@
     "Caption": "This is the caption",
     "Date": "12-January-2015"
   },
-  "Text": "The SH 170 frontage roads opened in 1992.  In 2018 a new overpass opened at Parish Lane, on the east end near SH 114. The freeway main lanes between SH 114 and IH 35W were opened in sections in February and March 2024.",
+  "Text": "The SH 170 frontage roads opened in 1992.  In 2018 a new overpass opened at Parish Lane, on the east end near SH 114. The freeway main lanes between Parish Land and IH 35W were opened in sections in February and March 2024.",
   "Features": [
     {
       "FeatureType": "Roadside",
@@ -19,7 +19,13 @@
     },
     {
       "FeatureType": "DriversViews",
-      "FeatureProperties": []
+      "FeatureProperties": [
+        {
+          "AnchorText": "I-35W to SH 114",
+          "AnchorUrl": "driving-eastbound"
+        }
+
+      ]
     },
     {
       "FeatureType": "Book",

@@ -1,0 +1,99 @@
+﻿{
+  "folderPath": "",
+  "title": "I-30 Tom Landry Highway Photo Archive",
+  "pageHeader": {
+    "title": "Tom Landry Highway Archive Photos",
+    "subTitle": "Driving Views",
+    "urlParentText": "I-30 Tom Landry Highway",
+    "lastUpdated": "May 22, 2024 (create)"
+  },
+  "map": "",
+  "text": "These archive photos show driving views of Tom Landry Highway prior to expansion projects. Views are westbound except at noted.",
+  "images": [
+    {
+      "file": "30m_driving_IMG_7427_20070609_wb_at_loop12_950.jpg",
+      "caption": "Westbound at Loop 12. The new structure was nearing completion to the right. By the end of September 2007 traffic was on the new bridge and the roadway in this photo was demolished.",
+      "imageDate": "June 9, 2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Obsolete",
+        "note": "This bridge that was being driven on was demolished."
+      }
+    },
+    {
+      "file": "30m_driving_IMG_7428_20070609_wb_w_of_loop12_950.jpg",
+      "caption": "Just west of Loop 12",
+      "imageDate": "June 9, 2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Obsolete",
+        "note": "This section has been rebuilt with new concrete pavement."
+      }
+    },
+    {
+      "file": "30m_driving_IMG_7429_20070609_wb_new_pavement_950.jpg",
+      "caption": "Traffic transitions to a reconstructed/widened section just ahead.",
+      "imageDate": "June 9, 2007"
+    },
+    {
+      "file": "30m_driving_IMG_7430_20070609_grand_prairie_city_limit_950.jpg",
+      "caption": "This section features a wide set-aside in the center for HOV lanes. The HOV lanes opened on July 31, 2007. These HOV lanes were later made into managed lanes for toll-paying vehicles.",
+      "imageDate": "June 9, 2007"
+    },
+
+    {
+      "file": "30m_driving_IMG_7438_20070609_wb_nearing_19th_950.jpg",
+      "caption": "Approaching 19th Street, which is now the alignment of the Bush Turnpike.",
+      "imageDate": "June 9, 2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Partially obsolete",
+        "note": "A five-level interchange was built ahead for the Bush Turnpike (SH 161)."
+      }
+
+    },
+    {
+      "file": "30m_driving_IMG_7450_six_flags_950.jpg",
+      "caption": "The Six Flags Over Texas amusement park is on the south side of the freeway just west of SH 360",
+      "imageDate": "June 9, 2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Obsolete",
+        "note": "The freeway was rebuilt and widened at this location."
+      }
+
+    },
+    {
+      "file": "30m_driving_IMG_7455_wb_w_of_ballbark_way_950.jpg",
+      "caption": "West of Ballpark Way on the original freeway. This shows the original configuration of the freeway dating back to the Dallas-Fort Worth turnpike. This section was widened in 2010.",
+      "imageDate": "June 9, 2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Historical Archive",
+        "note": "This section was widened and reconfigured in 2010."
+      }
+
+    },
+    {
+      "file": "30m_driving_IMG_8672_eb_at_six_flags.jpg",
+      "caption": "This view is eastbound, just west of SH 360 alongside Six Flags Over Texas.",
+      "imageDate": "11-August-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Partially obsolete",
+        "note": "The freeway was rebuilt and widened at this location in 2010. Six Flags is the same."
+      }
+    },
+    {
+      "file": "30m_driving_IMG_8673_six_flags.jpg",
+      "caption": "This view is eastbound, just west of SH 360 alongside Six Flags Over Texas.",
+      "imageDate": "11-August-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Partially obsolete",
+        "note": "The freeway was rebuilt and widened at this location in 2010. Six Flags is the same."
+      }
+    }
+  ]
+
+}

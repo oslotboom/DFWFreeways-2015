@@ -250,6 +250,10 @@
     <Content Include="App_Data\chisholm-trail-parkway.json" />
     <Content Include="App_Data\chisholm-trail-parkway-roadside-opening.json" />
     <Content Include="App_Data\i30-dallas-construction-horseshoe.json" />
+    <Content Include="App_Data\i30-landry-archive-driving.json" />
+    <None Include="App_Data\i30-landry-archive-roadside.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <Content Include="App_Data\i635-driving.json" />
     <Content Include="App_Data\dnt-historical-prestonwood-town-center.json" />
     <None Include="App_Data\i20-dallas-roadside-dallas.json" />
@@ -260,6 +264,11 @@
     <Content Include="App_Data\i30-dallas-roadside-pedestrian-bridge.json" />
     <Content Include="App_Data\i30-dallas-construction-hubbard.json" />
     <Content Include="App_Data\i35e-north-construction-interchange-sh121.json" />
+    <Content Include="App_Data\i30-landry-roadside-sh360-interchange.json" />
+    <Content Include="App_Data\i35e-south-archive.json" />
+    <Content Include="App_Data\i35e-north-construction-phase2.json" />
+    <Content Include="App_Data\sh114-roadside.json" />
+    <Content Include="App_Data\loop12-driving-irving-interchange.json" />
     <None Include="App_Data\sh121-construction-2004.json" />
     <None Include="App_Data\sh121-construction-2004-frontage-roads.json" />
     <Content Include="App_Data\sh170-construction.json" />
@@ -319,6 +328,7 @@
     <Content Include="App_Data\oldRoadMaps.xsl" />
     <None Include="App_Data\sh114-roadside-dfw-connector.json" />
     <Content Include="App_Data\sh183-construction-irving-interchange.json" />
+    <Content Include="App_Data\sh170-driving-eastbound.json" />
     <None Include="App_Data\sh183-construction.json" />
     <Content Include="App_Data\sh183-construction-row.json" />
     <Content Include="App_Data\sh114.json" />
@@ -334,6 +344,7 @@
     <Content Include="App_Data\sh183-driving-irving.json" />
     <Content Include="App_Data\sh199-construction-lake-worth-bridge.json" />
     <Content Include="App_Data\sh183-archive-roadside.json" />
+    <Content Include="App_Data\sh183-roadside-irving-interchange.json" />
     <None Include="App_Data\spur366-roadside-bridge-clearance.json" />
     <Content Include="App_Data\spur366-roadside-bridge-site.json" />
     <Content Include="App_Data\spur366-roadside-klyde-warren-park.json" />
