@@ -63,17 +63,17 @@
       "caption": "This is on the east side of the High Five, looking toward the west",
       "imageDate": "20-Oct-2007"
     },
-    {
-      "file": "635_20070429_IMG_6307_at_us80_950.jpg",
-      "highResolution": "635_20070429_IMG_6307_at_us80_2592.jpg",
-      "caption": "Looking south at the US 80 interchange. The design of this interchange is very similar to the original I-30 interchange, which was demolished in 2022 for the LBJ East project.",
-      "imageDate": "29-Apr-2007"
-    },
+
     {
       "file": "635_20070429_IMG_6362_looking_n_at_gross_950.jpg",
       "highResolution": "635_20070429_IMG_6362_looking_n_at_gross_hires.jpg",
       "caption": "Looking north from Gross Road toward the US 80 interchange ahead.",
-      "imageDate": "29-Apr-2007"
+      "imageDate": "29-Apr-2007",
+      "imageStatus": {
+        "statusDate": "2025",
+        "status": "Modified",
+        "note": "The interchange ahead at US 80 was demolished and rebuilt. The $581 million construction contract was awarded in July 2024."
+      }
     },
     {
       "file": "635_20070429_IMG_6364_looking_north_at_new_market_950.jpg",

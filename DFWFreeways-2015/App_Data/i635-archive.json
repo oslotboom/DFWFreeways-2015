@@ -5,10 +5,10 @@
     "title": "Archive Photos",
     "urlParentText": "I-635",
     "subTitle": "Photos prior to LBJ Express and LBJ East",
-    "lastUpdated": "September 22, 2022 (create)"
+    "lastUpdated": "September 22, 2022 (create); updated June 26, 2025"
   },
   "map": "",
-  "text": "The photo archive includes photos of the original freeway prior to the construction of the LBJ Express project, between I-35E and US 75 completed in 2015, and the LBJ East project, between US 75 and I-30 scheduled for completion in 2024.",
+  "text": "The photo archive includes photos of the original freeway prior to the construction of the LBJ Express project, between I-35E and US 75 completed in 2015, and the LBJ East project, between US 75 and I-30 scheduled for completion in 2026. In 2025 work began to demolish and rebuild the interchange at US 80.",
   "images": [
     {
       "file": "635_20070324_IMG_4613_looking_w_e_of_webb_chapel_950.jpg",
@@ -122,6 +122,17 @@
         "statusDate": "2021",
         "status": "Archive",
         "note": "The interchange is being fully rebuilt with the LBJ East project, scheduled for completion in late 2024. The interchange shown in the photo was demolished in 2022."
+      }
+    },
+    {
+      "file": "635_20070429_IMG_6307_at_us80_950.jpg",
+      "highResolution": "635_20070429_IMG_6307_at_us80_2592.jpg",
+      "caption": "Looking south at the US 80 interchange. The design of this interchange is very similar to the original I-30 interchange, which was demolished in 2022 for the LBJ East project.",
+      "imageDate": "29-Apr-2007",
+      "imageStatus": {
+        "statusDate": "2025",
+        "status": "Archive",
+        "note": "In July 2024 a $581 million contract was awarded to to demolish and rebuild this interchange."
       }
     }
 

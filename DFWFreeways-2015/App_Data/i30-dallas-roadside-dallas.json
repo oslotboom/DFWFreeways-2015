@@ -4,22 +4,32 @@
   "pageHeader": {
     "title": "Roadside Views between Rockwall and East Dallas",
     "urlParentText": "I-30 Dallas",
-    "lastUpdated": "September 22, 2022 (update text, move photo to archive)"
+    "lastUpdated": "June 25, 2025 (update captions)"
   },
   "map": "30e.gif",
-  "text": "The LBJ East project began in 2021, and in 2022 the original interchange at I-635 LBJ Freeway was demolished. The original interchange opened in 1970 was the first modern-design four-level interchange in North Texas, and was the first of six interchanges which used the distintive \"double T\" central pylon. The I-30 archive photos include a viewe of the original interchange. <br /><br /> As of September 2022, these photos remain accurate, except for the view at Bass Pro road, where the interchange for the Bush Turnpike was built.",
+  "text": "The LBJ East project began in 2021, and in 2022 the original interchange at I-635 LBJ Freeway was demolished. The original interchange opened in 1970 was the first modern-design four-level interchange in North Texas, and was the first of six interchanges which used the distinctive \"double T\" central pylon. The I-30 archive photos include a view of the original interchange. <br /><br /> Projects to widen the freeway and add frontage roads on new bridges at the Lake Ray Hubbard crossing started in July 2021 (Bass Pro Dr. to Dalrock Rd.) and March 2023 (Dalrock Rd. to SH 205). The section from Dalrock to SH 205 is scheduled for completion in January 2027. <br /><br />TxDOT has long-term plans to rebuild and expand the freeway from I-635 to I-45. This work will occur in the 2030s or 2040s. <br /><br /> As of June 2025 these photos remain accurate except as noted.",
   "images": [
     {
       "file": "IMG_4949_30_hubbard_crossing_950_20070415.jpg",
       "highResolution": "IMG_4949_30_hubbard_crossing_2048_20070415.jpg",
       "caption": "Looking west from Horizon Street, with lake Ray Hubbard ahead",
-      "imageDate": "15-April-2007"
+      "imageDate": "15-April-2007",
+      "imageStatus": {
+        "statusDate": "2025",
+        "status": "Substantially modified",
+        "note": "Main lanes were widened to 4 in each direction and frontage roads on new bridges were added. Work on this section began in March 2023 with completion scheduled for January 2027."
+      }
     },
     {
       "file": "IMG_4960_30_at_dalrock_950_20070415.jpg",
       "highResolution": "IMG_4960_30_at_dalrock_2048_20070415.jpg",
       "caption": "Looking west from the DalRock road overpass, which is on a peninsula in Lake Ray Hubbard.",
-      "imageDate": "15-April-2007"
+      "imageDate": "15-April-2007",
+      "imageStatus": {
+        "statusDate": "2025",
+        "status": "Substantially modified",
+        "note": "Main lanes were widened to 4 in each direction and frontage roads on new bridges were added. A new direct connection ramp from eastbound I-30 to northbound Dalrock was built. Work on this section began in July 2021 with completion in 2025."
+      }
     },
     {
       "file": "IMG_4964_30_at_bass_pro_950_20070415.jpg",
@@ -28,7 +38,7 @@
       "imageDate": "15-April-2007",
       "imageStatus": {
         "statusDate": "2015",
-        "status": "Partially Obsolete",
+        "status": "Substantially modified",
         "note": "The interchange for the Bush Turnpike was built in the area ahead, opening in 2011. The I-30 main lanes remain about the same."
       }
 
@@ -54,7 +64,12 @@
     {
       "file": "IMG_4985_30_at_gus_thomasson_950_20070415.jpg",
       "caption": "Looking west at Gus Thomasson (west of Interstate 635)",
-      "imageDate": "15-April-2007"
+      "imageDate": "15-April-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Obsolete",
+        "note": "This interchange was rebuilt during the LBJ east project. Gus Thomasson previously went over I-30. After construction, I-30 went over Gus Thomasson. Work was substantially complete in 2025."
+      }
     },
     {
       "file": "IMG_5000_30_at_big_town_950_20070415.jpg",

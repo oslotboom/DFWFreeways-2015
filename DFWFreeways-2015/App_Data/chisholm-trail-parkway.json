@@ -1,55 +1,73 @@
 ﻿{
 
-    "pageHeader":
+  "pageHeader": {
+    "title": "Chisholm Trail Parkway",
+    "subTitle": "",
+    "lastUpdated": "June 27, 2025 (update status)"
+  },
+  "Title": "Chisholm Trail Parkway",
+  "Photo": {
+    "File": "filename.jpg",
+    "Caption": "This is the caption",
+    "Date": "12-January-2015"
+  },
+  "Text": "The Chisholm trail parkway opened in 2014. The south section from Crowley Plover Road/FM 1187 in Tarrant County to U.S. Highway 67 in Johnson County was built with only two lanes (one each way). In May 2025 NTTA approved a $189 million contract to build two additional main lanes in this section, bringing the toll road to a standard 4-lane freeway design. Construction began in summer 2025 and is scheduled for completion in late 2028.",
+  "Features": [
     {
-        "title": "Chisholm Trail Parkway",
-        "subTitle": "",
-        "lastUpdated": "February 8, 2018 (review)"
-    },
-    "Title": "Chisholm Trail Parkway",
-    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
-    "Text": "",
-    "Features":
-    [
+      "FeatureType": "Roadside",
+      "FeatureProperties": [
         {
-            "FeatureType": "Roadside",
-            "FeatureProperties": [ { "AnchorText": "Opening Celebration", "AnchorUrl": "roadside-opening" } ]
-        },
-        {
-            "FeatureType": "DriversViews",
-            "FeatureProperties":
-            [
-                { "AnchorText": "Northbound, Cleburn to Downtown", "AnchorUrl": "driving" }
-            ]
-        },
-        {
-            "FeatureType": "Book",
-            "FeatureProperties":
-            [
-                
-                { "BookText": "Chapter 11: Fort Worth Freeways", "Quickview": "ChFortWorthFreeways?startOdd=False&pdfSize=17+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-11-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-11-20140803.pdf" },
-                { "BookText": "Cancellation of SH 121 downtown section", "Quickview": "ExFWDowntownLoop?startOdd=True", "Pdf": "" }
-            ]
-        },
-        {
-            "FeatureType": "Construction",
-            "FeatureProperties": [ ]
-        },
-        {
-            "FeatureType": "Aerial",
-            "FeatureProperties":
-            [
-                { "AnchorText": "South Fort Worth", "AnchorUrl": "fort-worth" }
-
-            ]
-        },
-        {
-            "FeatureType": "Historical",
-            "FeatureProperties": [ ]
-        },
-        {
-            "FeatureType": "Video",
-            "FeatureProperties": [ ]
+          "AnchorText": "Opening Celebration",
+          "AnchorUrl": "roadside-opening"
         }
-    ]
+      ]
+    },
+    {
+      "FeatureType": "DriversViews",
+      "FeatureProperties": [
+        {
+          "AnchorText": "Northbound, Cleburn to Downtown",
+          "AnchorUrl": "driving"
+        }
+      ]
+    },
+    {
+      "FeatureType": "Book",
+      "FeatureProperties": [
+
+        {
+          "BookText": "Chapter 11: Fort Worth Freeways",
+          "Quickview": "ChFortWorthFreeways?startOdd=False&pdfSize=17+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-11-20140803.pdf",
+          "Pdf": "Dallas-Fort-Worth-Freeways-book-11-20140803.pdf"
+        },
+        {
+          "BookText": "Cancellation of SH 121 downtown section",
+          "Quickview": "ExFWDowntownLoop?startOdd=True",
+          "Pdf": ""
+        }
+      ]
+    },
+    {
+      "FeatureType": "Construction",
+      "FeatureProperties": []
+    },
+    {
+      "FeatureType": "Aerial",
+      "FeatureProperties": [
+        {
+          "AnchorText": "South Fort Worth",
+          "AnchorUrl": "fort-worth"
+        }
+
+      ]
+    },
+    {
+      "FeatureType": "Historical",
+      "FeatureProperties": []
+    },
+    {
+      "FeatureType": "Video",
+      "FeatureProperties": []
+    }
+  ]
 }

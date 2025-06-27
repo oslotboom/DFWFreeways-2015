@@ -6,10 +6,10 @@
         "title": "Driving Views",
         "subTitle": "Eastbound, Fort Worth",
         "urlParentText": "I-30 Tom Landry Highway",
-        "lastUpdated": "Create October 6, 2007, last updated June 1, 2015 (review only)"
+        "lastUpdated": "Create October 6, 2007, last reviewed June 27, 2025"
     },
     "map": "30m_fort_worth_500.gif",
-    "text": "2015 status: These photos remain accurate depictions.",
+    "text": "2025 status: These 2007 photos remain accurate depictions.",
     "images":
     [
         {
@@ -34,7 +34,7 @@
         },
         {
             "file": "30fw_sign_IMG_8337_20070729_tom_landry.jpg",
-            "caption": "\r\n\t\t\t\t\t\tThe freeway was officially named the Tom Landry highway in 2000 (local governments) and 2001 (TxDOT)",
+            "caption": "The freeway was officially named the Tom Landry highway in 2000 (local governments) and 2001 (TxDOT)",
             "imageDate": "29-July-2007"
         },
         {

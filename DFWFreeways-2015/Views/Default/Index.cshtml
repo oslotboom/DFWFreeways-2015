@@ -64,9 +64,9 @@
 
 
         <div>Home of the 2014 ebook <span class="semibold">Dallas-Fort Worth Freeways, Texas-Sized Ambition</span>, available for <span class="bold">free download</span> below. Also featuring extensive photography, historical information and a large collection of digitized <a href="@Url.Action("maps")"> old highway maps</a>.</div>
-        <div>
+        @*<div>
             <span class="announce">Recent updates:</span> 22-May-2024, add 105 new photos
-            
+
             <a href="@Url.Action("freeway", new { id = "sh183", detail="roadside-irving-interchange" })">25</a>
             <a href="@Url.Action("freeway", new { id = "loop12", detail="driving-irving-interchange" })">11</a>
             <a href="@Url.Action("freeway", new { id = "sh170", detail="driving-eastbound" })">18</a>
@@ -80,7 +80,14 @@
             <a href="@Url.Action("freeway", new { id = "sh183", detail="driving-irving" })">1</a>
             <a href="@Url.Action("freeway", new { id = "us75", detail="roadside-dallas" })">1</a>
 
-        </div>
+        </div>*@
+
+    <div>
+        <span class="announce">Recent updates:</span> 28-June-2025, site-wide updates of descriptions and captions
+        <a href="@Url.Action("freeway", new { id = "i635", detail="driving-20250311" })">New photos</a>
+    </div>
+
+
     </div>
     <div id="header-container">
         <a href="@Url.Action("maps")">

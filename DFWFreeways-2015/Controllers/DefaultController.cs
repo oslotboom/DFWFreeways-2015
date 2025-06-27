@@ -81,7 +81,7 @@ namespace DFWFreeways.Controllers
                 freewayHome = Deserialize<FreewayHome>(bytes);
                 freewayHome.PageHeader.Shield = GetShieldPath(id);
                 freewayHome.HighwayRouting = id;
-                freewayHome.FolderPath = ConfigurationManager.AppSettings["GoogleDrive"] + id + "/";
+                freewayHome.FolderPath = ConfigurationManager.AppSettings["AzureFileStorageFreeways"] + id + "/";
                 foreach (Feature feature in freewayHome.Features)
                 {
                     feature.IconText = IconText(feature.FeatureType);
@@ -96,7 +96,7 @@ namespace DFWFreeways.Controllers
             else
             {
                 PhotoPage photoPage = new PhotoPage();
-                string folderPath = ConfigurationManager.AppSettings["GoogleDrive"] + id + "/" + detail.Split('-').First() +"/";
+                string folderPath = ConfigurationManager.AppSettings["AzureFileStorageFreeways"] + id + "/" + detail.Split('-').First() +"/";
                 byte[] bytes = System.IO.File.ReadAllBytes(Request.PhysicalApplicationPath + "App_Data\\" + id + "-" + detail + ".json");
                 //strip off first three elements, which is the BOM byte sequence
                 bytes = bytes.Skip(3).ToArray();
@@ -120,7 +120,7 @@ namespace DFWFreeways.Controllers
             string id = (string)this.ControllerContext.RouteData.Values["id"];
 
                 PhotoPage photoPage = new PhotoPage();
-                string cloudFolderPath = ConfigurationManager.AppSettings["GoogleDrive"] +  "photos/" + id + "/";
+                string cloudFolderPath = ConfigurationManager.AppSettings["AzureFileStorageFreeways"] +  "photos/" + id + "/";
             string filePath = Request.PhysicalApplicationPath + "PhotoPages\\" + id + ".json";
             if (!System.IO.File.Exists(filePath)) {
                 return View("PageNotFound");
@@ -205,7 +205,7 @@ namespace DFWFreeways.Controllers
             string xmlFile = Server.MapPath("~/App_Data/oldRoadMaps.xml");
             string xsltFile = Server.MapPath("~/App_Data/oldRoadMaps.xsl");
 
-            string imagePath = ConfigurationManager.AppSettings["GoogleDrive"] + "old-highway-maps/";
+            string imagePath = ConfigurationManager.AppSettings["AzureFileStorageFreeways"] + "old-highway-maps/";
 
             Maps model = new Maps("Old Highway Maps of Texas ", xmlFile, xsltFile, imagePath,
                 new PageHeader("Old Highway Maps of Texas","1917-1973",string.Empty,string.Empty,string.Empty, "June 1, 2015 (add 1957 Fort Worth)")

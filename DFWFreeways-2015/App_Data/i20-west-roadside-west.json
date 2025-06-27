@@ -6,58 +6,63 @@
         "title": "Roadside Views",
         "subTitle": "Southwest Fort Worth",
         "urlParentText": "I-20 West",
-        "lastUpdated": "Created September 23, 2007. Reviewed February 8, 2018."
+        "lastUpdated": "Created September 23, 2007. Updated June 27, 2025."
     },
     "map": "20_map_west_650.gif",
-    "text": "2018 status: Changes since the photos were taken are minimal, and these photos are still accurate.",
-    "images":
-    [
-        {
-            "file": "20_20070415_ground_e_of_30_950_IMG_5285.jpg",
-            "highResolution": "20_20070415_ground_e_of_30_IMG_5285.jpg",
-            "caption": "East of Interstate 30, looking east",
-            "imageDate": "15-April-2007"
-        },
-        {
-            "file": "20_20070415_ground_w_of_markum_ranch_IMG_5277.jpg",
-            "caption": "Looking east, west of Markum Ranch Road",
-            "imageDate": "15-April-2007"
-        },
-        {
-            "file": "20_20070415_at_markum_ranch_950_IMG_5273.jpg",
-            "highResolution": "20_20070415_at_markum_ranch_1600_IMG_5273.jpg",
-            "caption": "West of Markum Ranch road",
-            "imageDate": "15-April-2007"
-        },
-        {
-            "file": "20_20070415_ground_w_of_markum_ranch_950_IMG_5278.jpg",
-            "caption": "Downtown Fort Worth is visible in the distance",
-            "imageDate": "15-April-2007"
-        },
-        {
-            "file": "20_20070415_ground_looking_e_950_IMG_5292.jpg",
-            "highResolution": "20_20070415_ground_looking_e_2048_IMG_5292.jpg",
-            "caption": "Alongside the eastbound lanes",
-            "imageDate": "15-April-2007"
-        },
-        {
-            "file": "20_west_of_markum_ranch_future_road_950IMG_5276.jpg",
-            "caption": "There are two or three unused overpasses over I-20, inaccessible by vehicle. I parked on the main lanes shoulder and walked up to this overpass.",
-            "imageDate": "15-April-2007"
-        },
-        {
-            "file": "20_20070415_at_820_950_IMG_5271.jpg",
-            "highResolution": "20_20070415_at_820_2602_IMG_5271.jpg",
-            "caption": "Approaching Interstate 820",
-            "imageDate": "15-April-2007"
-        },
-        {
-            "file": "20_20070415_at_820_950_IMG_5268.jpg",
-            "highResolution": "20_20070415_at_820_2472_IMG_5268.jpg",
-            "caption": "Looking east toward the Interstate 820 interchange.",
-            "imageDate": "15-April-2007"
-        }
+    "text": "2025 status: These 2007 photos remain accurate for the main lanes. In 2026 work was completed to add two new intersections on this segment of I-20, at the future Walsh Ranch Parkway and the future Bentley Drive (see image below).",
+  "images": [
+    {
+      "file": "keepi2030moving-overview-construction-projects-boundaries-map.webp",
+      "highResolution": "",
+      "caption": "This TxDOT graphic shows the improvements added to this section of I-20, which includes new intersections at the future Walsh Ranch Parkway and the future Bentley Drive. This project (Project 1 in the graphic) began in August 2023 and was scheduled to be completed by early 2026.",
+      "imageDate": ""
+    },
+    {
+      "file": "20_20070415_ground_e_of_30_950_IMG_5285.jpg",
+      "highResolution": "20_20070415_ground_e_of_30_IMG_5285.jpg",
+      "caption": "East of Interstate 30, looking east",
+      "imageDate": "15-April-2007"
+    },
+    {
+      "file": "20_20070415_ground_w_of_markum_ranch_IMG_5277.jpg",
+      "caption": "Looking east, west of Markum Ranch Road",
+      "imageDate": "15-April-2007"
+    },
+    {
+      "file": "20_20070415_at_markum_ranch_950_IMG_5273.jpg",
+      "highResolution": "20_20070415_at_markum_ranch_1600_IMG_5273.jpg",
+      "caption": "West of Markum Ranch road",
+      "imageDate": "15-April-2007"
+    },
+    {
+      "file": "20_20070415_ground_w_of_markum_ranch_950_IMG_5278.jpg",
+      "caption": "Downtown Fort Worth is visible in the distance",
+      "imageDate": "15-April-2007"
+    },
+    {
+      "file": "20_20070415_ground_looking_e_950_IMG_5292.jpg",
+      "highResolution": "20_20070415_ground_looking_e_2048_IMG_5292.jpg",
+      "caption": "Alongside the eastbound lanes",
+      "imageDate": "15-April-2007"
+    },
+    {
+      "file": "20_west_of_markum_ranch_future_road_950IMG_5276.jpg",
+      "caption": "There are two or three unused overpasses over I-20, inaccessible by vehicle. I parked on the main lanes shoulder and walked up to this overpass.",
+      "imageDate": "15-April-2007"
+    },
+    {
+      "file": "20_20070415_at_820_950_IMG_5271.jpg",
+      "highResolution": "20_20070415_at_820_2602_IMG_5271.jpg",
+      "caption": "Approaching Interstate 820",
+      "imageDate": "15-April-2007"
+    },
+    {
+      "file": "20_20070415_at_820_950_IMG_5268.jpg",
+      "highResolution": "20_20070415_at_820_2472_IMG_5268.jpg",
+      "caption": "Looking east toward the Interstate 820 interchange.",
+      "imageDate": "15-April-2007"
+    }
 
-    ]
+  ]
 
 }

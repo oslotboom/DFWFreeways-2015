@@ -1,55 +1,62 @@
 ﻿{
 
-    "pageHeader":
+  "pageHeader": {
+    "title": "SH 199",
+    "subTitle": "",
+    "lastUpdated": "June 27, 2025"
+  },
+  "Title": "SH 199",
+  "Photo": {
+    "File": "filename.jpg",
+    "Caption": "This is the caption",
+    "Date": "12-January-2015"
+  },
+  "Text": "In 2025 SH 199 has freeway sections mixed in with non-freeway sections. A three-mile section between Lake Worth and Azle was upgraded to freeway standards and opened in 2018.<br /><br /> In 2020 work began on the Lake Worth bridge. The westbound bridge main lanes opened on May 8, 2025.<br /><br />  There are long-term plans to build the main lanes between the Lake Worth crossing and I-820. TxDOT held a public meeting in November 2024 showing two options, one with SH 199 at-grade with overpasses and one with SH 199 below grade. As of 2025 the project is not funded and not scheduled for construction.",
+  "Features": [
     {
-        "title": "SH 199",
-        "subTitle": "",
-        "lastUpdated": "June 1, 2015"
+      "FeatureType": "Roadside",
+      "FeatureProperties": []
     },
-    "Title": "SH 199",
-    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
-    "Text": "In 2018 SH 199 has freeway sections mixed in with non-freeway sections. A three-mile section between Lake Worth and Azle was upgraded to freeway standards and opened in 2018. In 2020 work began on the Lake Worth bridge. There are long-term plans to upgrade all of the corridor west of I-820 to a freeway, but no schedule for completing the remaining section to IH 635 as of 2018.",
-    "Features":
-    [
+    {
+      "FeatureType": "DriversViews",
+      "FeatureProperties": []
+    },
+    {
+      "FeatureType": "Book",
+      "FeatureProperties": [
         {
-            "FeatureType": "Roadside",
-            "FeatureProperties": [ ]
-        },
-        {
-            "FeatureType": "DriversViews",
-            "FeatureProperties": [ ]
-        },
-        {
-            "FeatureType": "Book",
-            "FeatureProperties":
-            [
-                { "BookText": "Chapter 11: Fort Worth Freeways", "Quickview": "ChFortWorthFreeways?startOdd=False&pdfSize=17+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-11-20140803.pdf", "Pdf": "Dallas-Fort-Worth-Freeways-book-11-20140803.pdf" }
-            ]
-        },
-        {
-            "FeatureType": "Construction",
-          "FeatureProperties": [
-            {
-              "AnchorText": "Lake Worth bridge construction, 2020-2023",
-              "AnchorUrl": "construction-lake-worth-bridge"
-            }
-
-          ]
-        },
-        {
-            "FeatureType": "Aerial",
-            "FeatureProperties":
-            [
-                { "AnchorText": "Aerial views", "AnchorUrl": "frontage" }
-           ]
-        },
-        {
-            "FeatureType": "Historical",
-            "FeatureProperties": [ ]
-        },
-        {
-            "FeatureType": "Video",
-            "FeatureProperties": [ ]
+          "BookText": "Chapter 11: Fort Worth Freeways",
+          "Quickview": "ChFortWorthFreeways?startOdd=False&pdfSize=17+MB&pdfFile=Dallas-Fort-Worth-Freeways-book-11-20140803.pdf",
+          "Pdf": "Dallas-Fort-Worth-Freeways-book-11-20140803.pdf"
         }
-    ]
+      ]
+    },
+    {
+      "FeatureType": "Construction",
+      "FeatureProperties": [
+        {
+          "AnchorText": "Lake Worth bridge construction, 2020-2023",
+          "AnchorUrl": "construction-lake-worth-bridge"
+        }
+
+      ]
+    },
+    {
+      "FeatureType": "Aerial",
+      "FeatureProperties": [
+        {
+          "AnchorText": "Aerial views",
+          "AnchorUrl": "frontage"
+        }
+      ]
+    },
+    {
+      "FeatureType": "Historical",
+      "FeatureProperties": []
+    },
+    {
+      "FeatureType": "Video",
+      "FeatureProperties": []
+    }
+  ]
 }

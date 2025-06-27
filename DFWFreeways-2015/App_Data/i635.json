@@ -4,11 +4,11 @@
     {
         "title": "Interstate 635",
         "subTitle": "LBJ Freeway",
-        "lastUpdated": "Sept 22, 2022"
+        "lastUpdated": "June 26, 2025"
     },
     "Title": "Interstate 635 LBJ Freeway",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
-    "Text": "The $1.7 billion LBJ East project, from just east of US 75 to I-30 and including a complete rebuild of the I-30 interchange, is scheduled for completion in late 2024.",
+    "Text": "The $1.74 billion LBJ East project, from just east of US 75 to I-30 and including a complete rebuild of the I-30 interchange, began in spring 2020. It was originally scheduled for completion in late 2024, but as of June 2025 it appears that completion will occur in 2026.",
     "Features":
     [
         {
@@ -32,7 +32,14 @@
             "FeatureType": "DriversViews",
             "FeatureProperties":
             [
-                { "AnchorText": "2015, LBJ Express complete", "AnchorUrl": "driving" }
+              {
+                "AnchorText": "2015, LBJ Express complete",
+                "AnchorUrl": "driving"
+              },
+              {
+                "AnchorText": "LBJ East construction zone drive-thru",
+                "AnchorUrl": "driving-20250311"
+              }
             ]
         },
         {
@@ -67,10 +74,10 @@
                 { "AnchorText": "At I-35E Stemmons Freeway", "AnchorUrl": "i35e" },
                 { "AnchorText": "Farmers Branch, Original Design", "AnchorUrl": "farmers-branch" },
                 { "AnchorText": "At Preston Road, Original Design", "AnchorUrl": "preston" },
-                { "AnchorText": "At the Dallas North Tollway", "AnchorUrl": "dnt" },
-                { "AnchorText": "Garland", "AnchorUrl": "garland" },
-                { "AnchorText": "At I-30", "AnchorUrl": "i30" },
-                { "AnchorText": "At US 80", "AnchorUrl": "us80" },
+                { "AnchorText": "At the Dallas North Tollway, Original Design", "AnchorUrl": "dnt" },
+                { "AnchorText": "Garland, Original Design", "AnchorUrl": "garland" },
+                { "AnchorText": "At I-30, Original Interchange", "AnchorUrl": "i30" },
+                { "AnchorText": "At US 80, Original Interchange", "AnchorUrl": "us80" },
                 { "AnchorText": "At I-20", "AnchorUrl": "i20" }
 
             ]

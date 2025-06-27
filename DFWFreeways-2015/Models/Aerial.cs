@@ -152,7 +152,7 @@ namespace DFWFreeways.Models
                 case "i635_i35e": info = new string[] { "I-635 at I-35E Stemmons Freeway", "Original Interchange, prior to the LBJ Express", "I-635", "June 1, 2015", "I-635 at I-35E" }; break;
                 case "i635_dnt": info = new string[] { "Archive: I-635 at the Dallas North Tollway", "Original interchange before the LBJ Express", "I-635", "June 1, 2015","" }; break;
                 case "i635_i30": info = new string[] { "Archive: Original Interchange I-635 at I-30", "Interchange replaced in 2024 by LBJ East Project", "I-635", "June 1, 2015","" }; break;
-                case "i635_us80": info = new string[] { "I-635 at US 80", "", "I-635", "Sept 15, 2022","" }; break;
+                case "i635_us80": info = new string[] { "Archive: Original Interchange I-635 at US 80", "Interchange demolished and reconstructed 2025-2028", "I-635", "June 26, 2025","" }; break;
                 case "i635_i20": info = new string[] { "I-635 at I-20", "", "I-635", "Sept 15, 2022","" }; break;
                 case "i635_preston": info = new string[] { "Archive: Original Freeway at Preston Road", "Before the LBJ Express", "I-635", "June 1, 2015","" }; break;
                 case "i635_farmers_branch": info = new string[] { "Archive: Original Freeway in Farmers Branch", "Before the LBJ Express", "I-635", "June 1, 2015","" }; break;
@@ -164,7 +164,7 @@ namespace DFWFreeways.Models
                 case "us75_loop12": info = new string[] { "US 75 from Mockingbird to Loop 12", "", "US 75", "Sept 15, 2022 (review only)", "US 75 in Dallas" }; break;
                 case "us75_bush": info = new string[] { "US 75 at the Bush Turnpike", "Telecom Corridor", "US 75", "February 3, 2018 (update for work on US 75 north of interchange)","" }; break;
                 case "us80_all": info = new string[] { "US 80 All Aerials", "", "US 80", "June 1, 2015","US 80 in Dallas" }; break;
-                case "us80_i635": info = new string[] { "US 80 at I-635", "", "US 80", "Sept 15, 2022","" }; break;
+                case "us80_i635": info = new string[] { "Archive: Original Interchange US 80 at I-635", "Interchange demolished and reconstructed 2025-2028", "US 80", "June 26, 2025","" }; break;
                 case "us80_i30": info = new string[] { "US 80 at I-30", "", "US 80", "June 1, 2015","" }; break;
                 case "us175_all": info = new string[] { "US 175 All Aerials", "", "US 175", "June 1, 2015","" }; break;
                 case "us175_dallas": info = new string[] { "Archive: S.M. Wright Freeway", "Freeway was removed 2021-2023, replaced with S.M. Wright Boulevard", "US 175", "September 12, 2020 (update caption)","" }; break;
@@ -220,7 +220,7 @@ namespace DFWFreeways.Models
                 case "i30_landry_i35w": info = new string[] { "I-30 at I35W", "The Fort Worth Mixmaster", "I-30 Landry Highway", "February 9, 2018 (review)","" }; break;
                 case "i30_landry_lone_star": info = new string[] { "Lone Star Park Horse Track", "", "I-30 Landry Highway", "June 1, 2015","" }; break;
                 case "i30_landry_trinity": info = new string[] { "Original Trinity River Bridge", "For Historical Reference", "I-30 Landry Highway", "February 8, 2018","I-30 Original Trinity bridge" }; break;
-                case "sh360_i30": info = new string[] { "SH 360 at I-30 and Six Flags", "", "SH 360", "May 22, 2024","Six Flags Over Texas" }; break;
+                case "sh360_i30": info = new string[] { "SH 360 at I-30 and Six Flags", "Includes archive views of the original interchange", "SH 360", "May 22, 2024","Six Flags Over Texas" }; break;
                 case "i20_west_all": info = new string[] { "I-20 All Aerials", "Fort Worth", "I-20 Fort Worth", "June 1, 2015 (create)","I-20 Fort Worth" }; break;
                 case "i20_west_i35w": info = new string[] { "I-20 at I-35W", "South Fort Worth", "I-20 Fort Worth", "Feb 8, 2018 (review)","" }; break;
                 case "i20_west_fort_worth": info = new string[] { "I-20 South Fort Worth", "Includes views before construction of the Chisholm Trail Parkway", "I-20 Fort Worth", "Sept 22, 2022 (review)","" }; break;
@@ -242,7 +242,7 @@ namespace DFWFreeways.Models
                 case "i820_i30_east": info = new string[] { "At I-30 East", "", "I-820", "June 1, 2015 (create)", "I-820 at I-30 east" }; break;
                 case "i820_i35w": info = new string[] { "At I-35W North Fort Worth", "Photos for Historical Reference", "I-820", "June 1, 2015 (create); February 8, 2018 (review)","I-820 at I-35W" }; break;
                 case "us287_south_freeway": info = new string[] { "US 287 MLK Freeway", "At Erath Street", "US 287 South", "June 1, 2015 (create)","" }; break;
-                case "sh199_frontage": info = new string[] { "SH 199", "Lake Worth", "SH 199", "June 1, 2015 (create); Sept 15, 2022 (update for main lanes at Lake Worth)","" }; break;
+                case "sh199_frontage": info = new string[] { "SH 199", "Lake Worth", "SH 199", "June 1, 2015 (create); June 27, 2025 (update for main lanes at Lake Worth)","" }; break;
                 case "sh170_frontage": info = new string[] { "Archive: SH 170 before main lane construction", "Main lanes were added in 2023", "SH 170", "June 1, 2015 (create); Sept 15, 2022 (designate images as archive)", "" }; break;
                 case "downtown_gallery": info = new string[] { "Downtown Dallas Aerial Views", "2005, 2009 and 2012", "", "June 1, 2015 (create)", "" }; break;
             }
@@ -301,7 +301,7 @@ namespace DFWFreeways.Models
                 case "i30_landry_trinity": text = "Construction began on the new bridges in 2014, and the bridges were completed in 2017. The new bridge features two pedestrian bridges with long-span signature arches."; break;
                 case "i30_landry_stadiums": text = "Construction on the new $1.1 billion Rangers stadium began in 2017 immediately south of the existing stadium."; break;
                 case "chisholm_trail_parkway_fort_worth": text = "These views show the location where the interchange at I-20 and the Chisholm Trail Parkway was built, opened in 2014."; break;
-                case "sh199_frontage": text = "This section of SH 199 just west of I-820 is in a frontage road configuration. As of 2022 the construction of the main lanes in the area shown in the photos is not scheduled. Construction of main lane bridges at Lake Worth, in the upper parts of these images, was completed in 2023. Further west, SH 199 has sections with freeway main lanes. A three-mile section was upgraded to freeway status in 2018."; break;
+                case "sh199_frontage": text = "This section of SH 199 just west of I-820 is in a frontage road configuration. As of 2025 the construction of the main lanes in the area shown in the photos is not scheduled. Construction of main lane bridges at Lake Worth, in the upper parts of these images, started in 2020 and was completed in 2025. Further west, SH 199 has sections with freeway main lanes. A three-mile section was upgraded to freeway status in 2018."; break;
                 case "sh170_frontage": text = "The SH 170 frontage roads opened in 1992. The main lanes were originally planned to be tolled, but funding became available to build toll-free main lanes, with construction underway in 2021 and the main lanes opened in sections in February and March 2024."; break;
                 case "us175_dallas": text = " The new section of freeway which replaced the S.M. Wright Freeway opened in July 2020. Work to remove the S.M Wright Freeway and build a boulevard on its location took place from 2021 to 2023."; break;
                 case "i35e_south_downtown": text = "New bridges were built 2014-2017 and these photos are obsolete. These photos are for historical reference."; break;

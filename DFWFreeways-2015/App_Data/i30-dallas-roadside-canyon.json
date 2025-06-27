@@ -4,10 +4,10 @@
   "pageHeader": {
     "title": "Roadside Views of the Downtown Canyon",
     "urlParentText": "I-30 Dallas",
-    "lastUpdated": "Sept 15, 2022 (update caption, move photo to archive)"
+    "lastUpdated": "March 12, 2025 (update for construction contract, add pre-construction photos)"
   },
   "map": "30d_downtown.gif",
-  "text": "This downtown section of freeway was opened in November 1965 (collector lanes, Akard to Harwood) and April 28, 1966 (main lanes). Changes have been minimal since the original opening, and the photos below are still accurate as of 2022. <br /><br />The downtown Mixmaster is at the west end of this section. Reconstruction of the Mixmaster was completed in 2017. See the I-30 archive photos for a view of the original I-30 entrance to the Mixmaster. <br /><br />This section of freeway is scheduled to be fully rebuilt. As of this writing in September 2022, the project cost is listed at $467 million with estimated letting date February 2025.",
+  "text": "This downtown section of I-30 was opened in November 1965 (collector lanes, Akard to Harwood) and April 28, 1966 (main lanes). Until 2026, changes were minimal since the original opening. <br /><br />The downtown Mixmaster is at the west end of this section. Reconstruction of the Mixmaster was completed in 2017. See the I-30 archive photos for a view of the original I-30 entrance to the Mixmaster. <br /><br />In February 2025 TxDOT awarded a contract for reconstruction of the downtown Canyon. The reconstruction will have 12 main lanes in 6x6 configuration with all lanes in each direction together without any separation, removing the current collector lanes. The \"island\" between the east and west lanes, with connections to surface streets, will be eliminated. The winning bid was $888.7 million by Balfour Beatty Infrastructure. This low bid was much higher than estimates. As of September 2022, the project cost was listed at $467 million. The estimate at bidding time was $795.3 million.",
   "images": [
 
     {
@@ -34,18 +34,59 @@
       "imageDate": "10-March-2007"
     },
     {
+      "file": "20250310-11_DFW_043-1100.jpg",
+      "highResolution": "20250310-11_DFW_043-2800.jpg",
+      "caption": "This photo shows the same view as the above photo, exactly 18 years later. There were no changes to the freeway between 2007 and 2025, except that the retaining wall on the left was painted and light fixtures were removed.",
+      "imageDate": "10-March-2025"
+    },
+    {
       "file": "30d_IMG_4249_20070310_looking_e_at_cadiz_950.jpg",
       "highResolution": "30d_IMG_4249_20070310_looking_e_at_cadiz_2592.jpg",
-      "caption": "Looking east from the Cadiz overpass",
+      "caption": "Looking east from the Cadiz overpass, with the Akard overpass ahead.",
       "imageDate": "10-March-2007"
+    },
+    {
+      "file": "20250310-11_DFW_034-1100.jpg",
+      "highResolution": "20250310-11_DFW_034-2600.jpg",
+      "caption": "This photo shows the same view as the above photo, exactly 18 years later. The freeway structure is unchanged in the 18 year period. There is a change to the signage, and the hotel became the Lorenzo Hotel, which happened prior to 2015.",
+      "imageDate": "10-March-2025"
     },
     {
       "file": "30d_IMG_4248_20070310_looking_e_at_lamar_950.jpg",
       "highResolution": "30d_IMG_4248_20070310_looking_e_at_lamar_2048.jpg",
       "caption": "Looking east from the Lamar overpass",
       "imageDate": "10-March-2007"
+    },
+    {
+      "file": "20250310-11_DFW_017-1100.jpg",
+      "highResolution": "20250310-11_DFW_017-2600.jpg",
+      "caption": "Looking west from the Ervay overpass in March 2025, just before construction began.",
+      "imageDate": "10-March-2025"
+    },
+    {
+      "file": "20250310-11_DFW_021-1100.jpg",
+      "highResolution": "20250310-11_DFW_021-2500.jpg",
+      "caption": "Looking west from the Griffin overpass in March 2025, just before construction began.",
+      "imageDate": "10-March-2025"
+    },
+    {
+      "file": "20250310-11_DFW_014-1100.jpg",
+      "highResolution": "20250310-11_DFW_014-3000.jpg",
+      "caption": "Looking east at the Ervay bridge, just before construction began. The new Ervay bridge will no longer have a connection to Griffin.",
+      "imageDate": "10-March-2025"
+    },
+    {
+      "file": "20250310-11_DFW_025-1100.jpg",
+      "highResolution": "",
+      "caption": "This view shows the ground-level \"island\" between the main lanes. The island had connections to Ervay, Griffin and Saint Paul. The island is removed in the new design.",
+      "imageDate": "10-March-2025"
+    },
+    {
+      "file": "20250310-11_DFW_027-1100.jpg",
+      "highResolution": "",
+      "caption": "This view looks east along the eastbound main lanes, with the central \"island\" on the left.",
+      "imageDate": "10-March-2025"
     }
-
 
   ]
 

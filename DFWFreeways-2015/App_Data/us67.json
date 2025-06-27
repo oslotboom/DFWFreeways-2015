@@ -53,11 +53,11 @@
       "FeatureType": "Historical",
       "FeatureProperties": [
         {
-          "AnchorText": "Archive, roadside views before the Southern Gateway project.",
+          "AnchorText": "Archive, roadside views before the Southern Gateway project",
           "AnchorUrl": "archive-roadside"
         },
         {
-          "AnchorText": "Archive, driver's views before the Southern Gateway project.",
+          "AnchorText": "Archive, driver's views before the Southern Gateway project",
           "AnchorUrl": "archive-driving"
         }
       ]

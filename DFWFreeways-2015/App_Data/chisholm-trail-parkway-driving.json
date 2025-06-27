@@ -1,214 +1,243 @@
 ﻿{
-    "folderPath": "",
-    "title": "Chisholm Trail Parkway photos",
-    "pageHeader":
+  "folderPath": "",
+  "title": "Chisholm Trail Parkway photos",
+  "pageHeader": {
+    "title": "Chisholm Trail Parkway Driving Views",
+    "subTitle": "Northbound, Cleburne to Downtown Fort Worth",
+    "urlParentText": "Chisholm Trail Parkway",
+    "lastUpdated": "created June 1, 2015; updated June 27, 2025"
+  },
+  "map": "",
+  "text": "The Chisholm Trail Parkway opened in May 2014. There was still construction in progress at the I-30 interchange in 2014, and all work was completed in 2015. In April 2016 I added photos of the completed project approaching I-30. <br /> <br />The south section from Crowley Plover Road/FM 1187 in Tarrant County to U.S. Highway 67 in Johnson County was built with only two lanes (one each way). In May 2025 NTTA approved a $189 million contract to build two additional main lanes in this section, bringing the toll road to a standard 4-lane limited-access design. Construction began in summer 2025 and completion is scheduled for late 2028. Six photos in this collection will become obsolete when the expansion project is completed, as noted with the photos.",
+  "images": [
     {
-        "title": "Chisholm Trail Parkway Driving Views",
-        "subTitle": "Northbound, Cleburne to Downtown Fort Worth",
-        "urlParentText": "Chisholm Trail Parkway",
-        "lastUpdated": "June 1, 2015 (create); April 18, 2016 (use new photos at north end)"
+      "file": "20141109_6526-900.jpg",
+      "caption": "The south entrance to the Chisholm Trail Parkway is from US 67 on the north side of Cleburne.",
+      "imageDate": "9-November-2014"
     },
-    "map": "",
-    "text": "The Chisholm Trail Parkway opened in May 2014. There was still construction in progress at the I-30 interchange in 2014, and all work was completed in 2015. In April 2016 I added photos of the completed project approaching I-30.",
-    "images":
-    [
-        {
-            "file": "20141109_6526-900.jpg",
-            "caption": "The south entrance to the Chisholm Trail Parkway is from US 67 on the north side of Cleburne.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6529-1050.jpg",
-            "caption": "The first section is a standard four-lane divided highway.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6530-1000.jpg",
-            "caption": "The highway becomes a super-2 design and stays that way for a while. A super-2 is a limited-access highway with only one lane in each direction, usually with a median barrier.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6531-1050.jpg",
-            "caption": "The first toll plaza. There are three plazas on the full length.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6534-1050.jpg",
-            "caption": "Approaching FM 917.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6536-1050.jpg",
-            "caption": "The FM 917 overpass is designed to accommodate the southbound lanes on the left side in the future.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6540-1050.jpg",
-            "caption": "Approaching FM 1902",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6542-1050.jpg",
-            "caption": "",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6545-1100.jpg",
-            "caption": "At FM 1187 the super-2 configuration ends and the highway becomes a standard 4-lane divided design.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6547-1050.jpg",
-            "caption": "The second toll plaza, quite expensive.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6549-1100.jpg",
-            "caption": "",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6550-1100.jpg",
-            "caption": "At Sycamore School Road we are in south Fort Worth",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6551-1100.jpg",
-            "caption": "The speed limit is 70 mph on this section, but will drop when we cross I-20.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6553-1100.jpg",
-            "caption": "",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6555-1100.jpg",
-            "caption": "From this point onward, the parkway is heavily landscaped. Here we see a landscaped berm in the median.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6556-1100.jpg",
-            "caption": "Approaching Interstate 20",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6558-1100.jpg",
-            "caption": "",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6561-1200.jpg",
-            "caption": "At the I-20 interchange. Some of the connectors were omitted to reduce cost. Movements in the directions of the missing connectors is done via the frontage roads.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6562-1200.jpg",
-            "caption": "",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6564-1050.jpg",
-            "caption": "",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6565-1050.jpg",
-            "caption": "The section from I-20 to I-30 caused a lot of public opposition during the planning phase.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6566-1100.jpg",
-            "caption": "",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6568-1000.jpg",
-            "caption": "",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6569-1200.jpg",
-            "caption": "The section ahead looks like an actual parkway with forest on both sides.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6571-1100.jpg",
-            "caption": "Architectural enhancement at the Trinity River crossing.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6572-1100.jpg",
-            "caption": "At Edwards Ranch. This was the location of the large opening celebration in May 2014.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6575-1100.jpg",
-            "caption": "Ahead the parkway will cross over the railroad yard.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6577-1100.jpg",
-            "caption": "Hulen crosses over the parkway.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6579-1200.jpg",
-            "caption": "The Union Pacific Davidson rail yard is visible on the right. Delays and extra cost were incurred to develop a design and construction plan which prevented disruptions to rail yard operations.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20141109_6581-900.jpg",
-            "caption": "The last toll plaza. The toll for the full length is $4.64.",
-            "imageDate": "9-November-2014"
-        },
-        {
-            "file": "20160325-27-0297-1100.jpg",
-            "caption": "At Mongomery Street",
-            "imageDate": "26-March-2016"
-        },
-        {
-            "file": "20160325-27-0298-1100.jpg",
-            "caption": "",
-            "imageDate": "26-March-2016"
-        },
-        {
-            "file": "20160325-27-0299-1000.jpg",
-            "caption": "",
-            "imageDate": "26-March-2016"
-        },
-        {
-            "file": "20160325-27-0300-1100.jpg",
-            "caption": "",
-            "imageDate": "26-March-2016"
-        },
-        {
-            "file": "20160325-27-0302-1100.jpg",
-            "caption": "Notice the architectural enhancements on the left",
-            "imageDate": "26-March-2016"
-        },
-        {
-            "file": "20160325-27-0303-1000.jpg",
-            "caption": "",
-            "imageDate": "26-March-2016"
-        },
-        {
-            "file": "20160325-27-0304-1200.jpg",
-            "caption": "",
-            "imageDate": "26-March-2016"
-        },
-        {
-            "file": "20160325-27-0305-1200.jpg",
-            "caption": "",
-            "imageDate": "26-March-2016"
-        },
-        {
-            "file": "20160325-27-0306-1200.jpg",
-            "caption": "Merging into I-30 eastbound just ahead.",
-            "imageDate": "26-March-2016"
-        }
+    {
+      "file": "20141109_6529-1050.jpg",
+      "caption": "The first section is a standard four-lane divided highway.",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6530-1000.jpg",
+      "caption": "The highway becomes a super-2 design and stays that way for a while. A super-2 is a limited-access highway with only one lane in each direction, usually with a median barrier.",
+      "imageDate": "9-November-2014",
+      "imageStatus": {
+        "statusDate": "2025",
+        "status": "Will be obsolete in 2028",
+        "note": "Construction on the southbound main lanes began in summer 2025 and is scheduled for completion in 2028. The roadway shown will become the northbound lanes."
+      }
+
+    },
+    {
+      "file": "20141109_6531-1050.jpg",
+      "caption": "The first toll plaza. There are three plazas on the full length.",
+      "imageDate": "9-November-2014",
+      "imageStatus": {
+        "statusDate": "2025",
+        "status": "Will be obsolete in 2028",
+        "note": "Construction on the southbound main lanes began in summer 2025 and is scheduled for completion in 2028. The roadway shown will become the northbound lanes."
+      }
+    },
+    {
+      "file": "20141109_6534-1050.jpg",
+      "caption": "Approaching FM 917.",
+      "imageDate": "9-November-2014",
+      "imageStatus": {
+        "statusDate": "2025",
+        "status": "Will be obsolete in 2028",
+        "note": "Construction on the southbound main lanes began in summer 2025 and is scheduled for completion in 2028. The roadway shown will become the northbound lanes."
+      }
+    },
+    {
+      "file": "20141109_6536-1050.jpg",
+      "caption": "The FM 917 overpass is designed to accommodate the southbound lanes on the left side in the future.",
+      "imageDate": "9-November-2014",
+      "imageStatus": {
+        "statusDate": "2025",
+        "status": "Will be obsolete in 2028",
+        "note": "Construction on the southbound main lanes began in summer 2025 and is scheduled for completion in 2028. The roadway shown will become the northbound lanes."
+      }
+    },
+    {
+      "file": "20141109_6540-1050.jpg",
+      "caption": "Approaching FM 1902",
+      "imageDate": "9-November-2014",
+      "imageStatus": {
+        "statusDate": "2025",
+        "status": "Will be obsolete in 2028",
+        "note": "Construction on the southbound main lanes began in summer 2025 and is scheduled for completion in 2028. The roadway shown will become the northbound lanes."
+      }
+    },
+    {
+      "file": "20141109_6542-1050.jpg",
+      "caption": "",
+      "imageDate": "9-November-2014",
+      "imageStatus": {
+        "statusDate": "2025",
+        "status": "Will be obsolete in 2028",
+        "note": "Construction on the southbound main lanes began in summer 2025 and is scheduled for completion in 2028. The roadway shown will become the northbound lanes."
+      }
+    },
+    {
+      "file": "20141109_6545-1100.jpg",
+      "caption": "At FM 1187 the super-2 configuration ends and the highway becomes a standard 4-lane divided design.",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6547-1050.jpg",
+      "caption": "The second toll plaza, quite expensive.",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6549-1100.jpg",
+      "caption": "",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6550-1100.jpg",
+      "caption": "At Sycamore School Road we are in south Fort Worth",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6551-1100.jpg",
+      "caption": "The speed limit is 70 mph on this section, but will drop when we cross I-20.",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6553-1100.jpg",
+      "caption": "",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6555-1100.jpg",
+      "caption": "From this point onward, the parkway is heavily landscaped. Here we see a landscaped berm in the median.",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6556-1100.jpg",
+      "caption": "Approaching Interstate 20",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6558-1100.jpg",
+      "caption": "",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6561-1200.jpg",
+      "caption": "At the I-20 interchange. Some of the connectors were omitted to reduce cost. Movements in the directions of the missing connectors is done via the frontage roads.",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6562-1200.jpg",
+      "caption": "",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6564-1050.jpg",
+      "caption": "",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6565-1050.jpg",
+      "caption": "The section from I-20 to I-30 caused a lot of public opposition during the planning phase.",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6566-1100.jpg",
+      "caption": "",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6568-1000.jpg",
+      "caption": "",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6569-1200.jpg",
+      "caption": "The section ahead looks like an actual parkway with forest on both sides.",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6571-1100.jpg",
+      "caption": "Architectural enhancement at the Trinity River crossing.",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6572-1100.jpg",
+      "caption": "At Edwards Ranch. This was the location of the large opening celebration in May 2014.",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6575-1100.jpg",
+      "caption": "Ahead the parkway will cross over the railroad yard.",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6577-1100.jpg",
+      "caption": "Hulen crosses over the parkway.",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6579-1200.jpg",
+      "caption": "The Union Pacific Davidson rail yard is visible on the right. Delays and extra cost were incurred to develop a design and construction plan which prevented disruptions to rail yard operations.",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20141109_6581-900.jpg",
+      "caption": "The last toll plaza. The toll for the full length is $4.64.",
+      "imageDate": "9-November-2014"
+    },
+    {
+      "file": "20160325-27-0297-1100.jpg",
+      "caption": "At Mongomery Street",
+      "imageDate": "26-March-2016"
+    },
+    {
+      "file": "20160325-27-0298-1100.jpg",
+      "caption": "",
+      "imageDate": "26-March-2016"
+    },
+    {
+      "file": "20160325-27-0299-1000.jpg",
+      "caption": "",
+      "imageDate": "26-March-2016"
+    },
+    {
+      "file": "20160325-27-0300-1100.jpg",
+      "caption": "",
+      "imageDate": "26-March-2016"
+    },
+    {
+      "file": "20160325-27-0302-1100.jpg",
+      "caption": "Notice the architectural enhancements on the left",
+      "imageDate": "26-March-2016"
+    },
+    {
+      "file": "20160325-27-0303-1000.jpg",
+      "caption": "",
+      "imageDate": "26-March-2016"
+    },
+    {
+      "file": "20160325-27-0304-1200.jpg",
+      "caption": "",
+      "imageDate": "26-March-2016"
+    },
+    {
+      "file": "20160325-27-0305-1200.jpg",
+      "caption": "",
+      "imageDate": "26-March-2016"
+    },
+    {
+      "file": "20160325-27-0306-1200.jpg",
+      "caption": "Merging into I-30 eastbound just ahead.",
+      "imageDate": "26-March-2016"
+    }
 
 
-    ]
+  ]
 
 }
