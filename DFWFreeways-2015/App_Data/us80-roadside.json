@@ -4,10 +4,10 @@
   "pageHeader": {
     "title": "Roadside Views",
     "urlParentText": "US 80",
-    "lastUpdated": "June 26, 2025 (review only)"
+    "lastUpdated": "March 4, 2026 (move photos to archive)"
   },
   "map": "80_roadside_800.gif",
-  "text": "2025 status: Changes have been minimal since these photos were taken and these photos are still accurate, except as noted at the I-635 interchange. <br /> <br />These photos start east of I-30 and proceed eastward to Forney.",
+  "text": "In July 2024 TxDOT awarded a $581 million contract to rebuild US 80 from Town East Blvd to east of Belt Line, including complete replacement of the I-635 interchange. See the US 80 archive page for views of the original freeway and interchange in this section. <br /> <br />These photos start east of I-30 and proceed eastward to Forney.",
   "images": [
     {
       "file": "80_20070429_IMG_6325_sign.jpg",
@@ -21,45 +21,9 @@
       "imageDate": "25-Feb-2007"
     },
     {
-      "file": "80_20070429_IMG_6310_looking_w_at_gus_thomasson.jpg",
-      "caption": "Looking west at Gus Thomasson",
-      "imageDate": "29-Apr-2007"
-    },
-    {
-      "file": "80_20070429_IMG_6314_at_635.jpg",
-      "caption": "The four-level interchange at Interstate 635. This interchange opened with the opening of I-635 on Aug 5, 1970. In July 2024 TxDOT awarded a $581 million contract to demolish and rebuild this interchange.",
-      "imageDate": "29-Apr-2007",
-      "imageStatus": {
-        "statusDate": "2025",
-        "status": "Obsolete-Archive",
-        "note": "In July 2024 TxDOT awarded a $581 million contract to demolish and rebuild this interchange. "
-      }
-    },
-    {
-      "file": "80_20070429_IMG_6304_looking_w_at_galloway.jpg",
-      "highResolution": "80_20070429_IMG_6304_looking_w_at_galloway_2346.jpg",
-      "caption": "Looking west from Galloway, just east of I-635",
-      "imageDate": "29-Apr-2007",
-      "imageStatus": {
-        "statusDate": "2025",
-        "status": "Obsolete-Archive",
-        "note": "In July 2024 TxDOT awarded a $581 million contract to demolish and rebuild I-635 interchange, and also rebuild US 80 eastward to Belt Line. "
-      }
-    },
-    {
-      "file": "80_20070429_IMG_6303_guardrail_at_galloway.jpg",
-      "caption": "The antique guardrail on the Galloway bridge shows the age of the bridge, which was completed in 1956.",
-      "imageDate": "29-Apr-2007",
-      "imageStatus": {
-        "statusDate": "2025",
-        "status": "Obsolete-Archive",
-        "note": "In July 2024 TxDOT awarded a $581 million contract to demolish and rebuild I-635 interchange, and also rebuild US 80 eastward to Belt Line. This bridge was replaced in the project. "
-      }
-    },
-    {
       "file": "80_20070429_IMG_6315_looking_w_w_of_collins_950.jpg",
       "highResolution": "80_20070429_IMG_6315_looking_w_w_of_collins_2048.jpg",
-      "caption": "Looking west, west of Collins",
+      "caption": "This next photo is fives miles east, looking west, west of Collins. Construction is in progress in 2026 in this five-mile gap between photos. The construction zone starts just ahead, before Belt Line. See the archive page for photos of the original freeway in this section.",
       "imageDate": "29-Apr-2007"
     },
     {

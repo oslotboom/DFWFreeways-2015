@@ -3,7 +3,7 @@
   "pageHeader": {
     "title": "Interstate 35E South",
     "subTitle": "R.L. Thornton Freeway South",
-    "lastUpdated": "Dec 6, 2022"
+    "lastUpdated": "March 3, 2026"
   },
   "Map": "",
   "Photo": {
@@ -11,7 +11,7 @@
     "Caption": "This is the caption",
     "Date": "12-January-2015"
   },
-  "Text": "The $666 million Southern Gateway expansion project from the Trinity River to just south of US 67 was fully open in September 2022 and officially dedicated in November. The project widened I-35E to have 10 main lanes (5 each way) and two reversible express lanes.",
+  "Text": "The $666 million Southern Gateway expansion project from the Trinity River to just south of US 67 was fully open in September 2022 and officially dedicated in November. The project widened I-35E to have 10 main lanes (5 each way) and two reversible express lanes. Halperin Park on the freeway deck at the Dallas Zoo opened in 2026.",
   "Features": [
     {
       "FeatureType": "Roadside",
@@ -53,7 +53,7 @@
           "AnchorUrl": "construction-horseshoe-1"
         },
         {
-          "AnchorText": "Deck park at Dallas Zoo",
+          "AnchorText": "Halperin Park at Dallas Zoo",
           "AnchorUrl": "construction-park"
         }
       ]

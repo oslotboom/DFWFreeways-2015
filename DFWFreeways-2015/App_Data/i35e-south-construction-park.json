@@ -1,9 +1,13 @@
 ﻿{
   "folderPath": "",
-  "title": "I-35E Dallas Zoo Deck Park",
-  "pageHeader": { "title": "I-35E Dallas Zoo Deck Park", "urlParentText": "I-35E South", "lastUpdated": "Sept 22, 2022 (add photos); created September 29, 2021" },
+  "title": "I-35E Dallas Halperin Park",
+  "pageHeader": {
+    "title": "Halperin Park at the Dallas Zoo",
+    "urlParentText": "I-35E South",
+    "lastUpdated": "March 3, 2026 (update); created September 29, 2021"
+  },
   "map": "",
-  "text": "The reconstruction of I-35E, called the Southern Gateway project, includes deck at Ewing Avenue for a future park.<br /><br />In September 2022 the freeway and deck were complete. However, work had not begun on the deck park.",
+  "text": "The reconstruction of I-35E, called the Southern Gateway project, included a deck at Ewing Avenue for a future park.<br /><br />In September 2022 the freeway and deck were complete. Construction of the park began in 2024.<br /><br />In April 2025 the park was named Halperin Park, following a $23 million contribution from the Halperin Foundation, which is the philanthropic organization of Jim Halperin, co-founder of Dallas-based Heritage Auctions. Phase 1 of Halperin Park was expected to cost $122 million. Total estimated cost including phase 2 is $300 million, according to a Dec. 31, 2025, Dallas Morning News report.",
   "images": [
     {
       "file": "20210925-26_DFW_065-1200.jpg",
@@ -92,6 +96,17 @@
       "highResolution": "",
       "caption": "Looking north on the east side of the deck.",
       "imageDate": "18-Sept-2022"
+    },
+    {
+      "file": "20260228-0302-n_110-1200.webp",
+      "caption": "This photo at the northwest corner of the Ewing Avenue overpass shows the main entrance to Halperin Park shortly before the park opened in 2026.",
+      "imageDate": "28-Feb-2026"
+    },
+    {
+      "file": "20260228-0302-n_101-1200.webp",
+      "caption": "The southbound frontage road is in the foreground, with Halperin Park shortly before the park opened in 2026.",
+      "imageDate": "28-Feb-2026"
     }
+
   ]
 }

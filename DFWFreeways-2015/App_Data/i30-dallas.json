@@ -3,7 +3,7 @@
     "pageHeader":
     {
         "title": "Interstate 30 in Dallas",
-        "lastUpdated": "Sept 16, 2022"
+        "lastUpdated": "March 3, 2026"
     },
     "Title": "Interstate 30 Dallas",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -48,8 +48,12 @@
                 "AnchorUrl": "construction-horseshoe"
               },
               {
-                "AnchorText": "Lake Ray Hubbard, 2022",
+                "AnchorText": "Lake Ray Hubbard, 2022-2023",
                 "AnchorUrl": "construction-hubbard"
+              },
+              {
+                "AnchorText": "Downtown Canyon, 2026-2030",
+                "AnchorUrl": "construction-canyon"
               }
 
             ]

@@ -4,10 +4,10 @@
   "pageHeader": {
     "title": "Construction Photos, Lake Worth Bridge",
     "urlParentText": "SH 199",
-    "lastUpdated": " last updated June 27, 2025; created Sept 29, 2021"
+    "lastUpdated": " last updated March 5, 2026 (new photos); created Sept 29, 2021"
   },
   "map": "",
-  "text": "Work on the freeway has been progressing eastward from Azle since the 2000s. This project will cross Lake Worth, and future work will take the freeway to IH 820. The westbound main lanes on the new bridge opened on May 8, 2025.",
+  "text": "Work on the freeway has been progressing eastward from Azle since the 2000s. This project built the new Lake Worth bridge, and future work will take the freeway to IH 820.<br /><br />Westbound traffic was shifted to the new bridge on May 8, 2025. Eastbound traffic started using the new bridge on October 7, 2025. However, shifting traffic to the new bridge was part of construction phasing, and construction continued into 2026.<br /><br />As of March 1, 2026, construction remained in progress on the 1.5-mile section of new freeway main lanes on the west side of the bridge. The old bridge was closed to traffic for updates and modifications. It appears that all construction should be completed by the end of 2026. ",
   "images": [
 
     {
@@ -105,8 +105,49 @@
       "highResolution": "20220918-19_DFW_419-1200.jpg",
       "caption": "Driver's view of the west end of the bridge.",
       "imageDate": "19-Sept-2022"
+    },
+    {
+      "file": "20260228-0302-n_291-1200.webp",
+      "highResolution": "",
+      "caption": "This view looks westbound on the east side of the lake, with the bridge just ahead. Traffic was shifted to the new bridge in May 2025 (westbound) and October 2025 (eastbound). This shift was part of construction phasing, and the new bridge was striped to have only two lanes in each direction.",
+      "imageDate": "1-March-2026"
+    },
+    {
+      "file": "20260228-0302-n_294-1200.webp",
+      "highResolution": "",
+      "caption": "The bridge was striped for two lanes at the time of this photo. The bridge deck is wide enough to accommodate four lanes.",
+      "imageDate": "19-Sept-2022"
+    },
+    {
+      "file": "20260228-0302-n_295-1200.webp",
+      "highResolution": "",
+      "caption": "The bridge features an unusual all-metal guardrail. TxDOT nearly always uses concrete.",
+      "imageDate": "19-Sept-2022"
+    },
+    {
+      "file": "20260228-0302-n_297-1200.webp",
+      "highResolution": "",
+      "caption": "Westbound traffic exits from the bridge immediately after reaching the west shore. This photo shows that work on the main lanes on the west side of the lake was nearing completion at the time of the photo.",
+      "imageDate": "19-Sept-2022"
+    },
+    {
+      "file": "20260228-0302-n_300-1200.webp",
+      "highResolution": "",
+      "caption": "This and the following views are going eastbound. In this photo, traffic approaching the work zone exits the main lanes, and work on the main lanes is visible ahead. ",
+      "imageDate": "19-Sept-2022"
+    },
+    {
+      "file": "20260228-0302-n_302-1200.webp",
+      "highResolution": "",
+      "caption": "On the frontage road approaching Roadrunner Road.",
+      "imageDate": "19-Sept-2022"
+    },
+    {
+      "file": "20260228-0302-n_307-1200.webp",
+      "highResolution": "",
+      "caption": "The eastbound bridge is striped to have two lanes in this phase of construction.",
+      "imageDate": "19-Sept-2022"
     }
-
   ]
 
 }

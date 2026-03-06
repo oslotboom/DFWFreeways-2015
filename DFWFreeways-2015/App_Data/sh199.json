@@ -3,7 +3,7 @@
   "pageHeader": {
     "title": "SH 199",
     "subTitle": "",
-    "lastUpdated": "June 27, 2025"
+    "lastUpdated": "March 5, 2026"
   },
   "Title": "SH 199",
   "Photo": {
@@ -11,7 +11,7 @@
     "Caption": "This is the caption",
     "Date": "12-January-2015"
   },
-  "Text": "In 2025 SH 199 has freeway sections mixed in with non-freeway sections. A three-mile section between Lake Worth and Azle was upgraded to freeway standards and opened in 2018.<br /><br /> In 2020 work began on the Lake Worth bridge. The westbound bridge main lanes opened on May 8, 2025.<br /><br />  There are long-term plans to build the main lanes between the Lake Worth crossing and I-820. TxDOT held a public meeting in November 2024 showing two options, one with SH 199 at-grade with overpasses and one with SH 199 below grade. As of 2025 the project is not funded and not scheduled for construction.",
+  "Text": "In 2026 SH 199 has a long freeway section west of Lake Worth, but only frontage roads east of Lake Worth and no direct connections at I-820.<br/><br/> A three-mile section between Lake Worth and Azle was upgraded to freeway standards and opened in 2018.<br /><br /> In 2020 work began on the Lake Worth bridge. Westbound traffic was shifted to the new bridge on May 8, 2025, and eastbound traffic started using the new bridge on October 7, 2025. However, the overall project remained under construction in 2026, including the new main lanes west of the bridge.<br /><br />  There are long-term plans to build the main lanes between the Lake Worth crossing and I-820. TxDOT held a public meeting in November 2024 showing two options, one with SH 199 at-grade going over cross streets, and one with SH 199 below grade. The 2026 TxDOT Unified Transportation Plan (UTP) lists the project cost at $500 million, with only $70 million currently funded, and project construction anticipated to start between 2030 and 2035.",
   "Features": [
     {
       "FeatureType": "Roadside",
@@ -35,7 +35,7 @@
       "FeatureType": "Construction",
       "FeatureProperties": [
         {
-          "AnchorText": "Lake Worth bridge construction, 2020-2023",
+          "AnchorText": "Lake Worth bridge construction, 2020-2026",
           "AnchorUrl": "construction-lake-worth-bridge"
         }
 

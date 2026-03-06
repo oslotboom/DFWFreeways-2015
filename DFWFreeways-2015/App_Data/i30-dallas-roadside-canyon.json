@@ -4,7 +4,7 @@
   "pageHeader": {
     "title": "Roadside Views of the Downtown Canyon",
     "urlParentText": "I-30 Dallas",
-    "lastUpdated": "March 12, 2025 (update for construction contract, add pre-construction photos)"
+    "lastUpdated": "March 3, 2026 (new photos)"
   },
   "map": "30d_downtown.gif",
   "text": "This downtown section of I-30 was opened in November 1965 (collector lanes, Akard to Harwood) and April 28, 1966 (main lanes). Until 2026, changes were minimal since the original opening. <br /><br />The downtown Mixmaster is at the west end of this section. Reconstruction of the Mixmaster was completed in 2017. See the I-30 archive photos for a view of the original I-30 entrance to the Mixmaster. <br /><br />In February 2025 TxDOT awarded a contract for reconstruction of the downtown Canyon. The reconstruction will have 12 main lanes in 6x6 configuration with all lanes in each direction together without any separation, removing the current collector lanes. The \"island\" between the east and west lanes, with connections to surface streets, will be eliminated. The winning bid was $888.7 million by Balfour Beatty Infrastructure. This low bid was much higher than estimates. As of September 2022, the project cost was listed at $467 million. The estimate at bidding time was $795.3 million.",
@@ -86,6 +86,30 @@
       "highResolution": "",
       "caption": "This view looks east along the eastbound main lanes, with the central \"island\" on the left.",
       "imageDate": "10-March-2025"
+    },
+    {
+      "file": "20260228-0302_031-1100.webp",
+      "highResolution": "20260228-0302_031-3000.webp",
+      "caption": "This view looking west from Lamar shows the DART light rail bridge, which will be demolished and replaced with a new bridge just east (behind) the existing bridge.",
+      "imageDate": "28-Feb-2026"
+    },
+    {
+      "file": "20260228-0302_046-1100.webp",
+      "highResolution": "20260228-0302_046-3000.webp",
+      "caption": "A view of the DART light rail bridge with a train crossing.",
+      "imageDate": "28-Feb-2026"
+    },
+    {
+      "file": "20260228-0302_034-1100.webp",
+      "highResolution": "20260228-0302_034-3000.webp",
+      "caption": "In January 2026 multiple overpasses were demolished as part of the reconstruction project. This view looks east from Griffin Street after the Cadiz and Akard overpasses were demolished. The removal of the overpasses provided a clear view of the original freeway, which remained unaffected by construction.",
+      "imageDate": "28-Feb-2026"
+    },
+    {
+      "file": "20260228-0302_037-1100.webp",
+      "highResolution": "20260228-0302_037-3000.webp",
+      "caption": "Another view looking east from Griffin after the Cadiz and Akard overpasses were demolished.",
+      "imageDate": "28-Feb-2026"
     }
 
   ]

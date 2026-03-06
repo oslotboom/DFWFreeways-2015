@@ -4,7 +4,7 @@
     {
         "title": "I-820",
         "subTitle":  "Includes the Jim Wright Freeway",
-        "lastUpdated": "June 25, 2025 (move photos to archive status)"
+        "lastUpdated": "March 5, 2026 (add new photos for northeast section)"
     },
     "Title": "Loop 820 Fort Worth",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -13,6 +13,10 @@
     {
       "FeatureType": "Roadside",
       "FeatureProperties": [
+        {
+          "AnchorText": "Northeast (2026)",
+          "AnchorUrl": "roadside-northeast"
+        },
         {
           "AnchorText": "Northwest",
           "AnchorUrl": "roadside-northwest"
@@ -26,6 +30,10 @@
     {
       "FeatureType": "DriversViews",
       "FeatureProperties": [
+        {
+          "AnchorText": "Northeast (2026)",
+          "AnchorUrl": "driving-northeast"
+        },
         {
           "AnchorText": "Northwest",
           "AnchorUrl": "driving-northwest"

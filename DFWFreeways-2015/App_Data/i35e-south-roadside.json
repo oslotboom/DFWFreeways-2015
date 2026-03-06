@@ -5,9 +5,9 @@
     "title": "Roadside Views Dallas and Lancaster",
     "subTitle": "",
     "urlParentText": "I-35E South",
-    "lastUpdated": "Dec 6, 2022 (update text)"
+    "lastUpdated": "Mar 3, 2026 (add photos)"
   },
-  "text": "The Southern Gateway project rebuilt and expanded the freeway from the Trinity River to south of US 67. All lanes, including the express lanes, were open in September 2022 and an official opening celebration was held on November 30. New photos are included showing the impressive new freeway.<br /><br />Photos of the original freeway from the Trinity River bridge to the US 67 split have been moved to the I-35E South photo archive page. The downtown Horseshoe project was completed in 2017.<br /> <br />The older photos south of US 67 are still accurate.",
+  "text": "The Southern Gateway project rebuilt and expanded the freeway from the Trinity River to south of US 67. All lanes, including the express lanes, were open in September 2022 and an official opening celebration was held on November 30. Halperin Park on the freeway deck at Ewing Street opened in 2026.<br /><br />Photos of the original freeway from the Trinity River bridge to the US 67 split have been moved to the I-35E South photo archive page. The downtown Horseshoe project was completed in 2017.<br /> <br />The older photos south of US 67 are still accurate.",
   "images": [
     {
       "file": "35e_20070429_IMG_6412_srlthornton_sign.jpg",
@@ -36,13 +36,33 @@
       "file": "20220918-19_DFW_159-1200.jpg",
       "highResolution": "20220918-19_DFW_159-3000.jpg",
       "caption": "Looking northbound from Marsalis Avenue, with the deck for the future park ahead.",
-      "imageDate": "18-Sept-2022"
+      "imageDate": "18-Sept-2022",
+      "imageStatus": {
+        "statusDate": "2026",
+        "status": "Modified",
+        "note": "Halperin Park was built on the deck over the freeway, opening in 2026"
+      }
     },
     {
       "file": "20220918-19_DFW_167-1200.jpg",
       "highResolution": "20220918-19_DFW_167-3000.jpg",
       "caption": "Looking northbound from Marsalis Avenue.",
-      "imageDate": "18-Sept-2022"
+      "imageDate": "18-Sept-2022",
+      "imageStatus": {
+        "statusDate": "2026",
+        "status": "Modified",
+        "note": "Halperin Park was built on the deck over the freeway, opening in 2026"
+      }
+    },
+    {
+      "file": "20260228-0302_066-1200.webp",
+      "caption": "Looking northbound from Marsalis Avenue. Halperin Park on the deck was nearing completion at the time of this photo.",
+      "imageDate": "28-Feb-2026"
+    },
+    {
+      "file": "20260228-0302-n_110-1200.webp",
+      "caption": "This photo at the northwest corner of the Ewing Avenue overpass shows the main entrance to Halperin Park shortly before the park opened in 2026.",
+      "imageDate": "28-Feb-2026"
     },
     {
       "file": "20220918-19_DFW_172-1200.jpg",

@@ -4,10 +4,10 @@
   "pageHeader": {
     "title": "Construction Photos, LBJ East",
     "urlParentText": "I-635",
-    "lastUpdated": "Last updated May 22, 2024 (add 26 photos); created June 23, 2021"
+    "lastUpdated": "Last updated March 5, 2026 (add 9 photos); created June 23, 2021"
   },
   "map": "",
-  "text": "The $1.74 billion LBJ East project is rebuilding and widening the freeway between IH 30 and US 75, and rebuilding the interchange at Interstate 30. The project was originally scheduled for completion in December 2025, but as of June 2025 it appears that completion will occur in 2026.",
+  "text": "The $1.74 billion LBJ East project rebuilt and widened the freeway between IH 30 and US 75, including rebuilding the interchange at Interstate 30. The project was originally scheduled for completion in December 2024, but completion was in 2026.<br/><br/>The last construction photos on this page, taken on March 1, 2026, show that the project was very close to completion on the north half, with only final lane striping needing to be done. Some remaining construction tasks, mainly on the managed lanes, were still in progress on the south half.",
   "images": [
     {
       "file": "20240518-19_100-1100.jpg",
@@ -477,7 +477,62 @@
       "highResolution": "",
       "caption": "Driver's view on the entrance ramp going west from Greenville.",
       "imageDate": "18-May-2024"
+    },
+    {
+      "file": "20260228-0302-n_125-1100.webp",
+      "highResolution": "20260228-0302-n_125-3000.webp",
+      "caption": "This and the following photos were taken as the project neared completion in spring 2026. At this time, construction on the north half was virtually complete, with only final striping needing to be done. Most remaining work on the south half was on the interior managed lanes. This driver's view at La Prada Drive shows work in progress on the managed lanes access ramp.",
+      "imageDate": "28-Feb-2026"
+    },
+    {
+      "file": "20260228-0302_202-1100.webp",
+      "highResolution": "20260228-0302_202-3000.webp",
+      "caption": "This and the following photos show that work was virtually complete on the north half. As of February 28, 2026, northbound/westbound lanes were striped to the final configuration with five lanes from Jupiter Road northward. This view looks northbound/westbound from the pedestrian crossing south of Skillman/Audelia.",
+      "imageDate": "2-March-2026"
+    },
+    {
+      "file": "20260228-0302_207-1100.webp",
+      "highResolution": "20260228-0302_207-3000.webp",
+      "caption": "Another view from pedestrian crossing south of Skillman/Audelia, taken above the managed lanes.",
+      "imageDate": "2-March-2026"
+    },
+    {
+      "file": "20260228-0302_208-1100.webp",
+      "highResolution": "20260228-0302_208-3000.webp",
+      "caption": "Another view from pedestrian crossing south of Skillman/Audelia, taken above the southbound/eastbound lanes. The pavement is complete, but is striped for only 4 main lanes. Final striping will add the fifth lane in the interior area.",
+      "imageDate": "2-March-2026"
+    },
+    {
+      "file": "20260228-0302_194-1100.webp",
+      "highResolution": "20260228-0302_194-3000.webp",
+      "caption": "This view is looking northwest from the Skillman/Audelia overpass, showing the northbound/westbound lanes in its final configuration.",
+      "imageDate": "2-March-2026"
+    },
+    {
+      "file": "20260228-0302_191-1100.webp",
+      "highResolution": "20260228-0302_191-3000.webp",
+      "caption": "This view is looking northwest from the Skillman/Audelia overpass, from a position above the managed lanes.",
+      "imageDate": "2-March-2026"
+    },
+    {
+      "file": "20260228-0302_212-1100.webp",
+      "highResolution": "20260228-0302_212-3000.webp",
+      "caption": "This view looks northwest at Forest Lane.",
+      "imageDate": "2-March-2026"
+    },
+    {
+      "file": "20260228-0302_225-1100.webp",
+      "highResolution": "20260228-0302_225-3000.webp",
+      "caption": "Looking southeast from Forest Lane. Southbound/eastbound traffic was not yet in the final lane configuration.",
+      "imageDate": "2-March-2026"
+    },
+    {
+      "file": "20260228-0302_214-1100.webp",
+      "highResolution": "20260228-0302_214-3000.webp",
+      "caption": "Looking northwest at Abrams Road.",
+      "imageDate": "2-March-2026"
     }
+
   ]
 
 }

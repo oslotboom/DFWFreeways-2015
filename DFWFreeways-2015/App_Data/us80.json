@@ -2,7 +2,7 @@
 
   "pageHeader": {
     "title": "US 80",
-    "lastUpdated": "June 26, 2025 (review and update)"
+    "lastUpdated": "March 4, 2026 (create archive and construction pages)"
   },
   "Title": "US 80 Dallas",
   "Photo": {
@@ -10,7 +10,7 @@
     "Caption": "This is the caption",
     "Date": "12-January-2015"
   },
-  "Text": "In July 2024 TxDOT awarded a $581 million contract to demolish and rebuild the interchange at I-635, and also rebuild the freeway eastward to Belt Line Road. Previously in June 2022, TxDOT awarded a $129 million contract to rebuild US 80 west of Forney between Lawson Road and Clements Drive. Long term plans include rebuilding and widening the freeway from Lawson Road to Interstate 30 in Dallas.",
+  "Text": "In July 2024 TxDOT awarded a $581 million contract to rebuild the freeway from Town East Blvd eastward to Belt Line Road, including demolishing and rebuilding the interchange at I-635. Previously in June 2022, TxDOT awarded a $129 million contract to rebuild US 80 at the Trinity River East Fork crossing, west of Forney between Lawson Road and Clements Drive. <br /><br />Long term plans include rebuilding and widening all remaining original freeway sections between Interstate 30 in Dallas and Lawson Road.",
   "Features": [
     {
       "FeatureType": "Roadside",
@@ -42,7 +42,12 @@
     },
     {
       "FeatureType": "Construction",
-      "FeatureProperties": []
+      "FeatureProperties": [
+        {
+          "AnchorText": "I-635 interchange",
+          "AnchorUrl": "construction-mesquite"
+        }
+      ]
     },
     {
       "FeatureType": "Aerial",
@@ -64,7 +69,12 @@
     },
     {
       "FeatureType": "Historical",
-      "FeatureProperties": []
+      "FeatureProperties": [
+        {
+          "AnchorText": "Archive photos",
+          "AnchorUrl": "archive"
+        }
+      ]
     },
     {
       "FeatureType": "Video",
