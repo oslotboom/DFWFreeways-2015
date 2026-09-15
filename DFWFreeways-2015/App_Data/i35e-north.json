@@ -4,7 +4,7 @@
     {
         "title": "Interstate 35E North",
         "subTitle": "Stemmons Freeway",
-        "lastUpdated": "March 6, 2026 (new construction photos)"
+        "lastUpdated": "August 11, 2026 (new construction photos)"
     },
     "Title": "Interstate 35E Stemmons Freeway",
     "Map": "i35e-north.png",
@@ -75,6 +75,10 @@
             {
               "AnchorText": "I-635 to Bush, 2024-2026",
               "AnchorUrl": "construction-phase2"
+            },
+            {
+              "AnchorText": "Denton 2026",
+              "AnchorUrl": "construction-denton"
             }
           ]
         },
@@ -107,7 +111,7 @@
             "FeatureType": "Video",
           "FeatureProperties": [
             {
-              "video": "March 2022 nortbound I-30 to Oak Lawn, 2:16",
+              "video": "March 2022 northbound I-30 to Oak Lawn, 2:16",
               "videoLinkSmallText": "133 MB",
               "videoLinkSmall": "IH-35E_NB_March_2022_540.mp4",
               "videoLinkMediumText": "188 MB",

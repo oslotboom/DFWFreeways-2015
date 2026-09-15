@@ -4,7 +4,7 @@
   "pageHeader": {
     "title": "I-30 Dallas Downtown Canyon Construction",
     "urlParentText": "I-30 Dallas",
-    "lastUpdated": "March 3, 2026 (create)"
+    "lastUpdated": "August 15, 2026 (add 2 photos); March 3, 2026 (create)"
   },
   "map": "",
   "text": "In February 2025 TxDOT awarded a $888.7 million contract to Balfour Beatty Infrastructure for reconstruction of the downtown Canyon. The first noticable work began on January 17, 2026, when multiple bridges including Cesar Chavez (originally Central Expressway) were demolished. More bridges were demolished on the weekend of January 31, 2026.",
@@ -57,13 +57,25 @@
       "caption": "This view looks south from the north side of I-30 at Cesar Chavez, showing the site of the northbound bridges which connected to Cesar Chavez.",
       "imageDate": "28-Feb-2026"
     },
-
     {
       "file": "20260228-0302-n_099-1200.webp",
       "highResolution": "",
       "caption": "The edge of the pavement after removal of the bridges.",
       "imageDate": "28-Feb-2026"
+    },
+    {
+      "file": "20260808_10-DFW_099-1200.webp",
+      "highResolution": "20260808_10-DFW_099-3400.webp",
+      "caption": "In August 2026 excavation alongside the Lorenzo Hotel was underway.",
+      "imageDate": "8-Aug-2026"
+    },
+    {
+      "file": "20260808_10-DFW_102-1200.webp",
+      "highResolution": "20260808_10-DFW_102-3000.webp",
+      "caption": "",
+      "imageDate": "8-Aug-2026"
     }
+
   ]
 
 }

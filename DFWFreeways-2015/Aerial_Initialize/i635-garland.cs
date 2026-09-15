@@ -18,7 +18,7 @@ namespace DFWFreeways.Models
                     "I-635 in Garland, looking southeast",
                     "I-635 in Garland",
                     "Looking southeast at Jupiter Road",
-                    new AerialStatus ("2022", "Obsolete", "Freeway was rebuilt and expanded by the LBJ East Project, completed in 2024" ))
+                    new AerialStatus ("2022", "Obsolete", "Freeway was rebuilt and expanded by the LBJ East Project, completed in 2026" ))
            
             };
         }

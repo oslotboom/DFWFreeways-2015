@@ -1,0 +1,67 @@
+﻿{
+  "folderPath": "roadside/",
+  "title": "US 380 McKinney Bypass",
+  "pageHeader": {
+    "title": "Bypass Alignment in McKinney",
+    "subTitle": "",
+    "urlParentText": "US 380",
+    "lastUpdated": "August 17, 2026 (created)"
+  },
+  "map": "us380-map-annotated.webp",
+  "text": "After years of study and controversy, the alignment of US 380 in Collin County was finalized with the Record of Decision and Final Environmental Impact Statement approved in September 2023. Right-of-way acquisition and utility relocation is ongoing in the second half of the 2020s. Construction is scheduled to start in the 2030s. The Spur 399 Freeway, connecting SH 121 (Sam Rayburn Tollway) to US 380, is expected to start construction before US 380 work begins.<br /><br />These photos show views of the alignment along the McKinney bypass, starting on the east end and proceeding westward.",
+
+  "images": [
+    {
+      "file": "20260808_10-DFW_059-1250.webp",
+      "caption": "Photo 1. Looking north along FM 2933.",
+      "imageDate": "9-Aug-2026"
+    },
+    {
+      "file": "20260808_10-DFW_060-1250.webp",
+      "caption": "Photo 2. Looking north along FM 2933. The alignment veers left (west) just ahead.",
+      "imageDate": "9-Aug-2026"
+    },
+    {
+      "file": "20260808_10-DFW_061-1250.webp",
+      "caption": "Photo 3. After crossing US 75, the alignment reaches CR 201. This photo shows the point where CR 201 splits from Community Avenue. The US 380 alignment is just ahead, not at this point.",
+      "imageDate": "9-Aug-2026"
+    },
+    {
+      "file": "20260808_10-DFW_062-1250.webp",
+      "caption": "Photo 4. This view looks east along CR 201 at North Hardin Boulevard. The freeway path is immediately ahead mostly on the north side of CR 201.",
+      "imageDate": "9-Aug-2026"
+    },
+    {
+      "file": "20260808_10-DFW_065-1250.webp",
+      "caption": "Photo 5. At North Harding Blvd the alignment veers southwestward. This photo looks in the direction of the alignment.",
+      "imageDate": "9-Aug-2026"
+    },
+    {
+      "file": "20260808_10-DFW_074-1250.webp",
+      "caption": "Photo 6. This view looks east along Bloomdale Road, just east of Limousine Parkway. The curving path of the utility poles shows the north edge of the freeway right of way. Going west from this point, the freeway follows Bloomdale Road.",
+      "imageDate": "9-Aug-2026"
+    },
+    {
+      "file": "20260808_10-DFW_069-1250.webp",
+      "caption": "Photo 7. This view looks east along Bloomdale Road (CR 164) at Taylor-Burk Road. Bloomdale Road is approximately in the location of the eastbound main lanes.",
+      "imageDate": "9-Aug-2026"
+    },
+    {
+      "file": "20260808_10-DFW_080-1250.webp",
+      "caption": "Photo 8. This view looks east along Bloomdale Road at Paulson Street. Bloomdale Road is approximately in the location of the eastbound main lanes.",
+      "imageDate": "9-Aug-2026"
+    },
+    {
+      "file": "20260808_10-DFW_083-1250.webp",
+      "caption": "Photo 9. This view looks east at North Lake Forest Drive. This is the location of the eastbound frontage road. The freeway will be on the left side.",
+      "imageDate": "9-Aug-2026"
+    },
+    {
+      "file": "20260808_10-DFW_088-1250.webp",
+      "caption": "Photo 10. CR 161 is Ridge Road. The alignment veers to the south here. This spot is approximately in the middle of the main lanes.",
+      "imageDate": "9-Aug-2026"
+    }
+
+  ]
+
+}

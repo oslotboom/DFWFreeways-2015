@@ -1,14 +1,13 @@
 ﻿{
-    "folderPath": "roadside/",
-    "title":  "I-35E Dallas photos",
-    "pageHeader" :
-    {
-        "title": "Roadside Views North of Dallas",
-        "urlParentText": "I-35E North",
-        "lastUpdated": "Dec 19, 2021 ($655 million expansion started); Apr 18, 2023 (remove archive photos); June 26, 2025 (review)"
-    },
-    "map": "35en_roadside_north_400.gif",
-    "text": "The phase 1 expansion of IH-35E from LBJ Freeway (I-635) to Lake Lewisville was completed in 2017. Work on the $655 million second phase between IH 635 and the Bush Turnpike began in 2022. Work at the Main Street intersection in Lewisville began in 2023. In January 2025 a $218 million contract was awarded for expansion between Corporate Drive and Business 121.",
+  "folderPath": "roadside/",
+  "title": "I-35E Dallas photos",
+  "pageHeader": {
+    "title": "Roadside Views North of Dallas",
+    "urlParentText": "I-35E North",
+    "lastUpdated": "August 11, 2026 (new photos, update text)"
+  },
+  "map": "35en_roadside_north_400.gif",
+  "text": "The phase 1 expansion of IH-35E from LBJ Freeway (I-635) to Lake Lewisville was completed in 2017. Work on the $655 million second phase between IH 635 and the Bush Turnpike began in 2022. As of August 2026, there is at least a year of construction remaining.<br /></br>Work at the Main Street intersection in Lewisville began in 2023. In January 2025 a $218 million contract was awarded for expansion between Corporate Drive and Business 121. In June 2025 a $123.5 million contract was awarded for expansion at Mayhill Road in Denton.",
   "images": [
 
     {
@@ -72,6 +71,30 @@
       "highResolution": "20200906-07_249_3000.jpg",
       "caption": "Looking northbound along IH 35E",
       "imageDate": "7-Sept-2020"
+    },
+    {
+      "file": "20260808_10-DFW_194-1150.webp",
+      "highResolution": "20260808_10-DFW_194-3000.webp",
+      "caption": "Looking southbound along IH 35E at SH 121 (Sam Rayburn Tollway)",
+      "imageDate": "8-Aug-2026"
+    },
+    {
+      "file": "20260808_10-DFW_200-1150.webp",
+      "highResolution": "20260808_10-DFW_200-3000.webp",
+      "caption": "Looking southbound along IH 35E at SH 121 (Sam Rayburn Tollway)",
+      "imageDate": "8-Aug-2026"
+    },
+    {
+      "file": "20260808_10-DFW_198-1150.webp",
+      "highResolution": "20260808_10-DFW_198-3000.webp",
+      "caption": "Looking southbound along IH 35E at SH 121 (Sam Rayburn Tollway)",
+      "imageDate": "8-Aug-2026"
+    },
+    {
+      "file": "20260808_10-DFW_187-1150.webp",
+      "highResolution": "20260808_10-DFW_187-3000.webp",
+      "caption": "Looking southbound (compass direction southeast) along the southbound frontage road at SH 121 (Sam Rayburn Tollway)",
+      "imageDate": "8-Aug-2026"
     }
   ]
 

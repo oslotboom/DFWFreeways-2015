@@ -127,8 +127,8 @@ namespace DFWFreeways.Models
                 case "bush_bush_i35e": info = new string[] { "Bush Turnpike at I-35E", "", "Bush Turnpike", "June 1, 2015", "" }; break;
                 case "i20_dallas_all": info = new string[] { "I-20 All Aerials", "", "I-20 Dallas", "January 29, 2018 (review)","I-20 Dallas", "I-20 Dallas" }; break;
                 case "i20_dallas_i20_i35e": info = new string[] { "I-20 at I-35E", "", "I-20 Dallas", "January 29, 2018 (review)", "I-20 at I-35E", "" }; break;
-                case "i20_dallas_i20_us67": info = new string[] { "I-20 at US 67", "", "I-20 Dallas", "January 29, 2018 (review)", "I-20 at US 67", "" }; break;
-                case "i20_dallas_i20_i45": info = new string[] { "I-20 at I-45", "", "I-20 Dallas", "January 29, 2018 (review)", "I-20 at I-45", "" }; break;
+                case "i20_dallas_i20_us67": info = new string[] { "I-20 at US 67", "Interchange was modified in 2025", "I-20 Dallas", "August 17, 2026 (update for new frontage roads)", "I-20 at US 67", "The frontage roads for Interstate 20 were brought through the interchange on elevated structures, with work completed in 2025." }; break;
+                case "i20_dallas_i20_i45": info = new string[] { "I-20 at I-45", "", "I-20 Dallas", "Aug 17, 2026 (review)", "I-20 at I-45", "A ramp at the interchange has been modified" }; break;
                 case "i20_dallas_i20_us175": info = new string[] { "I-20 at US 175", "", "I-20 Dallas", "January 29, 2018 (review)", "" }; break;
                 case "i20_dallas_i20_spur408": info = new string[] { "I-20 at Spur 408", "", "I-20 Dallas", "January 29, 2018 (review)", "" }; break;
                 case "i20_dallas_i20_i635": info = new string[] { "I-20 at I-635", "", "I-20 Dallas", "January 29, 2018 (review)", "" }; break;
@@ -136,7 +136,7 @@ namespace DFWFreeways.Models
                 case "i30_dallas_white_rock_lake": info = new string[] { "White Rock Lake", "", "I-30 Dallas", "January 29, 2018 (review)", "" }; break;
                 case "i30_dallas_downtown": info = new string[] { "I-30 at I-45 and the Downtown Canyon", "Canyon reconstruction began in 2026", "I-30 Dallas", "July 9, 2026 (update text)", "I-30 at I-45" }; break;
                 case "i30_dallas_us80": info = new string[] { "I-30 at US 80", "", "I-30 Dallas", "January 29, 2018 (review)", "" }; break;
-                case "i30_dallas_i635": info = new string[] { "Archive: Original Interchange I-30 at I-635", "Interchange replaced in 2024 by LBJ East Project", "I-30 Dallas", "September 15, 2022 (designate images as archives)", "" }; break;
+                case "i30_dallas_i635": info = new string[] { "Archive: Original Interchange I-30 at I-635", "Interchange replaced in 2026 by LBJ East Project", "I-30 Dallas", "September 15, 2022 (designate images as archives)", "" }; break;
                 case "i30_dallas_east_dallas": info = new string[] { "I-30 in East Dallas", "", "I-30 Dallas", "January 29, 2018 (review)", "" }; break;
                 case "i30_dallas_garland": info = new string[] { "I-30 in Garland", "", "I-30 Dallas", "Sept 23, 2022 (review)", "" }; break;
                 case "i45_all": info = new string[] { "All I-45 Aerials", "", "I-45", "June 1, 2015","I-45 Dallas" }; break;
@@ -151,7 +151,7 @@ namespace DFWFreeways.Models
                 case "i635_bush": info = new string[] { "I-635 at Bush Turnpike", "", "I-635", "June 1, 2015", "" }; break;
                 case "i635_i35e": info = new string[] { "I-635 at I-35E Stemmons Freeway", "Original Interchange, prior to the LBJ Express", "I-635", "June 1, 2015", "I-635 at I-35E" }; break;
                 case "i635_dnt": info = new string[] { "Archive: I-635 at the Dallas North Tollway", "Original interchange before the LBJ Express", "I-635", "June 1, 2015","" }; break;
-                case "i635_i30": info = new string[] { "Archive: Original Interchange I-635 at I-30", "Interchange replaced in 2024 by LBJ East Project", "I-635", "June 1, 2015","" }; break;
+                case "i635_i30": info = new string[] { "Archive: Original Interchange I-635 at I-30", "Interchange replaced in 2026 by LBJ East Project", "I-635", "June 1, 2015","" }; break;
                 case "i635_us80": info = new string[] { "Archive: Original Interchange I-635 at US 80", "Interchange demolished and reconstructed 2025-2028", "I-635", "June 26, 2025","" }; break;
                 case "i635_i20": info = new string[] { "I-635 at I-20", "", "I-635", "Sept 15, 2022","" }; break;
                 case "i635_preston": info = new string[] { "Archive: Original Freeway at Preston Road", "Before the LBJ Express", "I-635", "June 1, 2015","" }; break;
@@ -193,7 +193,7 @@ namespace DFWFreeways.Models
                 case "spur366_pre_klyde_warren": info = new string[] { "Before Klyde Warren Park", "", "Woodall Rodgers Freeway", "June 1, 2015 (create)","" }; break;
                 case "dnt_all": info = new string[] { "All Dallas North Tollway Aerials", "", "Dallas North Tollway", "June 1, 2015 (create)","Dallas North Tollway" }; break;
                 case "dnt_sh121": info = new string[] { "At SH 121 and the Legacy Area", "", "Dallas North Tollway", "June 1, 2015 (create)","Dallas North Tollway Legacy" }; break;
-                case "dnt_plano": info = new string[] { "In Plano", "Original configuration, before the 2018 widening", "Dallas North Tollway", "February 5, 2018 (update for 2018 widening)","Dallas North Tollway in Plano" }; break;
+                case "dnt_plano": info = new string[] { "In Plano", "Original configuration, before the 2018 widening", "Dallas North Tollway", "August 17, 2026 (update for building demolition)","Dallas North Tollway in Plano" }; break;
                 case "dnt_bush": info = new string[] { "At Bush Turnpike", "", "Dallas North Tollway", "Feb 5, 2018 (review, update text)","Dallas North Tollway at Bush Turnpike" }; break;
                 case "dnt_addison": info = new string[] { "In Addison", "", "Dallas North Tollway", "June 1, 2015 (review, add photo)","Dallas North Tollway in Addison" }; break;
                 case "dnt_i635": info = new string[] { "At I-635 LBJ Freeway", "Original Interchange, for Historical Reference", "Dallas North Tollway", "June 1, 2015 (review, add photo)","Dallas North Tollway at I-635" }; break;
@@ -264,7 +264,7 @@ namespace DFWFreeways.Models
                 case "i35e_south_i20": text = "2018 update: There have been no significant changes to these highways since the photos were taken in 2005."; break;
                 case "i635_i35e": text = "This interchange was substantially modified for the LBJ Express project, completed in 2015. All connections shown in these photos remain in use; the modifications added new connectors for the LBJ express. The images below show the original interchange, prior to the completion of LBJ express in 2015."; break;
                 case "i635_farmers_branch": text = "Interstate 635 was rebuilt and expanded for the LBJ Express Project, completed in 2015. This section of freeway now has frontage roads and tolled express lanes in a trench in the center of the freeway."; break;
-                case "i635_garland": text = "Interstate 635 was rebuilt and expanded for the LBJ East Project, completed in 2024. The modernized freeway has frontage roads and tolled express lanes in the center of the freeway."; break;
+                case "i635_garland": text = "Interstate 635 was rebuilt and expanded for the LBJ East Project, completed in 2026. The modernized freeway has frontage roads and tolled express lanes in the center of the freeway."; break;
                 case "i635_dnt": text = "The I-635 main lanes were widened for the LBJ Express Project, completed in 2015. The overall configuration of the interchange remained similar."; break;
                 case "i635_preston": text = "The I-635 main lanes were widened and managed lanes were added for the LBJ Express Project, completed in 2015."; break;
                 case "i635_i20": text = "This interchange has not changed since the photos were taken in 2005."; break;
@@ -295,7 +295,7 @@ namespace DFWFreeways.Models
                 case "loop12_davis": text = "2018 status: there have been no changes to the highways since these photos were taken in 2011."; break;
                 case "loop12_i30": text = "Since these photos were taken, the Interstate 30 bridge over Loop 12 was rebuilt and widened, and the Loop 12 main lanes south of I-30 were widened."; break;
                 case "i30_dallas_downtown": text = "In February 2005 TxDOT awarded an $889 million contract to reconstruct and widen I-30 between I-45 and I-30, known as the \"Canyon\". Demolition of bridges began in January 2026.<br /><br />The interchange at I-45 will not be affected by the Canyon project. However, long-term plans include the replacement of the I-45 interchange in conjunction with the reconstruction of I-345 on the east side of downtown to lower the freeway below ground level. The earliest the I-345 work could begin is the 2030s."; break;
-                case "i30_dallas_i635": text = "This interchange, opened in 1970, was the first modern-design four-level interchange in North Texas. It featured the distinctive central \"double T\" pylon. It was demolished in 2022 for the LBJ East project, with the new interchange opening in 2024."; break;
+                case "i30_dallas_i635": text = "This interchange, opened in 1970, was the first modern-design four-level interchange in North Texas. It featured the distinctive central \"double T\" pylon. It was demolished in 2022 for the LBJ East project, with the new interchange fully completed in 2026."; break;
                 case "i30_landry_loop12": text= "Since these photos were taken, the Interstate 30 bridge over Loop 12 was rebuilt and widened, and the Loop 12 main lanes south of I-30 were widened."; break;
                 case "i30_landry_sh360": text = "Most of these photos are now obsolete due to construction of the 4-level interchange at SH 360, which was underway in 2016 and was completed in December 2023."; break;
                 case "i30_landry_trinity": text = "Construction began on the new bridges in 2014, and the bridges were completed in 2017. The new bridge features two pedestrian bridges with long-span signature arches."; break;

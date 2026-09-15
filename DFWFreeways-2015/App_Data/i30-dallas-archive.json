@@ -5,10 +5,10 @@
     {
       "title": "Archive Photos",
         "urlParentText": "I-30 Dallas",
-        "lastUpdated": "September 22, 2022 (create)"
+        "lastUpdated": "Aug 15, 2026 (add photos); Sept 22, 2022 (create)"
     },
     "map": "",
-    "text": "The photo archive includes photos which have become obsolete due to construction or other changes. These photos show I-30 before upgrades to current conditions.",
+    "text": "The photo archive includes photos which are obsolete due to construction or other changes. These photos show I-30 before upgrades to current conditions.",
   "images": [
     {
       "file": "30d_20071027_IMG_9440_at_i35_950.jpg",
@@ -61,7 +61,63 @@
         "status": "Obsolete",
         "note": "The original interchange shown in this photo was demolished in 2022 for the LBJ East project. See the LBJ East construction page for photos of demolition in progress."
       }
+    },
+    {
+      "file": "IMG_4970 _30_zion_950_20070415.jpg",
+      "highResolution": "IMG_4970 _30_zion_2048_20070415.jpg",
+      "caption": "Looking west from the Zion Road overpass",
+      "imageDate": "15-April-2007",
+      "imageStatus": {
+        "statusDate": "2025",
+        "status": "Modified",
+        "note": "In 2011 a lane was added in each direction and the westbound entrance ramp ahead was removed."
+      }
+    },
+    {
+      "file": "IMG_4949_30_hubbard_crossing_950_20070415.jpg",
+      "highResolution": "IMG_4949_30_hubbard_crossing_2048_20070415.jpg",
+      "caption": "Looking west from Horizon Street, with lake Ray Hubbard ahead",
+      "imageDate": "15-April-2007",
+      "imageStatus": {
+        "statusDate": "2025",
+        "status": "Substantially modified",
+        "note": "Main lanes were widened to 4 in each direction and frontage roads on new bridges were added. Work on this section began in March 2023 with completion scheduled for January 2027."
+      }
+    },
+    {
+      "file": "IMG_4960_30_at_dalrock_950_20070415.jpg",
+      "highResolution": "IMG_4960_30_at_dalrock_2048_20070415.jpg",
+      "caption": "Looking west from the DalRock road overpass, which is on a peninsula in Lake Ray Hubbard.",
+      "imageDate": "15-April-2007",
+      "imageStatus": {
+        "statusDate": "2025",
+        "status": "Substantially modified",
+        "note": "Main lanes were widened to 4 in each direction and frontage roads on new bridges were added. A new direct connection ramp from eastbound I-30 to northbound Dalrock was built. Work on this section began in July 2021 with completion in 2025."
+      }
+    },
+    {
+      "file": "IMG_4964_30_at_bass_pro_950_20070415.jpg",
+      "highResolution": "IMG_4964_30_at_bass_pro_2048_20070415.jpg",
+      "caption": "At Bass Pro Road, looking west.",
+      "imageDate": "15-April-2007",
+      "imageStatus": {
+        "statusDate": "2015",
+        "status": "Substantially modified",
+        "note": "The interchange for the Bush Turnpike was built in the area ahead, opening in 2011. The I-30 main lanes remain about the same."
+      }
+
+    },
+    {
+      "file": "IMG_4985_30_at_gus_thomasson_950_20070415.jpg",
+      "caption": "Looking west at Gus Thomasson (west of Interstate 635)",
+      "imageDate": "15-April-2007",
+      "imageStatus": {
+        "statusDate": "2016",
+        "status": "Obsolete",
+        "note": "This interchange was rebuilt during the LBJ east project. Gus Thomasson previously went over I-30. After construction, I-30 went over Gus Thomasson. Work was substantially complete in 2025."
+      }
     }
+
 
   ]
 

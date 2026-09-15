@@ -167,6 +167,7 @@ namespace DFWFreeways.Models
                     new Link("US 75", "Central Expressway","us75"),
                     new Link("US 80", "","us80"),
                     new Link("US 175", "CF Hawn, SM Wright Freeways","us175"),
+                    new Link("US 380", "Collin County","us380"),
                     new Link("SH 114", "Carpenter Freeway","sh114"),
                     new Link("SH 183", "Airport, Carpenter Freeways","sh183"),
                     new Link("Bush Turnpike", "SH 190 and SH 161","bush"),

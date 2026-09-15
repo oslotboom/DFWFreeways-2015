@@ -252,9 +252,13 @@
     <Content Include="App_Data\i30-dallas-construction-horseshoe.json" />
     <Content Include="App_Data\i30-landry-archive-driving.json" />
     <Content Include="App_Data\i30-dallas-construction-canyon.json" />
+    <Content Include="App_Data\i30-fort-worth-roadside-ridgmar.json" />
+    <Content Include="App_Data\i30-fort-worth-construction-walsh-ranch.json" />
+    <Content Include="App_Data\i20-west-construction-southeast-connector.json" />
     <None Include="App_Data\i30-landry-archive-roadside.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <Content Include="App_Data\i35e-north-construction-denton.json" />
     <None Include="App_Data\i635-driving-20250311.json" />
     <Content Include="App_Data\i635-driving.json" />
     <Content Include="App_Data\dnt-historical-prestonwood-town-center.json" />
@@ -274,6 +278,9 @@
     <Content Include="App_Data\i820-archive-roadside-east.json" />
     <Content Include="App_Data\i820-roadside-northeast.json" />
     <Content Include="App_Data\i820-driving-northeast.json" />
+    <Content Include="App_Data\i635-roadside-lbj-east.json" />
+    <Content Include="App_Data\i635-driving-lbj-east.json" />
+    <Content Include="App_Data\i820-construction-southeast-connector.json" />
     <None Include="App_Data\sh121-construction-2004.json" />
     <None Include="App_Data\sh121-construction-2004-frontage-roads.json" />
     <Content Include="App_Data\sh170-construction.json" />
@@ -430,6 +437,10 @@
     <Content Include="App_Data\us175-roadside-wright-parkway.json" />
     <Content Include="App_Data\us80-construction-mesquite.json" />
     <Content Include="App_Data\us80-archive.json" />
+    <Content Include="App_Data\us75-archive-driving.json" />
+    <Content Include="App_Data\us75-archive-roadside.json" />
+    <Content Include="App_Data\us380.json" />
+    <Content Include="App_Data\us380-roadside-alignment-mckinney.json" />
     <None Include="compilerconfig.json" />
     <None Include="compilerconfig.json.defaults">
       <DependentUpon>compilerconfig.json</DependentUpon>

@@ -4,7 +4,7 @@
     {
         "title": "I-20 Fort Worth and Arlington",
         "subTitle": "",
-        "lastUpdated": "June 27, 2025 (review and update)"
+        "lastUpdated": "August 16, 2026 (add construction photos)"
     },
     "Title": "I-20 Reagan Memorial Parkway",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -33,6 +33,10 @@
         {
             "FeatureType": "Construction",
           "FeatureProperties": [
+            {
+              "AnchorText": "2026 Southeast Connector",
+              "AnchorUrl": "construction-southeast-connector"
+            },
             {
               "AnchorText": "Ranger Hill",
               "AnchorUrl": "construction-ranger-hill"

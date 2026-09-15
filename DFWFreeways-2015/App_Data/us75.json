@@ -4,12 +4,12 @@
     {
         "title": "US 75",
         "subTitle": "Central Expressway",
-        "lastUpdated": "June 26, 2026 (review)"
+        "lastUpdated": "August 12, 2026 (add new photos)"
     },
     "Title": "US 75 Central Expressway",
     "Map": "",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
-    "Text": "Central Expressway is the leading freeway in North Texas in terms of the access it provides and the traffic count it serves.",
+    "Text": "Central Expressway is the leading freeway in North Texas in terms of the access it provides and the traffic count it serves.<br /><br />The decorative arches at the DART Silver Line bridge were structurally completed on July 31, 2026.",
     "Features":
     [
         {
@@ -28,7 +28,7 @@
             [
                 { "AnchorText": "Dallas", "AnchorUrl": "driving-dallas" },
                 { "AnchorText": "High Five Interchange", "AnchorUrl": "driving-high-five" },
-                { "AnchorText": "Richardson and Plano", "AnchorUrl": "driving-richardson-plano" },
+                { "AnchorText": "I-635 to SH 121, August 2026", "AnchorUrl": "driving-richardson-plano" },
                 { "AnchorText": "McKinney, March 2016", "AnchorUrl": "driving-mckinney" }
             ]
         },
@@ -88,6 +88,14 @@
             {
               "AnchorText": "Original Freeway, downtown",
               "AnchorUrl": "roadside-downtown"
+            },
+            {
+              "AnchorText": "2007 driving views Richardson Plano",
+              "AnchorUrl": "archive-driving"
+            },
+            {
+              "AnchorText": "2007 roadside views Richardson Plano",
+              "AnchorUrl": "archive-roadside"
             }
           ]
         },

@@ -4,7 +4,7 @@
     {
         "title": "I-30 Fort Worth",
         "subTitle": "",
-        "lastUpdated": "June 27, 2025 (review and update)"
+        "lastUpdated": "August 13, 2026 (add Ridgmar Mall, construction photos)"
     },
     "Title": "I-30 Fort Worth",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -12,8 +12,17 @@
     "Features":
     [
         {
-            "FeatureType": "Roadside",
-            "FeatureProperties": [ { "AnchorText": "Roadside views", "AnchorUrl": "roadside" } ]
+          "FeatureType": "Roadside",
+          "FeatureProperties": [
+            {
+              "AnchorText": "Roadside views",
+              "AnchorUrl": "roadside"
+            },
+            {
+              "AnchorText": "Ridgmar Mall",
+              "AnchorUrl": "roadside-ridgmar"
+            }
+          ]
         },
         {
             "FeatureType": "DriversViews",
@@ -34,7 +43,13 @@
         },
         {
             "FeatureType": "Construction",
-            "FeatureProperties": [ ]
+          "FeatureProperties": [
+            {
+              "AnchorText": "2026, between I-820 and I-20",
+              "AnchorUrl": "construction-walsh-ranch"
+            } 
+          
+          ]
         },
         {
             "FeatureType": "Aerial",

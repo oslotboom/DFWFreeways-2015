@@ -2,53 +2,13 @@
   "folderPath": "roadside/",
   "title": "I-30 photos Dallas",
   "pageHeader": {
-    "title": "Roadside Views between Rockwall and East Dallas",
+    "title": "Roadside Views between Garland and East Dallas",
     "urlParentText": "I-30 Dallas",
-    "lastUpdated": "June 25, 2025 (update captions)"
+    "lastUpdated": "Aug 15, 2026 (add new photos, remove obsolete photos)"
   },
-  "map": "30e.gif",
-  "text": "The LBJ East project began in 2021, and in 2022 the original interchange at I-635 LBJ Freeway was demolished. The original interchange opened in 1970 was the first modern-design four-level interchange in North Texas, and was the first of six interchanges which used the distinctive \"double T\" central pylon. The I-30 archive photos include a view of the original interchange. <br /><br /> Projects to widen the freeway and add frontage roads on new bridges at the Lake Ray Hubbard crossing started in July 2021 (Bass Pro Dr. to Dalrock Rd.) and March 2023 (Dalrock Rd. to SH 205). The section from Dalrock to SH 205 is scheduled for completion in January 2027. <br /><br />TxDOT has long-term plans to rebuild and expand the freeway from I-635 to I-45. This work will occur in the 2030s or 2040s. <br /><br /> As of June 2025 these photos remain accurate except as noted.",
+  "map": "",
+  "text": "The LBJ East project began in 2021, and in 2022 the original interchange at I-635 LBJ Freeway was demolished. The original interchange opened in 1970 was the first modern-design four-level interchange in North Texas, and was the first of six interchanges which used the distinctive \"double T\" central pylon. The I-30 archive photos include views of the original interchange. The new interchange was fully complete in 2026.<br /><br />Projects to widen the freeway and add frontage roads on new bridges at the Lake Ray Hubbard crossing started in July 2021 (Bass Pro Dr. to Dalrock Rd.) and March 2023 (Dalrock Rd. to SH 205). The section from Dalrock to SH 205 is scheduled for completion in January 2027. <br /><br />TxDOT has long-term plans to rebuild and expand the freeway from I-45 to I-635, with construction expected in the late 2030s or 2040s.",
   "images": [
-    {
-      "file": "IMG_4949_30_hubbard_crossing_950_20070415.jpg",
-      "highResolution": "IMG_4949_30_hubbard_crossing_2048_20070415.jpg",
-      "caption": "Looking west from Horizon Street, with lake Ray Hubbard ahead",
-      "imageDate": "15-April-2007",
-      "imageStatus": {
-        "statusDate": "2025",
-        "status": "Substantially modified",
-        "note": "Main lanes were widened to 4 in each direction and frontage roads on new bridges were added. Work on this section began in March 2023 with completion scheduled for January 2027."
-      }
-    },
-    {
-      "file": "IMG_4960_30_at_dalrock_950_20070415.jpg",
-      "highResolution": "IMG_4960_30_at_dalrock_2048_20070415.jpg",
-      "caption": "Looking west from the DalRock road overpass, which is on a peninsula in Lake Ray Hubbard.",
-      "imageDate": "15-April-2007",
-      "imageStatus": {
-        "statusDate": "2025",
-        "status": "Substantially modified",
-        "note": "Main lanes were widened to 4 in each direction and frontage roads on new bridges were added. A new direct connection ramp from eastbound I-30 to northbound Dalrock was built. Work on this section began in July 2021 with completion in 2025."
-      }
-    },
-    {
-      "file": "IMG_4964_30_at_bass_pro_950_20070415.jpg",
-      "highResolution": "IMG_4964_30_at_bass_pro_2048_20070415.jpg",
-      "caption": "At Bass Pro Road, looking west.",
-      "imageDate": "15-April-2007",
-      "imageStatus": {
-        "statusDate": "2015",
-        "status": "Substantially modified",
-        "note": "The interchange for the Bush Turnpike was built in the area ahead, opening in 2011. The I-30 main lanes remain about the same."
-      }
-
-    },
-    {
-      "file": "IMG_4970 _30_zion_950_20070415.jpg",
-      "highResolution": "IMG_4970 _30_zion_2048_20070415.jpg",
-      "caption": "Looking west from the Zion Road overpass",
-      "imageDate": "15-April-2007"
-    },
     {
       "file": "IMG_4974_30_rose_hill_950_20070415.jpg",
       "highResolution": "IMG_4974_30_rose_hill_2048_20070415.jpg",
@@ -62,14 +22,22 @@
       "imageDate": "15-April-2007"
     },
     {
-      "file": "IMG_4985_30_at_gus_thomasson_950_20070415.jpg",
-      "caption": "Looking west at Gus Thomasson (west of Interstate 635)",
-      "imageDate": "15-April-2007",
-      "imageStatus": {
-        "statusDate": "2015",
-        "status": "Obsolete",
-        "note": "This interchange was rebuilt during the LBJ east project. Gus Thomasson previously went over I-30. After construction, I-30 went over Gus Thomasson. Work was substantially complete in 2025."
-      }
+      "file": "20260808_10-DFW_322-1200.webp",
+      "highResolution": "20260808_10-DFW_322-3000.webp",
+      "caption": "Looking east from the N. Galloway Avenue overpass. This area was upgraded during the LBJ East project, completed in 2026.",
+      "imageDate": "8-Aug-2026"
+    },
+    {
+      "file": "20260808_10-DFW_314-1200.webp",
+      "highResolution": "20260808_10-DFW_314-3400.webp",
+      "caption": "Looking west from the N. Galloway Avenue overpass along the westbound I-30 main lanes. The new interchange was completed in 2026.",
+      "imageDate": "8-Aug-2026"
+    },
+    {
+      "file": "20260808_10-DFW_311-1200.webp",
+      "highResolution": "20260808_10-DFW_311-3400.webp",
+      "caption": "Looking west from the N. Galloway Avenue overpass, showing the connection ramps from I-635. The new interchange was completed in 2026.",
+      "imageDate": "8-Aug-2026"
     },
     {
       "file": "IMG_5000_30_at_big_town_950_20070415.jpg",

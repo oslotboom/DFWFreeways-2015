@@ -1,0 +1,56 @@
+﻿{
+
+  "pageHeader": {
+    "title": "US 380",
+    "lastUpdated": "August 17, 2026 (creates)"
+  },
+  "Title": "US 380 Collin County",
+  "Photo": {
+    "File": "",
+    "Caption": "This is the caption",
+    "Date": "August 17, 2026 (create)"
+  },
+  "Text": "After years of study and controversy, the alignment of US 380 in Collin County was finalized with the Record of Decision and Final Environmental Impact Statement approved in September 2023. Construction is expected to start in the first half of the 2030s.",
+  "Features": [
+    {
+      "FeatureType": "Roadside",
+      "FeatureProperties": [
+        {
+          "AnchorText": "McKinney Bypass Alignment",
+          "AnchorUrl": "roadside-alignment-mckinney"
+        }
+      ]
+    },
+    {
+      "FeatureType": "DriversViews",
+      "FeatureProperties": [
+      ]
+    },
+    {
+      "FeatureType": "Book",
+      "FeatureProperties": [
+      ]
+    },
+    {
+      "FeatureType": "Construction",
+      "FeatureProperties": [
+      ]
+    },
+    {
+      "FeatureType": "Aerial",
+      "FeatureProperties": [
+
+      ]
+    },
+    {
+      "FeatureType": "Historical",
+      "FeatureProperties": [
+
+      ]
+    },
+    {
+      "FeatureType": "Video",
+      "FeatureProperties": []
+    }
+  ]
+}

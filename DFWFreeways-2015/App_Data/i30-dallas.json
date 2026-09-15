@@ -3,7 +3,7 @@
     "pageHeader":
     {
         "title": "Interstate 30 in Dallas",
-        "lastUpdated": "March 3, 2026"
+        "lastUpdated": "August 15, 2026"
     },
     "Title": "Interstate 30 Dallas",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -14,7 +14,7 @@
             "FeatureType": "Roadside",
           "FeatureProperties": [
             {
-              "AnchorText": "Lake Ray Hubbard to Dallas",
+              "AnchorText": "Garland to Dallas",
               "AnchorUrl": "roadside-dallas"
             },
             {

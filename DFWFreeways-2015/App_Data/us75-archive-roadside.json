@@ -1,0 +1,69 @@
+﻿{
+  "folderPath": "",
+  "title": "US 75 achive photos Richardson Plano",
+  "pageHeader": {
+    "title": "Archive Roadside Views",
+    "subTitle": "Richardson and Plano",
+    "urlParentText": "US 75",
+    "lastUpdated": "August 12, 2026 (create)"
+  },
+  "map": "",
+  "text": "These 2007 photos show construction to convert the interior shoulder into a pylon-separated HOV lane. In summer 2006 the HOV lane was converted into a general traffic lane with a restriction for HOV vehicles only during weekday peak traffic periods.",
+  "images": [
+    {
+      "file": "75n_20070310_IMG_4349_roadside_midpark_950.jpg",
+      "caption": "Looking northeast at Midpark road. The main Texas Instruments campus is on the right. The original HOV lane was under construction at the time of this photo.",
+      "imageDate": "10-March-2007",
+      "imageStatus": {
+        "statusDate": "2026",
+        "status": "Modified",
+        "note": "In 2026 the interior shoulder area was converted to a general-purpose traffic lane with restrictions for HOV during weekday peak periods."
+      }
+    },
+    {
+      "file": "75n_20070310_IMG_4347_roadside_collins_950.jpg",
+      "highResolution": "75n_20070310_IMG_4347_roadside_collins_3072.jpg",
+      "caption": "Looking north from the Collins Road overpass. Ahead is the area known as the Telecom Corridor. The high tech bust in 2001-2002 decimated the telecom industry and it has never fully recovered. There is still a telecom presence in the area, but most of the vacant office space has been filled by non-telecom tenants, especially insurance firms. In 2015 I rarely hear the term Telecom Corridor anymore. ",
+      "imageDate": "10-March-2007",
+      "imageStatus": {
+        "statusDate": "2026",
+        "status": "Modified",
+        "note": "The interior shoulder was converted into a pylon-separated HOV lane by 2008. In 2026 the HOV lane was converted to a general-purpose traffic lane with restrictions for HOV during weekday peak periods."
+      }
+    },
+    {
+      "file": "75n_20070310_IMG_4346_gatalyn_950.jpg",
+      "caption": "Looking north from the Gatalyn overpass. This overpass was added after the main reconstruction in the early 1990s as somewhat of an afterthought, and its nonstandard design is the result of trying to retrofit it into the limited space.",
+      "imageDate": "10-March-2007",
+      "imageStatus": {
+        "statusDate": "2026",
+        "status": "Modified",
+        "note": "The interior shoulder was converted into a pylon-separated HOV lane by 2008. In 2026 the HOV lane was converted to a general-purpose traffic lane with restrictions for HOV during weekday peak periods."
+      }
+    },
+    {
+      "file": "75n_20070310_IMG_4343_roadside_park_950.jpg",
+      "caption": "Looking north from the Park overpass. Construction to reconfigure entrance and exit ramps was in progress at the time of the photo in March 2007. ",
+      "imageDate": "10-March-2007",
+      "imageStatus": {
+        "statusDate": "2026",
+        "status": "Modified",
+        "note": "Pylon-separated HOV lanes were added in 2008 in the location of the original interior shoulder. In 2026 the HOV lane was converted to a general-purpose traffic lane with restrictions for HOV during weekday peak periods."
+      }
+    },
+    {
+      "file": "75n_20070310_IMG_4340_roadside_parker_950.jpg",
+      "highResolution": "75n_20070310_IMG_4340_roadside_parker_3072.jpg",
+      "caption": "Looking north at Parker",
+      "imageDate": "10-March-2007",
+      "imageStatus": {
+        "statusDate": "2026",
+        "status": "Modified",
+        "note": "Pylon-separated HOV lanes were added in 2008 in the location of the original interior shoulder. In 2026 the HOV lane was converted to a general-purpose traffic lane with restrictions for HOV during weekday peak periods."
+      }
+    }
+
+
+  ]
+
+}

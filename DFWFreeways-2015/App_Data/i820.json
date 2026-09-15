@@ -4,7 +4,7 @@
     {
         "title": "I-820",
         "subTitle":  "Includes the Jim Wright Freeway",
-        "lastUpdated": "March 5, 2026 (add new photos for northeast section)"
+        "lastUpdated": "August 16, 2026 (add new construction photos)"
     },
     "Title": "Loop 820 Fort Worth",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
@@ -57,7 +57,13 @@
     },
     {
       "FeatureType": "Construction",
-      "FeatureProperties": []
+      "FeatureProperties": [
+        {
+          "AnchorText": "2026 Southeast Connector",
+          "AnchorUrl": "construction-southeast-connector"
+        }
+
+      ]
     },
     {
       "FeatureType": "Aerial",
