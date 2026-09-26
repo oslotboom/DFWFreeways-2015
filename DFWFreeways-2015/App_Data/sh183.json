@@ -4,11 +4,11 @@
     {
         "title": "SH 183",
         "subTitle": "Carpenter Freeway and Airport Freeway",
-        "lastUpdated": "May 22, 2024 (add Irving Interchange photos)"
+        "lastUpdated": "Sept. 26, 2026"
     },
     "Title": "SH 183 Airport Freeway",
-    "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
-    "Text": "",
+    "Photo": "",
+    "Text": "Expansion of the tolled managed lanes between SH 121 and I-820, from four to six lanes, was opened to traffic on September 24, 2026.",
   "Features": [
     {
       "FeatureType": "Roadside",
@@ -29,10 +29,6 @@
         {
           "AnchorText": "Irving",
           "AnchorUrl": "driving-irving"
-        },
-        {
-          "AnchorText": "North Tarrant Express",
-          "AnchorUrl": "driving-nte"
         }
       ]
     },
@@ -97,6 +93,10 @@
         {
           "AnchorText": "Archive, Roadside in Irving with Texas Stadium",
           "AnchorUrl": "archive-roadside"
+        },
+        {
+          "AnchorText": "Express lanes in Tarrant County, before widening",
+          "AnchorUrl": "archive-driving-nte"
         },
         {
           "AnchorText": "Historical Images",

@@ -349,7 +349,7 @@
     <Content Include="App_Data\sh121-driving-frisco.json" />
     <Content Include="App_Data\sh170.json" />
     <None Include="App_Data\sh183-archive-driving-dallas.json" />
-    <Content Include="App_Data\sh183-driving-nte.json" />
+    <Content Include="App_Data\sh183-archive-driving-nte.json" />
     <Content Include="App_Data\sh360.json" />
     <Content Include="App_Data\sh360-roadside.json" />
     <Content Include="App_Data\sh199.json" />

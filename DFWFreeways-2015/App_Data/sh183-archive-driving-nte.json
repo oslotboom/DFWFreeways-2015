@@ -2,13 +2,13 @@
   "folderPath": "",
   "title": "North Tarrant Express",
   "pageHeader": {
-    "title": "Driving Photos",
-    "subTitle": "Westbound on Managed Lanes",
+    "title": "Archive: Driving Photos",
+    "subTitle": "Westbound on managed lanes before expansion",
     "urlParentText": "SH 183",
-    "lastUpdated": "June 1, 2015 (create); June 25, 2025"
+    "lastUpdated": "September 26, 2026; June 1, 2015 (create)"
   },
   "map": "",
-  "text": "These views are westbound from the SH 183/SH 121 interchange to Loop 820. The North Tarrant Express tolled managed lanes opened in 2014. The nontolled main lanes were rebuilt and improved as part of the project, although only new auxiliary lanes were added to the main lanes.<br /> <br />In 2026 a third managed lane was added in each direction, so most of these photos are no longer accurate. However, there was no change to the configuration of the freeway. The interior median of the managed lanes was paved to add the extra lanes.",
+  "text": "These views are westbound from the SH 183/SH 121 interchange to Loop 820. The North Tarrant Express tolled managed lanes opened in 2014. The nontolled main lanes were rebuilt and improved as part of the project, although only new auxiliary lanes were added to the main lanes.<br /> <br />On September 24, 2026, expansion of the tolled managed lanes to six lanes (three in each direction) was opened to traffic. The overall improvement project, which also included adding two non-toll lanes to Interstate 820 north, cost $414 million. All these photos, except the last two on the connection ramp, are no longer accurate. The interior median of the managed lanes was paved to add the new lanes. There was no change to the overall configuration of the freeway.",
   "images": [
     {
       "file": "20141109_6477-1000.jpg",
@@ -17,7 +17,7 @@
       "imageStatus": {
         "statusDate": "2025",
         "status": "Modified",
-        "note": "A third managed lane was added in each direction in 2026."
+        "note": "A third managed lane in each direction was opened on Sept. 24, 2026."
       }
 
     },
@@ -28,7 +28,7 @@
       "imageStatus": {
         "statusDate": "2025",
         "status": "Modified",
-        "note": "A third managed lane was added in each direction in 2026."
+        "note": "A third managed lane in each direction was opened on Sept. 24, 2026."
       }
     },
     {
@@ -38,7 +38,7 @@
       "imageStatus": {
         "statusDate": "2025",
         "status": "Modified",
-        "note": "A third managed lane was added in each direction in 2026."
+        "note": "A third managed lane in each direction was opened on Sept. 24, 2026."
       }
     },
     {
@@ -48,7 +48,7 @@
       "imageStatus": {
         "statusDate": "2025",
         "status": "Modified",
-        "note": "A third managed lane was added in each direction in 2026."
+        "note": "A third managed lane in each direction was opened on Sept. 24, 2026."
       }
     },
     {
@@ -58,7 +58,7 @@
       "imageStatus": {
         "statusDate": "2025",
         "status": "Modified",
-        "note": "A third managed lane was added in each direction in 2026."
+        "note": "A third managed lane in each direction was opened on Sept. 24, 2026."
       }
     },
     {
@@ -68,7 +68,7 @@
       "imageStatus": {
         "statusDate": "2025",
         "status": "Modified",
-        "note": "A third managed lane was added in each direction in 2026."
+        "note": "A third managed lane in each direction was opened on Sept. 24, 2026."
       }
     },
     {
@@ -78,7 +78,7 @@
       "imageStatus": {
         "statusDate": "2025",
         "status": "Modified",
-        "note": "A third managed lane was added in each direction in 2026."
+        "note": "A third managed lane in each direction was opened on Sept. 24, 2026."
       }
     },
     {
@@ -88,7 +88,7 @@
       "imageStatus": {
         "statusDate": "2025",
         "status": "Modified",
-        "note": "A third managed lane was added in each direction in 2026."
+        "note": "A third managed lane in each direction was opened on Sept. 24, 2026."
       }
     },
     {
@@ -98,7 +98,7 @@
       "imageStatus": {
         "statusDate": "2025",
         "status": "Modified",
-        "note": "A third managed lane was added in each direction in 2026."
+        "note": "A third managed lane in each direction was opened on Sept. 24, 2026."
       }
     },
     {
@@ -108,7 +108,7 @@
       "imageStatus": {
         "statusDate": "2025",
         "status": "Modified",
-        "note": "A third managed lane was added in each direction in 2026."
+        "note": "A third managed lane in each direction was opened on Sept. 24, 2026."
       }
     },
     {
@@ -118,13 +118,19 @@
       "imageStatus": {
         "statusDate": "2025",
         "status": "Modified",
-        "note": "A third managed lane was added in each direction in 2026."
+        "note": "A third managed lane in each direction was opened on Sept. 24, 2026."
       }
     },
     {
       "file": "20141109_6496-800.jpg",
       "caption": "The toll is displayed on the electronic message board.",
-      "imageDate": "November 9, 2014"
+      "imageDate": "November 9, 2014",
+      "note": "A third managed lane in each direction was opened on Sept. 24, 2026.",
+      "imageStatus": {
+        "statusDate": "2025",
+        "status": "Modified",
+        "note": "A third managed lane in each direction was opened on Sept. 24, 2026."
+      }
     },
     {
       "file": "20141109_6499-1100.jpg",

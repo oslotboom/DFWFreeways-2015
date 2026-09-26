@@ -1,15 +1,14 @@
 ﻿{
     "folderPath": "",
     "title": "I-820 photos",
-    "pageHeader":
-    {
-        "title": "I-820 North Archive Driving Views",
-        "subTitle": "Original freeway prior to the North Tarrant Express",
-        "urlParentText": "I-820",
-        "lastUpdated": "Created December 19, 2007. Updated June 1, 2015. Moved to archive status June 25, 2025."
-    },
+  "pageHeader": {
+    "title": "I-820 North Archive Driving Views",
+    "subTitle": "Original freeway prior to the North Tarrant Express",
+    "urlParentText": "I-820",
+    "lastUpdated": "Created December 19, 2007. Moved to archive status June 25, 2025. Updated Sept 26, 2026."
+  },
     "map": "820_driving_north_700.gif",
-    "text": "These views show the original I-820 North before construction of the North Tarrant Express toll lanes, which opened in 2014.",
+    "text": "These views show the original I-820 North before construction of the North Tarrant Express toll lanes, which opened in 2014. The main lanes on this section were expanded from four (two each way) to six, opening to traffic on September 24, 2026.",
     "images":
     [
         {

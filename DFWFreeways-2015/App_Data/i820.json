@@ -4,11 +4,11 @@
     {
         "title": "I-820",
         "subTitle":  "Includes the Jim Wright Freeway",
-        "lastUpdated": "August 16, 2026 (add new construction photos)"
+        "lastUpdated": "Sept 26, 2026 (update text); Aug 16, 2026 (add new construction photos)"
     },
     "Title": "Loop 820 Fort Worth",
     "Photo": { "File": "filename.jpg", "Caption": "This is the caption", "Date": "12-January-2015" },
-    "Text": "",
+    "Text": "Expansion of the main lanes from four (two each way) to six in north Fort Worth between I-35W and the northeast corner was opened to traffic on September 24, 2026.",
   "Features": [
     {
       "FeatureType": "Roadside",
